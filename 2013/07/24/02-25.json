@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Tue, 23 Jul 2013 22:10:00 EST", 
+  "link": "http://cn.engadget.com/2013/07/23/arduino-hackaphone/", 
+  "description": "<p>分类: <a href=\"http://cn.engadget.com/category/smartphones/\" rel=\"tag\">智能手机</a></p><div style=\"text-align: center;\"><a href=\"http://cn.engadget.com/2013/07/22/arduino-hackaphone/\"><img src=\"http://www.blogcdn.com/cn.engadget.com/media/2013/07/arduino-cellphone-lead.jpg\" style=\"border-width: 0px; border-style: solid; margin: 4px; height: 400px; width: 600px;\" /></a></div>\n<br />\n \n<div>在刚看到这东西时，以为是什么监视器，想说哪家出了新产品怎么这么复古。但仔细观察了下，这机器上有一块触控屏幕，配着拨号区，搭上他的天线，喔，原来是只手机。其实这是一个靠着开源的界面控制器 <a href=\"http://www.engadget.com/2012/09/10/ben-heck-fashions-a-pocket-computer-with-an-xbox-chatpad-and-ard/\">Arduino </a>加上一些零件所组成，包含 TFT 触控屏幕、GSM 网络模块、锂电池，还有一个外壳。可以用来讲电话，传简讯或是当闹钟。而要做出这样的东西很困难吗？不会，只要你会接基本的电路跟把零件买好，很轻松就能拼出一只手机来。所以有天朋友问你用什么手机时，你可以告诉她说：嘿，我都是自己做的噢。想要知道更多关于 Arduino 的知识，可以到引用来源获得更多消息。<br />\n<br />\n经由：<a href=\"http://www.engadget.com/2013/07/22/arduino-hackaphone/\">Engadget</a><br />\n引用来源：<a href=\"http://hackaday.com/2013/07/20/arduino-cellphone/\">Hackaday</a></div><p><h6 style=\"clear: both; padding: 8px 0 0 0; height: 2px; font-size: 1px; border: 0; margin: 0; padding: 0;\"></h6><a href=\"http://cn.engadget.com/2013/07/23/arduino-hackaphone/\" rel=\"bookmark\" title=\"Permanent link to this entry\">此文章网址</a>&nbsp;|&nbsp;<a href=\"http://cn.engadget.com/forward/20674707/\" title=\"Send this entry to a friend via email\">转寄此文章</a>&nbsp;|&nbsp;<a href=\"http://cn.engadget.com/2013/07/23/arduino-hackaphone/#comments\" title=\"View reader comments on this entry\">回应</a><hr size=\"1\" />", 
+  "title": "Arduino hackaphone：我很丑，可是该有的我都有"
+ }
+]
