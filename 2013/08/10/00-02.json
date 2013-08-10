@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Fri, 09 Aug 2013 19:57:00 EST", 
+  "link": "http://cn.engadget.com/2013/08/09/sata-3-2-ratified/", 
+  "description": "<p>分类: <a href=\"http://cn.engadget.com/category/mediapcs/\" rel=\"tag\">媒体电脑</a></p><div style=\"text-align: center;\"><a href=\"http://cn.engadget.com/2013/08/09/sata-3-2-ratified/\"><img src=\"http://www.blogcdn.com/cn.engadget.com/media/2013/08/samsung-xp941-ssd.jpg\" style=\"margin: 4px;\" /></a></div>\n\n<div><br />\n当如 MacBook Air、索尼 VAIO Pro 这样的产品都开始采用 PCI Express 界面来突破储存瓶颈的时候，SATA-IO 可能就已经在默默酝酿着改变了。直到今天，他们终于端出了 SATA 3.2 标准。这个新标准最重大的改进就是引入了 SATA Express，在它的帮助下 SATA 和 PCIe 装置可以共存，传输速度将能达到最高 16Gbps（2GB / s）。除此之外 3.2 标准还将支持英特尔的 M.2 界面，这样一来拥有高速度的 SATA Express 产品就可以做得很小，超极本、平板等「身材苗条」的装置便能从中获益啦。<br />\n<br />\n<br />\n经由：<a href=\"http://www.engadget.com/2013/08/09/sata-3-2-ratified/\">Engadget</a><br />\n引用来源：<a href=\"https://www.sata-io.org/sata-express\" target=\"_blank\">SATA-IO</a></div><p><h6 style=\"clear: both; padding: 8px 0 0 0; height: 2px; font-size: 1px; border: 0; margin: 0; padding: 0;\"></h6><a href=\"http://cn.engadget.com/2013/08/09/sata-3-2-ratified/\" rel=\"bookmark\" title=\"Permanent link to this entry\">此文章网址</a>&nbsp;|&nbsp;<a href=\"http://cn.engadget.com/forward/20691508/\" title=\"Send this entry to a friend via email\">转寄此文章</a>&nbsp;|&nbsp;<a href=\"http://cn.engadget.com/2013/08/09/sata-3-2-ratified/#comments\" title=\"View reader comments on this entry\">回应</a><hr size=\"1\" />", 
+  "title": "SATA 3.2 标准正式亮相，旨在将硬盘变得更小、更快"
+ }
+]
