@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Sat, 17 Aug 2013 02:01:00 EST", 
+  "link": "http://cn.engadget.com/2013/08/17/google-cloud-storage/", 
+  "description": "<p>分类: <a href=\"http://cn.engadget.com/category/internet/\" rel=\"tag\">互联网络</a></p><a href=\"http://cn.engadget.com/2013/08/16/google-cloud-storage/\"><img src=\"http://www.blogcdn.com/cn.engadget.com/media/2013/08/google-cloud-storage.jpg\" style=\"margin: 16px 12px; float: left;\" /></a>Google 深知<a href=\"http://cn.engadget.com/2013/07/17/google-drive-file-encryption-/\">数据加密</a>的重要性，而这可能也就是他们决定为 Cloud Storage 改善加密功能的原因。从今天开始，所有用户传至 <a href=\"http://chinese.engadget.com/tag/googledrive\">Cloud Storage</a> 平台的数据都会先在服务器端完成加密，之后再继续上载。Google 保证此举不会对服务表现造成影响，而且在用户端也不需要进行特别的设定。除此之外，在上载者和其授权的用户需要使用已上载数据时，Cloud Storage 会自动为其解密，使用起来不会有什么麻烦。Google 接下来还会对现有的旧数据进行加密，持续时间大约要几个月。<br />\n<br />\n<br />\n<br />\n<br />\n<br />\n<br />\n<br />\n经由：<a href=\"http://www.engadget.com/2013/08/16/google-cloud-storage/\">Engadget</a><br />\n引用来源：<a href=\"http://googlecloudplatform.blogspot.co.uk/2013/08/google-cloud-storage-now-provides.html\" target=\"_blank\">Google Cloud Platform Blog</a><p><h6 style=\"clear: both; padding: 8px 0 0 0; height: 2px; font-size: 1px; border: 0; margin: 0; padding: 0;\"></h6><a href=\"http://cn.engadget.com/2013/08/17/google-cloud-storage/\" rel=\"bookmark\" title=\"Permanent link to this entry\">此文章网址</a>&nbsp;|&nbsp;<a href=\"http://cn.engadget.com/forward/20696757/\" title=\"Send this entry to a friend via email\">转寄此文章</a>&nbsp;|&nbsp;<a href=\"http://cn.engadget.com/2013/08/17/google-cloud-storage/#comments\" title=\"View reader comments on this entry\">回应</a><hr size=\"1\" />", 
+  "title": "Google Cloud Storage 平台开始提供服务器端加密功能"
+ }
+]
