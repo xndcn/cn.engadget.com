@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Sun, 18 Aug 2013 04:07:00 EST", 
+  "link": "http://cn.engadget.com/2013/08/18/microsoft-explains-why-outlook-went-down/", 
+  "description": "<p>分类: <a href=\"http://cn.engadget.com/category/internet/\" rel=\"tag\">互联网络</a></p><div style=\"text-align: center;\"><a href=\"cn.engadget.com/2013/08/18/microsoft-explains-why-outlook-went-down/\"><img src=\"http://www.blogcdn.com/cn.engadget.com/media/2013/08/outlook-back-up.jpg\" style=\"margin: 4px;\" /></a></div>\n\n<div><br />\n早前 <a href=\"http://cn.engadget.com/2013/08/14/outlook-outage/\">Outlook.com 的服务出了问题</a>，虽然当日已经受控了，不过他们要等到约三日之后的现在才正式宣布问题已经解决，并作出解释。他们指出问题是源自为 Exchange ActiveSync 而设的服务出错，由其所引致的大量重新连线动作使到伺服器超载。为了不让问题在当时继续出现，他们需要完全封锁有关服务才可以动工修复，所以要花了较多时间呢。最后，他们已经提升了伺服器的负载能力，并改善了应对同样问题的机制。希望 Microsoft 能在这次事件中汲取教训吧。<br />\n<br />\n<br />\n经由：<a href=\"http://www.engadget.com/2013/08/18/microsoft-explains-why-outlook-went-down/\">Engadget</a><br />\n引用来源：<a href=\"https://status.live.com/outageid/63b87928-d445-473f-a9ee-e5934804e386\">Outlook Status</a></div><p><h6 style=\"clear: both; padding: 8px 0 0 0; height: 2px; font-size: 1px; border: 0; margin: 0; padding: 0;\"></h6><a href=\"http://cn.engadget.com/2013/08/18/microsoft-explains-why-outlook-went-down/\" rel=\"bookmark\" title=\"Permanent link to this entry\">此文章网址</a>&nbsp;|&nbsp;<a href=\"http://cn.engadget.com/forward/20697378/\" title=\"Send this entry to a friend via email\">转寄此文章</a>&nbsp;|&nbsp;<a href=\"http://cn.engadget.com/2013/08/18/microsoft-explains-why-outlook-went-down/#comments\" title=\"View reader comments on this entry\">回应</a><hr size=\"1\" />", 
+  "title": "Microsoft 解释早前 Outlook.com 出问题的原因"
+ }
+]
