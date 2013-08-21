@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Wed, 21 Aug 2013 10:27:00 EST", 
+  "link": "http://cn.engadget.com/2013/08/21/google-play-services-3-2/", 
+  "description": "<p>分类: <a href=\"http://cn.engadget.com/category/software-apps/\" rel=\"tag\">软件应用</a></p><div style=\"text-align: center;\"><a href=\"http://cn.engadget.com/2013/08/21/google-play-services-3-2/\"><img src=\"http://www.blogcdn.com/cn.engadget.com/media/2013/08/playservicesjtjtk.jpg\" style=\"margin: 4px;\" /></a></div>\n\n<div><br />\n<a href=\"http://cn.engadget.com/tag/googleplayservices\">Google Play Services</a> 今天正式迎来了全新的 3.2 版本，新版中对部分基于位置的服务进行了改进，比如说在请求更新时的低功耗选项、基于硬件的 GPS 地理栅栏（geofencing）以及能有效减少持续互动地图服务使用率的「快照（Snapshot）」功能。除此之外，开发者现在可以更方便地整合 Google+ 内容分享服务，同时在 Photo Sphere 中也新增了指南针模式，Google Play Services 整体的表现也比过去更好。相关的下载链接已在来源中附上，有需要的话就去看一下吧。<br />\n<br />\n<br />\n经由：<a href=\"http://www.engadget.com/2013/08/20/google-play-services-3-2/\">Engadget</a><br />\n引用来源：<a href=\"http://android-developers.blogspot.com/2013/08/google-play-services-32.html\" target=\"_blank\">Android Developers Blog</a></div><p><h6 style=\"clear: both; padding: 8px 0 0 0; height: 2px; font-size: 1px; border: 0; margin: 0; padding: 0;\"></h6><a href=\"http://cn.engadget.com/2013/08/21/google-play-services-3-2/\" rel=\"bookmark\" title=\"Permanent link to this entry\">此文章网址</a>&nbsp;|&nbsp;<a href=\"http://cn.engadget.com/forward/20700202/\" title=\"Send this entry to a friend via email\">转寄此文章</a>&nbsp;|&nbsp;<a href=\"http://cn.engadget.com/2013/08/21/google-play-services-3-2/#comments\" title=\"View reader comments on this entry\">回应</a><hr size=\"1\" />", 
+  "title": "Google Play Services 3.2 上线：加强位置相关功能、Google+ 分享更便捷"
+ }
+]
