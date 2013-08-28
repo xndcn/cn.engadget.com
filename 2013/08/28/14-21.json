@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Wed, 28 Aug 2013 10:04:00 EST", 
+  "link": "http://cn.engadget.com/2013/08/28/new-york-times-offline/", 
+  "description": "<p>分类: <a href=\"http://cn.engadget.com/category/internet/\" rel=\"tag\">互联网络</a></p><div style=\"text-align: center;\"><a href=\"cn.engadget.com/2013/08/28/new-york-times-offline\"><img src=\"http://www.blogcdn.com/cn.engadget.com/media/2013/08/nyttweet.jpg\" style=\"margin: 4px;\" /></a></div>\n<br />\n纽约时报（The New York Times）网站在今天竟然变成了黑客组织的攻击标靶 -- 这应该是该网站本月份的<a href=\"http://www.engadget.com/2013/08/14/nyt-on-facebook/\">第二次的重大断线事故了</a>。根据消息指出，此次的 DNS 攻击已经由叙利亚电子战部队（Syrian Electronic Army）承认是他们所为。事实上，在攻击期间纽约时报的服务器其实仍然维持上线，但由于 DNS 出状况的关系，所以今天早晨紧急以发布推特的方式将最新的报导，直接用<a href=\"http://170.149.168.130/packages/html/world/obama-syria-strike.html\">带着 IP 的网址</a>发送至全球，后来则是暂时用 news.nytco.com 网域来应急。但祸不单行，就在采用 Twitter 发布新闻的同时，有人发现这次连这个社群网站也同时遭受黑客的攻击，而有若干的灾情产生 -- 事后 Twitter 也证实他们用于图片分享服务的 twimg.com 网域的确有遭受波及。唯一庆幸的是，至少在今天早上大家醒来的时候，此次遭到攻击的两个网站都已经恢复正常。<p><br /><p class=\"continueReading\"><a href=\"http://cn.engadget.com/2013/08/28/new-york-times-offline/\" rel=\"bookmark\">继续阅读全文 <em>纽约时报网站遭 DNS 攻击瘫痪，Twitter 也受影响</em></a></p><h6 style=\"clear: both; padding: 8px 0 0 0; height: 2px; font-size: 1px; border: 0; margin: 0; padding: 0;\"></h6><a href=\"http://cn.engadget.com/2013/08/28/new-york-times-offline/\" rel=\"bookmark\" title=\"Permanent link to this entry\">此文章网址</a>&nbsp;|&nbsp;<a href=\"http://cn.engadget.com/forward/20705526/\" title=\"Send this entry to a friend via email\">转寄此文章</a>&nbsp;|&nbsp;<a href=\"http://cn.engadget.com/2013/08/28/new-york-times-offline/#comments\" title=\"View reader comments on this entry\">回应</a><hr size=\"1\" />", 
+  "title": "纽约时报网站遭 DNS 攻击瘫痪，Twitter 也受影响"
+ }
+]
