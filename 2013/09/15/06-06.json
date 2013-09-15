@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Sun, 15 Sep 2013 02:04:00 EST", 
+  "link": "http://cn.engadget.com/2013/09/15/google-coder/", 
+  "description": "<p>分类: <a href=\"http://cn.engadget.com/category/internet/\" rel=\"tag\">互联网络</a></p><div style=\"text-align: center;\"><a href=\"cn.engadget.com/2013/09/15/google-coder/\"><img src=\"http://www.blogcdn.com/cn.engadget.com/media/2013/09/coder-for-raspberry-pi.jpg\" style=\"margin: 4px;\" /></a></div>\n\n<div><br />\nGoogle Coder 是一个为 <a href=\"http://cn.engadget.com/tag/RaspberryPi/\">Raspberry Pi</a> 而设的实验程式，它是由一队在纽约的小型 Google 团队所开发出来，目的就是将 Raspberry Pi 变成一个简单的个人小型网络伺服器，提供一个网上环境给程式员在 Chrome 中编写一些有关 HTML、CSS 和 Javascript 的东西，其可以搭载一些基本的 web app。不过它有一个更伟大的理念，就是让初学者有一个基础环境去一边学习一边编写程式，但不排除 Google 是想暗地里培训他们未来的潜在程式员呢！<br />\n<br />\nCoder 本身是一个开源且免费的程式，但用户需要事先准备一个 Raspberry Pi、电源、4GB 或以上的 SD 卡（程式本身占 1.04GB）、网络连线和 PC 或 Mac 版 Chrome；Google 指出整个初始设定时间只需要十分钟，而且他们已提供了清楚的说明。继续阅读里有一段简单的说明视频，有兴趣可以看看啊。</div>\n\n<div></div><p><br /><p class=\"continueReading\"><a href=\"http://cn.engadget.com/2013/09/15/google-coder/\" rel=\"bookmark\">继续阅读全文 <em>Google Coder 可以让 Raspbery Pi 变成迷你程式伺服器 -- 一个基础编写环境（视频）</em></a></p><h6 style=\"clear: both; padding: 8px 0 0 0; height: 2px; font-size: 1px; border: 0; margin: 0; padding: 0;\"></h6><a href=\"http://cn.engadget.com/2013/09/15/google-coder/\" rel=\"bookmark\" title=\"Permanent link to this entry\">此文章网址</a>&nbsp;|&nbsp;<a href=\"http://cn.engadget.com/forward/20721023/\" title=\"Send this entry to a friend via email\">转寄此文章</a>&nbsp;|&nbsp;<a href=\"http://cn.engadget.com/2013/09/15/google-coder/#comments\" title=\"View reader comments on this entry\">回应</a><hr size=\"1\" />", 
+  "title": "Google Coder 可以让 Raspbery Pi 变成迷你程式伺服器 -- 一个基础编写环境（视频）"
+ }
+]
