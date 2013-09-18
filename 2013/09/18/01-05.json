@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Tue, 17 Sep 2013 21:00:00 EST", 
+  "link": "http://cn.engadget.com/2013/09/17/kinect-for-windows-sdk-1-8/", 
+  "description": "<p>分类: <a href=\"http://cn.engadget.com/category/software-apps/\" rel=\"tag\">软件应用</a></p><div style=\"text-align: center;\"><a href=\"http://cn.engadget.com/2013/09/17/kinect-for-windows-sdk-1-8/\"><img src=\"http://www.blogcdn.com/cn.engadget.com/media/2013/09/kinect-for-windows-green-screen.jpg\" style=\"margin: 4px;\" /></a></div>\n\n<div><br />\n微软今天将 Windows 版 <a href=\"http://cn.engadget.com/tag/kinect\">Kinect</a> SDK 更新到了 1.8 版本，为开发者们带去了一项能让他们发挥更多创造力的功能。在新版本中新增了绿幕效果，让使用者可以随意更换背景图像。除此之外，微软还在更新中加入了 Kinect Fusion API，便于用户扫描物体的形状和颜色，更有利于他们进行 3D 创作。另外场景追踪功能也比过去更好用，代码的范例也更多了。想瞭解更多的话，可以去引用来源中瞧一瞧。<br />\n<br />\n<br />\n经由：<a href=\"http://www.engadget.com/2013/09/17/kinect-for-windows-sdk-1-8/\">Engadget</a><br />\n引用来源：<a href=\"http://blogs.msdn.com/b/kinectforwindows/archive/2013/09/16/updated-sdk-with-html5-kinect-fusion-improvements-and-more.aspx\" target=\"_blank\">Kinect for Windows Blog</a>、<a href=\"http://www.microsoft.com/en-us/download/details.aspx?id=40278\" target=\"_blank\">Download Center</a></div><p><h6 style=\"clear: both; padding: 8px 0 0 0; height: 2px; font-size: 1px; border: 0; margin: 0; padding: 0;\"></h6><a href=\"http://cn.engadget.com/2013/09/17/kinect-for-windows-sdk-1-8/\" rel=\"bookmark\" title=\"Permanent link to this entry\">此文章网址</a>&nbsp;|&nbsp;<a href=\"http://cn.engadget.com/forward/20723086/\" title=\"Send this entry to a friend via email\">转寄此文章</a>&nbsp;|&nbsp;<a href=\"http://cn.engadget.com/2013/09/17/kinect-for-windows-sdk-1-8/#comments\" title=\"View reader comments on this entry\">回应</a><hr size=\"1\" />", 
+  "title": "Windows 版 Kinect SDK 更新，加入绿幕效果"
+ }
+]
