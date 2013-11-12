@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Tue, 12 Nov 2013 07:02:00 EST", 
+  "link": "http://cn.engadget.com/2013/11/12/hgst-he6-helium-hard-drive-now-available/", 
+  "description": "<p>分类: <a href=\"http://cn.engadget.com/category/peripherals/\" rel=\"tag\">外围设备</a></p><div style=\"text-align: center;\"><img alt=\"\" src=\"http://hss-prod.hss.aol.com/hss/storage/adam/d3a3e0fbadeb01e8279862a4414d13b1/he6.jpg\" /></div>\n<br />\n已经传了许多年的氦气硬盘技术，现在终于有正式的产品上市了。HGST（<a href=\"http://cn.engadget.com/2012/03/12/western-digital-completes-acquisition-of-hgst/\">现在是 WD 的子公司</a>）推出的第一个产品，是内建七个盘片，容量高达 6TB 的 He<sup>6</sup>，比目前的最高容量 4TB 增加了一半的同时，还能降低 23% 的能源消耗。<br />\n<br />\n传统的硬盘内循环的是外界的空气，而氦气硬盘的技术重点，就是将硬盘完全封闭，改为填充氦气。因为氦气的密度较低，所以盘片在当中高速旋转的时候，产生的乱流和震动就会少很多。HGST 因而得以在和传统 3.5 吋硬盘一样大的空间内，放入更多、更薄的盘片，并同时用更少的电力推动这些盘片旋转。氦气硬盘本身最大的技术困难点，在于如何完全密封硬盘，避免氦气跑出来；在另一边，这意味着 He<sup>6 </sup>可以直接泡进液态冷却的方案中，让大规模冷却更容易。<br />\n<br />\n氦气硬盘是增加相同空间内盘片数的技术，和增加盘片内数据密度的技术（例如迭瓦式磁记录、热辅助磁记录技术等）可以进行很好的加成。He<sup>6</sup> 目前主要的销售对象当然是企业和数据中心用户，因为它的主要优势（容量、省电等）都是对大型机柜来说最为明显。对一般民众的<s>谜片</s>重要数据储存需求来说，它的相对成本还是太高了些（即使它有 200 万小时的 MBTF 保障谜片安全），大家还是等增加密度的技术吧！<p><h6 style=\"clear: both; padding: 8px 0 0 0; height: 2px; font-size: 1px; border: 0; margin: 0; padding: 0;\"></h6><a href=\"http://cn.engadget.com/2013/11/12/hgst-he6-helium-hard-drive-now-available/\" rel=\"bookmark\" title=\"Permanent link to this entry\">此文章网址</a>&nbsp;|&nbsp;<a href=\"http://cn.engadget.com/forward/20766284/\" title=\"Send this entry to a friend via email\">转寄此文章</a>&nbsp;|&nbsp;<a href=\"http://cn.engadget.com/2013/11/12/hgst-he6-helium-hard-drive-now-available/#comments\" title=\"View reader comments on this entry\">回应</a><hr size=\"1\" />", 
+  "title": "HGST 第一批 He6 氦气硬盘产品上市，3.5 吋七盘片容量高达 6TB，主要瞄准数据中心"
+ }
+]
