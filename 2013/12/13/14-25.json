@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Fri, 13 Dec 2013 09:04:00 EST", 
+  "link": "http://cn.engadget.com/2013/12/13/gmail-update-automatic-image-downloads/", 
+  "description": "<p>分类: <a href=\"http://cn.engadget.com/category/internet/\" rel=\"tag\">互联网络</a></p><div style=\"text-align: center;\"><img alt=\"\" src=\"http://hss-prod.hss.aol.com/hss/storage/adam/eeebaf25c25f888431f8fb32212cc105/Gmailimageupdate.jpg\" /></div>\n<br />\n虽然已经逐渐成了习惯，但各位可曾想过为何每次只要是有附图的电子邮件，Gmail 都会默认阻挡直接显示图片，转而要求用户自己判断是否信任此来源才开启观看呢？事实上，这个挡图的功能是因为有许多带有病毒或木马的图片，都会藉由电子邮件传播。所以在尚不确定邮件附档是否具有资安危险前，Google 选择在显示的美观邮件内容之前退一步，把使用者的安全性放在第一，避免用户的计算机或手机受到感染。<br />\n<br />\n不过，为了让使用者可以得到更完整的邮件体验，在最新的 Gmail 改版里，他们将提供图片档案的外部服务器转至 Google 自有监管的安全代理服务器（secure proxy servers），提供全面的图片附文件检查防护机制。也因此，Gmail 现在也推荐使用者可以在桌面版本选择「一律显示外部图片」选项 -- 预计明年也会扩展至行动装置上；不过他们还是有提供喜欢手动掌握显示图片功能的用户关闭此功能的选项，所以如果用户曾设定过「显示图片前询问」的话，那么此次的改版也将会保持这样的默认选项。是说，笔者其实一直以为这样的功能是为了节省流量的贴心功能诶 XD。<br />\n<br />\n经由：<a href=\"http://www.engadget.com/2013/12/12/gmail-update-automatic-image-downloads/\">Engadget</a><br />\n引用来源：<a href=\"http://gmailblog.blogspot.com/2013/12/images-now-showing.html\">Official Gmail Blog</a><p><h6 style=\"clear: both; padding: 8px 0 0 0; height: 2px; font-size: 1px; border: 0; margin: 0; padding: 0;\"></h6><a href=\"http://cn.engadget.com/2013/12/13/gmail-update-automatic-image-downloads/\" rel=\"bookmark\" title=\"Permanent link to this entry\">此文章网址</a>&nbsp;|&nbsp;<a href=\"http://cn.engadget.com/forward/20787816/\" title=\"Send this entry to a friend via email\">转寄此文章</a>&nbsp;|&nbsp;<a href=\"http://cn.engadget.com/2013/12/13/gmail-update-automatic-image-downloads/#comments\" title=\"View reader comments on this entry\">回应</a><hr size=\"1\" />", 
+  "title": "Gmail 启动全面检查图片附文件机制，用户将可更放心地让邮件自动显示美丽图片了"
+ }
+]
