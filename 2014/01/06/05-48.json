@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Mon, 06 Jan 2014 00:45:00 EST", 
+  "link": "http://cn.engadget.com/2014/01/06/nvidia-tegra-k1/", 
+  "description": "<p>分类: <a href=\"http://cn.engadget.com/category/mediapcs/\" rel=\"tag\">媒体电脑</a></p><div style=\"text-align: center;\"><img alt=\"\" src=\"http://o.aolcdn.com/hss/storage/adam/4f5f4f99c3789f4573f6ab3d554f2922/tegra1.jpg\" style=\"width: 620px; height: 413px;\" /></div>\n<br />\nNVIDIA 每年都会在 CES 发表新一代的行动处理器，已经差不多变成传统了。今年发表的新产品 Tegra K1，采用的是 Keplar 架构，配备有 192 个 CUDA 核心，再加上 4 大 1 小的运算核心。新的处理器支持 DX11，和 Tegra 4 相比差异相当地明显；K1 提供了实时运算、全局照明、更高的动态范围和反光表面、滴水、及其他物理运算的能力。当然，这和桌电级的运算能力还是有一定的差距，但和任何市面上现有的行动处理器比较起来，应该都是强大太多了，甚至足以支持 Unreal Engine 4 游戏引擎呢！<br />\n<br />\n未来不仅是手机和平板，Nvidia 也希望 Tegra K1 能装在 4K 电视、游戏主机和车用电子里。<p><h6 style=\"clear: both; padding: 8px 0 0 0; height: 2px; font-size: 1px; border: 0; margin: 0; padding: 0;\"></h6><a href=\"http://cn.engadget.com/2014/01/06/nvidia-tegra-k1/\" rel=\"bookmark\" title=\"Permanent link to this entry\">此文章网址</a>&nbsp;|&nbsp;<a href=\"http://cn.engadget.com/forward/20800945/\" title=\"Send this entry to a friend via email\">转寄此文章</a>&nbsp;|&nbsp;<a href=\"http://cn.engadget.com/2014/01/06/nvidia-tegra-k1/#comments\" title=\"View reader comments on this entry\">回应</a><hr size=\"1\" />", 
+  "title": "NVIDIA 发表 Tegra K1 处理器，采用 Keplar 架构并配备有 192 个 CUDA 核心"
+ }
+]
