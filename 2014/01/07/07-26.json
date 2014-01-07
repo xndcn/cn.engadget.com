@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Tue, 07 Jan 2014 02:22:00 EST", 
+  "link": "http://cn.engadget.com/2014/01/07/intel-windows-android-dual-os-platform/", 
+  "description": "<p>分类: <a href=\"http://cn.engadget.com/category/mediapcs/\" rel=\"tag\">媒体电脑</a></p><div style=\"text-align: center;\"><img alt=\"\" src=\"http://o.aolcdn.com/hss/storage/adam/49b48a569630c1782c282b1a861c0f81/ajs-ces2014_0338_620.jpg\" /></div>\n\n<div><br />\n「Dual OS Platform（就...双操作系统平台）」是 Intel 给自家的 Windows / Android 切换平台的名字。虽然目前相关的资料很少，但如果是由 Intel 提出的话，其背后的原理应该和 Transformer Trio 不一样 -- Trio 只是屏幕的切换，实际上平板和笔记本底座的处理还是各自跑着 Android 和 Windows；而Intel 的这个平台应该是在同为 X86 的 Windows 和 Android 之间做切换，也极有可能就是 <a href=\"http://cn.engadget.com/2014/01/06/asus-transformer-book-duet/\">Transformer Duet</a> 所采用的技术。</div>\n<br />\n果真如此的话，那和 AMD 的 <a href=\"http://cn.engadget.com/2012/03/28/bluestacks-app-player-x86-windows-arm-android-a/\">BlueStack 技术</a>不同，Intel 这里不是在 Windows 环境里跑一个 Android 的模拟器，而是真的把整个处理器拿来跑 Android。Core i7 上的 Android？想想就觉得好恐怖 @@。<p><h6 style=\"clear: both; padding: 8px 0 0 0; height: 2px; font-size: 1px; border: 0; margin: 0; padding: 0;\"></h6><a href=\"http://cn.engadget.com/2014/01/07/intel-windows-android-dual-os-platform/\" rel=\"bookmark\" title=\"Permanent link to this entry\">此文章网址</a>&nbsp;|&nbsp;<a href=\"http://cn.engadget.com/forward/20802142/\" title=\"Send this entry to a friend via email\">转寄此文章</a>&nbsp;|&nbsp;<a href=\"http://cn.engadget.com/2014/01/07/intel-windows-android-dual-os-platform/#comments\" title=\"View reader comments on this entry\">回应</a><hr size=\"1\" />", 
+  "title": "Intel 发表可以在一台设备上同时跑 Windows 和 Android 的平台「Dual OS Platform」"
+ }
+]
