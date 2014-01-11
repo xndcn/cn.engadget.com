@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Sat, 11 Jan 2014 06:08:00 EST", 
+  "link": "http://cn.engadget.com/2014/01/11/google-play-services-update/", 
+  "description": "<p>分类: <a href=\"http://cn.engadget.com/category/internet/\" rel=\"tag\">互联网络</a></p><div style=\"text-align: center;\"><a href=\"cn.engadget.com/2014/01/11/google-play-services-update/\"><img alt=\"\" src=\"http://o.aolcdn.com/hss/storage/adam/ed09e9ae10ec8edfd5440b4f328bbbcd/google-play-services-update.jpg\" /></a></div>\n\n<div><br />\nGoogle 刚刚将 Play Services 升级了，焦点落在 Android 多人游戏之上。现在 Android 的 SDK 已经原生支持回合制的游戏架构，每个回合可以容纳到 2 至 8 位的玩家，当其中一位玩家有行动的时候，有关数据就会自动上载到服务器上，并跟其余玩家分享；这使到开发如 <a href=\"http://www.engadget.com/2012/02/08/interview-words-with-friends-creator-paul-bettner/\">Words With Friends</a> 之类的游戏更为容易。另外，这次的更新亦使到开发者可以预览一个新的 Android 版 Google Drive API 以及 Google+ 消息分享的自动完成功能。玩家们，为上述更新感到兴奋吗？<br />\n<br />\n<br />\n引用来源：<a href=\"http://android-developers.blogspot.hk/2014/01/google-play-services-41.html\">Android Developers Blog</a></div><p><h6 style=\"clear: both; padding: 8px 0 0 0; height: 2px; font-size: 1px; border: 0; margin: 0; padding: 0;\"></h6><a href=\"http://cn.engadget.com/2014/01/11/google-play-services-update/\" rel=\"bookmark\" title=\"Permanent link to this entry\">此文章网址</a>&nbsp;|&nbsp;<a href=\"http://cn.engadget.com/forward/20805728/\" title=\"Send this entry to a friend via email\">转寄此文章</a>&nbsp;|&nbsp;<a href=\"http://cn.engadget.com/2014/01/11/google-play-services-update/#comments\" title=\"View reader comments on this entry\">回应</a><hr size=\"1\" />", 
+  "title": "最新 Google Play Services 的升级为 Android 多人游戏的推广铺路"
+ }
+]
