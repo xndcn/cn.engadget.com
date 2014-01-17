@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Fri, 17 Jan 2014 08:59:00 EST", 
+  "link": "http://cn.engadget.com/2014/01/17/google-drive-android-api/", 
+  "description": "<p>分类: <a href=\"http://cn.engadget.com/category/internet/\" rel=\"tag\">互联网络</a></p><div style=\"text-align: center;\"><a href=\"cn.engadget.com/2014/01/17/google-drive-android-api/\"><img alt=\"\" src=\"http://o.aolcdn.com/hss/storage/adam/4ada1b6c98116c92e5062cf7a86de7ab/google-drive-sdk-2.jpg\" /></a></div>\n\n<div><br />\n虽然 Google Drive 已经整合至 Android 当中，不过 Google 称这个新推出的 Google Drive Android API 则使到开发者可以容易地将 Drive 整合到自己的 app 当中。而这个 API 的一些主打之处包括「Transparent Offline Syncing」的功能，当用户暂时无法连上网络之时，Google Drive 就会暂时用手机内置的容量暂存有关要上载至 Drive 的档案，直至重新连上网络为止。其次，它采用了 Android KitKat 上出现的容量存取架构，所以可以 app 可以直接存取 Google Drive 上的文件。<br />\n<br />\n另外，Google 指出由于这个 API 跟 Google Play Services 紧密地整合了，所以它的 apk 文件容量会减少，带来更快的下载和更少更新的需要。最后，它支持 Android Gingerbread 或以上的装置，换言之有 98% 的装置都可以受惠。如想对这次的新 API 有更全面了解的话，请点引用来源观看全文吧。</div><p><br /><p class=\"continueReading\"><a href=\"http://cn.engadget.com/2014/01/17/google-drive-android-api/\" rel=\"bookmark\">继续阅读全文 <em>Google 推出新 Google Drive Android API，有利开发者整合至自己的 App</em></a></p><h6 style=\"clear: both; padding: 8px 0 0 0; height: 2px; font-size: 1px; border: 0; margin: 0; padding: 0;\"></h6><a href=\"http://cn.engadget.com/2014/01/17/google-drive-android-api/\" rel=\"bookmark\" title=\"Permanent link to this entry\">此文章网址</a>&nbsp;|&nbsp;<a href=\"http://cn.engadget.com/forward/20810068/\" title=\"Send this entry to a friend via email\">转寄此文章</a>&nbsp;|&nbsp;<a href=\"http://cn.engadget.com/2014/01/17/google-drive-android-api/#comments\" title=\"View reader comments on this entry\">回应</a><hr size=\"1\" />", 
+  "title": "Google 推出新 Google Drive Android API，有利开发者整合至自己的 App"
+ }
+]
