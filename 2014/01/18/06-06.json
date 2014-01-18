@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Sat, 18 Jan 2014 01:01:00 EST", 
+  "link": "http://cn.engadget.com/2014/01/18/android-fitness-api-leak/", 
+  "description": "<p>分类: <a href=\"http://cn.engadget.com/category/smartphones/\" rel=\"tag\">智能手机</a></p><div style=\"text-align: center;\"><a href=\"cn.engadget.com/2014/01/18/android-fitness-api-leak/\"><img alt=\"\" src=\"http://o.aolcdn.com/hss/storage/adam/31530f078ab9a532e2da57ab51028e5f/moves.jpg\" /></a></div>\n<br />\n \n<div>虽然现在最新的 Android KitKat 已经原生支援计步器功能，不过支援越完整的健身功能，越受用户欢迎吧？根据 Google Operating System 的源始码查探结果显示，Android 系统其实是内置了一个名为「Fitness API」的区域，它理应会让 Android 将本身装置感应器收集到的数据跟健身 app 分享。不过目前并没有太多有用的资讯可以深入地探讨，而这个 API 在何时开发完成或上市的时间表也当然是没有的啦；但至少让喜欢用行动装置 app 去辅助健身的用户得以期待一下吧。</div><p><br /><p class=\"continueReading\"><a href=\"http://cn.engadget.com/2014/01/18/android-fitness-api-leak/\" rel=\"bookmark\">继续阅读全文 <em>源始码透过 Android 有可能加入专为健身功能而设的 API</em></a></p><h6 style=\"clear: both; padding: 8px 0 0 0; height: 2px; font-size: 1px; border: 0; margin: 0; padding: 0;\"></h6><a href=\"http://cn.engadget.com/2014/01/18/android-fitness-api-leak/\" rel=\"bookmark\" title=\"Permanent link to this entry\">此文章网址</a>&nbsp;|&nbsp;<a href=\"http://cn.engadget.com/forward/20810718/\" title=\"Send this entry to a friend via email\">转寄此文章</a>&nbsp;|&nbsp;<a href=\"http://cn.engadget.com/2014/01/18/android-fitness-api-leak/#comments\" title=\"View reader comments on this entry\">回应</a><hr size=\"1\" />", 
+  "title": "源始码透过 Android 有可能加入专为健身功能而设的 API"
+ }
+]
