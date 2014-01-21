@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Tue, 21 Jan 2014 03:48:00 EST", 
+  "link": "http://cn.engadget.com/2014/01/21/china-internet-breakdown-due-to-dns-error/", 
+  "description": "<p>分类: <a href=\"http://cn.engadget.com/category/internet/\" rel=\"tag\">互联网络</a></p><div style=\"text-align: center;\"><a href=\"http://cn.engadget.com/2014/01/21/china-internet-breakdown-due-to-dns-error/\"><img alt=\"\" src=\"http://o.aolcdn.com/hss/storage/adam/2ae8e8b380f174fc1b18aa73d0f68d6/The-IT-Crowd-the-it-crowd-20584011-760-505.jpg\" style=\"width: 620px; height: 412px;\" /></a></div>\n\n<div><br />\n如果你从刚才开始就发现各类国内网站各种打不开的话，不要紧张，不是<s>昨天下的那部片带来的病毒</s>你一个人出现了这样的问题。据传是中国大陆 DNS 服务器发生了不明原因的故障，致使互联网根域出现问题，最终导致了许多网站域名解析不正常。至于临时的解决办法，有网友称将 DNS 设置为 8.8.8.8 或当地 DNS 即可缓解，不会弄的话可以参考<a href=\"http://jingyan.baidu.com/article/e8cdb32b87deaa37052bad91.html\">这里</a>学习一下。<br />\n<br />\n<br />\n图片来源：<a href=\"http://www.kissmybit.com/los-mejores-momentos-de-the-it-crowd/\">kissmybit</a></div><p><h6 style=\"clear: both; padding: 8px 0 0 0; height: 2px; font-size: 1px; border: 0; margin: 0; padding: 0;\"></h6><a href=\"http://cn.engadget.com/2014/01/21/china-internet-breakdown-due-to-dns-error/\" rel=\"bookmark\" title=\"Permanent link to this entry\">此文章网址</a>&nbsp;|&nbsp;<a href=\"http://cn.engadget.com/forward/20812150/\" title=\"Send this entry to a friend via email\">转寄此文章</a>&nbsp;|&nbsp;<a href=\"http://cn.engadget.com/2014/01/21/china-internet-breakdown-due-to-dns-error/#comments\" title=\"View reader comments on this entry\">回应</a><hr size=\"1\" />", 
+  "title": "国内大量网站解析出现错误，更换 DNS 设置可缓解"
+ }
+]
