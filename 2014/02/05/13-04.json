@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Wed, 05 Feb 2014 08:00:00 EST", 
+  "link": "http://cn.engadget.com/2014/02/05/mozilla-firefox-sync-simple-browser-passwords/", 
+  "description": "<p>分类: <a href=\"http://cn.engadget.com/category/internet/\" rel=\"tag\">互联网络</a></p><div style=\"text-align: center;\"><a href=\"cn.engadget.com/2014/02/05/mozilla-firefox-sync-simple-browser-passwords/\"><img alt=\"                               \" src=\"http://o.aolcdn.com/hss/storage/adam/9e9d0f4b1bd00626243e56619683828/DSC03190wtmk.jpg\" /></a></div>\n\n<div><br />\n现时 Firefox Sync 服务是需要同步匙来让用户将浏览器上的数据同步，不过 Mozilla 也看出了这个方法的不方便之处，所以决定在 Firefox 的 nightly 版上引进一个新的机制。就像 Google Chrome 一样，他们会用上电子邮件地址跟自选密码来作为同步的根据，而且这个机制会使到书签、已储存密码和浏览纪录都跟着电子邮件账号走，所以硬盘出了什么问题都不会影响到。如果各位冒险家想试试的话，那就请点引用来源下载 Firefox nightly 版吧。<br />\n<br />\n<br />\n经由：<a href=\"http://www.engadget.com/2014/02/04/mozilla-firefox-sync-simple-browser-passwords/\">Engadget</a><br />\n引用来源：<a href=\"http://nightly.mozilla.org/\">Firefox Nightly</a>、<a href=\"https://blog.mozilla.org/futurereleases/2014/02/01/test-the-new-firefox-sync-on-nightly-release-channel/\">Mozilla Blog</a></div><p><h6 style=\"clear: both; padding: 8px 0 0 0; height: 2px; font-size: 1px; border: 0; margin: 0; padding: 0;\"></h6><a href=\"http://cn.engadget.com/2014/02/05/mozilla-firefox-sync-simple-browser-passwords/\" rel=\"bookmark\" title=\"Permanent link to this entry\">此文章网址</a>&nbsp;|&nbsp;<a href=\"http://cn.engadget.com/forward/20823180/\" title=\"Send this entry to a friend via email\">转寄此文章</a>&nbsp;|&nbsp;<a href=\"http://cn.engadget.com/2014/02/05/mozilla-firefox-sync-simple-browser-passwords/#comments\" title=\"View reader comments on this entry\">回应</a><hr size=\"1\" />", 
+  "title": "Mozilla 正在测试让 Firefox 同步信息变得更快的方法"
+ }
+]
