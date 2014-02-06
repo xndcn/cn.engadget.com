@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Thu, 06 Feb 2014 02:58:00 EST", 
+  "link": "http://cn.engadget.com/2014/02/06/chrome-apps-may-soon-run-without-any-trace-of-the-web-browser/", 
+  "description": "<p>分类: <a href=\"http://cn.engadget.com/category/internet/\" rel=\"tag\">互联网络</a></p><div style=\"text-align: center;\"><a href=\"cn.engadget.com/2014/02/05/chrome-apps-may-soon-run-without-any-trace-of-the-web-browser/\"><img alt=\"\" src=\"http://o.aolcdn.com/hss/storage/adam/3b93a00699fa3b3730389268e604420a/chromewebstore.jpg\" /></a></div>\n\n<div><br />\n<a href=\"http://cn.engadget.com/search/?q=Chrome%20web%20app\">Chrome web app</a> 可能看似已安装在系统里的程序，但它们始终要一个 Chrome 浏览器去运行，而最近有人发现了这个这个条件可能会有所改变。The Next Web 最近找出了一些为「App Shell」而设的实验性代码，使到 Chrome web app 可能可以只需要一些必要的 Chrome 元素就可以运行，理论上会使到这些 web app 更像已安装的软件。虽然 Google 已经拒绝了就此评论，不过就算他们真的这样做，也不会来得太惊奇吧。<br />\n<br />\n<br />\n经由：<a href=\"http://www.engadget.com/2014/02/05/chrome-apps-may-soon-run-without-any-trace-of-the-web-browser/\">Engadget</a><br />\n引用来源：<a href=\"https://codereview.chromium.org/151923003\">Chromium Code Review</a><br />\n<br />\n </div><p><h6 style=\"clear: both; padding: 8px 0 0 0; height: 2px; font-size: 1px; border: 0; margin: 0; padding: 0;\"></h6><a href=\"http://cn.engadget.com/2014/02/06/chrome-apps-may-soon-run-without-any-trace-of-the-web-browser/\" rel=\"bookmark\" title=\"Permanent link to this entry\">此文章网址</a>&nbsp;|&nbsp;<a href=\"http://cn.engadget.com/forward/20824067/\" title=\"Send this entry to a friend via email\">转寄此文章</a>&nbsp;|&nbsp;<a href=\"http://cn.engadget.com/2014/02/06/chrome-apps-may-soon-run-without-any-trace-of-the-web-browser/#comments\" title=\"View reader comments on this entry\">回应</a><hr size=\"1\" />", 
+  "title": "Chrome Web App 未来有可能不用透过完整浏览器运行"
+ }
+]
