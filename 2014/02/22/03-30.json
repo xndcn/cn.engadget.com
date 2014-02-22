@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Fri, 21 Feb 2014 22:23:00 EST", 
+  "link": "http://cn.engadget.com/2014/02/21/apple-ssl-update/", 
+  "description": "<p>分类: <a href=\"http://cn.engadget.com/category/smartphones/\" rel=\"tag\">智能手机</a>, <a href=\"http://cn.engadget.com/category/tabletpcs/\" rel=\"tag\">平板电脑</a></p><div style=\"text-align: center;\"><a href=\"chinese.engadget.com/2014/02/21/apple-ssl-update/\"><img alt=\"\" src=\"http://o.aolcdn.com/hss/storage/adam/9c9e0b64efa9d2be58d1d0399f0b4e3f/overview_features.jpg\" style=\"width: 620px; height: 377px;\" /></a></div>\n\n<div><br />\nApple 在凌晨时静静地推出了 iOS 7.0.6 和 6.1.6 更新，是一次为了修正保安措施的小更新。根据 Apple 指出这次他们补回了 SSL 的认证步骤，以防在 Secure Transport 的过程中出现保安漏洞，被黑客攻击。iOS 7.0.6 适用的型号包括 iPhone 4 或以上、第五代 iPod touch 和 iPad 2 或以上，而 iOS 6.1.6 适用的型号包括 iPhone 3GS 和第四代 iPod touch。据 9to5Mac 的报导指出，后者虽然版本不同，但更新的内容一样。<br />\n<br />\n<br />\n经由：<a href=\"http://www.engadget.com/2014/02/21/apple-ssl-update/\">Engadget</a>、<a href=\"http://9to5mac.com/2014/02/21/apple-releases-ios-7-0-6-ios-6-1-6-with-fixes/\">9to5Mac</a><br />\n引用来源：<a href=\"http://support.apple.com/kb/HT6147\">Apple</a></div><p><h6 style=\"clear: both; padding: 8px 0 0 0; height: 2px; font-size: 1px; border: 0; margin: 0; padding: 0;\"></h6><a href=\"http://cn.engadget.com/2014/02/21/apple-ssl-update/\" rel=\"bookmark\" title=\"Permanent link to this entry\">此文章网址</a>&nbsp;|&nbsp;<a href=\"http://cn.engadget.com/forward/20835471/\" title=\"Send this entry to a friend via email\">转寄此文章</a>&nbsp;|&nbsp;<a href=\"http://cn.engadget.com/2014/02/21/apple-ssl-update/#comments\" title=\"View reader comments on this entry\">回应</a><hr size=\"1\" />", 
+  "title": "Apple 静静地发放 iOS 7.0.6 和 6.1.6 修正 SSL 认证问题"
+ }
+]
