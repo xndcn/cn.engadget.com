@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Tue, 25 Feb 2014 02:20:00 EST", 
+  "link": "http://cn.engadget.com/2014/02/25/utraocta-a80/", 
+  "description": "<p>分类: <a href=\"http://cn.engadget.com/category/news/\" rel=\"tag\">科技新闻</a></p><div style=\"text-align: center;\"><img alt=\"\" src=\"http://o.aolcdn.com/hss/storage/adam/89082a4d26822183ffe9a41d29e7214c/a80.jpg\" /></div>\n<br />\n全志在这次 MWC 上宣布推出移动处理器 UtraOcta A80， A80 采用 28nm 工艺制造，采用了 big.LITTLE 双架构方案，集成四个 Cortex-A15、四个 Cortex-A7 CPU 核心，并且支持 HPM，全部八个核心可以同时运行。GPU 采用了新一代的 PowerVR G6230，它集成了两个着色器簇阵列，64 个 ALU 整数单元，支持 OpenGL ES 3.0、OpenGL 3.x、DirectX 9_3/10、OpenCL、RenderScript。其次 A80 还配备了下一代视频和显示引擎，支持 H.265 格式、4K 分辨率编码、解码，支持三屏输出。电源管理支持 CoolFlex，号称功耗非常低，GPU 也支持 PVRTC、PVRTC2 省电技术。需要指出的是，它的芯片将会用在平板电脑、媒体播放机、笔记本、一体机、智能电视等，并不会在智能手机上出现。<br />\n<br />\n引用来源：<a href=\"http://www.allwinnertech.com/en/awt/news/2014-02-24.html\">Allwinner</a><p><h6 style=\"clear: both; padding: 8px 0 0 0; height: 2px; font-size: 1px; border: 0; margin: 0; padding: 0;\"></h6><a href=\"http://cn.engadget.com/2014/02/25/utraocta-a80/\" rel=\"bookmark\" title=\"Permanent link to this entry\">此文章网址</a>&nbsp;|&nbsp;<a href=\"http://cn.engadget.com/forward/20837446/\" title=\"Send this entry to a friend via email\">转寄此文章</a>&nbsp;|&nbsp;<a href=\"http://cn.engadget.com/2014/02/25/utraocta-a80/#comments\" title=\"View reader comments on this entry\">回应</a><hr size=\"1\" />", 
+  "title": "全志正式发布移动处理器 UtraOcta A80 ，加入八核芯片阵营"
+ }
+]
