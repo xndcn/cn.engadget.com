@@ -1,0 +1,14 @@
+[
+ {
+  "date": "Thu, 27 Feb 2014 07:01:00 EST", 
+  "link": "http://cn.engadget.com/2014/02/27/apple-touch-id-white-paper/", 
+  "description": "<div style=\"text-align: center;\"><a href=\"cn.engadget.com/2014/02/26/apple-touch-id-white-paper/\"><img alt=\"\" src=\"http://o.aolcdn.com/hss/storage/adam/d5738fd9723cdfc400f7769523bc48a5/iphone5s-touchid-630.jpg\" /></a></div>\n\n<div><br />\nApple 刚刚「大方地」跟大家分享了一份 iOS Security PDF 文件，在里面详解了到底用户把指头放在 <a href=\"http://cn.engadget.com/tag/iPhone5s/\">iPhone 5s</a> 的指纹扫描仪之后会发生什么事。他们指出每块 A7 芯片都有一个独等的「保安空间」，就算是 Apple 本身都不能读取，每个认证环节之中都有从头到尾的加密，而每次 <a href=\"http://cn.engadget.com/tag/TouchID/\">Touch ID</a> 认证完毕之后，有关的指纹都会自动消失；而且我们早前已经知道了 Touch ID 储存了的指纹，会在装置休眠 48 小时之后、重新启动或是有五次认证失败之后自动消失。虽然说到底，用户只能以纯粹知情的角度去看这份文件，但至少看完之后会安心一点吧。<br />\n<br />\n<br />\n经由：<a href=\"http://www.engadget.com/2014/02/26/apple-touch-id-white-paper/\">Engadget</a><br />\n引用来源：<a href=\"http://images.apple.com/iphone/business/docs/iOS_Security_Feb14.pdf\">Apple</a></div><p><h6 style=\"clear: both; padding: 8px 0 0 0; height: 2px; font-size: 1px; border: 0; margin: 0; padding: 0;\"></h6><a href=\"http://cn.engadget.com/2014/02/27/apple-touch-id-white-paper/\" rel=\"bookmark\" title=\"Permanent link to this entry\">此文章网址</a>&nbsp;|&nbsp;<a href=\"http://cn.engadget.com/forward/20839463/\" title=\"Send this entry to a friend via email\">转寄此文章</a>&nbsp;|&nbsp;<a href=\"http://cn.engadget.com/2014/02/27/apple-touch-id-white-paper/#comments\" title=\"View reader comments on this entry\">回应</a><hr size=\"1\" />", 
+  "title": "Apple 详解 iPhone 5s 指纹扫描仪的保安措施"
+ }, 
+ {
+  "date": "Thu, 27 Feb 2014 07:00:00 EST", 
+  "link": "http://cn.engadget.com/2014/02/27/nokia-x-free-skype-asia/", 
+  "description": "<div style=\"text-align: center;\"><a href=\"http://cn.engadget.com/2014/02/27/nokia-x-free-skype-asia/\"><img alt=\"\" src=\"http://o.aolcdn.com/hss/storage/adam/6e34647d37b3e2192585916781ee39a7/19-_DSC2958.jpg\" /></a></div>\n<br />\n<a href=\"http://cn.engadget.com/tag/nokiax\">Nokia X</a> 系列的出现有让你感到很欢乐吗？如果 Nokia 还送你一个月的 Skype 免费使用，会不会能增加你的购买欲呢？在我们访问 Nokia 北京产品研发中心平台及技术研发副总裁王军的时候得知，Nokia 将会在部份亚洲国家或地区，向购买 Nokia X 的用户附送 Skype 一个月的免费国际通话服务，当中包括印度尼西亚丶马来西亚与泰国。那麽中国大陆丶香港与台湾地区会有此服务吗？也许大家多点反馈回诺基亚争取一下吧！<p><h6 style=\"clear: both; padding: 8px 0 0 0; height: 2px; font-size: 1px; border: 0; margin: 0; padding: 0;\"></h6><a href=\"http://cn.engadget.com/2014/02/27/nokia-x-free-skype-asia/\" rel=\"bookmark\" title=\"Permanent link to this entry\">此文章网址</a>&nbsp;|&nbsp;<a href=\"http://cn.engadget.com/forward/20839540/\" title=\"Send this entry to a friend via email\">转寄此文章</a>&nbsp;|&nbsp;<a href=\"http://cn.engadget.com/2014/02/27/nokia-x-free-skype-asia/#comments\" title=\"View reader comments on this entry\">回应</a><hr size=\"1\" />", 
+  "title": "Nokia X 將伴隨一個月 Skype 服務予部份亞洲地區的用戶"
+ }
+]
