@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Tue, 04 Mar 2014 06:03:00 EST", 
+  "link": "http://cn.engadget.com/2014/03/04/microsoft-opens-office365-android-sdk/", 
+  "description": "<div style=\"text-align: center;\"><img alt=\"\" src=\"http://www.blogcdn.com/cn.engadget.com/media/2013/07/office-for-android.jpg\" style=\"width: 620px; height: 340px;\" /></div>\n\n<div><br />\nMicrosoft 旗下的 Open Technologies 公司宣布已经将 Android Office 365 的 SDK 公开了。他们指出开发者们可以藉此把自己的 Android app 整合 Office 365 的服务，可以从 Android app 上存取已储存在 Office 365 上的信息，包括 SharePoint Lists、SharePoint Files、Exchange Calendar、Exchange Contacts 和 Exchange Mail。比较方便开发者的是，这个 SDK 是由三个独立部份组成，分别管理上述的信息，所以开发者可以只选用适合自己程序用的部份。最后，这个 SDK 支持 Android 4.0.3（API15）、4.1.2（API16）、4.2.2（API 17）、4.3 （API18）、4.4.2（API19）。有兴趣可以去引用来源看看，有关的档案都上载到 Github 了。<br />\n<br />\n<br />\n经由：<a href=\"http://www.winbeta.org/news/microsoft-unleashes-office-365-android-sdk-developers-play\">WinBeta</a><br />\n引用来源：<a href=\"http://msopentech.com/blog/2014/03/03/new-open-source-sdk-for-android-brings-office-365-apps-to-life/\">Microsoft Open Technologies</a></div><p><h6 style=\"clear: both; padding: 8px 0 0 0; height: 2px; font-size: 1px; border: 0; margin: 0; padding: 0;\"></h6><a href=\"http://cn.engadget.com/2014/03/04/microsoft-opens-office365-android-sdk/\" rel=\"bookmark\" title=\"Permanent link to this entry\">此文章网址</a>&nbsp;|&nbsp;<a href=\"http://cn.engadget.com/forward/20842137/\" title=\"Send this entry to a friend via email\">转寄此文章</a>&nbsp;|&nbsp;<a href=\"http://cn.engadget.com/2014/03/04/microsoft-opens-office365-android-sdk/#comments\" title=\"View reader comments on this entry\">回应</a><hr size=\"1\" />", 
+  "title": "Microsoft 公开了 Android 版 Office 365 的 SDK，开发者又要忙了"
+ }
+]
