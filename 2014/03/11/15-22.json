@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Tue, 11 Mar 2014 11:19:00 EST", 
+  "link": "http://cn.engadget.com/2014/03/11/raspberry-pi-wolfson-audio-card/", 
+  "description": "<p>分类: <a href=\"http://cn.engadget.com/category/mediapcs/\" rel=\"tag\">媒体电脑</a></p><div style=\"text-align: center;\"><a href=\"cn.engadget.com/2014/03/11/raspberry-pi-wolfson-audio-card/\"><img alt=\"\" src=\"http://o.aolcdn.com/hss/storage/adam/40d225a497da10febe44712156d3291b/raspberry-audio-lead.jpg\" /></a></div>\n\n<div><br />\n以往要 <a href=\"http://cn.engadget.com/tag/RaspberryPi/\">Raspberry Pi</a> 支持音讯的话，都需要开发者自行寻找适合的音效处理装置，不过现在 Element14 终于挑选出在官方眼中的适合者了。被选中的为 Wolfson Audio Card，其支持 24-bit /192KHz 的高质素音效，可经内置的 3.5mm 音讯端口输出，不一定要经同样内置的 S/PDIF 输出。另外，它有两个 MEMS 麦克风、3.5mm 和 S/PDIF 的输入埠。虽然以往已有人会选择经 USB 转换器来担当声卡的工作，不过 Wolfson Audio Card 则让开发者有更复杂的动手做机会，鼓励了人们的 DIY 精神。最后，它要价 US$33（约 198 元人民币），部份人已在其正式推出前试用过了，有兴趣可以去 Element14 的论坛看看相关帖子吧。<br />\n<br />\n<br />\n经由：<a href=\"http://www.engadget.com/2014/03/11/raspberry-pi-wolfson-audio-card/\">Engadget</a><br />\n引用来源：<a href=\"http://www.element14.com/community/community/raspberry-pi/raspberry-pi-accessories/wolfson_pi\">Element14</a></div><p><h6 style=\"clear: both; padding: 8px 0 0 0; height: 2px; font-size: 1px; border: 0; margin: 0; padding: 0;\"></h6><a href=\"http://cn.engadget.com/2014/03/11/raspberry-pi-wolfson-audio-card/\" rel=\"bookmark\" title=\"Permanent link to this entry\">此文章网址</a>&nbsp;|&nbsp;<a href=\"http://cn.engadget.com/forward/20847379/\" title=\"Send this entry to a friend via email\">转寄此文章</a>&nbsp;|&nbsp;<a href=\"http://cn.engadget.com/2014/03/11/raspberry-pi-wolfson-audio-card/#comments\" title=\"View reader comments on this entry\">回应</a><hr size=\"1\" />", 
+  "title": "Raspberry Pi 终于有专用声卡了"
+ }
+]
