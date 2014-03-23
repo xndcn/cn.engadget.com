@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Sun, 23 Mar 2014 07:02:00 EST", 
+  "link": "http://cn.engadget.com/2014/03/23/google-webp-youtube-thumbnails/", 
+  "description": "<p>分类: <a href=\"http://cn.engadget.com/category/internet/\" rel=\"tag\">互联网络</a></p><div style=\"text-align: center;\"><a href=\"http://cn.engadget.com/2014/03/23/google-webp-youtube-thumbnails/\"><img alt=\"\" src=\"http://o.aolcdn.com/hss/storage/adam/5d185cc4903fa92f3f220e0b8f82928/google.jpg\" /></a></div>\n\n<div><br />\n每个人都想上网的载入速度快点吧，如何在网速不变之下令到载入速度加快呢？就是从网页内容方面着手了。Google 指出他们现时在 Google Play Store 上采用的 WebP 无损质素图片格式可以令到载入速度更快，而档案本身的容量会相对地小了近 35%，总体来说可以每日减少几十 TB 的网络数据流量。而且，他们将开始在 YouTube 上引入这个格式作为影片的预览图，初步结果显示载入速度最多快了 10%。<br />\n<br />\n而当浏览没有 WebP 的网页时，用户可以透过 Android 或 iOS 版 Chrome 之 Data Compression Proxy 来将图片容量压缩超过 60% 之多。另外，他们亦正在 Chrome Beta 上测试这个技术，其无损处理图片的编码时间减少了 25%。照这样看，如这个技术得以推广的话，将为用户减少不少数据用量和省下不少载入时要等的时间呢。<br />\n<br />\n<br />\n经由：<a href=\"http://www.engadget.com/2014/03/23/google-webp-youtube-thumbnails/\">Engadget</a><br />\n引用来源：<a href=\"http://blog.chromium.org/2014/03/webp-improves-while-rolling-out-across.html\">The Chromium Blog</a></div><p><h6 style=\"clear: both; padding: 8px 0 0 0; height: 2px; font-size: 1px; border: 0; margin: 0; padding: 0;\"></h6><a href=\"http://cn.engadget.com/2014/03/23/google-webp-youtube-thumbnails/\" rel=\"bookmark\" title=\"Permanent link to this entry\">此文章网址</a>&nbsp;|&nbsp;<a href=\"http://cn.engadget.com/forward/20854827/\" title=\"Send this entry to a friend via email\">转寄此文章</a>&nbsp;|&nbsp;<a href=\"http://cn.engadget.com/2014/03/23/google-webp-youtube-thumbnails/#comments\" title=\"View reader comments on this entry\">回应</a><hr size=\"1\" />", 
+  "title": "Google 的 WebP 图片档可以令到 YouTube 页面的载入速度最多快 10%"
+ }
+]
