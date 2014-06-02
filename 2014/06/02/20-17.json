@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Mon, 02 Jun 2014 16:14:00 EST", 
+  "link": "http://cn.engadget.com/2014/06/02/apple-swift-programming-language/", 
+  "description": "<div style=\"text-align: center;\"><img alt=\"\" src=\"http://o.aolcdn.com/hss/storage/midas/daf95e7c6f9fd2540a03a83f344b6d28/200218820/201401wwdc2112-2JT.jpg\" style=\"height: 341px; width: 620px;\" /></div>\n\n<div><br />\nApple 在近 20 年来一直而 Objective-C 为主要的程序语言，只是现在看来时代要转变了 -- 在今天的 WWDC 上，他们就带来了新的 Swift 语言。据 Apple 的说法，Swift 可以说是没有了 C 的 Objective-C，但同时又可以拥有同等，甚至更高的速度。也就是说，同一个程序以 Swift 写出来，运行速度应该会比旧语言的快和流畅才是。用途方面，厂方就表示其可以套用到由社交网路到 3D 游戏等等接近所有的程序上。<br />\n<br />\n当然，贸贸然推出一个新的程序语言的风险是高的，所以 Swift 就被设计成可以在同一程序内，与 C 及 Objective-C 并存的语言。其他新语言的好用之处，还包括了一个名为 Playground，可以让开发者实时运行程序码的功能，也就是开发者可以很快地看得出修改程序码前后，程序运行情况的分别。<br />\n<br />\n如果双对 Swift 深究更多的话，可以参考 Apple 特别推出的免费电子书，而等不及想要即使把玩的，则可以直接下载 XCode 6 beta 来尝试编写。不过想要发布相关程序和 apps 的话，就得等到 OS X Yosemite 和 iOS 8 推出之后啰。</div><p><h6 style=\"clear: both; padding: 8px 0 0 0; height: 2px; font-size: 1px; border: 0; margin: 0; padding: 0;\"></h6><a href=\"http://cn.engadget.com/2014/06/02/apple-swift-programming-language/\" rel=\"bookmark\" title=\"Permanent link to this entry\">此文章网址</a>&nbsp;|&nbsp;<a href=\"http://cn.engadget.com/forward/20905057/\" title=\"Send this entry to a friend via email\">转寄此文章</a>&nbsp;|&nbsp;<a href=\"http://cn.engadget.com/2014/06/02/apple-swift-programming-language/#comments\" title=\"View reader comments on this entry\">回应</a><hr size=\"1\" />", 
+  "title": "新程序语言诞生：Apple 发表以易用和速度为诉求的 Swift 语言"
+ }
+]
