@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Wed, 06 Aug 2014 06:16:00 -0400", 
+  "link": "http://cn.engadget.com/2014/08/06/synology-nas-ransomware-alert/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/7d47771de9f916bfeff7db95bf5e38f1/200427492/20140605_Computex2014_P2110093_thumbnail.jpg\" /> Synology 这次被盯上的漏洞，其实早在去年 12 月就已经修复，新版的 DSM 5.0 也没有这个漏洞，所以需要注意的还是使用旧版（DSM 4.3、4.2、4.1、4.0）的用户。最近有传闻一个名为 SynoLocker...", 
+  "title": "PSA：Synology 的 NAS 出现勒索软件，使用 DSM 5.0 前各版本的朋友，请尽快更新！"
+ }
+]
