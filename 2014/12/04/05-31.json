@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Wed, 03 Dec 2014 23:58:00 -0500", 
+  "link": "http://cn.engadget.com/2014/12/03/gangnam-style-knock-down-youtube-view-counter/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/64d2e4c4acf9a4e20147be35d08c3ce2/201192084/Screen+Shot+2014-12-04+at+10.54.04_thumbnail.png\" />红极一时的江南 Style 以洗脑式旋律贯彻着街头巷尾，殊不知它在 YouTube 的点击数还突破了点击计的上限 -- 原来 YouTube 的计数器用的是 32bit signed INT，因为最早设计时认为 21 亿多次的计数已经是绰绰有余了，谁能想到竟然有被打破的一天呢？为了避免突破天际的状况再次发生，YouTube 表明会升级成 64-bit 点击计，让上限提升至 9,223,372,036,854,775,808，也就是 9 百万兆多次，相信再红的影片都不会达到这数字吧。除了更新为 6...", 
+  "title": "江南 Style 的 YouTube 点击数突破天际了，Oppa~"
+ }
+]
