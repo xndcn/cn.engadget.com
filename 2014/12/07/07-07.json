@@ -1,0 +1,14 @@
+[
+ {
+  "date": "Sun, 07 Dec 2014 02:04:00 -0500", 
+  "link": "http://cn.engadget.com/2014/12/07/android-youtube-material-design/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/3006d92ebd425cc157bcb9bf65012f37/201206646/youtube_thumbnail.jpg\" />所以 Google 开发的 Android app 命运也是一样，就是最终会换上 Material Design 风格，而最新换装的重点 app 就是 YouTube 了。这个版本为 6.0，跟 Google Play 的安排一样，YouTube app 主页的顶栏为红色，因为它的标誌一向都是红色。不过在进入一些频道的专页时，顶栏的颜色就会变得跟频道大图的主色，例如我们 Engadget 中文版频道的大图以蓝色为主调，所以顶栏也随之变成了蓝色，如此类推。\n\n其他元素如按键和栏位大小均跟一般 Go...", 
+  "title": "Android 版 YouTube 也换上了 Material Design"
+ }, 
+ {
+  "date": "Sun, 07 Dec 2014 02:03:00 -0500", 
+  "link": "http://cn.engadget.com/2014/12/07/microsoft-next-lock-screen/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/2f4cd3569743c114dde77cc9412b09ca/201205898/microsoft-next-lock-screen_thumbnail.jpg\" />Microsoft Garage 最近除了为 Torque app 做更新之外，Next Lock Screen app 没有被冷待的。现在 Next Lock Screen 已经升上 1.3.9664 并加入了多项新功能，首先是它已经懂得显示天气资讯，用户可以在不解锁的情况下更方便地看到较多资讯。其次，用户现在可以直接将主页的背景图片设成锁定页的背景图片，也可以在将锁定页的状态列隐藏，使到界面变得更简洁。最后，Microsoft 还为运行 KitKat 的 Samsung 装置作出了一些调整，...", 
+  "title": "最新版 Microsoft Next Lock Screen 已懂显示天气和加入更多个人化选项"
+ }
+]
