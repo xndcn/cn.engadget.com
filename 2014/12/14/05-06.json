@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Sun, 14 Dec 2014 00:02:00 -0500", 
+  "link": "http://cn.engadget.com/2014/12/14/google-earth-api-support-going-away/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/6cbe4c004d48030709c97f68a4c32b67/200965616/googlemaps_thumbnail.jpg\" />Google 在 6 年前将 Google Earth 的 API 开放，让第三方开发者所开发的程式也可以将 Earth 的内容，整合到自已所开发的产品内，但 API 终结的日子快到了。Google 宣佈将会在 2015 年 12 月 12 号，停止 API 的运作，换言之所有整合了 Earth 功能的第三方产品都将受影响。他们这样做是出于保安的考虑，因为 Earth 的 API 是基于一个名为 NPAPI（Netscape Plugin API）的跨平台架构，不过最近 Chrome 和 Fir...", 
+  "title": "Google Earth 的 API 快要退休噜"
+ }
+]
