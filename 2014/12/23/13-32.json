@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Tue, 23 Dec 2014 08:30:00 -0500", 
+  "link": "http://cn.engadget.com/2014/12/23/critical-os-x-ntp-flaw-automatic-update/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/beb05df05dd8369ec556a63750619c78/200914373/DSC01758_thumbnail.jpg\" />苹果在其 Mac OS X 的网络时间协议（NTP）中找到了一个严重的系统漏洞，公司为此推送了第一个会自动更新的升级包。这漏洞是由一名谷歌研究员发现，它容许骇客传送一个「精心设计，能让缓冲区溢出并执行恶意代码的数据包」。而出现漏洞的 NTP 则是广泛应用于网络时间的协议，所以会影响包括 OS X 在内，基于 UNIX 的系统。漏洞的严重程度已经引起美国政府的关注，所以苹果才会第一次使用这自动更新系统的功能。因为不需要重新启电脑，在用 Mac 的读者朋友们应该只会留意到电脑突然显示出已更新的字样，...", 
+  "title": "苹果发出紧急 OS X 更新，堵塞严重漏洞"
+ }
+]
