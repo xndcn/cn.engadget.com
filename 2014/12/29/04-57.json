@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Sun, 28 Dec 2014 23:54:00 -0500", 
+  "link": "http://cn.engadget.com/2014/12/28/twitter-login-bug/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/a6d7d4dfaa8f0a511d68c78c3e06000b/201307014/twitter-logout-flaw_thumbnail.jpg\" />今天一早起床，小编就看到自己手机突然显示类似上图这样的服务登出通知。原本还以为只是因为 App 更新之类造成的小问题，但没想到这竟然是个大范围的 Twitter 登入错误，而且短时间内都还没得到解决。根据官方的公告指出，他们已经正在处理这个部分使用者（大部分是 Android 手机）无法正常登入 Twitter 的问题 -- 而且也不能重新登入。一位工程师 Ninji 分析了拦截自 Android 登入的资料后，发现这问题很可能是因为 Twitter 的 Server 误认目前的时间，已经是 2...", 
+  "title": "你的 Twitter\"被登出\"了吗？没想到跨 2015 年也能有 Bug"
+ }
+]
