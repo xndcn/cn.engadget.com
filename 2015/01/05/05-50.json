@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Mon, 05 Jan 2015 00:46:00 -0500", 
+  "link": "http://cn.engadget.com/2015/01/05/nvidia-tegra-x1/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/85dd4af14e9a7be5249daeba7a53cd0a/201330140/Nvidia+Tegra+X1-1_thumbnail.jpg\" />1999 年时世界最快的超级电脑差不多就是 1 teraflop（每秒一兆次浮点运算）等级的计算能力，2008 年时才有第一颗家用 GPU 达到了同样的程度，没想到到了今天已经有移动处理器站上 1 teraflop 的高度了。这颗由 NVIDIA 发布的 Tegra X1 芯片基本上和桌机 GPU 相同的 Maxwell 架构的移动化版本，一共有八颗 64 位 CPU 核心和 256 颗 GPU 核心。整体来说，应该可以达到 Tegra K1 处理器两倍的性能。\n\n为了示范，NVIDIA CEO...", 
+  "title": "NVIDIA 的 Tegra X1 是第一颗达到 Teraflop 级运算能力的移动芯片"
+ }
+]
