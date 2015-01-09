@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Thu, 08 Jan 2015 19:00:00 -0500", 
+  "link": "http://cn.engadget.com/2015/01/08/samsung-sm941-pcie-ssd/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/c014faacfa4126d06184d5de695d87dd/201353658/samsung-sm951-ssd-2015-01-08-01_thumbnail.jpg\" />三星今天宣布，半年前发布的 SM951 PCIe（M.2）SSD 已经开始正式量产了。这款产品是 XP941 的后继者，其通过 PCIe 3.0 通道读写时，速度分别能达到 2.15GB/s 和 1.55GB/s（基于 10nm MLC 技术）。相较之下，前代 1.4GB/s 的读取速度就明显不够看了。除此之外，新品的功耗还降低了 50%，在待机的时候仅有 2 毫瓦几乎可以忽略不计。据悉 SM951 将会分为 128、256 和 512GB 三种型号，不过初期只会出现在主流笔记本、工作站厂商的产...", 
+  "title": "三星宣布 SM951 SDD 量产：速度更快，待机时功耗超低"
+ }
+]
