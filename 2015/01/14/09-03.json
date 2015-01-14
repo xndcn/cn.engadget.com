@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Wed, 14 Jan 2015 04:00:00 -0500", 
+  "link": "http://cn.engadget.com/2015/01/14/google-security-bug-billion-android-phones/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/dims-shared/dims3/GLOB/crop/7359x4912+0+0/resize/630x420%21/format/jpg/quality/85/http://hss-prod.hss.aol.com/hss/storage/midas/d505bfc139826cd2df08d20d3b7c1dcb/201387206/DNH9WP_thumbnail.jpg\" />在 Google「揭发」了微软 Windows 8.1 安全问题的后一天，来自 Rapid7（数据安全分析公司）的专家 Tod Beardsley，也在他们的 Android 系统中发现了一个严重的漏洞。据悉其存在于 Android 4.3 及以下版本的 WebView 零件之中，会带来被黑客恶意侵入的风险。虽说较新的 Android 5.0 和 4.4 并不会受到影响，但之前的版本要占到所有 Android 用户的 60% 左右（估计得有近八亿人吧），波及的人群可以说还是相当大的。不过，在 B...", 
+  "title": "Android 有一个可能影响 60% 用户的漏洞，但 Google 没打算专门去修复它"
+ }
+]
