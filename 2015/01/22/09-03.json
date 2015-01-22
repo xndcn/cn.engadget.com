@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Thu, 22 Jan 2015 04:00:00 -0500", 
+  "link": "http://cn.engadget.com/2015/01/22/snappy-ubuntu-core-for-iot/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/4b3405ceca166d36a87687f83f8c7f69/201421286/ubuntu-human-touch_thumbnail.png\" />Ubuntu Linux 在它的 10 年发展之间出现了分支在不同平台的版本，虽然有部分以失败告终。这与时俱进的开源软件在今天就计划进入物联网的大潮流中。Canonical 释出了一个从 snappy Ubuntu Core 中分支的新版本，用以提供家电、机器人和其他电脑以外的电子设备使用。对硬件的需求也相对低，只要 600MHz 处理器即可推动、而且简化了升级程序和给予设备制造商更多空间定制这软件。最重要的是它的可靠性，不可修改的更新包可让设备不会在升级期间出错而暴走。...", 
+  "title": "​Ubuntu Linux 正准备为家电和机器人提供操作系统"
+ }
+]
