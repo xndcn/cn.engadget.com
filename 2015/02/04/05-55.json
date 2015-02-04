@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Wed, 04 Feb 2015 00:49:00 -0500", 
+  "link": "http://cn.engadget.com/2015/02/04/arm-cortex-a72-processor/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/805bdb610c19cf9fb6c2d68f673614d4/201497085/arm-cortex-a72-630_thumbnail.jpg\" />在电视或电脑上的 4K 新闻，最近都不绝于耳，而现在则开始谈一谈手机上的 ... 或说是 ARM 手机上的。该公司刚带来了 Cortex-A72，这处理器架构能大幅增强运算能力，尤其是在图像显示部分。这是因为把 16nm 制程处理器的效率优化，让内存和图像核心（Mali-T880）的表现分别提高 30。整体来说，A72 比前代 Cortex-A15 快上 3.5 倍。这规格让设备可以由现在最多只可录制 30fps 4K 视频，提升至可录制 120fps 的 4K 的视频。游戏性能也会增强至可媲美...", 
+  "title": "ARM 最新处理器架构，让手机有更快的 4K 图像处理"
+ }
+]
