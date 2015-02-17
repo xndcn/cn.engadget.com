@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Mon, 16 Feb 2015 23:44:00 -0500", 
+  "link": "http://cn.engadget.com/2015/02/16/wifi-mapping-in-3d/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/b3ecddb1e528ca42bccb064c3ecfef66/201557956/wifi-map-2015-02-16-01_thumbnail.gif\" />还记得那个如小精灵游戏的 Wi-Fi 讯号分布的 2D 显示动画吗？显然有人认为既然都已经来到了 2015 年，不弄个 3D 版的好像变得有点跟不上时代啊（误）。有位名为 CNLohr 的 YouTube 频道使用者，从拿到了一颗可以通过不同 LED 颜色，来显示 Wi-Fi 讯号强度的雷达 ESP8266 开始，就不断激发创意，试着要把获得的信息转化成可分析的资料。谁知道从一开始通过超土炮低科技，直接用摄影机以失焦＋用手慢慢移动的方式记录并分析资料，到最后，竟欲罢不能地把 CNC 铣床都搬了出...", 
+  "title": "哪里 Wi-Fi 讯号最强之二：超炫 3D 版"
+ }
+]
