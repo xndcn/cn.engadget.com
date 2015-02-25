@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Wed, 25 Feb 2015 01:56:00 -0500", 
+  "link": "http://cn.engadget.com/2015/02/25/amd-carrizo-processor/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/30ae295e8bc14ae8d358fa0cd334ced/201604187/amd-carrizo-2_thumbnail.jpg\" />英特尔并不是今年唯一在电池续航力上下苦功的厂商，就在不久前，AMD 也公布了用于笔记本的高性能省电系统单芯片架构 Carrizo。得益于全新的 Excavator 核心，其 IPC 较之前（Kaveri 核心）提升了 5%，同时功耗大减 40%，显卡核心也省电 20%。\n\n当然，这并非 Carrizo 的唯一优点，它还是首款完全符合 HSA（Heterogeneous System Architecture，异构系统架构）规范的处理器，能让 CPU 和集成显卡共享内存。这对提升处理速度很有帮助，...", 
+  "title": "AMD 的下款笔记本处理器将更注重于改进续航"
+ }
+]
