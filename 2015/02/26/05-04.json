@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Wed, 25 Feb 2015 23:59:00 -0500", 
+  "link": "http://cn.engadget.com/2015/02/25/lenovo-com-hacked/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/dims-shared/dims3/GLOB/crop/3672x2490+0+0/resize/630x427%21/format/jpg/quality/85/http://hss-prod.hss.aol.com/hss/storage/midas/6e50e2d07599c99cda623e15f6b62f5c/201609667/177587570_thumbnail.jpg\" />因 Superfish 惹祸上身的联想，最近日子过得很不踏实。今天早些时候，他们的官网又被疑似是骇客组织 Lizard Squad 的成员所骇。访问者进入页面后，只能看到一个小孩坐在电脑前视频的影像，和联想有关的内容则完全不见踪影。仔细查看 HTML 程序码以后，你会发现网站已经被改作「由 Ryan King 和 Rory Andrew Godfrey 带来的全新升级版联想官网」，而这两个人在网上一直被相信是 Lizard Squad 的成员。\n\n在事件发生后，联想很快做出了反应，现在官网上显示...", 
+  "title": "联想官网被骇，原因多半是 Superfish"
+ }
+]
