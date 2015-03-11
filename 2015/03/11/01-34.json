@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Tue, 10 Mar 2015 21:30:00 -0400", 
+  "link": "http://cn.engadget.com/2015/03/10/apple-freak-bug-security-patch/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/dims-shared/dims3/GLOB/crop/630x361+0+0/resize/630x361!/format/jpg/quality/85/http://o.aolcdn.com/hss/storage/midas/45dfab8bdba49b62038181ac7664d717/200730880/lead-iphone6plus%252BKopie_thumbnail.jpg\" />其实最近苹果除了发布非常吸睛的 MacBook 和其智能手表的详细上市信息之外，他们还有带来为对应 FREAK 漏洞的软件更新。这安全漏洞能让骇客能强迫 Safari（或 Android 浏览器）以低加密方式浏览包括政府网站在内的多个网站。这为让使用者的帐户资料更容易被破解，甚至被盗。所以 iPhone 和 iPad 使用者都被苹果强烈建议升级到已经解决 FREAK 的 iOS 8.2，Apple TV 也有版本 7.1 的系统更新，而使用 OSX Mountain Lion、Mavericks...", 
+  "title": "苹果已经采取措施应对 FREAK 漏洞"
+ }
+]
