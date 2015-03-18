@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Wed, 18 Mar 2015 09:00:00 -0400", 
+  "link": "http://cn.engadget.com/2015/03/18/chrome-canary-now-uses-http2/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/d162922cca1cd65c1f8e8db3a547a7c9/201703613/google-chrome-ap-photo-mark-lennihan_thumbnail.jpg\" />做为目前网络的基础之一的 HTTP 协定，自从 1999 年推出 HTTP/1.1 之后，已经 16 年没有过重大的变动。虽然 HTTP/1.1 仍然尚可完成被赋予的任务，但在这个各种媒体、串流横行，而且人们对于等待载入时间愈来愈不耐烦的时代，也是到了该被新技术取代的时候了。HTTP/2 是用 Google 开发的 SPDY 技术而来，和之前的 HTTP/1.1 最大的分别在于，HTTP/1.1 会为每个文件需求（HTML、CSS、Javascript）建立新的连线，而 HTTP/2 则是建立一...", 
+  "title": "使用 HTTP/2 的测试版 Chrome Canary 现在可以下载咯"
+ }
+]
