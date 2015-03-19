@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Thu, 19 Mar 2015 09:50:00 -0400", 
+  "link": "http://cn.engadget.com/2015/03/19/ibm-fights-mobile-malware/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/a5f856258d3cb5b27e8a3440ffda028e/201386698/ibm-z13_thumbnail.jpg\" />手机遇上恶意软件本来就很麻烦，如果发生在商务用户身上，就更是一桩让人头大的事情。因为一个人「感染」弄不好就会让其他员工一起遭殃，搞到业务瘫痪也绝非没有可能。为了应对这种情况，IBM 在自己最新版的 MobileFirst Protect（iOS 和 Android 都有）中加入了自动寻找有毒应用的功能，在发现有问题的设备后它会直接将其锁定（同时还会通知公司的 IT 专家），避免造成进一步的危害。\n\n当然，MobileFirst Protect 也会自动更新自己的恶意软件清单，让使用者不易被较新的...", 
+  "title": "IBM 的新版 MobileFirst Protect 能让商务用户的手机更安全"
+ }
+]
