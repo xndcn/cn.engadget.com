@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Mon, 23 Mar 2015 21:38:00 -0400", 
+  "link": "http://cn.engadget.com/2015/03/23/twitch-security-breach/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/dims-shared/dims3/GLOB/crop/5616x3159+0+0/resize/630x354!/format/jpg/quality/85/http://hss-prod.hss.aol.com/hss/storage/midas/3e958f55b01ea9bad604088cb8336632/201586665/15311389538_4955c1ac79_thumbnail.jpg\" />你有登记 Twitch 的帐户吗？有的话要就注意了，因为他们在官方博客上发文，指发现了有关帐户登入的保安漏洞，并追踪到几个不寻常的帐户活动。为了保安理由，他们立刻把密码、串流连结，甚至连跟 Twitter 和 YouTube 的授权连结也全数暂停使用。如果使用者有在其他网站重覆使用该密码，Twitch 更建议把它们重设。但有关漏洞的性质还没有公布，该网站只称会在有进一步行动时「直接跟受影响的使用者联络」。...", 
+  "title": "​Twitch 发现保安漏洞，所有帐户均需重设资料"
+ }
+]
