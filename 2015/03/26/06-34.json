@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Thu, 26 Mar 2015 02:30:00 -0400", 
+  "link": "http://cn.engadget.com/2015/03/26/amd-freesync/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/c7360f9f5d281addef9a0f7903d51479/201742855/P9000837_f_FB_thumbnail.jpg\" />传统的显卡、屏幕组合中，屏幕的每秒更新频率是固定的，而显卡每秒输出的帧数却是变动的。如此一来当屏幕的更新频率高于显卡提供画面的速率时，容易发生卡格；而更新频率低于画面提供的速率时，又有机会发生画面撕裂的现象。为了解决这个问题，Nvidia 推出了 G-sync 技术，而 AMD 则是在去年底推出了 Freesync 技术来因应。\n\n在本质上，两者相差不大，都是由显卡控制屏幕的更新频率，让屏幕的更新与显卡的输出同步。不同之处在于，G-sync 需要支持的屏幕制造商在屏幕内装入一个专门的控制芯片，而...", 
+  "title": "AMD 在台展出支持 Freesync 技术的屏幕"
+ }
+]
