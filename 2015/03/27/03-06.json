@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Thu, 26 Mar 2015 23:00:00 -0400", 
+  "link": "http://cn.engadget.com/2015/03/26/google-chrome-pointer-events-api/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/dims-shared/dims3/GLOB/crop/5400x3599+0+0/resize/630x420!/format/jpg/quality/85/http://hss-prod.hss.aol.com/hss/storage/midas/78fb92b45c4ec3f77c41a34bbfa1e90e/200472363/139a3aa8897e4da68c8e90d4f2030f96_thumbnail.jpeg\" />为了让 Chrome 能有更流畅的页面滑动效果，Google 将会把微软的 Pointer Events API 整合其中。这两家曾在浏览器和网络发展的议题上斗个你死我活的「宿敌」，根据 Ars Technica 的报道，将会让旗下的浏览器团队合作改进 Chrome。\n\n「Pointer Events」的原理是把原来在 Chrome 上个别处理的触控和鼠标的互动合而为一，让使用者和开发者都能更好的处理页面卷动。对比早已使用 Pointer Events 的 Firefox 和将要退役的 IE，C...", 
+  "title": "Google、微软合作改进 Chrome 浏览器的页面滑动表现"
+ }
+]
