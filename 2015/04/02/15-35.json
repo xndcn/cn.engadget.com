@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Thu, 02 Apr 2015 11:30:00 -0400", 
+  "link": "http://cn.engadget.com/2015/04/02/google-cinic-certificate-dust-up/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/dims-shared/dims3/GLOB/crop/630x418+0+0/resize/630x418%21/format/jpg/quality/85/http://o.aolcdn.com/hss/storage/midas/8a80aa1a870f42952f73ae66edfcc89c/200749587/chrome-mac_thumbnail.jpg\" />美国的科技公司在中国常会水土不服，其中尤以 Google 的表现最为明显。而在今天早些时候，这家搜索巨头又宣布停止信任 CNNIC（中国互联网络信息中心）提供的证书，至于事情的起因，是由于后者合作方 MCS Holdings（一家埃及证书机构）的签发证书不当。根据 Ars Technica 的说法，MCS 发出的证书可用于中间人代理，而这会让恶意追踪私人上网活动的行为变成可能。在 Google 看来，CNNIC 向那些「不适合组织」授权的做法实在不妥，理应为此事负上相应的责任。...", 
+  "title": "Google 宣布停止信任 CNNIC 证书"
+ }
+]
