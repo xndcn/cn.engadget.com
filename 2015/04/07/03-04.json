@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Mon, 06 Apr 2015 23:00:00 -0400", 
+  "link": "http://cn.engadget.com/2015/04/06/how-youtube-uses-vp9-to-help-4k/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/2626c4459eb8abcd37f6c81834e799a9/201788600/youtube-4k-peru_thumbnail.jpg\" />虽说 YouTube 现在支持播放 4K 画质视频，但问题是家用网速大多都受不了，导致观看几十秒的视频动轧要缓冲十几分钟。作为服务提供者的 YouTube，正打算改用 VP9 编码方式，藉此提高 4K 视频的可观度和画质。新解码方式将比标准的 H.264 使用少达一半频宽，也能根据使用者的网速而优先提高视频锐利度和快速移动的画面。...", 
+  "title": "​YouTube 正设法让你更容易享受其 4K 播放服务"
+ }
+]
