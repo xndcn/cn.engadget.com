@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Mon, 20 Apr 2015 08:00:00 -0400", 
+  "link": "http://cn.engadget.com/2015/04/20/cortana-hack-for-android/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/68eb7f0c0bffb99f72c9f8de0e055744/200226076/cortanahero+copy_thumbnail.jpg\" />虽说微软之前已经承诺会将自己的语音助理 Cortana 带到其它平台，但来自 OrangeSec 的开发者，显然觉得自己动手要比坐着傻等更靠谱一些。他们日前成功开发出了一款名为 Portaña 的软件，它能通过代理与微软的服务器连线，从而达到在 Android 设备上与 Cortana 对话的目的。当然，作为非官方发布的作品，Portaña 的完成度并不会很高（比如说你必须要讲意大利语）。但普通的问答它都能应对，在正式版上线前，有这样的东西可以尝鲜玩玩总也是不错的嘛。...", 
+  "title": "已有高人将 Cortana 移植到了 Android 平台"
+ }
+]
