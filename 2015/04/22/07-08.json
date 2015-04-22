@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Wed, 22 Apr 2015 03:03:00 -0400", 
+  "link": "http://cn.engadget.com/2015/04/22/apple-os-x-rootpipe-security-flaw/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/beb05df05dd8369ec556a63750619c78/200914373/DSC01758_thumbnail.jpg\" />上月，苹果曾为 OS X Yosemite 推出一个用以修补严重漏洞的系统更新。但根据独立研究员的发现，苹果原来还没有完全堵塞所有漏洞。专门为 OS X 提供反恶意软体的网站 -- Objective-See 称一个名为 RootPipe 的后门程序在安装前述的更新后仍然可以入侵 Mac 电脑。它能获得存取权限的漏洞，会让黑客取得电脑的控制权，更可以放入恶意软体到系统之中。主站同事已经向苹果方面询问有关情况，收到官方回应后会马上跟进更新的。...", 
+  "title": "​研究员称苹果根本没有修正 OS X 的主要安全漏洞"
+ }
+]
