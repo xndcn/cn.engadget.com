@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Wed, 29 Apr 2015 23:00:00 -0400", 
+  "link": "http://cn.engadget.com/2015/04/29/android-ios-apps-on-windows-10/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/ff32c87f1d037289efc4c21a85492040/201929023/droidios10_thumbnail.jpg\" />在 Build 大会上，几乎把 Windows 10 余下的谜团都解决了。微软更发表了一个让不少开发者震撼的消息，就是他们将会简化把 Android 应用程序放到 Windows 上的程序。根据 Terry Myerson 的说法是 Windows Phone 将会有「Android 子系统」，让 Java 和 C++ 程序更容易在上面运行。而 iOS 应用程序的 Objective C 语言也可以透过微软的 Visual Studio 转换成完全兼容在 Windows 10 的格式，但新的 S...", 
+  "title": "​Android、iOS 和 Web App 将能更轻易移植到 Windows 10 上"
+ }
+]
