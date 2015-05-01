@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Fri, 01 May 2015 04:00:00 -0400", 
+  "link": "http://cn.engadget.com/2015/05/01/microsoft-azure-face-apis-predict-age/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/24b3c57d077cf9a21ec6bd51cc701ee6/201934731/OLD_thumbnail.jpg\" />别以为微软在 Build 大会上的东西都是专业人士的份儿，该公司刚开放了以 Azure API 建立的 How-Old.net，让使用者可以上传照片来让它猜猜（相中的）你的年纪。不过嘛... 我们主站同事上图的照片是在他 29 岁时所拍，但网站却认为他是 41 岁，要跟谁讨回失去的 12 年呢？而且为什么它不是直接使用 web cam 呢？这不是更准确吗？...", 
+  "title": "​微软也来猜一下你的年龄"
+ }
+]
