@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Sun, 03 May 2015 03:03:00 -0400", 
+  "link": "http://cn.engadget.com/2015/05/03/avert-robot-vehicle-extraction/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/f7601c2482d8b940799afdb6b04df9a9/201920962/avert_thumbnail.jpg\" />小机器人的威力真的不能小瞧。最近一个机器人开发团队向世人展示了一套简称为 Avert（Autonomous Multi-Robot System for Vehicle Extraction and Transportation）的小机械人组合，顾名思义，这些机器人就是可以自主地将一架载具移走。它们共有四只，每只负责将一个车轮升起，在四轮均被升起之后机器人就能同时地慢慢将车轮移走了，更强的是它们横向移动都是没有问题的。系统在得知轨迹路径、车轮类别和侦测到该地方的障碍物之后便能自动完成上述任务了。...", 
+  "title": "有没有想过你的失车是被四只机器人合力偷走？"
+ }
+]
