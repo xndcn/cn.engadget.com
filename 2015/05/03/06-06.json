@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Sun, 03 May 2015 02:03:00 -0400", 
+  "link": "http://cn.engadget.com/2015/05/03/sony-helps-with-installing-custom-roms/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/4a3fe86d7d7338d829f6013f9e35be1f/200254112/141006_Xperia_Z2a_T3_P2110416_thumbnail.jpg\" />义务为欧洲版 Sony 装置提供软体修改的 FPX 团队表示要为装置换 ROM 变得更容易了。他们指出 Sony 在被他们「骚扰」多年之后，终于肯公开一套特别的 bootloader，让装置能够直接 boot 进 recovery 的部份，其让用户可以直接使用任何基于 AOSP 开发的 recovery 映像档，这样安装其他 Android ROM 甚至是 Firefox OS 和 Ubuntu Touch 等第三方平台都会变得容易。不过目前这套 bootloader 有一个很大的限制，就是只支...", 
+  "title": "Sony 让大家更轻易地换掉手机的 ROM"
+ }
+]
