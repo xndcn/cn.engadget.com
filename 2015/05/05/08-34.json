@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Tue, 05 May 2015 04:30:00 -0400", 
+  "link": "http://cn.engadget.com/2015/05/05/mozilla-drops-http/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/dims-shared/dims3/GLOB/crop/630x399+0+18/resize/630x400!/format/jpg/quality/85/http://o.aolcdn.com/hss/storage/midas/835884ff5918205299e16eac8c1b8bc4/201178171/firefox-new-search_thumbnail.jpg\" />有不少互联网组织和政府在希望网站预设为加密，而非营利组织 Mozilla 也来表达相关的意见。他们正计划通过限制没有使用 HTTPS 的非加密网页的功能，鼓励 威吓 网站管理员为网页加密。Mozilla 的「鼓励」方案有两种方式，一是让 Firefox 和旗下产品只会接触到已加密的网站。但这方法会先咨询其使用者何时才会正式「永久停止接触非加密网站」。...", 
+  "title": "Mozilla：所有新网页功能都应该要求使用 HTTPS"
+ }
+]
