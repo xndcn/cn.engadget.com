@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Wed, 06 May 2015 22:00:00 -0400", 
+  "link": "http://cn.engadget.com/2015/05/06/apple-web-crawler/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/f4002d8fce5b68473858636e41dd3faf/200546690/siri_thumbnail.jpg\" />你知道吗？iOS 和 OS X 上的那些搜索结果，其实并非只基于来自 Google、微软等公司提供的服务，长久以来一直都有传闻的 Applebot 网络爬虫（crawler，用来抓取信息），终于在今天正式被官方证实了。苹果此举的目的，自然是为了改进 Siri、Spotlight 搜索的体验，而 Applebot 工作起来就跟 Google 的爬虫几乎一样，它也会寻找 robots.txt 文件，以此来确定在某网站上该排除哪些结果。\n\n当没有 Apple 特定的规则时，Applebot 就会依照 ...", 
+  "title": "苹果证实自己会用 Applebot 网络爬虫来改进 Siri、Spotlight 体验"
+ }
+]
