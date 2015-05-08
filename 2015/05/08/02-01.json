@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Thu, 07 May 2015 22:00:00 -0400", 
+  "link": "http://cn.engadget.com/2015/05/07/wordpress-xss-bug/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/dims-shared/dims3/GLOB/crop/2816x1859+0+116/resize/630x416!/format/jpg/quality/85/http://hss-prod.hss.aol.com/hss/storage/midas/b2a6a79421e8b4fdd4f0e15abf9fd194/201962059/2913018697_ccbb33e993_thumbnail.jpg\" />网站管理员注意了，如果你的网站是利用 Wordpress 作后台的话，根据网络保安公司 Sucuri 的说法，他们刚发现了一个让网站暴露在危险的漏洞。这会影响使用预设的 TwentyFifteen 主题和 JetPack 插件的网站，估计有超过一百万网站受到影响。此漏洞是来自于「genericons」的 Wordpress 套件，这会出现在以上两个插件的套件，包含了一个不安全的档案，会让网站暴露在跨网站的 scripting 漏洞。如果管理员不幸按到骇客安放的陷阱，网站就会归他所有了。\n\n幸好，...", 
+  "title": "​Wordpress 漏洞让过百万个网站都暴露在危险之中"
+ }
+]
