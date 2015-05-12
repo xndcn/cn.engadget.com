@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Tue, 12 May 2015 04:30:00 -0400", 
+  "link": "http://cn.engadget.com/2015/05/12/mediatek-helio-x20-deca-core-mobile-chip/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/ea066506ed05b518c3e32e5508add03e/201979430/MediaTek-Helio-X20-I-dont-think-it-is-this-chip_thumbnail.jpg\" />虽然说我们早该抛掉核心数愈多、效能就愈强的这种错觉，但至少联发科今天发表的 Helio X20 如果实作正确的话，或许还是有一定的优势的。相对于现代八核处理器常见的四大四小架构，Helio X20 的十颗处理器核心其实是分成了两颗以 2.5GHz 运作的 Cortex-A72 负责高负载、四颗以 2.0GHz 运作的 Cortex-A53 负责中等负载、及另外四颗 1.4GHz 的 Cortex-A53 负责低负载，这样两大四中四小的「Tri-Cluster」架构。换言之，就是在八核心的 X10...", 
+  "title": "联发科发表 10 核心的新 Helio X20 处理器"
+ }
+]
