@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Tue, 12 May 2015 21:00:00 -0400", 
+  "link": "http://cn.engadget.com/2015/05/12/firefox-38/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/69d9e3d58677c077cec9edb4ff3c0f19/201983517/Screen+Shot+2015-05-12+at+1.33.24+PM_thumbnail.png\" />因为 DRM 的关系，许多视频内容之前都需要安装 Silverlight 插件才能在 Firefox 中正常播放。不过从今往后，事情将变得不再那么麻烦，因为在最新的 Firefox 38 中，Mozilla 终于加入了 Adobe 的 CDM（Content Decryption Module）技术。这样一来使用者在 HTML5 下，不用额外安装什么东西也可以正常欣赏那些受 DRM 保护的视频了（比如说 Netflix）。\n\n当然，开发团队也考虑到了一些反 DRM 机制用户的需求，为此他们特地准...", 
+  "title": "Firefox 终于用上 CDM 技术了"
+ }
+]
