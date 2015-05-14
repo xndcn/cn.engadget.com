@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Thu, 14 May 2015 04:00:00 -0400", 
+  "link": "http://cn.engadget.com/2015/05/14/venom-virtual-server-bug/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/dims-shared/dims3/GLOB/crop/3000x1687+0+0/resize/630x354%21/format/jpg/quality/85/http://hss-prod.hss.aol.com/hss/storage/midas/8ecc03e487fa9e48251ddef740fb6ab2/201987999/146689092_thumbnail.jpg\" />去年爆出的 Heartbleed 事件曾一度让大家人心惶惶，没想到事隔一年，又冒出来一个名叫 VENOM 的漏洞，而它的危险性，可能比「心脏流血」还要有过之而无不及。VENOM 是「Virtualized Environment Neglected Operations Manipulation（虚拟环境中被忽略的执行操作）」的缩写，它存在于虚拟平台的软驱当中。在其帮助下，骇客将可以经由虚拟机直接进入数据中心的整个存储网络，这样一来，就算是被分开保存在多个地方的敏感数据，也都会有被窃取、利用的可...", 
+  "title": "VENOM：比 Heartbleed 还危险的虚拟机漏洞"
+ }
+]
