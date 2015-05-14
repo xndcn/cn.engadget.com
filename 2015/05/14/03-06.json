@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Wed, 13 May 2015 23:00:00 -0400", 
+  "link": "http://cn.engadget.com/2015/05/13/chromium-4k-60fps-video/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/80dd65a0ae715bde640eeb4c360bcc0a/201984911/chrome-4k-video-2015-05-13-01_thumbnail.jpg\" />YouTube 上的 4K 60fps 视频看起来很赞，但前提是，你必须有超快的网络，以及一台性能足够强劲的电脑。对于前者，Google 暂时还没有足够的能力去改进，但后一项，还是能找出些优化办法的。比如说，他们今天就专门为 Chrome 加入了一套新的视频渲染算法（确切地说，是要用最新版 Chromium 然后开启特定选项），在它的帮助下，你的浏览器将可以更轻松地应对高分辨率视频。至于具体效果如何，各位不妨点开继续阅读用里面的短片来试验一下啰。...", 
+  "title": "新算法让 Chrome 更轻松地播放 YouTube 4K 视频"
+ }
+]
