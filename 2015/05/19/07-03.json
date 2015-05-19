@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Tue, 19 May 2015 03:00:00 -0400", 
+  "link": "http://cn.engadget.com/2015/05/19/microsoft-vc3/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/17a6832faffff3c4a4830f7493aab899/201323288/google-microsoft-vulnerability-2015-01-02-01_thumbnail.jpg\" />虽说目前你可以通过多种手段来保护自己的线上文件，但问题是，它们在你真正使用这些文件时，多半都会失去效果。那么，当你在操作过程中，如果有人跑来清除数据的话该怎么办？微软相信，自己最新的 VC3（Verifiable Confidential Cloud Computing，可信云端运算）系统可以帮大家解除后顾之忧。据称它能在每个环节都保证你的数据安全，当你打开相关内容时，数据会被发送到一个只对你开放的锁定设备。理论上说，这便能杜绝任何外来的侵扰（比如说同事、云端服务商或是政府监控）。\n\n目前微软还...", 
+  "title": "微软的 VC3 系统让你的在线数据更加安全"
+ }
+]
