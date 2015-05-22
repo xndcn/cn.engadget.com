@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Fri, 22 May 2015 04:00:00 -0400", 
+  "link": "http://cn.engadget.com/2015/05/22/firefox-suggested-tiles/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/b49344d5c91426533214a77336c52261/202027599/suggested-tiles_thumbnail.jpg\" />在来周开始，Firefox beta 的使用者将会在开启新空白标签页时看到「建议砖块（Suggested tiles）」。它跟在 2014 年推出的目录砖（Directory tiles ）不同，在上图的左下角就已经解释了它是基于使用者的浏览器历史而出现的广告。Tech Crunch 研究其代码后发现这功能会根据浏览历史资料投放广告，打比方说，Firefox 会认为使用者经常浏览 Engadget 即代表他对科技有兴趣。...", 
+  "title": "​Firefox 将会根据你的浏览历史提供「建议砖」广告"
+ }
+]
