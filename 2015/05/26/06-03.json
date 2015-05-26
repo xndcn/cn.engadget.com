@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Tue, 26 May 2015 02:00:00 -0400", 
+  "link": "http://cn.engadget.com/2015/05/26/brett-deep-learning-robot/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/abfcea39d3376b17e059fd5d8ca9b435/202038229/brett-robot-uc-berkeley_thumbnail.jpg\" />我们对一般机器人的认识，如果它们要加入新功能就需要加入新程序，现在可能是看视频或是手柄手教导等的被动式学习。柏克莱加利福尼亚大学（UC Berkeley）的 BRETT 就让机器人利用基于神经网路的深度学习算法，以 Trial and Error 的方式主动学习。例如是组装玩具时，机器人会不停尝试，直至它清楚组装的原理。理论上，这机器人不需要再依赖人手的更新，而是给足够时间让它学习就可以了。...", 
+  "title": "这台​机器人跟人类一样，懂得从错误中学习"
+ }
+]
