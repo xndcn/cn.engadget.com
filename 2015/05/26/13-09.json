@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Tue, 26 May 2015 09:00:00 -0400", 
+  "link": "http://cn.engadget.com/2015/05/26/opera-max-android-compresses-wifi/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/9b7f1c32b1933c21279062981e8d13d/202036550/opera-max-android-wifi_thumbnail.jpg\" />Opera 推出数据压缩技术的初衷，是为了帮用户节省宝贵的移动数据用量。但在某些场合，Wi-Fi 其实也未必能尽情使用（比如说连上公共热点但抢不到速度），有鉴于此，Opera 在日前更新的 Android 版 Opera Max 中，加入了在 Wi-Fi 环境中也会自动对网页数据进行压缩的功能。当然，使用者可以分开对 Wi-Fi 和移动数据设定、管理，如果某个应用特别吃流量的话，你也可以把它单独「隔离」。如果你有需要的话，不妨去更新试试效果吧。...", 
+  "title": "Android 版 Opera Max 在用 Wi-Fi 时也能节省数据用量"
+ }
+]
