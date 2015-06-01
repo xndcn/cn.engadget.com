@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Mon, 01 Jun 2015 06:00:00 -0400", 
+  "link": "http://cn.engadget.com/2015/06/01/ARM-iot-subsystem/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/45f6fff458ac08a592aeadf3dce157d7/202065705/ARM+Dipesh+Patel1_thumbnail.jpg\" />ARM 在数年前已经开始推动 IoT（物联网）的发展，因为它将会是另一个有大量低功耗芯片需求的新市场。该公司继去年发布了物联网平台，今天在 Computex 则带来了新的 IoT 子系统，让装置制造商、芯片制造商能顺利使用其 Cortex-M 处理器。基本上，新的子系统能帮助半导体公司更容易使用 ARM 的设计来制造物联网装置适用的芯片并整合到 ARM 的 mbed 物联网平台。\n\n另外，ARM 也发表了新的 Cordio 低功耗无线电，只需要 1 瓦特驱动并有着蓝牙 4.2 连接功能。ARM ...", 
+  "title": "​ARM 多方面推行物联网发展"
+ }
+]
