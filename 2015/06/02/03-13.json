@@ -1,0 +1,20 @@
+[
+ {
+  "date": "Mon, 01 Jun 2015 23:10:00 -0400", 
+  "link": "http://cn.engadget.com/2015/06/01/ux305-core-i-minor-upgrade/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/5aaec1e854f5a3205be8d47982554dc7/202071489/ASUS_150602__DSC1505_thumbnail.jpg\" />华硕先前推出的 UX305FA 很大胆地采用了 Core M 处理器的无风扇设计，虽然目前试用的感觉（评测中...）Core M 其实就一般的工作机来说是足够的，但一方面是华硕了解 Core M 是一个新的品牌，不若 Core i 那么为人所知；二方面是 Core M 确实在表现上有先天的不稳定性 -- 其速度完全取决于散热状况，所以短时间的高负荷可以快速完成，但长时间的中量负荷反而会因为温度上升而被自动降频 -- 所以华硕还是决定以 UX305 的基本设计，再推出 Core i 的版本。\n\n不...", 
+  "title": "华硕 UX305 推出采用正规 Core i 处理器的小改版版本"
+ }, 
+ {
+  "date": "Mon, 01 Jun 2015 23:00:00 -0400", 
+  "link": "http://cn.engadget.com/2015/06/01/facebook-pgp-keys/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/dims-shared/dims3/GLOB/crop/3762x2592+0+0/resize/630x434!/format/jpg/quality/85/http://hss-prod.hss.aol.com/hss/storage/midas/ece705e808bb3a50412a07933dedcc1d/200976646/168145139_thumbnail.jpg\" />在 Facebook 这种几乎能获取使用者所有个人个人资料的地方（虽然大部份都是自行上载），保密性是非常重要的，所以这社交平台宣布让使用者为自己的个人资料以 PGP 加密，使得由 Facebook 寄出给使用者的邮件都会经过加密。换句话说，只有使用者能看到有关邮件的内容。如果你是怀疑新加密方式的合法性和可靠性，Beta 阶段测试者 Runa Sandvik 的名字可能会给你多一点信心，因为她是安全专家和 Tor Project 的核心人物呢。...", 
+  "title": "​Facebook 将以 PGP 寄出加密电邮给你"
+ }, 
+ {
+  "date": "Mon, 01 Jun 2015 22:54:00 -0400", 
+  "link": "http://cn.engadget.com/2015/06/01/computex-2015-open/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/8bca75656f6fa00214fdfa359412cd81/202071433/Computex2015_thumbnail.jpg\" />经过了昨天展前一大堆产品发表加上大雨的洗礼，在今天 Computex 首日老天爷赏了我们一个大太阳的天气，迎接台湾这个每年一度的科技盛会。而就在我们准时进场的同时，也代表各位读者即将抢先看到今年一系列的有趣产品报道，敬请各位锁定我们 Engadget 中文版的报道，一起看看有哪些很有特色的科技玩意将出现在这次的展场当中啰。在此我们准备了一些还没有很多人的展场照片，各位可以通过图集抢先看看今年的展场气势如何。\n...", 
+  "title": "Computex 2015 我们来了！"
+ }
+]
