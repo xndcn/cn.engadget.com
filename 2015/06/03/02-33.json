@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Tue, 02 Jun 2015 22:30:00 -0400", 
+  "link": "http://cn.engadget.com/2015/06/02/mac-firmware-exploit/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/4ea69e4beba8d30558af2546c5b6f5ec/200077888/mbair_thumbnail.jpg\" />根据 OS X 保安专家 Pedro Vilaca 的发现，一个针对旧款 Mac 的新漏洞会让骇客在机器从睡眠模式唤醒后夺取它的控制权，即使机器经格式化后也逃不了。漏洞出现的原因是 Mac 的保安机制并未能在机器唤醒后马上启动防护，让 Mac 在这短时间段完全暴露在危险之中。而且它不需要像 ThunderStrike 般需要物理接触，只需要透过 Safari 或其他方式遥控侵入。...", 
+  "title": "​可怕漏洞让骇客即使在格式化后也能控制你的 Mac"
+ }
+]
