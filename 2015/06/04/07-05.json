@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Thu, 04 Jun 2015 03:00:00 -0400", 
+  "link": "http://cn.engadget.com/2015/06/04/windows-ssh-support/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/4e8104e22620635fd4a122277e3b4806/202079726/linux-penguin-ap-photo_thumbnail.jpg\" />虽然 Windows 跟 Linux 之间的战争还没有完结，但前者好像释出了一点善意。微软的 PowerShell 团队正研究加入对 SSH 的支持，好让 Windows 系统和 Linux 系统更容易以遥控方式控制对方。因为 SSH 对于 Windows 世界来说，是选择性加入的功能。微软部门经理 Angel Calvo 称这是因为他们希望照顾「为数不多」希望在 Windows 使用 SSH 的使用者，所以着手研究简化并紧密整合至 Windows 系统。不过这功能的上线日期仍是未知数。...", 
+  "title": "​Windows 将更容易遥控 Linux 电脑"
+ }
+]
