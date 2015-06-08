@@ -1,0 +1,14 @@
+[
+ {
+  "date": "Mon, 08 Jun 2015 15:44:00 -0400", 
+  "link": "http://cn.engadget.com/2015/06/08/apple-homekit-wwdc-update/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/e8a3016fb7b6c3efea4dfc13714da286/202102990/vlcsnap-2015-06-08-19h12m58s399_thumbnail.png\" />在 HomeKit 发布一年后，Apple 对于智慧家庭的定义似乎渐渐清晰。在今天的 WWDC 大会上，该公司为其加入了新的支持类别，包括保全系统、智慧锁以及一氧化碳侦测器，并能支持直接通过 iCloud 控制所有 HomeKit 设备的云端控制选项。此外，未来数个月内 Elgato、Ecobee、Lutron、iHome 与 Insteon 都将有相关的产品推出，也将支持 ZigBee 与 Z-Wave 标准，所以我们才能看到 Philips 的 Hue 智慧灯泡将在秋季加入此阵容的消息。\n\n...", 
+  "title": "苹果 HomeKit 加入保全系统与更多感测器支持"
+ }, 
+ {
+  "date": "Mon, 08 Jun 2015 15:37:00 -0400", 
+  "link": "http://cn.engadget.com/2015/06/08/apple-carplay-vehicle-apps/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/8c2229bf3e77913e82639492909f93b2/202103027/carplay_thumbnail.jpg\" />在 WWDC 2015 的 keynote 环节中，其实 CarPlay 也占据了一席之地呢。这款车载系统在未来的更新之后，可控制的应用范围将进一步扩大。这就意味着厂商自制的软件将能更好地搭配 CarPlay 来使用，像是监测燃料功率之类的功能，应该很容易就能实现。除此之外，Tim Cook 在台上还再次强调，CarPlay 与车辆系统间将可以无线连接（iOS 8.3 中便已支持），不喜欢看到车里电线密布的朋友，应该很乐意见到这一点吧。...", 
+  "title": "苹果的 CarPlay 将能控制更多车载应用"
+ }
+]
