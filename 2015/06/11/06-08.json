@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Thu, 11 Jun 2015 02:02:00 -0400", 
+  "link": "http://cn.engadget.com/2015/06/11/ios-8-4-is-coming-will-protect-against-the-shutdown-bug/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/dims-shared/dims3/GLOB/crop/5616x3744+0+0/resize/630x420!/format/jpg/quality/85/http://hss-prod.hss.aol.com/hss/storage/adam/acebac353309b1dfc892cfd7f901f0e7/169677050_thumbnail.jpeg\" />Apple 在昨天起向开发者发布了第四个 beta 版本的 iOS 8.4，其中修正的内容包括解决因为包括特定 Unicode 内容的短讯让设备关机或重启的漏洞，这原因主要因为 iOS 的横幅通知未能正确处理内容有关。iOS 8.4 预计在月底脱离 beta 阶段，正式向公众推送。也刚好是 Apple Music 在 6 月 30 日正式推出前。当然在更新推出前，大家可参阅 Apple 提供的暂时解决方法。...", 
+  "title": "​iOS 8.4 即将上线，将解决短信关机漏洞"
+ }
+]
