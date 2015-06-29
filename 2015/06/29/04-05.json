@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Sun, 28 Jun 2015 23:58:00 -0400", 
+  "link": "http://cn.engadget.com/2015/06/28/google-chrome-touchbot/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/eb09c051e8dbd5de5446775bac0cb2e4/202205053/chrome-touchbot-google_thumbnail.jpg\" />为了解决 Android 手机的延迟问题，身为开发者的谷歌找来的一「位」名为 Chrome TouchBot 的机器人，它是由 OptoFidelity 制造出来检查 Android 和 Chrome OS 装置的触控萤幕的延迟程度。在所提供的片段中可见，机器人透过会模拟「点」、「扫动」萤幕等动作，在测试网页中分办问题是来自代码或是硬体。所以它不光是检查延迟的工具，还能测试软体更新带来性能提升的幅度。相信日后的新版本 Android 系统将可借助它的力量来达到更流畅的使用体验。...", 
+  "title": "谷歌是这样检查 Android 手机的延迟问题"
+ }
+]
