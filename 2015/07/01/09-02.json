@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Wed, 01 Jul 2015 05:00:00 -0400", 
+  "link": "http://cn.engadget.com/2015/07/01/codephage-fixes-bugs-automatically/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/532ebeb1f9217cc178566b068d7aba76/202218173/codephage-jose-luis-olivares-mit_thumbnail.jpg\" />编程员们很快就可以不用在茫茫 Code 海中寻找漏洞的源头并急着修复它，因为 MIT 的开发团队建立了一套名为 CodePhage 的系统，它能自动借鉴其他应用程序并填补漏洞。这工具会查看其他应用程序的在安全度的表现，并找一个最好的来应用至自身软件。最厉害的是它能跨平台参考，能尽取其他编程语言的优势，而且能检查补丁的效果是否一如使用者预期的。虽然系统还在早期开发阶段，但希望不久将来，我们就不会再听见某某软件因漏洞而让使用者资料被泄了。\n\n[图片来源：Jose-Luis Olivares/MIT]...", 
+  "title": "​智能软件懂得以「他山之石」来修补漏洞"
+ }
+]
