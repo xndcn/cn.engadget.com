@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Fri, 10 Jul 2015 08:00:00 -0400", 
+  "link": "http://cn.engadget.com/2015/07/10/smartphone-mode-can-speed-up-devices-and-lengthen-battery-life/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/dims-shared/dims3/GLOB/crop/2121x1214+0+59/resize/960x550%21/format/jpg/quality/85/http://hss-prod.hss.aol.com/hss/storage/midas/992e29709a9ae93677b7a59e619a0ae5/200467727/483612017_thumbnail.jpg\" />对于手机、平板之类的设备来说，不管其买来时有多贵，在越用越久后，难免会出现速度变慢、续航变短的问题。为了改善这种情况，韩国汉阳大学（Hanyang University）的研究者们开发出了名为 WALDIO（Write Ahead Logging Direct IO）的新技术。具体来说，它是一种能增强续航力，同时靠减少数据记录量来加快运行速度的全新使用「模式」。「这项技术的核心在于只记录很小一部分数据。」主管开发的 You-jip Won 教授这样说道，「在其帮助下，就算是便宜的闪存也能用很长时...", 
+  "title": "韩国研究者发现手机使用新「模式」能带来更强效能及续航"
+ }
+]
