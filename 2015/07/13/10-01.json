@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Mon, 13 Jul 2015 06:00:00 -0400", 
+  "link": "http://cn.engadget.com/2015/07/13/mit-flash-only-supercomputers/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/8dad5670318c2f949dd9da6d23cc290/202280822/germany-supercomputer-ap-photo_thumbnail.jpg\" />说起一些服务器、超级电脑等的高昂造价，成本除了处理器之外，原来高速 RAM 所占的部分也不少，因为要保持系统运作顺畅就必需要大量且高速度的贵价 RAM。但来自 MIT 的研究人员就在研究一个比较能负担方法来组成超级电脑，其方法就是利用服务器网路，它能在提供相若性能的情况下，降低快闪存储设备的速度要求，也就是更便宜了。新方法的窍门是让一部分资料先在快闪设备的控制器上处理，从而减低处理器的工作压力。在测试中，以新方法组成一套有 10TB RAM 的 40 台服务器组合和传统方法组成 20TB RAM...", 
+  "title": "用更少 RAM、更便宜的超级电脑快将实现了"
+ }
+]
