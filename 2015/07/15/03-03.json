@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Tue, 14 Jul 2015 23:00:00 -0400", 
+  "link": "http://cn.engadget.com/2015/07/14/wifi-aware/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/f9c14e5c256889f0d700bc0ea4501d70/202291661/nyc-wifi-ap-photo-960_thumbnail.jpg\" />Wi-Fi 装置之间在使用者连接它们之前，几乎都是完全独立的，所以这也限制了 iBeacons 一类的小装置从蓝牙推展至 Wi-Fi 的可能性。但 Wi-Fi 联盟新提出的 Wi-Fi Aware 则将打破僵局，因为这技术能让装置间在侦测到对方存在时交换讯息，让使用者能更容易找到想要的装置。例如说寻找多人连线游戏的对手，或像区域推送般接收到附近心仪商店的优惠通知。重要的是新技术并不会对续航力带来影响，虽然 Wi-Fi Aware 会在背景运行，但它将会使用共同的「心跳（heartbeat）」同步...", 
+  "title": "​Wi-Fi 装置将懂得在连接之前互相沟通一下"
+ }
+]
