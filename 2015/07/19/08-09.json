@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Sun, 19 Jul 2015 04:01:00 -0400", 
+  "link": "http://cn.engadget.com/2015/07/19/antenna-art/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/174112762ea3e8440c09fc1e8c825659/202335029/3048593-poster-p-2-the-cure-for-police-brutality-a-baton-that-texts-their-moms_thumbnail.jpg\" />俄罗斯艺术家 Dmitry Morozov 眼见世界各地的警队都有太多残酷行为，几乎每日都能在新闻中看到。而且标准的规范并不能控制有关行为，所以他决定以艺术的方式来阻止有关行为。上图就是他所制作的艺术品「Antenna」，警棍手柄的上方配备了一个很简单的电子设备，其结合了一个 Arduino 母板、压力感应器和 GSM 模块。当设备感应到警棍打在人或物件上的话，便会向警察的母亲发出一个「MOM, I HIT A MAN!!」短讯（妈，我打了一个人！！），而且每一击都会发出一个短讯。\n\n当然地，世...", 
+  "title": "防止警察滥用警棍的良方：告诉他们的母亲大人？"
+ }
+]
