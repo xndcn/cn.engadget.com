@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Mon, 20 Jul 2015 22:30:00 -0400", 
+  "link": "http://cn.engadget.com/2015/07/20/windows-opentype-security-fix/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/4febfb795f22fb86579fb432a30ecc0e/202078250/Dell+XPS+computex+full+bleed_thumbnail.jpg\" />不管你是在使用如果版本的 Windows 系统，都需要快点去检查自动更新。因为微软刚释出了一个紧急的突发性安全性补丁，用以修补电脑如果打开嵌入了 OpenType 字体的网页，就会被骇客入侵电脑的漏洞。这漏洞出现在任何版本的 Windows 系统，远至 Vista（因为之前的 XP 已经不会再有支持了）到最新的预览版 Windows 10 都会接收到补丁。有传该漏洞的发现是从 Hacking Team 的流出得知，虽然微软强调没有迹象显示有骇客利用漏洞发起大规模攻击，但防患未然还是需要的。...", 
+  "title": "​Windows 出现跨版本紧急安全性更新"
+ }
+]
