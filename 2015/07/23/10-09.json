@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Thu, 23 Jul 2015 06:04:00 -0400", 
+  "link": "http://cn.engadget.com/2015/07/23/twitch-starts-dumping-flash-for-html5/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/fa2927ce1b095cdca3d7b2c17b64f0e5/202355658/VideoPlayer_Redesign_Blog_thumbnail.jpg\" />跟着 YouTube 等一众厂商的脚步，现在连游戏直播服务 Twitch 也\"开始\"弃用 Flash 改用 HTML5 了。根据官网的消息，Twitch 目前已经完成了第一步骤，先将旧的 Flash 模块改成了 HTML5 + Javascript 的组合，重新设计了播放控制界面。既然说到这是第一步，这代表了其实 Twitch 的视频本身还是以 Flash 为基础的架构，所以接下来才是要渐渐地将播放器完全置换为从里到外都是 HTML5 基础。新的界面已经可以在 Channel 页面上看到，并且已...", 
+  "title": "Twitch 也开始转用 HTML5 了，Flash 再见！"
+ }
+]
