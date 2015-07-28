@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Tue, 28 Jul 2015 05:19:00 -0400", 
+  "link": "http://cn.engadget.com/2015/07/28/android-stagefright-mms-video-exploit/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/415ff7a041d1ab7121e6858ff48e60ba/202374237/hangouts-icon-android_thumbnail.jpg\" />如果你的 Android 手机突然收到一段视频消息就要小心了。Zimperium 的安全研究员发现了一个漏洞，能让骇客通过传送含有恶意软件的 MMS 视频讯息，从而控制受害者的手机。受害者甚至会因为消息应用程序会自动下载视频，让手机被骇而不自知。虽说原生的消息是不会自动下载视频，但 Hangout 的一些有关视频的预载设定却会带来危机。...", 
+  "title": "Android 漏洞让黑客通过 MMS 视频攻击你的手机"
+ }
+]
