@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Thu, 30 Jul 2015 07:35:00 -0400", 
+  "link": "http://cn.engadget.com/2015/07/30/android-matroska-video-security-flaw/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/e297c3398efdc015ab3d42d69dcc3b42/202391665/nexus-6-irl-960_thumbnail.jpg\" />Android 在跟视频有关的安全性漏洞愈来愈多，Trend Micro 发现了一个不正常的 Matroska 档案（常见为 .mkv 档案）不管在应用程序或是网页上播放，均会导致 Android 系统的 mediaserver 服务停止，最后更会让手机当机。当机的影响不单单是让界面失去反应，还会把所有通知和来电静音。如果手机有设置密码锁的话，使用者更将不能进入解锁页。骇客这时候就会乘着使用者㥬惶无助之际，要求付钱才能为手机机解除问题。...", 
+  "title": "Android 安全性漏洞将会让手机「半休克」"
+ }
+]
