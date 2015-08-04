@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Tue, 04 Aug 2015 10:00:00 -0400", 
+  "link": "http://cn.engadget.com/2015/08/04/osx-sudoers-flaw/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/a431439daf276f85e2d0be41e80cc6ba/202416904/MalwareEntranceOSXYosemite_thumbnail.jpg\" />在最新的 OS X 版本中，有着一个名为 Sudoers 的隐藏档案成为严重漏洞，可让骇客无需得知 Mac 电脑的密码即可攻击系统。这是因为该文件中包含了可以控制电脑系统的权限，不幸地，因为 Yosemite 改变了文件的位置，让它更容易让恶意软体登陆其中，并获得权限。如果使用者意外地在 Mac 上运行恶意软体，骇客将可获得权限，并把垃圾软体安装至你的电脑。...", 
+  "title": "OS X 严重漏洞，让骇客无需密码即可攻击 Mac 电脑"
+ }
+]
