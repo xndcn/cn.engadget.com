@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Tue, 04 Aug 2015 07:01:00 -0400", 
+  "link": "http://cn.engadget.com/2015/08/04/mac-firmware-worm/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/dims-shared/dims3/GLOB/crop/1200x668+0+0/resize/960x534!/format/jpg/quality/85/http://o.aolcdn.com/hss/storage/midas/867654fa0ee4a0f80eb9cc9be58f4e6c/202414492/0803_firmware_thumbnail.jpg\" />Mac 系统因为其相对封闭的特性，让它一直都被认为在安全上有较大的保障，可是在固件层面却不完全是这样。根据 Black Hat 组织成员 Xeno Kovah、Trammell Hudson 和 Corey Kallenberg 在示范一种名叫「Thunderstrike 2: Sith Strike」的病毒片段中，可见 Mac 和 Windows 其实不遑多让。这漏洞尤其麻烦的特性是，它只要使用者点击特定链接或打开钓鱼邮件即会触发。...", 
+  "title": "研究员创造新型蠕虫病毒，让 Mac 无声无息地被感染"
+ }
+]
