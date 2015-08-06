@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Thu, 06 Aug 2015 07:00:00 -0400", 
+  "link": "http://cn.engadget.com/2015/08/06/apple-will-patch-the-dyld-bug-in-its-next-os-x-release/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/dims-shared/dims3/GLOB/crop/3962x2266+0+0/resize/1200x686%21/format/jpg/quality/85/http://hss-prod.hss.aol.com/hss/storage/midas/bb7d9428e39c3a92f57b583b359be648/202426201/b54004ab69374cda9d928f09bf0dff39_thumbnail.jpeg\" />The Guardian 今天早些时候报道称，苹果将在 OS X 10.10.5 版的更新中，修复危险性很大的 DYLD「权限提升（privilege escalation）」漏洞。据悉该漏洞能让程序在不使用管理员级密码的前提下，以对应权限正常运行。而且跟已经有一定解决办法（虽未彻底修复）的 Thunderstrike 2 蠕虫病毒不同的是，这个 DYLD bug 曾被爆出过问题，但一直以来都没有得到很好的处理。不管怎么说，至少它现在终于是引起了 Apple 的重视，那么，就等升级以后再来看看效...", 
+  "title": "Apple 将在下一版 OS X 更新中修复 DYLD 漏洞"
+ }
+]
