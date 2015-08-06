@@ -1,0 +1,14 @@
+[
+ {
+  "date": "Thu, 06 Aug 2015 04:00:00 -0400", 
+  "link": "http://cn.engadget.com/2015/08/06/samsung-montly-android-security-fixes/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/dims-shared/dims3/GLOB/crop/3000x1999+0+0/resize/1200x800!/format/jpg/quality/85/http://hss-prod.hss.aol.com/hss/storage/midas/14fc7f0d7634e651e8be5eba08f032de/202425854/469178932_thumbnail.jpg\" />三星为了对抗愈来愈多针对 Android 设备的恶意程序和漏洞，他们公布了会每月均会通过 OTA 方式推送安全性更新，保障旗下设备的安全。三星称他们为了解决 Android 的 Stagefright 漏洞时，跟电讯运营商合作并快速推送了补丁。\n\n所以该公司会以此机制来继续推送更新，跟运营商和其他合作伙伴合作，提升对 Android 设备漏洞的反应速度。三星的执行副总裁 Dong Jin Koh 称因为软件洞的出现方式层出不穷，建立一套快速反应机制来及时保护设备是非常重要的。...", 
+  "title": "三星将每月为旗下 Android 设备提供安全性更新"
+ }, 
+ {
+  "date": "Thu, 06 Aug 2015 03:21:00 -0400", 
+  "link": "http://cn.engadget.com/2015/08/06/qualcomms-snapdragon-820-specs-leak-35-faster-than-810/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/dims-shared/dims3/GLOB/crop/2800x1863+0+0/resize/1200x798!/format/jpg/quality/85/http://hss-prod.hss.aol.com/hss/storage/midas/26df937cc47615d70d48f8854d9b4c6/202426394/8585a1488e4549e6bc448b7ae64cc6b0_thumbnail.jpeg\" />高通的下一代旗舰型号移动处理器 Snapdragon 820 的神秘面纱终于要被揭开了，根据分析师潘九堂在微博上贴出的详细产品信息透露，预计将会在来月正式登场的 S820 将会采用新的 Hydra 处理器，性能比 S810 高出 35%、Adreno 530 图像处理器也有 40% 的性能提升和减少 30% 的功耗。芯片制程终于由 20nm 提升至 14nm，赶上了 Exynos 处理器的脚步 -- 不知道能不能引出三星更强的处理器？。但资料中并没有提及处理器会否针对解决在不同 OEM 厂商手上...", 
+  "title": "高通下一代旗舰产品性能曝光：比 S810 快 35%！"
+ }
+]
