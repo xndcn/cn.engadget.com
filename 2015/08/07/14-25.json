@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Fri, 07 Aug 2015 10:18:00 -0400", 
+  "link": "http://cn.engadget.com/2015/08/07/firefox-security-flaw-patched/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/886c59c3e1edd1ba70463698ba1fbde8/202436685/mozilla-security-hole-2015-08-07-01_thumbnail.jpg\" />昨天，有人在一家俄罗斯新闻网站的广告内发现了一个严重的 Firefox 漏洞，据称它会绕过浏览器的「源头政策（origin policy，第一道安全防线）」，植入恶意 javascript 脚本，窃取设备上的敏感数据并将其上传至位于乌克兰的服务器。不过按照 Mozilla 的说法，这个漏洞所带来的风险主要是「针对开发者」，它瞄准的都是浏览器和 FTP 配置文件，而且攻击的时候「不会在设备上留下痕迹」。\n\n据称目前该漏洞只会影响到 Windows 和 Linux 电脑，Mac 暂时还比较安全。当然...", 
+  "title": "Firefox 爆出了一个新漏洞，但所幸已经被补上了"
+ }
+]
