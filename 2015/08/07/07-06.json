@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Fri, 07 Aug 2015 03:00:00 -0400", 
+  "link": "http://cn.engadget.com/2015/08/07/android-certifigate/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/dims-shared/dims3/GLOB/crop/630x465+0+0/resize/1200x886!/format/jpg/quality/85/http://o.aolcdn.com/hss/storage/midas/743de46014bcc8e297115a9205db6b11/200911876/sony-xperia-z3-compact-465_thumbnail.jpg\" />Check Point 的研究员在 Black Hat conference 上展示了一系列出现在智能设备、汽车和滑板的 Android 安全性漏洞。其中名为 Certifi-gate 的漏洞更是在所有 OEM 厂商的设备中都有出现，它让第三方程序插件通过 Remote Support 得到存取权限，控制设备的屏幕和使用 OEM 发出的授权证书。...", 
+  "title": "​研究员发现能完全得到 Android 手机控制权的严重漏洞"
+ }
+]
