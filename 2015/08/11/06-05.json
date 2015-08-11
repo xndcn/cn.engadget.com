@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Tue, 11 Aug 2015 02:03:00 -0400", 
+  "link": "http://cn.engadget.com/2015/08/11/3d-printed-rubber-band-auto-gun/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/ffcfbd42a022157404defe676136254d/202451443/rubberbandgun-1200_thumbnail.jpg\" />如果你怕暂离办公桌之时被同事恶搞的话，可以参考上图这个瑞士工程学生 Kevin Thomas 的发明。它是一把橡皮筋机枪，枪身是 3D 打印出来，配合了一个 Arduino 母板和一个经 Thomas 自行修改的开源 Project Sentry Gun 软件。在其他人走进这枝枪的感应范围之时就会发射橡皮筋（可上弹六发）。假如想主动攻击的话，则可切换至手动模式，以 joystick 来控制。想自己弄一把的话就去引用来源，Thomas 把所需零件和 3D 打印档都分享出来了。...", 
+  "title": "有人打印了一枝橡皮筋机枪来保卫办公桌"
+ }
+]
