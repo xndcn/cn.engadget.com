@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Thu, 13 Aug 2015 05:01:00 -0400", 
+  "link": "http://cn.engadget.com/2015/08/13/dropbox-usb-key-security/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/f49f62cc982f26c5df2265d3025a5c1f/202463172/dropbox-usb-key_thumbnail.jpg\" />如果你不喜欢经手机讯息接收双重认证安全码作为登录 Dropbox 之途径的话，现在有多一个选择了。该公司现在已容许用户以插入 U 盘以作认证之用，前题是有关 USB 是符合 FIDO 的 Universal 2nd Factor（U2F）标准，而且目前只限使用 Chrome 浏览器。如果两个条件都不符合的话，那则只能用回较传统的手机认证噜～...", 
+  "title": "Dropbox 也支持以 U 盘来解锁"
+ }
+]
