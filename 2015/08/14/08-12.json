@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Fri, 14 Aug 2015 04:00:00 -0400", 
+  "link": "http://cn.engadget.com/2015/08/14/stagefright-patch/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/dims-shared/dims3/GLOB/crop/630x355+0+31/resize/1200x676!/format/jpg/quality/85/http://o.aolcdn.com/hss/storage/midas/743de46014bcc8e297115a9205db6b11/200911876/sony-xperia-z3-compact-465_thumbnail.jpg\" />现在看来在 Android 系统出现的 Stagefight 漏洞并不是那么容易解决，因为根据 Exodus Intelligence 研究员的发现，由 Google 发出的补丁并没有完全修复漏洞。研究员经过电邮向我们透露：「总结来说，Stagefright 漏洞仍然有效，所推出的补丁是不完善的。我们仍能通过这漏洞影响着超过 9.5 亿台 Android 设备。」。而有关补丁出现的问题已经向 Google 回报。...", 
+  "title": "要修复 Stagefright 漏洞原来不是那么简单..."
+ }
+]
