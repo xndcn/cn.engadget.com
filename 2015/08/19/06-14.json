@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Wed, 19 Aug 2015 02:06:00 -0400", 
+  "link": "http://cn.engadget.com/2015/08/19/microsoft-patches-ie-flaw/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/38bceb06353f204e47234994e525578d/202495840/internet-explorer-flickr_thumbnail.jpg\" />​微软刚释出了一个紧急更新来修补存在于 Internet Explorer 的漏洞，防止骇客藉此存取系统。这漏洞是由谷歌研究员 Clement Lecigne 发现的，骇客可以建立一个相容于网页的零时差漏洞，只要受害者点击附在邮件或即时讯息上的 URL 即会被攻击。骇客将会得到跟受害者同样的系统存取权，如果打开 URL 的帐户是系统管理员，就等同把电脑的所有存取权限交给骇客了，他们将可以在电脑上安装恶意软体和盗取资料。...", 
+  "title": "​微软修补 IE 漏洞，防止骇客存取你的电脑"
+ }
+]
