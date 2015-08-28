@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Thu, 27 Aug 2015 23:58:00 -0400", 
+  "link": "http://cn.engadget.com/2015/08/27/google-chrome-tabs-auto-play/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/731ffb2de669c8990db464c6ce84e9fb/202355697/chrome-ios-internet-of-things_thumbnail.jpg\" />现在的网页都加入不少视频来吸引读者，但「配合」着内容自动播放的趋势，在一次打开多个分页时就会出现「幻听」的问题，不知道突然播放的声音是从哪里来的。在谷歌 Chrome 的开发者频道中，新加入的实验功能就可以解决上面的问题了。\n\n在测试中的版本，Chrome 分页在打开后仍然会缓冲视频的内容，但只有使用者正在浏览的分页会自动播放视频。因为通常提交至开发频道的功能，大多都会加入稳定版 Chrome 浏览器，所以各位经常被「幻听」困扰的朋友，多等一下就好了！...", 
+  "title": "谷歌 Chrome 将改善视频自动播放的机制，不再突然吓人了..."
+ }
+]
