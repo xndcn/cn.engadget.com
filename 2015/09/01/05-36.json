@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Tue, 01 Sep 2015 01:30:00 -0400", 
+  "link": "http://cn.engadget.com/2015/09/01/malware-steals-jailbroken-iphone-accounts/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/af633c0c8e27354959cc4043f556271f/202560734/keyraider_thumbnail.jpg\" />最近国内爆出的越狱使用者帐户大规模被盗事件，大家可能都已经听说了。时至今日，负责对其进行分析的安全员，也特地撰文解释了整个事件的始末。据介绍，此番被发现的新 iOS 恶意软件样本多达 92 个，它们被称为 KeyRaider，至今为止已成功盗取了 22.5 万个 Apple ID 的帐户及相关信息。其传播管道，主要是一些允许自行上传、分享软件的私有源，如果越狱用户不慎通过其下载了 KeyRaider 的话，便很有可能会面临帐户被滥用或是手机锁定勒索等风险。\n\n对尚未越狱的 iOS 使用者来说，此...", 
+  "title": "安全员解释 22.5 万 iOS 越狱机主账户被盗始末"
+ }
+]
