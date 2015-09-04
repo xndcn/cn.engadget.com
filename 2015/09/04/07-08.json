@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Fri, 04 Sep 2015 03:00:00 -0400", 
+  "link": "http://cn.engadget.com/2015/09/04/google-chrome-update/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/dims-shared/dims3/GLOB/crop/5604x3736+0+0/resize/1200x800!/format/jpg/quality/85/http://hss-prod.hss.aol.com/hss/storage/midas/dfdb8ebdb96337ef7265c0c843ada12/202582891/486305802_thumbnail.jpg\" />Google Chrome 浏览器其中一个吸引人使用的原因是它的运行速度，尤其是在打开大量分页时还能保持顺畅，但代价可是 RAM 和笔记本的续航力啊。而谷歌也终于对症下药了，宣布会在下一个更新解决以上的问题。更新内容包括在重新打开分页时，会首先显示最常用的页面；当设备的内存不足时，会暂停其他在后面的分页；侦测到当分页不太忙碌的时候，把旧的、已使用的内存清空。\n\n新方法配合暂停自动播放 Flash 广告的功能，据 Google 测试，平均节省了 10% 的内存使用量，打开 Gmail 时节省了 2...", 
+  "title": "Google Chrome 很耗资源吗？下一个更新会有改善的"
+ }
+]
