@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Mon, 07 Sep 2015 01:00:00 -0400", 
+  "link": "http://cn.engadget.com/2015/09/07/self-driving-car-lidar-exploit/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/dims-shared/dims3/GLOB/crop/4002x2582+0+218/resize/1200x774!/format/jpg/quality/85/http://hss-prod.hss.aol.com/hss/storage/midas/3cc3033d112add064b92ab5506e5e055/202016295/e7f747a761f7487385345f31edfca91d_thumbnail.jpeg\" />自动驾驶汽车最害怕是什么？骇客？玩花式的自行车手？乱过马路的人？原来是在旁经过的廉价电子装置的讯号。安全研究员 Jonathan Petit 确认了在自动驾驶系统上，用于测量距量激光部件 LIDAR 将会被其他物件的错误反射而误导。Jonathan 利用激光、一台简陋如 Raspberry Pi 或 Arduino 电脑、和准确的时间就成功能骗到该系统了。他在大约 100 米以外的地方架设了以上的装置，骗得自动驾驶系统以为该处有复数的物件在汽车附近存在或移动，系统就会因此停下、或作出回避危险的动...", 
+  "title": "自动驾驶汽车随时会被假的讯号骗倒啊"
+ }
+]
