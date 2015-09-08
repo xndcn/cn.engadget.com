@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Tue, 08 Sep 2015 01:00:00 -0400", 
+  "link": "http://cn.engadget.com/2015/09/08/root-password-flaw-leaves-wireless-seagate-drives-open-to-attack/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/3faacc05a97fb55bd7da83a267ad4246/202595326/LaCie+Fuel_thumbnail.jpg\" />手边有一台装满了重要文件的 Seagate 无线硬盘产品？请尽快下载更新吧！因为 Tangible Security 的研究员发现，在部分 Seagate 无线硬盘产品中出现漏洞，会让未获授权的使用者得到硬体的 root 权限。骇客将能使用预设的使用者名称和密码将能启动远程登陆服务（Telnet）。幸好，官方已经补上了相应的解决方案，使用者只需要更新产品固件，即可解决问题。\n\n官方声明指受影响的产品包括在去年推出的 Seagate Wireless Mobile storage、Wireless...", 
+  "title": "​Root 密码出现漏洞，Seagate 无线硬盘产品容易被骇"
+ }
+]
