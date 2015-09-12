@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Sat, 12 Sep 2015 07:10:00 -0400", 
+  "link": "http://cn.engadget.com/2015/09/12/windows-10-preload/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/a0c19b4812201e5b4826ffd668d2ba53/202384979/Windows+10+review+fullbleed_thumbnail.jpg\" />假如你是一位把 Windows 7 / Windows 8 设成自动接收更新，但暂时没计划升上 Windows 10 的用户的话，那就要留意一下自己的 C 盘了。有从来没有预约更新 Windows 10，但把 Windows 设成自动更新的用户发现 C 盘多了一个名为「$Windows.BT」的隐藏文件夹，所占空间有机会在 3.5GB 至 6GB 之间。在 The Inquirer 查询之下，微软的发言人承认有关资料夹是他们为上述用户「预载」的 Windows 10 安装档，目的是想在用户一旦决...", 
+  "title": "微软：不管你想不想升，我们都为你准备好 Windows 10 升级档了"
+ }
+]
