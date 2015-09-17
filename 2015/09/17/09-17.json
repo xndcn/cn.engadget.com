@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Thu, 17 Sep 2015 05:00:00 -0400", 
+  "link": "http://cn.engadget.com/2015/09/17/android-lock-screen-bypass-flaw/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/34532e7e6d3572721f548beeed23074b/202401359/motog-fb2_thumbnail.jpg\" />在智慧手机上所出现的保安漏洞，很多都跟锁定萤幕有关，但这次的新漏洞更是直接绕过它来骇进手机的。一名骇客发现了在 Android 5.x Lollipop 系统中，可以利用冗长的字元来攻破其保安。他只需要在锁屏上直接打开相机，并唤出输入密码的页面，再输入字元即可。\n\n幸好谷歌在收到举报后，已经透过更新来修复旗下的 Nexus 装置，而且这漏洞不会对使用 PIN 或图形解锁的机器有效。这也证明了各家厂商改进了及时安全更新政策后的效用，以防手机被层出不穷的方式被骇。只是面对着日复一日出现的保安漏洞，使...", 
+  "title": "​Android 再现保安漏洞，骇客利用冗长字元即可攻破"
+ }
+]
