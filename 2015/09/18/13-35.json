@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Fri, 18 Sep 2015 09:16:00 -0400", 
+  "link": "http://cn.engadget.com/2015/09/18/malware-xcodeghost-leads-to-china-ios-crisis/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/36cbc6a840255ba100514d530e9e469d/202661842/xcode-FB_thumbnail.jpg\" />以一般认知来说，iOS 的安全性基本上都比其它平台来得要高，但今天下午被爆出的一场因非官方 Xcode 编译器引起的危机，却让人对这件事有了新的认识。昨日傍晚，国内著名漏洞报告平台乌云刊出了一篇来自 @蒸米spark 的投稿，文中指出某些由第三方渠道下载的 XcodeGhost 编译器其实暗藏恶意代码，通过其编译的软件通通自带后门，以小型木马的形式潜伏在用户的 iDevice 当中。...", 
+  "title": "怪码农啰？多款国内知名 iOS 应用因非官方 Xcode 陷入后门危机"
+ }
+]
