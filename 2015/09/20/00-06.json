@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Sat, 19 Sep 2015 20:02:00 -0400", 
+  "link": "http://cn.engadget.com/2015/09/19/skype-for-web-will-soon-work-without-plug-ins-on-microsoft-edge/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/3c605c565c089399017ffc7d5f74d20f/201090011/skype-for-web-2014-11-14-02_thumbnail.jpg\" />Microsoft 近年致力让大家在无须安装 plug-in 的情况下以 Skype 做视像通话，现在距离大家都能用这个又走近一步了。Microsoft 宣布 Insider Preview 版 Windows 10 里的 Edge 浏览器已预载了 Object RTC API，换言之大家以它来打开 Skype for Web 或 Outlook.com 就能做即时的视像对话。至于非 Insider Preview 用户则预计在今年稍后开始在 Edge 上享用上述服务，不知道 Microsoft...", 
+  "title": "Microsoft 已在预览版 Edge 上内置 ORTC API"
+ }
+]
