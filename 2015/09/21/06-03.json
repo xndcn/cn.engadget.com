@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Mon, 21 Sep 2015 02:00:00 -0400", 
+  "link": "http://cn.engadget.com/2015/09/21/apple-responses-to-xcodeghost/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/36cbc6a840255ba100514d530e9e469d/202661842/xcode-FB_thumbnail.jpg\" />在星期六晚突然爆出的 XcodeGhost 后门危机，直至昨天终于由 Reuters ​苹果得到方面的回应了。该公司的发言人 Christine Monaghan 称苹果已经把已知受影响的应用程序从 App Store 移除，并与开发者合作，确保以使用正常版本的 Xcode 重新建立应用程序。可是​苹果方面并没有教导使用者分辨所用的应用程序是否被感染，各位 iOS 使用者只好暂时先把由国内开发者所上架的应用程序删除，以保资料安全吧。360 安全播报平台更有一张受感染应用程序清单，大家可以参考看看...", 
+  "title": "​苹果：受 XcodeGhost 影响的应用程序，已从 App Store 下架"
+ }
+]
