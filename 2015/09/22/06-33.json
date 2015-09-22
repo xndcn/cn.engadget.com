@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Tue, 22 Sep 2015 02:29:00 -0400", 
+  "link": "http://cn.engadget.com/2015/09/22/xcodeghost-malware-affected-unity3d-cocos2dx/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/73ba135bb1520b3b058aaff1b31dd420/202679449/powered_by_unity_splash_screen_wallpaper_by_moltenmetalstudios-d7y9gz0_thumbnail.png\" />几天前爆出的 iOS 平台 XcodeGhost 危机果然没有那么简单，今天早些时候，最早在乌云上刊文讨论该漏洞的用户蒸米，又有了一些骇人的新发现。按照其在这篇长文中的说法，除了 Apple 的编译器以外，「Unity 4.6.4 - Unity 5.1.1 的开发工具」也都收到了污染，而其恶意行为都与 XcodeGhost 一致，很有可能是同一个团队所为。此外，越狱团队盘古还指出另一款游戏引擎 cocos2dx 也未能幸免。换句话说，不光是 iOS，由上述两套工具（通过非官方渠道下载）开发出来...", 
+  "title": "除了 Xcode 以外，Unity3D 和 cocos2dx 也都不安全了..."
+ }
+]
