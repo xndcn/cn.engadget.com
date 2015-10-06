@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Tue, 06 Oct 2015 03:03:00 -0400", 
+  "link": "http://cn.engadget.com/2015/10/06/four-legged-bot-uses-drone-sidekick-to-avoid-rough-terrain/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/262701ea8a2bd7b3242681da682d24e2/202753949/Screen+Shot+2015-10-05+at+1.28.11+PM_thumbnail.png\" />无论机器人以两脚还是四脚步行也好，除了要解决在普通路面自身平衡的问题之外，也要考虑如何自如地应付不同地形呢。苏黎世联邦理工学院旗下的 Autonomous Systems Lab 就想出了召唤无人机作侦察兵这招数。他们正进行一个名为「Collaborative Navigation for Flying and Walking Robots」的研究，内容是把无人机设定成先头部队，通过飞越某地方来扫瞄当地的地形和特征，并基于所得资料生成地面机器人的最佳路线。\n\n不过地面机器人也会在行走之时持续扫瞄...", 
+  "title": "这只机械兽懂得召唤无人机去做侦察兵"
+ }
+]
