@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Mon, 05 Oct 2015 22:01:00 -0400", 
+  "link": "http://cn.engadget.com/2015/10/05/apple-downplays-yispecter-malware/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/b4d63b738d4462228ef4daaec15f200d/202607748/iphone6s_thumbnail.jpg\" />时代变了，现在 Apple 要开始担心非越狱 iPhone 会否被有毒 app 攻击的问题了。日前科技保安公司 Palo Alto Networks 公开了一份报告，指出他们确认了首款能攻击非越狱 iPhone 的 app -- YiSpecter（已越狱的更加不用说）。它主要影响的用户来自台湾和中国，在用户安装之后它的 app 图示便会随即消失，防止用户把它移除。在「功能」上，它可控制装置下载、安装和启动任何 app，并把本来已在装置上的 app 取代。此外，它可以「劫持」其他 app 使之播...", 
+  "title": "Apple 开始封锁能攻击非越狱 iPhone 的 app 了"
+ }
+]
