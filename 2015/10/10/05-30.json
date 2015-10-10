@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Sat, 10 Oct 2015 01:29:00 -0400", 
+  "link": "http://cn.engadget.com/2015/10/10/google-search-app-indexing-ios-safari/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/a5c80ebab548ee2c480b0de522fbcd8c/202782767/google-app-indexing_thumbnail.jpg\" />在 10 月尾之时，大家将可在 iOS 版 Safari 上享用到 Google 的「App Indexing」功能了。这个功能将让 iOS 9 用户在以 Safari 做 Google 搜寻时，在结果中看到来自已安装 app 的内容，例如找餐厅的话，那便可在搜寻结果中看到来自 Yelp 的 app 内结果。而开发者在事前要做的，就是把 Universal Links 加到自己的 iOS app，然后跟 Google Search SDK 整合。这个功能早已在 Android 和 iOS 版 G...", 
+  "title": "iOS 版 Safari 也懂得在 Google 搜寻中显示 iOS app 结果"
+ }
+]
