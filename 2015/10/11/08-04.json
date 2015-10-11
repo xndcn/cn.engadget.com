@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Sun, 11 Oct 2015 04:03:00 -0400", 
+  "link": "http://cn.engadget.com/2015/10/11/firefox-2016-npapi/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/35880461d31c4a05bf876a61e00dd766/202400710/DSC03190_thumbnail.jpg\" />每当遇上网页要求加装附加元件时都觉得很讨厌吧？Mozilla 开始着手推动更多变革了。该公司宣布旗下 Firefox 浏览器将在 2016 年完结之前，停止支持 NPAPI 附加元件。不过 Mozilla 也明白到 Flash 至今仍在网路上有重要地位，所以它届时仍会被支持的。此外，未来会推出的 64-bit Firefox for Windows 同样不会支持 NPAPI。至于 Flash 在何时才会在网络上变得不重要？那就要看 「HTML5 化」的速度有多快了，希望有关负责人也能尽快推动改变...", 
+  "title": "Firefox 会在 2016 年停止支持 NPAPI 附加元件，但有一位幸存者"
+ }
+]
