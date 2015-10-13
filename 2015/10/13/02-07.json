@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Mon, 12 Oct 2015 22:00:00 -0400", 
+  "link": "http://cn.engadget.com/2015/10/12/google-cardboard-sdk-adds-street-view/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/dims-shared/dims3/GLOB/crop/4000x2654+0+59/resize/1200x796!/format/jpg/quality/85/http://hss-prod.hss.aol.com/hss/storage/midas/aaf0f7fa7d74d256870af318d5719be9/202790590/488705252_thumbnail.jpg\" />Google 今天发布了改良版的 Cardboard SDK，并宣布其 Cardboard VR app 已经在 100 个国家上架 iOS 及 Android 版本。据 Google 开发者博客所言，新版的 SDK 对「整合陀螺仪与加速感应器讯号的演算法，进行大修」，应该能大幅减少头部转头已经停止后，画面还在继续转的「飘移」现象。此外，新的 SDK 现在也支持 Unity 程序语言，让 Cardboard VR app 可以好好利用 iOS 的 Metal 渲染引擎，以及 Android 的多...", 
+  "title": "Google 释出改进的 Cardboard SDK，新增 Street View 支持"
+ }
+]
