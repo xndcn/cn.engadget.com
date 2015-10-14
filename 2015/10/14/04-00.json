@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Tue, 13 Oct 2015 23:57:00 -0400", 
+  "link": "http://cn.engadget.com/2015/10/13/youtube-thumbnailer-deep-neural-network/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/dims-shared/dims3/GLOB/crop/1200x731+0+25/resize/1200x732!/format/jpg/quality/85/http://o.aolcdn.com/hss/storage/midas/f72c9ea16b8d5bc16db7f1dedd34510c/202723596/youtube-shutterstock_thumbnail.jpg\" />在 Youtube 的世界里，一个好的缩图可以说是观众点击与不点击的关键。许多频道都会专门制做每部视频的缩图，但实在没这个闲工夫的一般人可能就会对 YouTube 新开发的这个功能感兴趣了。Google Research Blog 上的一篇新文章，解释了Youtube 是如何「训练」他们的缩图产生器：先是视频每秒截一张图，再用一个「品质模型」做为参考，为这些截图标上分数。分数最高的图则会再经过强化处理，成为视频缩图的候选。\n\n那这个品质模型又是怎么来的呢？原来是利用了 Google 强大的神经元...", 
+  "title": "YouTube「训练」缩图产生器，来自动截取更好的影像"
+ }
+]
