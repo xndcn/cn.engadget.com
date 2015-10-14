@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Tue, 13 Oct 2015 23:03:00 -0400", 
+  "link": "http://cn.engadget.com/2015/10/13/internet-explorer-security-hole/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/68265cfcbc5ebf0b658c6fb2c00267c7/202798016/microsoft-edge-1200_thumbnail.jpg\" />最近 Microsoft 推出了一个安全更新，针对着多个版本的 Internet Explorer 重大安全漏洞。Microsoft 指出在 IE 7、8、9、10 和 11 中，假如用户打开了一个含有特定恶意原始码的网站，便有机会让骇客遥控该用户的电脑，能有跟已登入用户一样的权限，包括安装程序和删除资料等。不过由于这个漏洞是在 IE 里，所以用 Edge 和 Chrome 等其他浏览器的话便不用怕了。至于间中还是要使用 IE 的话，那当然先更新好吧。...", 
+  "title": "新，不等于安全，Windows 10 的 IE 跟旧代一样有重大保安漏洞"
+ }
+]
