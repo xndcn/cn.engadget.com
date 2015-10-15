@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Wed, 14 Oct 2015 22:00:00 -0400", 
+  "link": "http://cn.engadget.com/2015/10/14/android-vulnerabilities/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/9695dbb215464a85550afbea50edd50/202721547/6pfb_thumbnail.jpg\" />日前一项由 Google 和剑桥大学一同进行的研究发现，在目前所有的 Android 产品中，有高达 87% 的设备都面临着潜在的安全漏洞风险。按照研究团队成员 Alastair R. Beresford 的说法，之所以会有这样的结果，主要是因为许多厂商都不会定期进行安全更新，如此一来，自然就给了恶意软件可趁之机。据介绍，这次的研究结果是基于从 20,000 名测试者设备（安装了专门的 Device Analyzer 分析应用）上搜集到的数据得出。最终得分基本能反映各品牌在设备对致命漏洞的「免疫...", 
+  "title": "研究指出因厂商更新不勤大多数 Android 设备都存在安全隐患"
+ }
+]
