@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Wed, 14 Oct 2015 23:00:00 -0400", 
+  "link": "http://cn.engadget.com/2015/10/14/windows-10-nested-virtualization/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/5cfa7d79867b0a2d381e3add13efadc2/202801166/windows-10-nested-virtualization_thumbnail.jpg\" />就像电影盗梦空间一样，现在 Windows 虚拟机器又可以再更「深」一层了。在 Windows 10 最新的预览版中，微软开启了巢状虚拟化（Nested Virtualization）的功能，让你可以在一台虚拟机器中，执行又一个虚拟机器。所以结果就像上图这样，可以在 Windows 里的虚拟 Windows 机器上，再跑一份 Windows 的虚拟机器。当然，这样做还有限制，像是动态记忆体（Dynamic Memory）将无法运作，而且必需要是直援 VT-x 的 Intel 处理器才行（大部份过...", 
+  "title": "Windows 10 现在可以让 Windows 在 Windows 里面的 Windows 里面执行"
+ }
+]
