@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Sat, 17 Oct 2015 20:02:00 -0400", 
+  "link": "http://cn.engadget.com/2015/10/17/intel-arduino/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/fc730a25f0a96224e508a084fa93d3ce/202812147/1016_Arduino101__thumbnail.jpg\" />英特尔在今年年初推出了一款尺寸如衣钮般的穿戴装置专用芯片组「Curie」，之后我们已见过这款产品用在女性运动内衣、机械蜘蛛控制器和 BMX 单车上。而到了现在，他们又决定把它整合在一块 Arduino 主板上呢。这块主板将会名为 Arduino 101（国际版称 Genuino 101），是 Curie 首次应用在这样的产品上。它要价 US$30（约 190 元人民币），对于一块集有 32-bit 低耗 Quark SoC、蓝牙 LE 芯片、加速感应器、回转仪芯片和 384KB RAM 的主板来...", 
+  "title": "英特尔把小小的「Curie」放在一块 Arduino 主板上"
+ }
+]
