@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Thu, 22 Oct 2015 08:00:00 -0400", 
+  "link": "http://cn.engadget.com/2015/10/22/fitbit-tracker-bluetooth-vulnerability/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/dims-shared/dims3/GLOB/crop/3655x2022+0+304/resize/1200x664%21/format/jpg/quality/85/http://hss-prod.hss.aol.com/hss/storage/midas/2ffc4e7831128d5b2203df9288db3000/202840488/143921262_thumbnail.jpg\" />安全公司 Fortinet 日前声称，目前市面上的 Fitbit 健身追踪器都存在被黑客通过蓝牙快速侵入的可能。而且这个漏洞影响到的不只是设备本身，与其进行同步的电脑也一样会被感染。主站同事从资深研究员 Axelle Apvrille 处获悉，这种侵入方法「并不需要真正接触到设备」，黑客只要「处在蓝牙范围内」，「无论手环有没有（跟其它设备）配对」，最快只要十秒钟防线即宣告失守。根据 The Register 的说法，Apvrille 早在三月的时候就向 Fitbit 报告过这个问题，但至今为止，...", 
+  "title": "只要十秒钟，你的 Fitbit 手环就可能会被攻陷..."
+ }
+]
