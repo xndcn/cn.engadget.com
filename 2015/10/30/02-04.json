@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Thu, 29 Oct 2015 22:01:00 -0400", 
+  "link": "http://cn.engadget.com/2015/10/29/sony-cd-rootkit-anniversary/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/dims-shared/dims3/GLOB/crop/2122x1415+0+0/resize/1200x800!/format/jpg/quality/85/http://hss-prod.hss.aol.com/hss/storage/midas/c5f79aadb22a99b7199f89aa0c98bbb9/202888471/176071728_thumbnail.jpg\" />大部份的十周年庆都是个值得庆祝的重要里程碑，但这个十周年 Sony 应该是巴不大家赶快忘掉吧！十年前的今天，电脑安全专家 Mark Russinovich（他目前担任微软 Azure 的 CTO）发表了 Sony BMG Rootkit 相关资料，这个在 DRM 全盛时期时由 Sony 装在所有 CD 上的「木马程序」，会在用电脑读取 CD 时，在未经许可之下自动偷偷把自己安装到电脑上。这个小程序不仅占用系统资源且无法移除，同时还会主动将使用者听歌的资讯回传给 Sony，并在过程中留下让他人得以...", 
+  "title": "Sony 的 CD Rootkit 风波今天满十周年，宁可没人记得这件事"
+ }
+]
