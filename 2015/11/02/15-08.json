@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Mon, 02 Nov 2015 10:05:00 -0500", 
+  "link": "http://cn.engadget.com/2015/11/02/dji-manifold-computer/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/454585cba31d0995b3c0185b42067ef2/202902984/djimanifold_thumbnail.jpg\" />之前 DJI 推出的经纬 Matrice 100 开放式飞行平台大家还记得吗？今天早些时候，他们又新发了一款「妙算（Manifold）」机载电脑，便于开发者搭配 M100 使用，以此来「释放飞行平台的全部潜能」。简单来说，妙算就好像是一台专为无人机打造的高性能 Arduino 板，它搭载了 NVIDIA K1 处理器（配备 Kepler 架构 GPU），重量 200g，运行 Ubuntu 14.04 LTS，并配有 USB、以太网、Mini-PCIe、HDMI、UART、SPI、I2C 接口， ...", 
+  "title": "DJI 又为开发者们准备了一台机载电脑"
+ }
+]
