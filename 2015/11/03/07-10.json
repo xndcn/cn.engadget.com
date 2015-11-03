@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Tue, 03 Nov 2015 02:03:00 -0500", 
+  "link": "http://cn.engadget.com/2015/11/03/bunk-baidu-sdk-puts-backdoor-on-millions-of-android-devices/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/dims-shared/dims3/GLOB/crop/3696x2456+0+0/resize/1200x797%21/format/jpg/quality/85/http://hss-prod.hss.aol.com/hss/storage/midas/87b8a0c85c4d2c63728ab7144a040b8e/202907267/460583768_thumbnail.jpg\" />又是一则跟移动平台安全有关的新闻... 最近有人在百度的 Moplus SDK 中发现了后门，而其存在可能会导致上亿台 Android 设备面临被骇客侵入的风险。据称这个漏洞会让设备以非安全方式与未验证的 HTTP 服务器进行连线，虽然 SDK 没有公开发布，但目前受影响的应用已经超过 14,000 款，而其中只有约 4,000 款是由百度自己开发。\n\n理论上说，用 Moplus 开发出来的软件都可能会在暗中偷偷与服务器连线，让后者在设备上运行类似新增联系人、上传文件、通话、安装其它恶意软件等预...", 
+  "title": "百度 SDK 被爆存在后门，或使上亿 Android 设备面临风险"
+ }
+]
