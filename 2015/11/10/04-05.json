@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Mon, 09 Nov 2015 23:00:00 -0500", 
+  "link": "http://cn.engadget.com/2015/11/09/twitch-rolls-out-two-factor-to-reduce-profile-hijinks/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/dims-shared/dims3/GLOB/crop/1200x800+0+0/resize/1200x800!/format/jpg/quality/85/http://o.aolcdn.com/hss/storage/midas/b6103e72e7060db01b33b92e65c84d1e/202806756/twitchios_thumbnail.jpg\" />Twitch 宣布大家已可使用他们刚新增的双重登入安全认证功能了。不用多解释，他们加入这个功能目的当然是减少用户帐号被骇的风险吧，特别是那些用异常容易被骇的密码之用户。Twitch 的双重认证方法是跟安全公司 Authy 合作而得出，用户登入时会从后者的 app 收到通知，或收到 SMS 讯息以确认登入。这个新的登入认证方法并不会强制所用户使用，不过假如你很关心自己 Twitch 帐号的安危的话，还是采用上述较安全的登入方式吧～...", 
+  "title": "Twitch 加入双重登入安全认证"
+ }
+]
