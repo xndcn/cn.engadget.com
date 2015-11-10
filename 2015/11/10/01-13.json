@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Mon, 09 Nov 2015 20:10:00 -0500", 
+  "link": "http://cn.engadget.com/2015/11/09/google-explains-nexus-5x-image-issue/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/c85c5ddf90fcac9a68080c2ccd614ce5/202942779/nexys5x_thumbnail.jpg\" />虽然说 Nexus 5X 才刚开卖（或如果是台湾的话，即将上市...），但已经有不少人发现有时候这部新机所拍出来的照片，竟然是上下颠倒的。据 Google 的工程师 Eino-Ville Talvala 解释，这是因为内部布线的限制，所以 Nexus 5X 的相机安装的方向是和一般手机相反的。做为补偿，Google 在 API 上有做特别的修正，确保重力感应器和照片的方向能对上，但如果第三方软件开发者不更新到 Google 最新的 API 的话，那用这些软件拍出来的照片就有可能是反过来的了。\n\n...", 
+  "title": "Google 解释为什么部份 Nexus 5X 的照片竟会上下颠倒"
+ }
+]
