@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Wed, 11 Nov 2015 04:00:00 -0500", 
+  "link": "http://cn.engadget.com/2015/11/11/nvidia-jetson-tx1/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/c8bf686fcf81f08c320e66b13d355258/202958286/1101_nvidia_thumbnail.jpg\" />看来一众硬件开发者都可以借助 NVIDIA 最新的技术来加速机器学习（machine learning）的开发进度，因为该公司刚发布的 Jetson TX1 开发者模块，所主打的正是机器学习的能力。这设备能减少用于建立可使用动态输入和运算的电脑所需的时间。TX1 可让下一代的自主无人机进行面孔辨识和行为分析等的复杂运算。\n\nTX1 开发者模块将取代 NVIDIA 去年发布的 TK1，它有着一万亿次浮点运算能力、以太网和 Wi-Fi 802.11 ac 连接性、少于 10 瓦的耗电量和预载 Lin...", 
+  "title": "​NVIDIA 的「移动超级电脑」可让设备变得更聪明"
+ }
+]
