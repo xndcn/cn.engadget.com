@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Fri, 13 Nov 2015 01:00:00 -0500", 
+  "link": "http://cn.engadget.com/2015/11/13/new-android-exploit-can-hack-any-handset-in-one-shot/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/dims-shared/dims3/GLOB/crop/4000x2667+0+0/resize/1200x800!/format/jpg/quality/85/http://hss-prod.hss.aol.com/hss/storage/midas/aecd4c56f5134ce7b46c001090da79f9/202464379/482411440_thumbnail.jpg\" />在东京的一场 PacSec 骇客会议中，来自奇虎 360 的研究员龚广示范了利用一个存在于 Android 版 Chrome 浏览器中，针对 JavaScript v8 的漏洞。只要使用者浏览恶意网站，骇客将不需要像典型的例子般需要多个漏洞，而只利用这单一漏洞即可对任何 Android 手机进行攻击，取得访问权限和下载软体。...", 
+  "title": "一击致命，新 Android 漏洞只需简单步骤即可骇进任何手机"
+ }
+]
