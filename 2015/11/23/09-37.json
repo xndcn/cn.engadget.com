@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Mon, 23 Nov 2015 04:34:00 -0500", 
+  "link": "http://cn.engadget.com/2015/11/23/android-apps-send-unnecessary-data/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/dims-shared/dims3/GLOB/crop/5184x3233+0+65/resize/1200x748!/format/jpg/quality/85/http://hss-prod.hss.aol.com/hss/storage/midas/c5b41e7ff00af45324cb24e5083c9f4b/202127905/dd99b134ee724b8bb42ba3ce5b9040b4_thumbnail.jpeg\" />Android app 会默默地传送一堆资料已经不算新闻，不过这其中的连线是否在使用体验上真的必要，似乎也是件很值得探讨的议题。对此也很感到兴趣 MIT 学者，决定针对时下 500 个热门免费 Android app 进行研究，希望可以测试出到底有多少不必要的资料在私下被传输。在实验之中，他们发现了大约有一半的连线是隐匿的连线，对此 MIT 缩小范围针对 47 个前百大 app 进行改动，来挡掉一些不必要的连线并且进行观察。发现其中有 30 个看起来在使用上并没有什么差别，而剩下的则是顶多只有广...", 
+  "title": "其实 Android app 默默传送的资料大多没啥必要啊..."
+ }
+]
