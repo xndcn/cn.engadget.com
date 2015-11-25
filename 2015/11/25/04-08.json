@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Tue, 24 Nov 2015 23:05:00 -0500", 
+  "link": "http://cn.engadget.com/2015/11/24/twitter-kit-app/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/dims-shared/dims3/GLOB/crop/4000x2525+0+233/resize/1200x758!/format/jpg/quality/85/http://hss-prod.hss.aol.com/hss/storage/midas/25f0bc52c0788a6f8efb14df5cc3e3d2/200080888/183095495_thumbnail.jpg\" />一直以来要在行动装置 app 上播放 Twitter 视频，均需依靠弹出式的播放视窗，或是离开该 app 转跳到额外的播放器上。直到今日，Twitter 终于宣布他们的 Twitter Kit 让 iOS app 支持 app 内 Twitter 视频播放功能了，效果就如下图那样。除了传统视频会在 app 内播放之外，GIF 图片的播放也是不靠外力的。此外，在 iOS 8 或以上版本的 Twitter Kit 更会自动支持上述功能，对开发者来说是一个好消息。跟同期更新的 Vine 一样，这个功能...", 
+  "title": "Twitter Kit 正式支持 app 内视频播放"
+ }
+]
