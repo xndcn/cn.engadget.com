@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Tue, 01 Dec 2015 09:04:00 -0500", 
+  "link": "http://cn.engadget.com/2015/12/01/chrome-android-text-only-data-saver/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/32212f80c1c3be850811afb50423e019/203060946/LoFi+-+English+-+Nov+24_thumbnail.gif\" />只是想读篇文章但不巧网速很慢内容就是加载不出来？刚刚更新的 Android 版 Chrome 应该能很好地解决这个问题。这次 Google 专门为用户准备了一个流量节省模式（Data Saver），在启用它的时候，只要网速过慢，浏览器就会只选择载入文字内容（想看图的话再点击一下就可以，如上图所示）。按照官方说法，这项改进能为 Android 设备省下 70% 的数据用量，加上即将推出的 AMP 计划，未来身处网络条件不好地区的用户，应该会有一个更加好的上网体验。据介绍，流量节省模式会先在印度和印...", 
+  "title": "Android 版 Chrome 会在网速慢时只显示文字内容"
+ }
+]
