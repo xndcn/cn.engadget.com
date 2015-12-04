@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Fri, 04 Dec 2015 03:00:00 -0500", 
+  "link": "http://cn.engadget.com/2015/12/04/old-web-emulator/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/3c8dc4fb438c2064285bb9d867b711b3/203074054/oldweb-today_thumbnail.jpg\" />虽说想回味过去的网路世界长什么样子，可以靠 Wayback Machine 来达成，但用现代浏览器看到的，真的是当年原汁原味的网页吗？为了正确地解译过去网页上用的一些奇奇怪怪的指令，Oldweb.today 网站内建了各种浏览器和操作系统组合的模拟器，并且可以直接把 Wayback Machine 上库存的网页载入来显示。小编随便试了一下我们自己的网页，发现它其实不支持中文字，而且内容的显示终究还是受限于 Wayback Machine 本身存下来的内容多寡，所以缺 CSS、缺图、或是链接失效的...", 
+  "title": "怀念旧网页吗？用这个网页模拟器来看它们当年的样子吧！"
+ }
+]
