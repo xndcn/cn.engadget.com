@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Sat, 12 Dec 2015 20:00:00 -0500", 
+  "link": "http://cn.engadget.com/2015/12/12/facebook-makes-the-hardware-it-uses-for-ai-open-source/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/9a115f9738051c5caaaf28f801dd5090/203114754/12350974_1658080317803019_1650712276_n_thumbnail.jpg\" />大家有没有想过，其实每天都在使用的 Facebook 是依赖人工智能和机器学习来处理不同的计算和提供内容至用户的动态消息页上。现在 Facebook 就为了推动业界的发展，以 Big Sur 为代号，把其用于人工智能运算的硬件作开源。这台硬件由八颗 NVIDIA 的 Tesla M40 GPU 驱动，并采用便于维护的设计，当中更只有 CPU 的散热器需要镙丝起子。除了硬件设计，Facebook 还承诺将会把人工智慧所用的系统，通过 Open Compute Project 释出。Facebook...", 
+  "title": "​Facebook 把其人工智能硬件设计加入开源清单"
+ }
+]
