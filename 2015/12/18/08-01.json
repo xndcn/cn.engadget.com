@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Fri, 18 Dec 2015 03:00:00 -0500", 
+  "link": "http://cn.engadget.com/2015/12/18/mozilla-makes-it-easy-to-create-vr-websites-with-a-frame/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/cc895ccdeb88fc6c3df48186318d33d7/203150594/Screen+Shot+2015-12-17+at+12.28.45+PM_thumbnail.png\" />Mozilla 旗下的 VR 研究团队 MozVR，最新推出开源的 A-Frame 工具，让开发者更容易制作融合虚拟实境元素的网页，当中只要使用 HTML 代码建立即可，不需要复杂的 WebGL API。A-Frame 在 WebGL 协议下运行，代表其成品将能于跨平台设备上使用，包括桌上电脑、iPhone、支持 Cardboard 的设备和 Oculus Rift Dev Kit 2 头载式显示器，而 Android 平台的支持则是「快将到来」。当然随后也有新增其他支持平台的计划，像是 HTC...", 
+  "title": "Mozilla 推出开源 A-Frame 工具，减少 VR 网页制作难度"
+ }
+]
