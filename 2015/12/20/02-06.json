@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Sat, 19 Dec 2015 21:00:00 -0500", 
+  "link": "http://cn.engadget.com/2015/12/19/log-into-most-any-linux-system-by-hitting-backspace-28-times/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/dims-shared/dims3/GLOB/crop/3504x2332+0+0/resize/1400x932%21/format/jpg/quality/85/http://hss-prod.hss.aol.com/hss/storage/adam/70854256fff1991e95032bcc5e6489de/157187140_thumbnail.jpeg\" />以前打游戏的时候，常常会遇到连按某些键便出现额外奖励的情况。而最近西班牙瓦伦西亚综合大学的网络安全小组，也在某些 Linux 系统中有了意外发现。据称在使用了 Grub2 bootloader 的 Linux 版本中，连续按下 28 次退格键，就可以直接进入救援模式。之后再施以一些其它手段，便能查看系统中的所有文件了。根据安全小组的说法，连按退格键的动作会触发内存错误，从而导致救援模式的启动。当然啰，各位使用者也不用对这个「彩蛋」过于担心，毕竟它必要接触到键盘才能使用，而且 Ubuntu、Red...", 
+  "title": "连按 28 次退格键，就能进入大部份 Linux 系统了..."
+ }
+]
