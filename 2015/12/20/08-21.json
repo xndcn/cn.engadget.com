@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Sun, 20 Dec 2015 03:00:00 -0500", 
+  "link": "http://cn.engadget.com/2015/12/20/chrome-to-stop-supporting-sha-1/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/8e67ff395b0654e1b682834619b5e02f/203158087/sha1-google_thumbnail.jpg\" />从很久以前开始，Google 便不再对 SHA-1 凭证抱有信心，而早些时候他们正式在自己的在线安全博客中宣布，即将上线的 Chrome 48（目前已处在 Beta 阶段）在遇到签发时间不早于 2016 年 1 月 1 日的 SHA-1 凭证时，将会自动显示「您未处在私密联网状态」的警告。...", 
+  "title": "Chrome 很快将停止支持 SHA-1 凭证"
+ }
+]
