@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Sun, 20 Dec 2015 00:00:00 -0500", 
+  "link": "http://cn.engadget.com/2015/12/20/apple-is-being-sued-over-another-data-gobbling-bug/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/dims-shared/dims3/GLOB/crop/3999x2667+0+0/resize/1400x933%21/format/jpg/quality/85/http://hss-prod.hss.aol.com/hss/storage/midas/474453b628b499ea852f9629b2497c5f/203155816/181636901_thumbnail.jpg\" />之前苹果曾因为 iOS 9 的 Wi-Fi 辅助功能（在 Wi-Fi 信号不行时自动切换到移动网络）被告上法庭，没想到现在一家名为 Hagens Berman Sobol Shapiro LLP 的公司又在更早期的版本中发现了类似的问题。据称运行 iOS 6 或 iOS 7 的 iPhone 5、5c 都会在 Wi-Fi 无力的情况下自动启用移动网络，2012 年 9 月时苹果曾为 Verizon 用户发布了对应的补丁程序，但同样在美国的 AT&amp;T 使用者，却在不知情的前提下等了两年多才迎来修复...", 
+  "title": "苹果又因流量问题被告上法庭"
+ }
+]
