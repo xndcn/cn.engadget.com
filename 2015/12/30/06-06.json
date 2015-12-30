@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Wed, 30 Dec 2015 01:00:00 -0500", 
+  "link": "http://cn.engadget.com/2015/12/30/avg-chrome-extension-security-hole/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/21116b21650a6e39865431941297f4b3/203191333/avg-chrome_thumbnail.jpg\" />我们都会为了保障自己浏览网页的安全性而加装安全插件，可是 AVG 的这个却存在着安全漏洞。他们最新修复了名为 WebTuneUp 的浏览器插件，居然出现了一个可让恶意网站攻击你的漏洞，使得使用者在浏览器上阅读邮件时，可能会被窥看。AVG 在被谷歌提醒后的几天内已经对问题作出修正，动作虽然迅速，但漏洞毕竟存在了一段时间，而且所涉及的人数以百万计，带来的影响可能比大家想像的还要大。这次事件揭示了电脑防毒公司在保持安全性更新时的不足，面对着这愈变危险的网络世界，大家除了使用防毒软件之外，还是要小心选择...", 
+  "title": "AVG 的 Chrome 安全插件却内藏着安全漏洞..."
+ }
+]
