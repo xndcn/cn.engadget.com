@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Wed, 30 Dec 2015 08:52:00 -0500", 
+  "link": "http://cn.engadget.com/2015/12/30/google-will-strip-oracles-java-code-out-of-android/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/dims-shared/dims3/GLOB/crop/3000x1963+0+0/resize/1400x917%21/format/jpg/quality/85/http://hss-prod.hss.aol.com/hss/storage/midas/cab2d6a30e67943fe3a155dc596f59d/200011961/168808903_thumbnail.jpg\" />就在不久前 Google 向 VentureBeat 证实，在未来的 Android 版本中，将不会再出现 Oracle Java API 的影子。取而代之的，将是 Oracle Java Development Kit 的开源版本 OpenJDK，按照官方说法，此举（利用统一的代码库）将有助于简化应用的开发过程。只是，这一变化将影响到多达 8,902 个文件，要说跟 Google 和 Oracle 的官司无关，怕是没多少人会真的相信（鉴于官司仍在进行中，没人出来表态也是情理之中）。所以说到底，...", 
+  "title": "Google 将不会在未来的 Android 版本中使用 Oracle 的 Java API"
+ }
+]
