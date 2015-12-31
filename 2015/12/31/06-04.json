@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Thu, 31 Dec 2015 01:01:00 -0500", 
+  "link": "http://cn.engadget.com/2015/12/31/steams-christmas-privacy-issues-affected-34-000-users/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/35a276738b5ad3e15cb45bd56c4b694b/203195419/Screen+Shot+2015-12-30+at+12.44.14+PM_thumbnail.png\" />Steam 在圣诞节时发生的「闪存错乱」事件，今天 Valve 出来对事情的始末做了更详尽的说明。据 Valve 表示，当时 Steam 正在遭受来源不明的 DoS 攻击，为了确保顾客都能正常使用 Steam 的购买服务，管理 Steam 闪存服务的网络伙伴设下了新的闪存规则，以减少攻击的影响，并继续将合法的顾客导向网站。然而在第二波攻击中，重新设定的闪存规则当中有个失误，错误地将别人的闪存页面传送给了用户。闪存内容包括 Email、购买历史、信用卡最后两码、手机的最后四码等，但没有足够的资料让...", 
+  "title": "Steam 的圣诞节「出包」是 DoS 攻击的结果，约 34,000 人受影响"
+ }
+]
