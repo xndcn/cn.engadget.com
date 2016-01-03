@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Sat, 02 Jan 2016 22:00:00 -0500", 
+  "link": "http://cn.engadget.com/2016/01/02/playstation-4-linux-homebrew-exploit/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/2012e3e08156712a7a138713be141ec/203196932/sony-playstation-toy-soul-hong-kong_thumbnail.jpg\" />PS4 自推出两年来，骇客们都在想方设法破解它，可以其成果廖廖无几。六月的时候，虽然有来自巴西的团队称能把 PS4「越狱」，但过程却需要把整个硬盘的资料都复制至 Raspberry Pi 设备上，其后也出现了绕过索尼的内容保护机制的方法，但仍不及这次的完整。名为 failOverflow 的骇客于本周成功能整个 Linux 系统安装至 PS4 上，更可以在系统内运行各种游戏模拟器。跳转后有相关的示范视频啊！...", 
+  "title": "骇客成功破解 PS4 并运行 Linux 系统"
+ }
+]
