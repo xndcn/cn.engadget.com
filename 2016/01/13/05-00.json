@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Tue, 12 Jan 2016 23:58:00 -0500", 
+  "link": "http://cn.engadget.com/2016/01/12/mozilla-drops-persona-support/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/dims-shared/dims3/GLOB/crop/3665x2619+0+0/resize/1400x1000!/format/jpg/quality/85/http://hss-prod.hss.aol.com/hss/storage/midas/f87ac826c3a9abf98eebf471fe520407/203250859/162790906_thumbnail.jpg\" />Mozilla 所推出的 Persona 单一登入平台，原意是让用户简易地登入网站服务，而不需要捆绑着社交平台或把密码储存在电脑上。但随着 Thunderbird 的分拆，Mozilla 终需把与其相连的功能都停止。于今年的 11 月 30 日，所以透过 persona.org 的单一登入都会停止使用，如果你的网站是使用有关的服务，请尽快转用其他的登入方式。而有关的开发者支持和安全性修补也会在当天终止。...", 
+  "title": "Mozilla 将于 11 月 30 日停止单一登入方式"
+ }
+]
