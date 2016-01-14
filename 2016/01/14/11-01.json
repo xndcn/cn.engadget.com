@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Thu, 14 Jan 2016 06:00:00 -0500", 
+  "link": "http://cn.engadget.com/2016/01/14/spatial-audio-for-cardboard/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/dims-shared/dims3/GLOB/crop/3000x2082+0+0/resize/1400x972%21/format/jpg/quality/85/http://hss-prod.hss.aol.com/hss/storage/midas/34e49f202d2818e9d6e852dd9e307e9f/202356955/480936772_thumbnail.jpg\" />不久前声海在 CES 上宣布将会开发专用于 VR 的 3D 音频技术，现在看来，Google 也一样有意推进这一领域的发展。早些时候，他们宣布将会在 Cardboard 的新版 SDK 中整合入「空间音效」的相关内容，它能根据用户的头部动作在各声道间切换，从而实现更出色的沉浸效果。除此之外，开发者还可以借此功能来模拟不同环境下的声效，当然啰，这一切都是要靠手机端的 CPU 来完成。...", 
+  "title": "新 SDK 让你有望在 Google Cardboard 上体验 3D 音频"
+ }
+]
