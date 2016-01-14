@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Thu, 14 Jan 2016 09:00:00 -0500", 
+  "link": "http://cn.engadget.com/2016/01/14/block-windows-10-upgrade-notifications/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/e373e8a4d0569391e40503b188cf4352/203260444/windows-update_thumbnail.jpg\" />各位 Windows 7 和 8 的用户，如果你实在受不了右下角那个烦人的 Win 10 升级提醒，官方现在终于给出了个一劳永逸的办法。不过前提是，你得稍微懂一点电脑技术，因为相关操作会涉及到注册表的修改。首先，你要打开注册表的编辑器，找到「HKLM\\SOFTWARE\\Policies\\Microsoft\\Windows\\WindowsUpdate」，然后再把「DisableOSUpgrade」这个 DWORD 的值改为 1（如果没有的话则新建这个 DWORD 然后将值设为 1），之后就可以过上...", 
+  "title": "你可以手动送别 Windows 10 烦人的升级提醒了"
+ }
+]
