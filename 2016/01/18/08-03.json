@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Mon, 18 Jan 2016 03:00:00 -0500", 
+  "link": "http://cn.engadget.com/2016/01/18/apples-gatekeeper-vulnerability-still-needs-to-be-fixed/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/d82d6b95183a406a2623befc8d580714/203263248/0114_imac_thumbnail.jpg\" />在去年九月的时候，Synack 的安全研究员 Patrick Wardle 公开了一个存在于 OS X 的 Gatekeeper 系统内的漏洞，指有部分恶意软件能停止 Gatekeeper 保护用户免受恶意软件攻击的功能。原理是当一个经签署的应用程序能在启动时，一并把同放于同一路径的未经签署应用程序启动。因为一般使用者都不会留意到背后有第二个程序在运行，恶意软件就能藉此进行攻击。Patrick Wardle 在发现漏洞后，回报给苹果，他们随之推出了系统更新，故事原本是就此结束的。...", 
+  "title": "苹果治标不治本，​Gatekeeper 漏洞危机仍然存在"
+ }
+]
