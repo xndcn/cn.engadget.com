@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Thu, 21 Jan 2016 02:30:00 -0500", 
+  "link": "http://cn.engadget.com/2016/01/21/google-brotli-compression-algorithm/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/3f1949218744ebc17bb36898448546ed/203285287/google-brotli-algorithm-2016-01-20-01_thumbnail.jpg\" />现代人时刻都需要在互联网上、下载不同的数据，为了确保质素和速度，数据压缩法变得愈来愈重要。谷歌虽然并不像电视剧中，研发出神奇的 Pied Piper 算法，但也开发出一套新的 Brotli 演算法（名字是来瑞士的一种甜点，这吃货...），并将会应用至 Chrome 浏览器上。Brotli 在去年的九月首次公开，称能比三年前推出的 Zopfli 算法再提升 20 的压缩率。谷歌指这是个「全新的数据格式」，可比其他的格式压缩更多数据的同时，仍有一定的解压缩速度。...", 
+  "title": "谷歌 Chrome 将应用新数据压缩法，移动版尤其受惠"
+ }
+]
