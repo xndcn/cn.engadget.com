@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Fri, 22 Jan 2016 01:00:00 -0500", 
+  "link": "http://cn.engadget.com/2016/01/22/google-denies-linux-flaw-is-a-serious-android-security-issue/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/dims-shared/dims3/GLOB/crop/630x418+0+0/resize/1400x929!/format/jpg/quality/85/http://o.aolcdn.com/hss/storage/midas/6fa1a7439d37138951f74820b5d2b9d0/201515475/nexus-6-moto-x-irl-2_thumbnail.jpg\" />Red hat 和安全研究公司 Perception Point 最近发现了在 Linux 系统中存有漏洞，会影响服务器、电脑和接近 66% 的 Android 设备。这漏洞会直接影响操作系统的内核部分，并会给予攻击者渠道来获得代码执行的能力和控制整台设备。可是谷歌却强烈回应有关事件，因为他们认为漏洞没有通过「常规的机制」通报，就直接对外公开了。谷歌补充指因为该漏洞没有事先通知 Android 安全团队，他们现在验证漏洞的实际影响，但该公司相信受影响的设备远比原先报道的少。...", 
+  "title": "谷歌否认 Linux 系统漏洞会构成 Android 严重安全性问题"
+ }
+]
