@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Tue, 26 Jan 2016 05:00:00 -0500", 
+  "link": "http://cn.engadget.com/2016/01/26/web-link-crashes-safari/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/94c0658970eec3f9922a0e463101d96a/203310502/safari-mac-el-capitan_thumbnail.jpg\" />写得很烂，吃一堆资源的网页比比皆是，但如果是故意吃资源吃到能让你的浏览器停摆呢？最近网络上出现的一个名为 crashsafari.com 的网站就有这样的能耐，它会产生一个愈来愈长的字串，最终吃光你所有的内存。如同网站名字所宣称的，OS X 和 iOS 的 Safari 都难逃它的魔掌，其中 OS X 的 Safari 会挂点，而 iOS 则是可能要重启。Android 和 PC 也会受到程度不一的影响，但没有苹果的系统这么容易受制就是了。\n\n目前似乎除了故意把它缩成短链接来恶作剧之外，似乎没有...", 
+  "title": "小心，一个链接就能让你的 Safari 浏览器挂掉！"
+ }
+]
