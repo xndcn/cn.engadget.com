@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Wed, 27 Jan 2016 04:00:00 -0500", 
+  "link": "http://cn.engadget.com/2016/01/27/amd-launches-open-gpu-effort/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/6663f8d61b00b79d81069ff13d342904/203317544/Radeon%2BR9%2BFury%2BX_thumbnail.jpg\" />AMD 的一直的策略并不是利用高速运算芯片来提升图像处理能力，而是多花精力至其解码的部分。该公司最新的 GPUOpen 计划更是通过给予开发者用于低端 PC 图像卡功能开源代码和文件，导入应用程序和其他资料，从 GPU 的角度提升性能。如果一切顺利，将能提升现有硬件对游戏的解码能力，更多的电脑运算工作也会交由 GPU 所处理。\n\n这是个极具潜力的计划，因为 AMD 正涉足多个平台的市场，新计划或许能帮助该公司从 NVIDIA 高产品和 Intel 低端产品的两面夹击下，找到新的出路。起码，GPU...", 
+  "title": "AMD 想要开放 PC 用图像芯片，吸引开发者使用"
+ }
+]
