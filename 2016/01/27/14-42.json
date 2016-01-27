@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Wed, 27 Jan 2016 09:33:00 -0500", 
+  "link": "http://cn.engadget.com/2016/01/27/apple-safari-suggestions-bug/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/3f62a4623923abe9b7718148b4c2edbc/203319745/safari_thumbnail.jpg\" />正使用 iOS 或 Mac 设备的朋友，在 Safari 搜索框里打字的时候，你的浏览器有没有一下子崩溃？目前在全球范围内好像有不少人都遇到了这个问题，而其似乎跟软件的搜索建议功能有关（比较可能的情况是苹果那里对应的某台服务器发生了故障）。到目前为止，官方尚未就此公布任何消息，但如果你深受其扰的话，倒可以尝试下开发者 Steve Troughton-Smith 提出的临时解决方案。\n\n办法很简单，就是将「Safari 建议」的选项直接关掉，当然，你也可以先换用别家的浏览器，接着再耐心等待苹果那边...", 
+  "title": "某些 iOS 和 Mac 设备上的 Safari 似乎出现了问题"
+ }
+]
