@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Wed, 27 Jan 2016 08:18:00 -0500", 
+  "link": "http://cn.engadget.com/2016/01/27/google-chrome-48-security-panel/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/343b7d149d67801eddee53907f62dc/203318416/chrome-46-https-security-2016-01-27-01_thumbnail.jpg\" />你有注意过用 Chrome 打开 https 网页时，在左上角显示的小绿锁吗？它意味着从网站到你之间的连线是安全并加密的，可以避免被人在中间截取信息，或是被注入假造的内容。我们一般使用者大概很少会注意这种东西，但对网站来说这个小绿锁就太重要了，因为 Google 在为搜索排序时，安全的连线会获得加成，而不安全的网站排序则会被下调。对于以搜索结果为生命的网站来说，取得小绿锁可以说是攸关生死啊！\n\n问题是... 有时候 Google 就是不给小绿锁，也看不出来是为什么？所以 Google 这次在第 ...", 
+  "title": "最新版的 Chrome 提供网页安全性检查工具"
+ }
+]
