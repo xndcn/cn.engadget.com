@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Thu, 28 Jan 2016 04:00:00 -0500", 
+  "link": "http://cn.engadget.com/2016/01/28/chrome-ios-upgrades/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/ca163147f1ca22f787c1bc304115cd09/203319719/chrome-ios-1400_thumbnail.jpg\" />虽说在 iOS 上也有不少 Chrome 的拥趸，但用户为的多半是跨平台的统一体验，而非追求浏览器本身的速度或稳定性。之所以这么说，是因为 iOS 版 Chrome 之前一直用的是 UIWebView 渲染引擎，跟 Safari 相比，它的表现会有一定的差距。幸而在最新的版本中，Google 终于改善了这一问题。他们换用了较新的 WKWebView 引擎，让 Chrome 的速度有了「显著」的提升（尤其是面对 JavaScript），同时软件崩溃的机率也降低了 70%。\n\n除此之外，桌面版 Ch...", 
+  "title": "iOS 版 Chrome 变得更快更稳定了"
+ }
+]
