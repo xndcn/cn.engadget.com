@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Thu, 28 Jan 2016 01:00:00 -0500", 
+  "link": "http://cn.engadget.com/2016/01/28/lenovo-fixes-basic-flaws-in-bundled-app/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/7d56e8dd4cb94aaa0f9899d348c2a206/203322450/lenovo-1400_thumbnail.jpg\" />有关​联想产品的软体问题，似乎仍未完全根治。他们最新修补了一个存在于其档案分享应用程序 ShareIt 里的漏洞，这款应用程序同时也预载​联想的 Android 和 Windows 装置上（包括 IdeaPad 和 ThinkPad）。Windows 版本的 ShareIt 会让其他身处同一 Wi-Fi 网络中的装置以「12345678」的密码成功取存其资料，而且这密码并不能自行更改。因为 ShareIt 并没有在传送档案时为资料加密，而 Android 版本更会自行启动一个不需密码的 Wi-F...", 
+  "title": "​联想修补了其预载应用程序中的安全漏洞"
+ }
+]
