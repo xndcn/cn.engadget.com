@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Fri, 29 Jan 2016 07:00:00 -0500", 
+  "link": "http://cn.engadget.com/2016/01/29/google-movidius-partnership/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/d996876a033bea6c3600c99ad105c4d5/203324934/myriad2+%281%29_thumbnail.png\" />Google 日前与 Movidius 签署了协议，将把后者的 Myriad 2 MA2450 处理器运用到旗下更多未来的设备之中。两家公司的渊源由 2014 年的 Project Tango 而起，如今又进一步合作，目的是「推动深度学习技术在移动设备上的发展」。这里所说的「深度学习」，指的是可以模拟人脑神经网络的电脑程序，它能对改善图像、语音辨识效果起到相当大的作用。\n\n而在实现这些功能的时候，除了与远端服务器间稳定的连线外（很多「重活」还是要靠它们来搞定），对设备本身的运算力其实也有着不低的...", 
+  "title": "Google 与 Movidius 合作，共谋深度学习大计"
+ }
+]
