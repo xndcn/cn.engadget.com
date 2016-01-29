@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Fri, 29 Jan 2016 04:00:00 -0500", 
+  "link": "http://cn.engadget.com/2016/01/29/googles-virustotal-can-tell-if-your-firmware-is-infected/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/bdfd5628d398ffa198f67ff67a1cbcaf/203327356/virustotal-1000_thumbnail.jpg\" />BIOS 是电子产品的最基本部分，担起与操作系统和硬件之间沟通的桥梁。由于它是层被分隔开的存在，一般的防毒软件并不能侦测固件有否被病毒感染，所以美国国家安全局联同多个机构对此题目作山研究。其中 Google 最新的 VirusTotal 则是一个可以找出这些危险的固件病毒和不良代码的工具。...", 
+  "title": "Google 的 VirusTotal 可以侦测你的电脑 BIOS 是否被感染"
+ }
+]
