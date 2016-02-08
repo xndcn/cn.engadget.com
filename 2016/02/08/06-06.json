@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Mon, 08 Feb 2016 01:01:00 -0500", 
+  "link": "http://cn.engadget.com/2016/02/08/atom-scale-optical-switch/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/2c3db87e47906f64d0f2cc1b2cae6960/203370584/tiny-optical-switch-eth-zurich_thumbnail.jpg\" />随着愈来愈多的资讯被「光学化」，以利用光纤和光学网路设备的高速与高容量特性，目前传输上的最大瓶颈变成卡在电子讯号转换成光学讯号的部份。现有的技术是将电子的讯号转换成镭射的脉冲，再打进光纤中，但这个转换设备有三公分左右的大小，当数量一多时，无论是占据的空间还是消费的电力，都是非常可观的。\n\nETH Zurich 教授 Jürg Leuthold 所带领的研究团队便是将重点放在了这个装置上，开发出了一台仅有 10μm 大的超微型转换器。而其中最关键的组件，是距离非常非常的近的两片银金属和铂金属板 -...", 
+  "title": "科学家开发出一个原子大的光学开关"
+ }
+]
