@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Mon, 15 Feb 2016 06:00:00 -0500", 
+  "link": "http://cn.engadget.com/2016/02/15/mitsubishi-sound-and-wifi-indoor-location/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/dims-shared/dims3/GLOB/crop/3946x2528+0+0/resize/1400x897!/format/jpg/quality/85/http://hss-prod.hss.aol.com/hss/storage/midas/67e651583cb2452013c78ac9d683a92e/203398407/588500285_thumbnail.jpg\" />GPS 用作室外的定位是非常有用，让不少路痴也能安全地到达目的地，但当跑到室内，它就废了。即使近年兴起使用 Wi-Fi 或蓝牙 Beacon 来作室内定位，它们的准确度也有待加强。不过三菱就想了一个好方法，结合以上两种技术来提升定位结果的准确性。他们利用声音和可定位的 Wi-Fi 存取点，推算出使用者的位置，结果可精确至 1 米，而且只需要三个 Wi-Fi 热点即能定位。\n\n对于拥有制造汽车业务的三菱，能把这种声音 + Wi-Fi 的定位方法，应用至协助让车主在停车场的茫茫车海中，更快、更容易地...", 
+  "title": "三菱利用声音和 Wi-Fi 作更精准的室内定位"
+ }
+]
