@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Thu, 18 Feb 2016 20:01:00 -0500", 
+  "link": "http://cn.engadget.com/2016/02/18/apple-pushes-ios-patch-to-counter-the-dreaded-error-53/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/dims-shared/dims3/GLOB/crop/3917x2611+0+0/resize/1400x933!/format/jpg/quality/85/http://hss-prod.hss.aol.com/hss/storage/midas/5ee673b2079a4de7143523ea81319cd/203426762/stock-photo-chiang-mai-thailand-dec-a-man-using-new-feature-on-iphone-plus-touch-id-is-a-356388041_thumbnail.jpg\" />你因为 Touch ID 的「资安考量」而被苹果把手机给砖了吗？虽然拖了大半个月，但苹果今天总算是拿出了解决方案，并且对问题的成因和解决方案做出了说明。原来 Error 53 只有透过 PC / Mac 上的 iTunes 下载并更新 iOS 的人才会发生（所以直接在手机上 OTA 升级的人不受影响）。在使用 iTunes 更新的过程中，iTunes 会对装置进行硬件的安全性检测，如果检测失败的话，就会显示「错误代码 53」，并且不允许更新继续进行。依照苹果对友站 Techcrunch 的说法，...", 
+  "title": "苹果推出修正 Error 53 的 iTunes 更新"
+ }
+]
