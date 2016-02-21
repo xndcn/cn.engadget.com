@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Sun, 21 Feb 2016 14:04:00 -0500", 
+  "link": "http://cn.engadget.com/2016/02/21/facebook-dynamic-streaming-gear-vr/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/dims-shared/dims3/GLOB/crop/3071x2063+0+0/resize/1400x940!/format/jpg/quality/85/http://hss-prod.hss.aol.com/hss/storage/midas/8f9bc8598a07e2dfeaeb434461ec8372/203437118/2.23730956_thumbnail.jpg\" />Facebook 怎么会和 Samsung GearVR 扯在一起呢？别忘了 GearVR 内部的软体其实是用 Oculus 所设计，所以这台当前行动 VR 装置中首屈一指的产品要更新软体功能，就变成由买下 Oculus 的 FB 提供啦。这次的新技术称为「动态串流」，基本上就是不再将整个 3D 环绕场景当作是一个单一的串流看待，而是将场景切成多个分区，每个分区都提供多种不同的画质串流。取决于你目前的朝向，只有看得到的分区才会有比较高画质的影片，而看不到的就用低画质草草带过就好了。如此一来，在同...", 
+  "title": "Facebook 让 GearVR 的影片更清楚，载入也更快"
+ }
+]
