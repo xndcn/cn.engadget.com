@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Mon, 29 Feb 2016 06:00:00 -0500", 
+  "link": "http://cn.engadget.com/2016/02/29/google-neural-network-locates-photos/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/c75219e7e8f50dbbb22c9f58d3ce3ac2/203472037/google-planet-neural-network_thumbnail.jpg\" />有明显地标的照片，Google Photos 已经可以相当准确地猜出是在哪拍的（实话说，准确的有点吓人），但如果是是完全没有提示的照片呢？Google 相信新推出的 PlaNet 神经元网络系统会是答案 -- 这个依靠影像辨识与分析的系统，可以从照片中的建筑风格、植被、出现的文字语言等信息，将照片定位到全球 26,000 个网格中的一个。举例来说，如果一张照片里有贸盛的植被，和葡萄牙文的话，那就有很大的机会是巴西，而如果是陡峭，光秃的山峰，中间夹着一小片海的话，那大概就是以峡湾出名的挪威了。除了...", 
+  "title": "Google 的神经元网络现在没有地标也可以猜照片是哪里拍的"
+ }
+]
