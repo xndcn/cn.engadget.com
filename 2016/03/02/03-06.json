@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Tue, 01 Mar 2016 22:00:00 -0500", 
+  "link": "http://cn.engadget.com/2016/03/01/gmail-ocr-business-data/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/ecff3c43a71d8b1c889ca7e7589c7d26/203481559/stock-photo-kiev-ukraine-september-close-up-shot-of-brand-new-google-nexus-powered-by-android-220532338_thumbnail.jpg\" />无论企业怎么努力保密防谍，粗心或心怀鬼胎的员工永远都是保密工作当中薄弱的一环。为了协助打击这些故意或非故意害公司机密外泄的员工，谷歌发布了全新的「资料损失防护」服务，不仅会在信件寄出时扫描附件中的文字，甚至还会对图像进行 OCR -- 如果比对到公司预先设计的关键字词，或是特定的个人资料（证件号码、密码等）时，就会自动将信件挡下来，并回报管理员。只能希望员工真的是粗心，而不是故意想泄漏公司机密啰。\n\n因为是非常企业导向的功能，目前该服务仅针对 Google Apps Unlimited 的付费企...", 
+  "title": "Gmail 现在可以对企业电邮附件做 OCR 扫描，避免机密外泄"
+ }
+]
