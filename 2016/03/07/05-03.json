@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Mon, 07 Mar 2016 00:00:00 -0500", 
+  "link": "http://cn.engadget.com/2016/03/07/first-known-mac-ransomware/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/dims-shared/dims3/GLOB/crop/4776x3181+0+36/resize/1400x933!/format/jpg/quality/85/http://hss-prod.hss.aol.com/hss/storage/midas/b5df7bf0a98e932dca1eee9bd3a913d7/201912929/4a268af4693c41cdb8e2fb237d72461e_thumbnail.jpeg\" />出现在 Windows PC 和智能手机的绑架软体屡见不鲜，而 Mac 更一直因为较少出现相关问题而闻名。可是根据安全公司 Palo Alto Network 的发现，首款针对 Mac 的绑架软体出现了，并将其命名为 KeRanger（虽然 2014 年被发现的 FileCoder 也是针对 Mac 而出现，但编程尚未完成，所以不算了）。一旦使用者不幸安装了嵌有 KeRanger 恶意代码的应用程序（如这次发现被感染的 BT 代理 Transmission），它就会在三天后把电脑的档案都锁上，并...", 
+  "title": "首款针对 Mac 的绑架勒索软体出现了"
+ }
+]
