@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Thu, 10 Mar 2016 22:01:00 -0500", 
+  "link": "http://cn.engadget.com/2016/03/10/mit-csail-polaris/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/d961cebd52f9d7aa5114b008fc7f0a0a/203526894/15867331383_fe0b4e9deb-ed_thumbnail.jpg\" />平常我们听到「加快网页下载速度」时，大概都在描述网页压缩的科技，但 MIT CSAIL（信息科学与人工智能实验室）与哈佛合作的这个系统稍有不同 -- 新推出的「Polaris」想改善的不是网页载入的时间，而是载入的顺序，让网页读取更有效率。当你拜访一个新网站时，浏览器会先打开 HTML 档，再根据里面的内容，一个一个下载需要的 Javascript、图片、内嵌的其他 HTML 等信息。当网页庞大而复杂时，浏览器必需不停地向服务器来回沟通，一点一点地取得所有的必要数据。Polaris 则是处在最前...", 
+  "title": "MIT 的新方法可以让网页下载速度加快 34%"
+ }
+]
