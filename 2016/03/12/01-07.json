@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Fri, 11 Mar 2016 20:00:00 -0500", 
+  "link": "http://cn.engadget.com/2016/03/11/adobe-critical-flash-update-again/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/cad19a457ec0248089a81798c8200cee/203531668/adobe-flash-2016-03-11-02_thumbnail.jpg\" />咦？为什么要在标题里用「又」？没办法，Adobe 做这种事已经不是一次两次了... 这一回，他们发布的更新是为了补上 Flash「可能导致骇客完全接管受感染系统的致命漏洞」。Windows、OS X、Android、iOS、ChromeOS 这几大平台都有所涉及，官方是希望所有用户都能尽早安装为好。\n\n具体来说，这次补丁程序针对的漏洞总共有 23 处，而其中之一（CVE-2016-1010）据称「已被用于有限的针对性攻击」。当然，除了它以外，其它的漏洞也都意味着隐患。老是有这样的事发生，也难怪 ...", 
+  "title": "Adobe 又在为 Flash 的「致命漏洞」发补丁了"
+ }
+]
