@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Wed, 16 Mar 2016 02:00:00 -0400", 
+  "link": "http://cn.engadget.com/2016/03/16/google-encrypts-75-percent-of-traffic/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/beaba04c7b691bf3752de59edf7db331/203551303/509523420-ed_thumbnail.jpg\" />自 Edward Snowden 泄密事件之后，大家都对自己的网络安全增加了关注，尤其是数据流量有否经加密保护。谷歌最新释出的资讯公开报告中，指有 75% 的要求是透过加密连线，这对比 2014 年初只有 50% 多一点的数字，有着显著的升幅。\n\n有关升幅主要来自过往都不被重视的广告、新闻等服务，而 Gmail 和 Drive 则已经被 100% 受加密保护。可是报告中却发现北美洲是出现最多未经加密连线要求的地区；而行动装置更有 95.5% 的流量未经加密。原因大多是因为旧有的手机系统不支持，或...", 
+  "title": "谷歌：使用加密连线的网络流量超过 75%"
+ }
+]
