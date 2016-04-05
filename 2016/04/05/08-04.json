@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Tue, 05 Apr 2016 04:00:00 -0400", 
+  "link": "http://cn.engadget.com/2016/04/05/android-april-security-update/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/715c20fedaed01f10214b80a903e79e6/203639623/google-nexus-6p-1400_thumbnail.jpg\" />Android 的月度安全更新放到现在已经不算很稀奇，但即将到来的四月版本，解决的问题可是十分重要。据介绍，这次 Google 共修复了八个致命漏洞，而且其中之一涉及 libstagefright 库，降低了媒体框架被人恶意利用的可能性。此外，他们还补上了一个 kernel 缺陷，减少了设备被骇客完全控制的风险。\n\n如果你所用的是一台 Nexus 产品，或者说可以安装 Android Open Source Project 系统的话，再过不久应该就会收到对应的更新。至于其它设备，估计很快也都会陆...", 
+  "title": "Android 的四月安全更新修复了另一个 Stagefright 漏洞"
+ }
+]
