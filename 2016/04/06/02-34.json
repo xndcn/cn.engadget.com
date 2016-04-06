@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Tue, 05 Apr 2016 22:30:00 -0400", 
+  "link": "http://cn.engadget.com/2016/04/05/nvidia-dgx-1-deep-learning-supercomputer/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/4ab6cda5cd357189e53543f8ef5c4b0/203645034/201601IMG_1891-edJT_thumbnail.jpg\" />虽然本业是做 GPU，但 GPU 高度平行的运算特性很容易转移到特定的超级电脑应用上，因此不难发现 NVIDIA 近年来在超级电脑市场愈来愈活跃。今天发表的这台 DGX-1 是 NVIDIA 最新的尝试，CEO 黄仁勋称其 7TB SSD、双 Xeon 处理器及八颗 Tesla P100 GPU 的组合，总计拥有 170 TeraFLOPs 的运算力，相当于 250 台服务器装在一个小盒子里。...", 
+  "title": "NVIDIA 的 DGX-1 是专为深度学习应用打造的超级电脑"
+ }
+]
