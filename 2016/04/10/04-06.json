@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Sat, 09 Apr 2016 23:59:00 -0400", 
+  "link": "http://cn.engadget.com/2016/04/09/el-capitan-imessage-javascript-bug/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/caf3b02baf0d1e486a4cb5e9dec15544/203663300/OS%2BX%2BEl%2BCapitan%2BFullbleed_thumbnail.jpg\" />苹果在上月末的时候修复了 iMessage 中的一个重大安全漏洞，但其实在当时同一轮的软件更新中，他们也有解决另一个潜在的问题，只是一直等到今天，安全专家才出来解释了一番究竟。具体来说，这个漏洞让骇客能仅凭伪装的 JavaScript 链接向 OS X El Capitan 用户发起 XSS 攻击。如跳转后的视频所示，只要点击了 Messages 里有问题的链接，你的聊天记录及附件就会被自动上传到远端服务器之上。\n\n照理来说，这种攻击手法在浏览器上会比较常见，但根据专家的说法，通过 WebKit...", 
+  "title": "OS X 更新修复 iMessage 里的 JavaScript 链接漏洞"
+ }
+]
