@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Tue, 12 Apr 2016 23:00:00 -0400", 
+  "link": "http://cn.engadget.com/2016/04/12/microsoft-adds-qr-codes-to-tell-users-why-their-system-crashed/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/8a471437086ac9f6340f4a08020cb6ed/203676775/bsod-qr-01_thumbnail.jpg\" />做为 Windows 系列最为人惧怕的死机画面（加上可爱的哭脸说真的帮助并不大），微软其实一直以来在 BSOD 上都没有放上什么真正有用的资讯。有时候只能抄下一些意义不明的 STOP 码，或是诸如 BAD_SYSTEM_CONFIG_INFO、KERNAL_DATA_INPAGE_ERROR 之类看起来就很可怕的长字串，之后重开机（如果还开得起来）再来搜寻，非常麻烦且不方便。微软现在宣布将开始为 BSOD 提供二维码的连结资讯，只要用行动装置扫一下，就可以直接带到微软的说明页面，跳过整个「技术性...", 
+  "title": "微软为蓝白当机画面加上说明错误的二维码"
+ }
+]
