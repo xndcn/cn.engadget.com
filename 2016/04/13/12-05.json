@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Wed, 13 Apr 2016 08:02:00 -0400", 
+  "link": "http://cn.engadget.com/2016/04/13/usb-type-c-authentication-protocol/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/dims-shared/dims3/GLOB/crop/3840x2160+0+0/resize/1400x788!/format/jpg/quality/85/http://hss-prod.hss.aol.com/hss/storage/midas/7eb7eee011767a3e3edcea845509c911/203679438/16591446628_81819d975e_thumbnail.jpg\" />USB Type-C 插头允许通过的电流和功率比过去常见的 USB 规范要大得多，因此从市面上「随便买一条」USB Type-C 的充电线的危险也同样大得多，毕竟不是所有的线材能承受的电流都一样，万一买到比较次的 Type-C 线的话，有可能不小心烧掉机器，或引起火灾呢。为了降低这个风险，USB-IF 研发了一种加密的的认证协定，当你把获得 USB-IF 认证的线插上时，主控端会收到这个加密的「代码」，经过解译后就可以判断线材可以承受的最大电流电压为何，并且做相应的请求。\n\n当然，线材只是可以利...", 
+  "title": "未来 USB Type-C 将可靠软体判断线材是否符合规定"
+ }
+]
