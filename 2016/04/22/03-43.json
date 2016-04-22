@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Thu, 21 Apr 2016 23:34:00 -0400", 
+  "link": "http://cn.engadget.com/2016/04/21/battery-sized-arduino-clone/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/19a9ef44f9f5cfd42f5b09ea24ca03b3/203712285/aaduino-2_thumbnail.jpg\" />虽说目前市场上包括原厂与类 Arduino 的主机板产品选择已经相当地多，不过 Marker 毕竟是 Marker，与其等别人开发出符合需求的产品，不如就自己动手「改造」比较快啊！即便目前的 Tiny328 类 Arduino 主机板已经相当小型了，但 Johan Kanflo 依旧认为并不是这么好应用。而在这样的想法萌生之后，上图这个命名非常切题的 AAduino 便就此诞生了。\n\n在他着手将 radioduino 进一步缩小化之后，AAduino 成为了一块可轻松塞入单颗 AA 尺寸电池槽中...", 
+  "title": "这块类 Arduino 机板能轻松挤进一颗 AA 电池的空间中"
+ }
+]
