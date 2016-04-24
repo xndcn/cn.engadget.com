@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Sun, 24 Apr 2016 01:01:00 -0400", 
+  "link": "http://cn.engadget.com/2016/04/24/facebook-backdoor-hack-discovery/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/dims-shared/dims3/GLOB/crop/3372x2157+0+0/resize/1400x896!/format/jpg/quality/85/http://hss-prod.hss.aol.com/hss/storage/midas/829d6d2d95c996f78eaaaa7aa3657167/202403789/4d9a542ba089474091945b2bb43a9147_thumbnail.jpeg\" />就算是 Facebook 这样的网路巨擘，也免不了被骇客光顾的命运呢。台湾 Devcore 团队的 Orange Tsai 发现了 Facebook 的企业服务器（就是公司本身的服务器，不是 Facebook 网站的）被人装了后门，用来窃取员工的帐号密码。这个藏在服务器上的一个档案传输 App 里的小 PHP 码，基本上可以让入侵者查看员工 Email、甚至透过 VPN 进到公司内部，只是骇客好像一路留下太多痕迹了啊？。\n\nTsai 是为了奖金向 Facebook 回报这个漏洞的，所以虽然不知道...", 
+  "title": "Facebook 的企业服务器被人装了后门"
+ }
+]
