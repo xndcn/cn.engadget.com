@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Fri, 13 May 2016 04:00:00 -0400", 
+  "link": "http://cn.engadget.com/2016/05/13/google-makes-its-most-powerful-language-parser-open-source/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/dims-shared/dims3/GLOB/crop/3867x2578+0+0/resize/1400x933!/format/jpg/quality/85/http://hss-prod.hss.aol.com/hss/storage/midas/d7d88dd1935cf93f643526eb7c6b5fd0/200592241/487570121_thumbnail.jpg\" />我们或许会比想像中更快地弃用键盘输入了！谷歌最新宣布把其语法分析神经网络架构 SyntaxNet 开源，让其他开发者能利用自己的数据来训练自己的 SyntaxNet。而 Google 自家用于分析英语的版本，就被名为 Parsey McParseface。...", 
+  "title": "谷歌把最强的语言解析器开源了"
+ }
+]
