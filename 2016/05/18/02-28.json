@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Tue, 17 May 2016 22:21:00 -0400", 
+  "link": "http://cn.engadget.com/2016/05/17/ibm-research-phase-change-memory/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/21cc1c81788f8849c6d0596dc3d718f3/203828220/ibm-phase-change-memory-2016-05-17-01_thumbnail.jpg\" />相变内存（Phase Change Memory，PCM）是诸多号称能「改变未来」的新内存技术之一，拥有接近 DRAM 的速度、远超过快闪内存的使用寿命，以及不供电也能保存资料的特性。在某些方面来说，它和忆阻体有点像，都是利用物质的电阻高低值来存储信息，只是真正的忆阻体是用电压来控制物质的电阻，而相变内存用的却是温度。相变内存使用的物质一般是一种或多种硫族化物的玻璃（Chalcogenide Glass），它们在加热冷却后，可以形成高电阻的晶体，或是低电阻的非晶体状态，或是两种状态间的任意比例组...", 
+  "title": "IBM 相变内存研究突破，每单位现在可存储三位元信息"
+ }
+]
