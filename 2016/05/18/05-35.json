@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Wed, 18 May 2016 01:34:00 -0400", 
+  "link": "http://cn.engadget.com/2016/05/18/symantec-antivirus-cross-platform-security-flaw/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/4cc177e72898a2852731ab95d4635d7a/203830577/103633957-ed_thumbnail.jpg\" />其实防毒软件把自己变成资安漏洞也不是什么新闻了，不过影响范围包括 Windows、Mac 与 Linux 平台的防毒软件漏洞？很显然... 生命总是会找到更极限的出路。任职于 Google 的 Tavis Ormandy，最近在赛门铁克（其实也同时被用于 Norton 的几个软件套件里）防毒引擎的压缩工具中，发现了个可借由触发内存缓冲溢位，进而取得软件的 root 等级控制权限的漏洞 -- 在 Windows 上甚至可以取得最核心的 Kernel 权限。简单的说，就是一个可以让骇客轻易控制你电脑...", 
+  "title": "Symantec 防毒漏洞达成跨平台成就"
+ }
+]
