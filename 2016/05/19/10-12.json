@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Thu, 19 May 2016 06:00:00 -0400", 
+  "link": "http://cn.engadget.com/2016/05/19/google-ai-processor/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/1f91e23245841641fe8e619596bb3d01/203838263/google-tensor-processing-unit_thumbnail.jpg\" />谷歌为数据中心开发专属的硬件并非新鲜事，但这次的却是为机器学习而设计专门的处理器：Tenser Processing Unit，它将会着重于每秒能完成的工作。谷歌形容在 AI 相关的工作上，TPU 的将会比现时使用同样能量水平的处理器更快十倍的表现。而且他们也为了在寸金尺土的数据中心使用，把 TPU 设计成能放进硬盘槽的外型。有趣的是这 TPU 的威力已经展示于人前了，3 月时 AlphaGo 战胜人类时所用的处理器正是它。有了 TPU，谷歌指人工智慧将能作出更快的思考和预测。相信这款新处理器在...", 
+  "title": "谷歌为 AI 打造了一款专门的处理器"
+ }
+]
