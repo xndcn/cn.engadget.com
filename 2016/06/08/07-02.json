@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Wed, 08 Jun 2016 03:00:00 -0400", 
+  "link": "http://cn.engadget.com/2016/06/08/run-android-on-an-iphone-with-some-heavy-engineering-and-cavea/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/2024463033d1ed10cc5a5baba760c1e2/203920510/Screen-Shot-2016-06-08-at-12.25_thumbnail.jpg\" />曾经把 Windows 95 弄到 Apple Watch 上的 Tendigi 团队，现在又把脑筋动到了 iPhone 之上。开发者之一的 Nick Lee，最近做出了一款能让 iOS 手机「运行」Android 系统的保护壳。之所以给运行打引号，是因为实际上 Lee 只是把开发板上的 AOSP 软件以串流形式投到 iPhone 屏幕上。当然，在后者上进行的触控操作也会被传回 Android 那边，具体的效果，可以先看看跳转后的视频。...", 
+  "title": "这款保护套让你能在 iPhone 上「运行」Android 系统"
+ }
+]
