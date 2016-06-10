@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Thu, 09 Jun 2016 23:00:00 -0400", 
+  "link": "http://cn.engadget.com/2016/06/09/android-nearby-apps/?ncid=rss_truncated", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/d502bc170a0ddbad4c031b87beff9295/203929220/stock-photo-mountain-view-ca-usa-nov-android-lollipop-latest-android-os-replica-in-front-of-227705986-ed_thumbnail.jpg\" />谷歌真的真的希望我们能按特定条件来使用某些应用程序内容，因为在 Google Android Blog 的一篇文章中，说明了 Nearby 功能可让 Android 装置利用蓝牙和 GPS 来判定身处位置后，自动执行某些动作的例子，包括当装置得知自己身处机场时，就会自动显示登机所需要的资料；在药房的话，就会自动显示所需要买的东西的照片或打印药单。原理有点像 IF 的按位置触发条件，只是变了在系统内建的功能。\n\nNearby 功能已经随最新的 Google Play Services 推送至各装置...", 
+  "title": "Android 将可以按地点自动启动应用程序"
+ }
+]
