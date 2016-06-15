@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Wed, 15 Jun 2016 06:30:00 -0400", 
+  "link": "http://cn.engadget.com/2016/06/15/apple-safari-10-flash-off-by-default/?ncid=rss_truncated", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/77266dfb09864093aeda6f0ad8958f7b/203944552/sierra_thumbnail.jpg\" />苹果工程师 Ricky Mondello 在 WebKit 发表了博客文章，指该公司将会在最新的 Safari 10 浏览器预设停用 Flash，让最新的 macOS Sierra 使用者不会再因为漏洞满满的 Flash 而感到困扰。如果使用者进入的网页同时有 Flash 和 HTML5 版本，后者将会选为优先启动，但如果遇上 Flash 插件的部分，就会弹出对话泡泡来询问是否要启动 Flash。当然使用者也是可以勾选预设在该 URL 启动 Flash，以防下次再被询问了。...", 
+  "title": "​Safari 10 将会预设停用 Flash"
+ }
+]
