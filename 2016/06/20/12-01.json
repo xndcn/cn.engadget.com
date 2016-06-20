@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Mon, 20 Jun 2016 08:00:00 -0400", 
+  "link": "http://cn.engadget.com/2016/06/20/google-ai-learns-how-to-play-ant-soccer/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/390902c09eace0092deb765831cf49f/203973061/s.aolcdn.com_thumbnail.jpg\" />在 AlphaGo 挑战下一位围棋高人之前，Google 旗下的 DeepMind 也没闲着，其 AI 技术最近又获得了一项不寻常的突破，简单来说，就是控制一只虚拟的蚂蚁（虽然看起来更像蜘蛛）去踢球。对 DeepMind 所研究的异步加强式机器学习方式来说，这一测试的结果有着十分重要的意义。AI 不光要在无法事先了解运作方式的前提下学会如何移动蚂蚁，而且它同时还要设法把球踢到指定的位置。想像一下，如果你在没有学会跑步前就被送去踢一场球赛，差不多就是这样的意思，如此想来就知道难度有多大了吧。\n\nD...", 
+  "title": "Google DeepMind 已经能让虚拟蚂蚁踢足球了"
+ }
+]
