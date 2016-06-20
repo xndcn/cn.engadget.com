@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Mon, 20 Jun 2016 04:01:00 -0400", 
+  "link": "http://cn.engadget.com/2016/06/20/researchers-build-1000-core-processor/?ncid=rss_truncated", 
+  "description": "<img src=\"https://s.aolcdn.com/dims5/amp:571c7053e86e1af2fc6c94b386bf8e6e98c742ea/q:100/?url=http%3A%2Fo.aolcdn.com%2Fhss%2Fstorage%2Fmidas%2F4c1946f25e9a9336f83762280f69a446%2F203971158%2Fuc-davis-kilocore-processor_thumbnail.jpg\" />八核心、十核心的处理器我们都时有所闻，但美国的 UC Davis 最近开发了 KiloCore，顾名思义就是拥有一千颗运算核心的处理器。在执行需要平行处理的运算，如加密、分析科学数据和视频编码处理的工作时，更是得心应手。而且其不单单是是核心数吓人，功耗也是出奇地低，它能单靠一个 AA 电池驱动，每秒处理 1,150 亿项指令的用电量亦只要 0.7W，不需要的核心也能单独关闭。...", 
+  "title": "这不是一千颗处理器，是单颗处理器拥有一千个核心！"
+ }
+]
