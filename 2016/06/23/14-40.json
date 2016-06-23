@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Thu, 23 Jun 2016 10:32:00 -0400", 
+  "link": "http://cn.engadget.com/2016/06/23/apple-ios-10-kernel-unencrypted/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/6666de1c3af13fdf4f3c53934752e81f/203990460/ios-10_thumbnail.jpg\" />照理来说，苹果一般都不太喜欢跟别人分享他们的秘密，但没想到这次的 iOS 10 预览版，其 kernel 居然会以完全不加密的形式出现在开发者面前。而且根据官方说法，这么做还是有意为之，Apple 觉得此举将有助于「在不破坏安全性的前提下优化 OS 的性能表现」。作为系统的核心，kernal 掌管着 iOS 的安全，而苹果过去都会为它重重设防，如今卸下保护，为的是让更多安全专家能更方便地发现问题，以便官方开发团队尽快找到解决办法。\n\n在接受 MIT Technology Review 采访时，i...", 
+  "title": "苹果：iOS 10 不对 kernal 加密是有意为之"
+ }
+]
