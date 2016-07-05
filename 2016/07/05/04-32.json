@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Tue, 05 Jul 2016 00:25:00 -0400", 
+  "link": "http://cn.engadget.com/2016/07/05/critical-security-flaw-found-in-lenovo-pcs-again/?ncid=rss_truncated", 
+  "description": "<img src=\"https://s.aolcdn.com/dims5/amp:fb1304be3a5b1dd0963c33c5ccc9c178052df035/q:100/?url=http%3A%2F%2Fo.aolcdn.com%2Fdims-shared%2Fdims3%2FGLOB%2Fcrop%2F2500x1764%2B0%2B0%2Fresize%2F1600x1129%21%2Fformat%2Fjpg%2Fquality%2F85%2Fhttp%3A%2F%2Fo.aolcdn.com%2Fhss%2Fstorage%2Fmidas%2F33bb498cf43fc6557e76535debdef1d4%2F204033403%2F2.6206390_thumbnail.jpg\" />又是联想，安全研究员 Dmytro Oleksiuk 在 Github 上以 Cr4sh 的用户名发布了一则贴文，指他在联想的电脑产品中找到一个未被修复的漏洞，可让骇客透过它来避过 Windows 系统的基本安全协定。据文中指出，这问题韧体是复制自 英特尔 的数据，一台 2010 年的 HP Pavillion 笔电也已经被证实有同样问题，所以 Oleksiuk 认为会有更多其他厂商的产品同样受影响。...", 
+  "title": "联想电脑再爆严重安全性漏洞"
+ }
+]
