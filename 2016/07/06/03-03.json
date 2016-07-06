@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Tue, 05 Jul 2016 23:00:00 -0400", 
+  "link": "http://cn.engadget.com/2016/07/05/android-malware-from-chinese-ad-firm-infects-10-million-devices/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/326fb9c466d96a78ad99acdbf33e5fcf/204040775/CmNfw_qUcAAN0N4_thumbnail.jpg\" />如果你去移动广告商微赢互动（Yingmob Interaction）的网页逛一圈的话，看到的是个普通（甚至有点无聊）的普通商务网页，提供客户在手机 App 内插入广告的服务。想不到的是，在普通广告公司面貌的背后，竟然是一个专业的恶意软件开发团队，为公司带来虚假的点击率。恶意软件的名字叫「HummingBad」，如果你不小心去了不该去的网站，或装了不该装的软件的话，HummingBad 就会从手机的多个漏洞下手，试图取得最高权限。如果此路不通，它也会假装是系统更新来欺骗使用者给与权限。一旦侵入成功...", 
+  "title": "来自中国广告商的恶意软件感染超过 1000 万台 Android 设备"
+ }
+]
