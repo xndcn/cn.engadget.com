@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Mon, 18 Jul 2016 21:00:00 -0400", 
+  "link": "http://cn.engadget.com/2016/07/18/maxthon-browser-privacy-issue/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/ba59694774c419dcf0cd795eaea4aac6/204094018/maxthon-mac_thumbnail.jpg\" />Exatel 的安全专家日前在报告中指出，不管你是否加入了傲游（Maxthon）的用户改善计划，浏览器都会擅自上传用户的敏感信息。据介绍，这些数据中除了包括有版本号、广告拦截使用情况都相对正常的内容外，还有使用者的浏览历史，连 Google 搜索的记录都没有放过。而且，其对应的 zip 文件会以图片的伪装形式存在，尽管被加密，但根据 Exatel 的研究结果来看，要反向攻破似乎并不是件很难的事情。\n\n我们就此事询问了傲游，但至今对方还未发布任何评论。另外，在其论坛中，官方发言人曾承认自家的浏览器...", 
+  "title": "傲游浏览器会擅自搜集用户敏感数据？"
+ }
+]
