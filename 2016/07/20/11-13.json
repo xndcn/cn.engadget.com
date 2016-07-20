@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Wed, 20 Jul 2016 07:10:00 -0400", 
+  "link": "http://cn.engadget.com/2016/07/20/android-nougat-strict-verified-boot/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/fe88e284e412fecebfbe7a948d1d4dec/204102425/s.aolcdn_thumbnail.jpg\" />自 KitKat 开始，Android 系统会在装置启动的过程进行认证，确保 rootkit 和其他形式的恶意软件不会在不被侦测到的情况下运行。可是这做法保护性有限，Mashmallow 也只能做到向使用者发出警告，但到了 Android Nougat 就会有所不同了。根据 谷歌 的介绍，新版本 Android 将会严格执行启动检查，如果发现启动的映象档或分区有被感染的迹象，系统就会进入限制使用的模式，甚至不会开启。...", 
+  "title": "Android Nougat 不會讓受感染的手機启动"
+ }
+]
