@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Sat, 23 Jul 2016 22:54:00 -0400", 
+  "link": "http://cn.engadget.com/2016/07/23/ios-10-unsecured-networks/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/f0fd8cd70660cb1c667cef7e581ea741/204116008/s.aolcdn-4_thumbnail.jpg\" />「询问是否加入网络」这项功能，基本上长久以来都在 iOS 的 Wi-Fi 功能中可以找到（嗯？大家应该有看过吧？），它可以适时提醒让你尽量可以利用周遭的无线网络资源。不过，随着新世代的 iOS 10 来到，Apple 针对使用开放网络的风险加入了一些提醒。开发者 Jeb Stuart 发现在 iOS 10 beta 中，新加入了一个针对连上开放 / 未保全网络的提醒通知，并且会在 Wi-Fi 的连线选项中提供相关的设定建议 -- 像是，可以为你的路由器加上 WPA2 的无线加密选项，并提供更深入...", 
+  "title": "iOS 10 加入开放 Wi-Fi 网络警示信息"
+ }
+]
