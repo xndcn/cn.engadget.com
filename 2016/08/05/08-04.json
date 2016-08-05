@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Fri, 05 Aug 2016 04:00:00 -0400", 
+  "link": "http://cn.engadget.com/2016/08/05/htc-vive-open-source/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/364a7e7c7c5d29599345b2e02bf265ef/204165653/s.aolcdn-1_thumbnail.jpg\" />就如 Valve 把其 Steam 游戏控制器开源的做法一样，他们现在也把 Vive VR 头戴式设备的独特功能，SteamVR 在房间大小空间内的 3D 追踪系统开源。在开发者套件中，将会包括一对 HTC Vive 的基站、一套完整的 EVM 电路板和 40 颗独立的感应器等，有了这些工具开发者就能很快自行打造一套能在房间里追踪用户的 VR 设备了。\n\n在 FAQ 页面，Valve 写道他们并不会收取授权费，只需要开发者缴付 3,000 美元的训练费用，并到西雅图出席课程就可以了。Valve ...", 
+  "title": "Valve 把 HTC Vive 的追踪技术开源了"
+ }
+]
