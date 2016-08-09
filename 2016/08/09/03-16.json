@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Mon, 08 Aug 2016 23:10:00 -0400", 
+  "link": "http://cn.engadget.com/2016/08/08/qualcomm-chip-security-holes/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/16dde255937de5c8c3672a84cfa8fc77/204179136/s.aolcdn_thumbnail.jpg\" />高通几乎垄断了智能装置市场，所以以下的新闻也几乎与所有使用者有关。Check Point 最新发现了统称为 QuadRooter 的漏洞，能会透过驱动程式来获得 root-level 的存取权限和安装恶意程式来绑架装置。受害人只需要安装一个看似没有问题，不需存取权限的 app 就会中招。...", 
+  "title": "高通芯片存在漏洞，影响大部分 Android 装置"
+ }
+]
