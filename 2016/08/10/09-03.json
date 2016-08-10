@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Wed, 10 Aug 2016 05:00:00 -0400", 
+  "link": "http://cn.engadget.com/2016/08/10/netflix-https/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/eae39fb4eae5e3555c5870e733864105/204185174/s.aolcdn-1_thumbnail.jpg\" />Netflix 在保护内容安全一直都不遗余力，除了利用 DRM 避免盗版之外，他们最近又多加一重保障，就是正式通过 HTTPS 加密来提供串流服务。Netflix 在博客文章中解释到底他们是如何一夜间，把这拥有超过 8,000 万使用者的服务加密。他们开发了一个设置在 Open Connect 服务器之上的加密保护，所以并不会对服务带来影响。...", 
+  "title": "Netflix 解释转用 HTTPS 来串流播放视频的理由与方法"
+ }
+]
