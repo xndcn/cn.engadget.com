@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Tue, 09 Aug 2016 20:00:00 -0400", 
+  "link": "http://cn.engadget.com/2016/08/09/chrome-web-bluetooth-support/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/45b79f3cc06109496ab6c5df216cbcee/204181939/135176501_thumbnail.jpg\" />在经过了数月的初期测试后，Google 终于向开发版 Chrome 及 Chrome OS 开放了 Web Bluetooth API，让使用者可以通过特定网页与自己的蓝牙设备进行「沟通」。比如说，你可以在网页界面里控制各类智能家居产品，或者说直接将可穿戴设备的数据转发给你的健身教练。当然啰，除了先准备好已具备新 API 的开发版软件外，你还要找到支持这类技术的网页才行。目前符合要求的并不算很多，希望在明年一月开发版测试结束的时候，Web Bluetooth 能被更广泛地应用吧。...", 
+  "title": "再过不久，Chrome 就能跟你的蓝牙设备「交流」了"
+ }
+]
