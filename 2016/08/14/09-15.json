@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Sun, 14 Aug 2016 05:10:00 -0400", 
+  "link": "http://cn.engadget.com/2016/08/14/google-fuchsia-operating-system/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/c3c999c9f716bf3d76143041a8db6e36/204201279/493889023_thumbnail.jpg\" />Google 虽然以网絡服务为主业，但近来因为各种需求，也打造／收购了不少作业系统。除了大家都熟悉的 Android 和 Chrome OS 之外，也有像 Brillo 这样比较不为人所知的产品。如今，Google 又开发出了一个代号 Fuchsia 的开源作业系统，特色是从 IoT 联网装置、到手机、甚至 PC 都能使用。它的核心也包含了最新的作业系统技术，并且支持 ARM 和 64 位元 Intel X86 架构。不出意外地，它使用 Google 自家的 Dart 语言来开发。\n\n有足够的技...", 
+  "title": "Google 的 Fuchsia 作业系统在什么硬件上都能跑"
+ }
+]
