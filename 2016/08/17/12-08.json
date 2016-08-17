@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Wed, 17 Aug 2016 08:01:00 -0400", 
+  "link": "http://cn.engadget.com/2016/08/17/intels-joule-is-its-most-powerful-dev-kit-yet/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/46ac269ed16d79e955fdb941c932ef01/204213208/intel-joule-1-2x1_thumbnail.jpg\" />除了 Alloy 和 Euclid 之外，Intel 在 IDF 上還有另一個產品要介紹給我們：以 Atom 處理器為核心的 Joule 開發套件。它主要的任務是讓開發者可以實驗以 Realsense 為基礎的新概念，但在需要高運算力、小體積的控制器的領域，像是機器人、AR、VR、和工業化 IoT 等，Joule 也可以是個不錯的選擇。\n\nJoule 共有兩個版本，高階的 570x 配備了 1.7GHz 的四核 Atom T5700 處理器、4GB RAM 和 16GB 儲存空間；稍低階點的 5...", 
+  "title": "「Joule」是 Intel 最强大的开发套件"
+ }
+]
