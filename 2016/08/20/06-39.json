@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Sat, 20 Aug 2016 02:34:00 -0400", 
+  "link": "http://cn.engadget.com/2016/08/20/windows-10-update-breaking-webcams/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/a421498366792dca1e109c36edeb589f/204226369/s.aolcdn-3%3F%3F_thumbnail.png\" />更完整了 Windows 10 的周年更新虽然让这套操作系统在许多小细节上都变得更好，不过也免不了一些失误。最近有人装了 Windows 10 的周年更新之后，发现自己的 USB WebCam 视频相机，可能在聊天不到几分钟以内就会失效出错。而这其中的原因也很快地被挖出。Thurrott 网站指出，在这次的周年更新中，微软似乎希望以 NV12 与 YUY2 取代常见的 MJPEG 与 H.264 编码，却因为禁用的程序出状况造成了拖慢程序甚至是整个当掉的问题，影响了数以万计的使用者。\n\n微软很快...", 
+  "title": "装了 Windows 10 年度更新，坏了 WebCam？你，并不孤独"
+ }
+]
