@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Sat, 20 Aug 2016 23:04:00 -0400", 
+  "link": "http://cn.engadget.com/2016/08/20/unlock-chrome-os-with-pin/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/a2fd5bcae2b736d8b8f28e69a09ceba1/204226965/s.aolcdn_thumbnail.png\" />觉得每次登入 Chrome OS 都要输入 Google 帐户密码有点麻烦？现在开发者总算为此系统加入了简单密码的快速登入功能，为对手机靠近自动解锁还不太信任的使用者，带来介于两者之间的解锁方式。\n\n根据 Google 员工 François Beaufort 的贴文，我们知道由于这项功能仍是实验功能的关系，所以若是想要在 Chrome OS 启用的话，则是需要先启用「chrome://flags/#quick-unlock-pin」，接着在重启后到 Chrome Material Design...", 
+  "title": "Chrome OS 现可支持简易密码解锁"
+ }
+]
