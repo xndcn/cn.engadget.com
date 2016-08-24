@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Tue, 23 Aug 2016 20:00:00 -0400", 
+  "link": "http://cn.engadget.com/2016/08/23/hololens-24-core-chip-makes-vivid-ar-possible/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/3effd23b9a8762af64d28926668e6883/204237206/hololens-parts-2016-08-23-01_thumbnail.jpg\" />对于 HoloLens 所使用的 HPU 零件（Holographic Processing Unit），一直以来微软都没有做太深入的介绍。不过在最近举办的 Hot Chips 大会上厂方终于松口，在现场公布了更多与这款 24 核心芯片有关的细节。据称其运算能力可达到 1TFLOPS，是基于台积电的 28nm 制程打造。总共内建了 6,500 万个逻辑闸，并配有 8MB SRAM 和 1GB DDR3 DRAM，最终采用 12 x 12mm BGA 封装。\n\n微软赋予 HPU 的任务，是处理惯性...", 
+  "title": "更多 HoloLens 所用的 24 核 HPU 细节被公布"
+ }
+]
