@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Thu, 25 Aug 2016 23:00:00 -0400", 
+  "link": "http://cn.engadget.com/2016/08/25/apple-patent-iphone-thief-fingerprints/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/2189fd2831c1a50417e6567f7daeb467/204249019/apple-touch-id-patent-2016-08-25-01_thumbnail.jpg\" />苹果在 iOS 设备的防盗功能上已经花了不少心思，但根据其最近申请的专利来看，似乎仍有再进一步的想法。他们这次构想的方案，是让 iPhone、iPad「在辨认出未认证用户时自动记录相关的生物特征」。具体来说就是记下指纹以及拍摄、录音（其实也可以存下 GPS 信息），然后把数据存储或发送到专门的服务器，便于警方进行进一步的追查。\n\n实际上，要达到这样的效果，硬件上已经没什么欠缺（Touch ID、前置相机、麦克风），需要的只是在贼人不注意的时候将其打开而已。对此苹果准备了两套方案，其一是在试错一次...", 
+  "title": "苹果申请了一项让 iPhone、iPad 记下偷盗者指纹的专利"
+ }
+]
