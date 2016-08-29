@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Sun, 28 Aug 2016 22:04:00 -0400", 
+  "link": "http://cn.engadget.com/2016/08/28/opera-sync-service-hack/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/d2f5ecea7adccca673c2609450b79efc/204256503/s.aolcdn_thumbnail.jpg\" />网络骇客攻击的手法层出不穷，但骇进浏览器的同步服务倒是少见，Opera 最近就发现了自己成为了目标 -- 仔细想想也没错，毕竟同步功能也包含「记忆密码」，而这，应该是许多有心人士觊觎的目标。好在，发现被骇的 Opera 除了很快就挡住漏洞并且主动进行调查了之外，还判断其密码的同步资料部分应该有较好的加密，所以理论上而言应该是安全无虞。...", 
+  "title": "Opera 浏览器的同步服务确认被骇"
+ }
+]
