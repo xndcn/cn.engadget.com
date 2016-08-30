@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Mon, 29 Aug 2016 23:04:00 -0400", 
+  "link": "http://cn.engadget.com/2016/08/29/surface-pro-3-battery-update/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/c21c185c5dc4b1ce916a841289ae7b78/204261474/s.aolcdn_thumbnail.jpg\" />在微软终于发现 Surface Pro 3 异常耗电问题其实是来自于软件后，很快地（这次的确算快）他们便在满一周后的今天准备推出对此的固件更新，希望能解决 SP3 最近被许多用户抱怨的续航问题。\n\n据称，导致这次续航出状况主因是来自于系统与固件对于电量的误判 -- 简单地讲，就是 SP3 在电池真正充饱之前就以为充好了，所以自然电量永远不够用（只能说还好现在的电池是算循环的...）。官方表示在这次的更新之后，电量估计值会在几次的充放循环后恢复正常，所以，请多点耐心陪伴这个孩子恢复健康吧。...", 
+  "title": "修正 Surface Pro 3 续航问题的固件更新来啰！"
+ }
+]
