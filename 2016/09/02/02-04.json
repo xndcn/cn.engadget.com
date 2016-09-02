@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Thu, 01 Sep 2016 22:00:00 -0400", 
+  "link": "http://cn.engadget.com/2016/09/01/recently-patched-ios-security-flaw-also-affects-os-x/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/5ee8b137e8c64e4d7de657d2375a597a/204277001/s.aolcdn-1_thumbnail.jpg\" />上周 Apple 推出了一个修复 iOS 安全性问题的更新，防止被骇客透过恶意连结就能取得装置控制权。原来同样的漏洞也出现在 OS X 的 Safari 浏览器里，而且不管是 Yosemite 或是 El Capitan 的版本也同时面对风险。Lookout Security 和 Citizenlab 证实漏洞是透过传送恶意连结至人权运动人士，并藉此攻击其电脑，并相信有关的方法是由「网络战争」公司 NSO Group 出售予阿联酋政府。\n\n虽说这些攻击是针对性的，但因为漏洞已经被公开了，所以作为...", 
+  "title": "最新被修复的 iOS 安全性问题，原来也影响着 OS X"
+ }
+]
