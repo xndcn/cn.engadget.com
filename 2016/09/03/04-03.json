@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Fri, 02 Sep 2016 23:59:00 -0400", 
+  "link": "http://cn.engadget.com/2016/09/02/microsoft-fixes-anniversary-update-s-login-freeze-in-windows-10/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/a9117a2d9f4f92bc52d8845fcd6e8b89/204281198/RTX1MBUJ_thumbnail.jpeg\" />Windows 10 的年度更新自是有很多吸引人的地方，但各类 bug 也是层出不穷，如此一来用户体验便又打了折扣。微软那边倒也不是坐视不管，只是做补丁的效率实在不高。比如说最近的一次自动更新（8 月 31 日），就只解决了那些将系统跟应用数据放在不同磁盘区的用户，在登录时遇到的当机故障。像是连接阅读器后系统崩溃等问题，还是没有个很好的办法（Webcam 的毛病给了个临时方案，据称会在九月内更新）。\n\n说回登录当机的解法，具体来说用户可采与两种手段。其一是建立在有第二个管理员帐户的前提之下，你只...", 
+  "title": "微软解决了 Windows 10 年度更新里的登录当机问题"
+ }
+]
