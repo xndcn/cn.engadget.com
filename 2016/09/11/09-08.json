@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Sun, 11 Sep 2016 05:03:00 -0400", 
+  "link": "http://cn.engadget.com/2016/09/11/google-fixes-serious-android-security-flaws/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/42f0d78f9b5a850368180c88da8c8169/204310928/490626518_thumbnail.jpg\" />Google 的 Project Zero 安全性团队这礼拜颇忙的，一口气公开了两个极严重的安全性问题。不意外地，官方在描述它们的时候闪闪躲躲的，只说两个漏洞都不难被发现，所以有很大的机会已经有人在利用它们了。第一个漏洞让攻击者可以执行恶意软件，或提高自己的权限；而第二个则是让恶意软件可以藏身在 JPEG 档案的 EXIF 中，甚至不用点开档案就有可能被入侵了。Google 自己的装置从周二开始应该就能陆续取得相关的补丁，但 Android 生态圈的缺点就是许多装置的更新都要等厂商自己发布，在安...", 
+  "title": "Google 修正两个 Android 的安全性问题"
+ }
+]
