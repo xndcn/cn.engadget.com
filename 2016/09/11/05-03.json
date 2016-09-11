@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Sun, 11 Sep 2016 01:01:00 -0400", 
+  "link": "http://cn.engadget.com/2016/09/11/google-deepmind-ai-wavenet-text-to-speech/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/5202054042e4191abe049c2cb74fd370/204310388/515687026_thumbnail.jpg\" />目前常见的电脑合成人声，大致上可以分成两种：一种是利用一个庞大的样本资料库来做组合，另一种是用小的样本资料（各别的音节），但透过电子的方式去修改它的音调和语速。第一种听起来会比较自然，但需要大量的时间和精力来准备资料库，而且也很占空间；第二种则是虽然比较不占空间，但用合成的去修改音调，听起来还是比较不自然。\n\nGoogle 的 DeepMind 人工智慧团队（就是开发了 AlphaGo 的那个）利用了神经元网络，开发了第三种方式 -- 也就是直接拆解出声源样本，产生出一个更深层的语言「习惯」资料...", 
+  "title": "Google 的 WaveNet AI 可以产生出更拟真的合成人声"
+ }
+]
