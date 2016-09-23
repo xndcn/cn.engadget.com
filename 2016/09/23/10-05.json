@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Fri, 23 Sep 2016 06:02:00 -0400", 
+  "link": "http://cn.engadget.com/2016/09/23/facebook-messenger-calls-look-like-regular-calls-on-ios-10/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/5ca1443c62b818e0ace55fb4d7c11dec/204365858/s.aolcdn-1_thumbnail.jpg\" />现在看来，我们很快就连一般的语音通话也会透过行动数据来完成了，因为 Apple 自 iOS 10 开始提供 Callkit，能让第三方开发者把其拥有通话功能的使用界面，弄得与 iOS 原生的通话界面一样，分别就只有它是透过 VoIP 传送内容。而率先采用的就是 Facebook Messenger，它会在通话界面上加入标示区分。\n\n这样把传统电话功能以新方式替代的做法，其实并不是 iOS 首创，看看 Google 把 Android 版的 SMS 跟 Hangouts 融合就可看端倪。这样的做法...", 
+  "title": "iOS 10 的 Facebook Messenger 采用了原生 iOS 通话界面"
+ }
+]
