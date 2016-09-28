@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Wed, 28 Sep 2016 08:00:00 -0400", 
+  "link": "http://cn.engadget.com/2016/09/28/google-s-chinese-to-english-translations-might-now-suck-less/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/d5eb74a8b76deec4112c6a1a6642f1a6/204384954/stock-photo-manhattan-ny-september-google-sign-company-building-in-new-york-usa-on-september-172157855-ed_thumbnail.jpg\" />对机器翻译来说，中文翻英文的难度是出了名地高，而 Google 最新引入的一项技术，应该能有效改善这种情况。据称他们已经为网页和移动版的普通话翻英语服务，整合入了一套神经机器翻译学习系统（Google Neural Machine Translation）。它在翻译时会以句子而非单个的词语来作为比照对象，这样一来，就能得到更为通顺的译文了。\n\n按照 Google 的说法，这套新系统之所以能达到更好的表现，是因为「它需要的工程设计选型比之前基于词语的系统更少」。尽管其依然会对句子进行分割，但现在每...", 
+  "title": "新技术有望提升 Google 翻译中翻英的准确率"
+ }
+]
