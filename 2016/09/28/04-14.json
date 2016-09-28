@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Wed, 28 Sep 2016 00:08:00 -0400", 
+  "link": "http://cn.engadget.com/2016/09/28/apple-to-fix-ios-10-backup-security/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/70fc6805ff35785456c52c7bb9d674a5/204384022/s.aolcdn-1_thumbnail.jpg\" />苹果虽然一再向公众展示他们对资料加密的重视，但也免不了犯下有关的错误。Elcomsoft 的安全研究员发现 iOS 透过 iTunes 制作的本机加密备份，仍然是使用旧版本的密码保护运算法，据研究员的说法，其强度远比 iOS9 所用的低，破解难度要低 2,500 倍。如果入侵者得到了 iTunes 备份档案和使用破解工具，他们可能在很短的时间就能突破了安全性机制，并取存到帐户密码或健康应用数据等敏感资讯。...", 
+  "title": "iOS 10 备份容易被骇的问题快将解决"
+ }
+]
