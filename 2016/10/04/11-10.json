@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Tue, 04 Oct 2016 07:02:00 -0400", 
+  "link": "http://cn.engadget.com/2016/10/04/ues-new-partyup-feature-broadcasts-to-multiple-speakers/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/8832274df80ebdb8b9521e7830bbe2cb/204410738/2016ue-partyup-1600-2JT_thumbnail.jpg\" />UE 的喇叭一直以来都让你可以通过 App 的设定链接两台设备，一起播放相同的音频，或是分别做为左右声道来使用。如今只要更新一下 UE 的 App 和升级 UE 设备的固件，就可以一次连线多达 50 台设备，让你... 其实也不知道可以做啥 XD。或许如果一堆朋友都有 UE 的蓝牙喇叭的话，可以来个超级吵闹的 party 吧。\n\nPartyUp 的原理是由一个 UE 喇叭做中继站，通过蓝牙 LE 一边连讯源，另一边连线所有其他的喇叭，而非一个接一个用串连的。这么一来比较能保证所有的喇叭发声同步，...", 
+  "title": "UE 的新「PartyUp」功能让你可以广播给五十台 UE 装置"
+ }
+]
