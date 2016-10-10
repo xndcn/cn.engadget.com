@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Mon, 10 Oct 2016 09:34:00 -0400", 
+  "link": "http://cn.engadget.com/2016/10/10/chrome-55-reduces-memory-use/?ncid=rss_truncated", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/e5761eab0c83aa95a21e40067f3d6098/204436032/chrome-desktop-mac-1600_thumbnail.jpg\" />对资源占用过多早就成了 Chrome 的一个顽疾，但好在 Google 已经意识到了这一点，至今为止也算是做出了不少改进的努力。而在即将于 12 月 6 日上线的 55 版本中，吃内存的情况又有望进一步改善。官方这次换用了一套全新的 JavaScript 引擎，相较 Chrome 53，它在打开 YouTube、Reddit 等测试网站时的内存占用量，据称能减少 50% 之多。\n\n考虑到如今基于 JavaScript 的网站很多，这项变化照理说应该能为浏览体验带来不小的提升。尤其是那些设备配置较...", 
+  "title": "将于 12 月登场的 Chrome 55 内存占用情况有望大幅改善"
+ }
+]
