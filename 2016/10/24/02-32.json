@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Sun, 23 Oct 2016 22:28:00 -0400", 
+  "link": "http://cn.engadget.com/2016/10/23/cisco-can-cut-live-pirate-streams/", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/9656178934b2c1ab80907a6769a77545/204494894/s.aolcdn.jpg\" />网站管理员很容易就能查找并封锁以上传的方式出现的侵权内容，可是直播的内容却没那么简单了。打比方说，一些大型运动赛事（如足球、篮球）的非法网上直播链接多如牛毛，版权方即使封锁了某几个链接，很快也会出现新的。不过 Cisco 声称能解决侵权行为，他们最新开发的 Streaming Piracy Prevention 技术，能自动把这些非法直播中断。\n\n这技术的原理是通过辨识被用作非法直播的视频水印或记印，查找视频来源（像是特定帐户）并从源头终止直播。版权方更不需要先给法律警告来希望侵权者知难而退，加...", 
+  "title": "Cisco 称他们能减少非法直播视频"
+ }
+]
