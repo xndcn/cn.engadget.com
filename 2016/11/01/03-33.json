@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Mon, 31 Oct 2016 23:30:00 -0400", 
+  "link": "http://cn.engadget.com/2016/10/31/chrome-boosts-page-load-speeds-with-clever-bits-of-code/", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/b1370843baf4aaa98db2e43102016ddb/204530097/s.aolcdn-1.jpg\" />谷歌一直以来对于 Chrome 浏览器的卖点都是「速度」。在刚推出的更新中，Windows 装置用的 64-bit 版 Chrome 53 和 32-bit 版 Chrome 54 都有针对这方面的表现而改进。受惠于微软 Visual Studio 的 PGO 功能，Chrome 浏览器将会在载入新页面时会加快 14.8%，已载入过的也有加快 5.9%，而浏览器的启动速度更是提速了 16.8% 之多。\n\n据 S&amp;eacute;bastien Marchand 在博客文章中表示，原理是因为浏览器会...", 
+  "title": "Chrome 浏览器编码变更聪明了，有效提升页面载入速度"
+ }
+]
