@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Wed, 09 Nov 2016 08:00:00 -0500", 
+  "link": "http://cn.engadget.com/2016/11/09/microsoft-patches-google-outed-windows-exploit/", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/ec4d34e642fb6109545cfcc1789dcf1e/204566233/RTX1AVL0.jpeg\" />如承诺的那样，微软终于在今天为 Google 先前发现的 Windows 安全漏洞推出了对应的补丁程序。该更新覆盖的范围涉及 Vista 到 Windows 10 间的多个版本。除了已经安装 Windows 10 年度更新和使用最新版浏览器的用户，其他那些不能或不想用新 Windows 的使用者，不升级的话就可能会面临被恶意软件攻入系统的风险。\n\n实际上，已经有一个名为 Strontium 的骇客小组，利用这个漏洞进行了一些有针对性的钓鱼活动。如果你不幸中招的话，微软的补丁就能派上大用场了。而对...", 
+  "title": "微软终于为 Google 找到的 Windows 漏洞发布了补丁升级"
+ }
+]
