@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Wed, 09 Nov 2016 00:31:00 -0500", 
+  "link": "http://cn.engadget.com/2016/11/09/android-update-dirty-cow-exploit-no-patch/", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/f4af63bf479f31142797b8eda4ed39a/204564726/s.aolcdn.jpg\" />刚推送的十一月 Android 安全性更新中，修复了 15 个重要漏洞。只是一个存在于 Linux 核心的漏洞未被包括在内，这漏洞会让骇客迅速地取得 Android 系统的完整存取权。研究员 Phil Oester 在十月时发现这漏洞，并相信它远在 2007 年就存在。漏洞被取名 Dirty COW 的原因，是因为它是基于复写系统（copy-on-write）之中，或纯粹是想搞笑吧。\n\n不过 Google 也有在这个月的安全更新中，加入「补充」性质的韧体修复给 Nexus 和 Pixel 装置。...", 
+  "title": "Android 最新更新并未修复主要安全漏洞"
+ }
+]
