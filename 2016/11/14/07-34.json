@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Mon, 14 Nov 2016 02:30:00 -0500", 
+  "link": "http://cn.engadget.com/2016/11/14/spotify-desktop-app-data/", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/50285d54ce49ec95eb0132e0c64b6585/204582576/s.aolcdn-1.jpg\" />在过去的数个月，Mac 和 PC 使用者都发现其桌面版 Spotify 应用程序会默默地在硬盘中写入大量资料。综合在 Spotify 使用者讨论区、Reddit 和 Hacker News 的资料，每小时的写入量达到数以百 GB 计的资料，有的更超过 TB 计。这样会直接减少硬盘的寿命，尤其是 SSD。\n\n根据 Ars Technica 的报导，这问题很容易重现，更甚的是即使应用程序在闲置状态，也会在每小时写入 5 至 10 GB 的资料。主站同时在他们 Mac 中也有发现类似的行为，有的使用者...", 
+  "title": "Spotify 桌面版应用会在硬盘里写入大量资料"
+ }
+]
