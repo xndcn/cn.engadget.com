@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Fri, 18 Nov 2016 06:00:00 -0500", 
+  "link": "http://cn.engadget.com/2016/11/18/icloud-logs-your-calls-but-its-not-leaking-anything/", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/e85625d9ddb7a1a15f3a7efc59f862c2/204605908/500796845.jpg\" />对抗 FBI 让不少隐私至上者成了苹果的拥趸，但实际上，当时他们也有跟美国政府提过一个例外，那就是如果手机的数据在 iCloud 上有备份的话，其实是可以拿出来作协助调查之用的。既然如此，也就难怪会有人表示担忧，比如说俄罗斯的安全公司 Elcomsoft，就发现 iCloud Drive 使用者的通话记录会在「暗中」被传回苹果的服务器。但苹果对此的解释，是原来的工作原理便是如此，不同登入设备间的同步功能需要藉此来实现。\n\n按照 Elcomsoft 的说法，只要用户启用了 iCloud Drive...", 
+  "title": "iCloud 会保留你的通话记录，但别担心苹果说不会泄漏"
+ }
+]
