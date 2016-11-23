@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Wed, 23 Nov 2016 06:00:00 -0500", 
+  "link": "http://cn.engadget.com/2016/11/23/hijacked-headphones-could-be-used-to-listen-in-on-your-life/", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/a9c1d1a13f515fdd59715a47565e7a8/204624183/0921_fender-2.jpeg\" />在正式讲这条新闻前，先给大家介绍一个许多人都不知道的小知识，那就是看起来跟麦克风功能完全相反的耳机，其实是可以拿来收录声音的。基于这一事实，以色列本古里昂大学（Ben Gurion University）的研究者们发现了一个潜在的风险：插在设备上的耳机可能会被黑客当作窃听用的工具。\n\n为了验证这一设想，他们自行开发了一套实验软件，它可以利用大多数 PC 主板所搭载的 RealTek 音频技术，在远端将耳机口转化为麦克风口（RealTek 可以自定义每个孔的用途），从而达到靠耳机收音实现窃听的目的...", 
+  "title": "小心，你的耳机可能会被黑客用来窃听"
+ }
+]
