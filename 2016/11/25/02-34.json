@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Thu, 24 Nov 2016 21:30:00 -0500", 
+  "link": "http://cn.engadget.com/2016/11/24/google-ai-translate-language-pairs-it-has-never-seen/", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/2b3fcfe061ced8d9b7f6d5e632a2beff/204630985/google-translate-ai-2016-11-24-02.jpg\" />Google 的翻译 AI 除了直接学习过的语言之外，现在连没有学过的也能试着翻译了呢。Google 翻译服务支持的语言一共有 103 种，如果每一种组合都要能对翻的话，Google 必须要训练 AI 5,253 对的配对方式 -- 考虑到每种语言都有上百万种的范例要学习，这显然是不现实的。Google 最近在转换到神经元网络翻译（Google Neural Machine Translation, GNMT）系统后，发现有学习过的语言组合翻译品质有变好，于是他们便想，能不能进一步应用到没有学过...", 
+  "title": "Google 的翻译 AI 连没学习过的语言配对也能翻译了"
+ }
+]
