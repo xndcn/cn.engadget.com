@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Wed, 30 Nov 2016 22:00:00 -0500", 
+  "link": "http://cn.engadget.com/2016/11/30/googlian-android-malware/", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/3e0e9616e1fe6cabc0c70798de915d2b/204652978/s.aolcdn.jpg\" />恶意程序对 Android 手机影响不会停止，Check Point 的研究员发现一种出现已久的 Ghost Push 恶意程序：Googlian，它已对超过 100 万个谷歌帐户造成影响，并正以每天感染 13,000 台 Android 装置的速度增加。这样可怕的恶意程序会在早期的系统里发挥作用，他们首先会骗得使用者从不知名来源下载内藏 Googlian 的 app，下载并启动后，就会透过 Linux 核心的漏洞来存取谷歌的授权令牌并安装置有问题 app，藉此提升这些 app 在 Google...", 
+  "title": "Android 恶意程序会自动下载 app 来提升 Google Play 排名"
+ }
+]
