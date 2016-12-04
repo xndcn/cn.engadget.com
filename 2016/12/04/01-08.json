@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Sat, 03 Dec 2016 20:01:00 -0500", 
+  "link": "http://cn.engadget.com/2016/12/03/amazons-new-snowmobile-collects-data-instead-of-blasting-throug/", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/3aeceff773eca82246da99e811c10427/204663528/Snowmobile.jpg\" />虽然说现有的光纤骨干技术频宽也很可观，但当要传送的资料量大到一定的程度时，依然不是光纤技术所能负荷的。这时候「实体」的传输 -- 将装满资料的存储设备从一地移到另一地 -- 就成了唯一的选择。针对有大量的资料需要转移到 AWS 的客户，亚马逊开始提供名为 AWS Snowmobile 的服务，在根本上就是一台有着巨大容量的移动资料中心卡车。\n\n在 Snowmobile 之前，亚马逊已经有提供名为「Snowball」，容量为 80TB 的移动资料箱，配备有完整的资料安全防护，可以用传统的方式寄送。...", 
+  "title": "Amazon 的「Snowmobile」或许是当今世上最快的文件传输方式"
+ }
+]
