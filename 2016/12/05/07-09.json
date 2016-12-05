@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Mon, 05 Dec 2016 02:01:00 -0500", 
+  "link": "http://cn.engadget.com/2016/12/05/google-chrome-html5-default/", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/ba66be3aa86fe4ea4a7fdbe2bd2296d4/204666100/s.aolcdn-1.jpg\" />谷歌在 5 月的时候表示了他们要逐步以 HTML5 取代 Flash 为网页预设。在最新推送的 Chrome 55 里，它除了只有 Flash 的网页或 10 大网页之外，其他的都会预设以 HTML 5 显示，而且会询问使用者要否以 Flash 开启。\n\n预设为 HTML5 的做法酝酿了很久，在两个版本之前，谷歌就开始封锁「会在后台运行」的 Flash 插件。而且转用 HTML5 还会提升载入速度、提升安全性和改进整进表现。在版本 55 里，还有 CSS 自动连字功能，将有助改善字体显示的效果。...", 
+  "title": "谷歌 Chrome 将默认读取更多网站的 HTML5 版本"
+ }
+]
