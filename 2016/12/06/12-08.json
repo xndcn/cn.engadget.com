@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Tue, 06 Dec 2016 07:00:00 -0500", 
+  "link": "http://cn.engadget.com/2016/12/06/netflix-updated-its-video-encoding-to-make-downloads-look-better/", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/619d0b49c065b6b67f178ffbc8066b91/204671364/netflix-android-dl-rl.jpg\" />Netflix 一直都有更新其串流视频的压缩和转换技术来提升客户的观赏体验，因为坊间上存在着的平台、观赏工具实在五花八门。在去年底，他们推出了一个更聪明的压缩运算法来对应不同视频内容（像是动画片集和真人戏剧）；今天，Netflix 就来提升串流至移动设备的压缩效率。\n\n据 Netflix 的解释指，他们对比在最优化设定情况下使用 Android 手机上的 VP9 和用于 iOS 和其他平台的 H.264/AVC 编码在每区块（约 1 至 3 分钟）的压缩效率，发现前者的比特率能减少达 36% 之...", 
+  "title": "Netflix 更新视频编码方式，更节省数据用量"
+ }
+]
