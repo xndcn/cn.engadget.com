@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Wed, 07 Dec 2016 06:00:00 -0500", 
+  "link": "http://cn.engadget.com/2016/12/07/google-further-shrinks-android-app-updates/", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/1aaa1c91271a96f7e2bf128a1ba5e86a/204675982/s.aolcdn.jpg\" />撇开那种几乎每次都搬出 NPC 角色固定说明的 app 更新说明（是，Facebook app 就是在说你 XD），其实大部分的应用程序更新，都是可以用简单的条列说明来让使用者快速掌握此次更新的差异到底在哪。类似这样的比对方式，也可让更新以更有效率的补丁方式来减肥（压缩）每次更新的文件尺寸。\n\n针对 Google Play 上的应用程序，Google 在今年初时就已采用了 BSDiff 的差分更新技术，可与原本的主程序文件尺寸相较之下，达到平均约 47% 的文件尺寸压缩成效。今天，他们则是又再推...", 
+  "title": "Android 应用更新太肥？Google 新算法可更有效减小下载的文件尺寸"
+ }
+]
