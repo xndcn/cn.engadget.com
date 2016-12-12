@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Mon, 12 Dec 2016 08:00:00 -0500", 
+  "link": "http://cn.engadget.com/2016/12/12/chrome-will-provide-clearer-warnings-for-insecure-retail-sites/", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/1314fed05368f8667e61ad28cbb29605/204693747/s.aolcdn.jpg\" />Chrome 的开发人员在过去几年来都有针对不安全的网页作出不同的警告措施，但现时在非 HTTPS 网站所挂着提示标志也只算是「中性」的。谷歌早前有预告会在 Chrome 56 上采用更进取警告，而在这版本的 beta 版也正式释出了。Chrome 56 beta 在打开需要输入密码或信用卡资料的未经加密网店时，会直接在网址列上显示「不安全」的字眼。据谷歌的解释指，这是把所有 HTTP 网站标记为不安全的庞大计划中的前奏，而且之前也有做过类似的提示。不过谷歌也指现在有愈来愈多的网站具备了完全加密...", 
+  "title": "谷歌 Chrome 将对未加密保护的零售网站标示更清楚的警告"
+ }
+]
