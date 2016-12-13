@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Tue, 13 Dec 2016 09:01:00 -0500", 
+  "link": "http://cn.engadget.com/2016/12/13/psa-netgear-vulnerablility/", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/403547ceced3d06da4fa61924961873d/204699001/61z5Z5SVcbL._SL1350_.jpg\" />上个周末 Netgear 被发现似乎有个不小的安全性漏洞，其网页界面服务，让透过路由器联网的使用者不小心按到恶意 URL 连结时，会允许执行一个 root 权限的指令，骇客便可以从而取得路由器的控制权。今天 Netgear 确定了 R6400、R7000、R8000 三个型号受到影响，并且发布了测试版韧体做为解决方案，但国外传出还有 R7000P、R7500、R7800、R8500、R9000 等型号，都可能有风险。\n\n据安全专家 Bas Van Schaik 的说明，在网址列输入「http:/...", 
+  "title": "PSA：Netgear 路由器的使用者请注意安全性风险"
+ }
+]
