@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Wed, 14 Dec 2016 03:00:00 -0500", 
+  "link": "http://cn.engadget.com/2016/12/14/android-things/", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/72578981e8bf904b501bc6eb4a973dd4/204703119/s.aolcdn-1.jpg\" />开发一件物联网的硬件可能不算太困难，但要编写适用的软件却不是同一回事了。因为开发者需要考虑如何让产品连上云端服务、推送更新等等。谷歌新推出的 Android Things 就是为了简化这些东西来的，这刚释出开发者预览版的工具套件，能让开发者在处理 IoT 硬件连网软件时，有如编写 Android app 一样直接。Android Things 不仅开放使用开发者工具（Android Studio 和官方 SDK），还有 Google Play Services 和 Google Cloud Pl...", 
+  "title": "谷歌让 IoT 开发者专心弄硬件，不用烦恼软件"
+ }
+]
