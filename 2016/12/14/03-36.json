@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Tue, 13 Dec 2016 22:30:00 -0500", 
+  "link": "http://cn.engadget.com/2016/12/13/macos-sierra-update-removes-battery-life-estimate/", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/2679ed274b70947d9111cd0088450bbf/204702861/MBA_battery.jpg\" />虽说笔记本里自带的电池剩余时间估计功能都不太可信，但总算是个参考，不过苹果却要在最新的 macOS Sierra 10.12.2 中干脆地拿走这功能。事源最新版本的 MacBook Pro 虽然声称有着最多 10 小时的续航力，但却因为里面的硬件而使得这估计变得更不准确。\n\n据 TechCrunch 的同事所了解的，是在 MacBook Pro 里所用的英特尔 Skylake 架构处理器会时常、并迅速地因应处理的工作而改变用电量，这与 Mac 系统只会因应当下的工作而提供电池剩余时间估计有冲突...", 
+  "title": "MacBook 不会再提估计电池剩余时间"
+ }
+]
