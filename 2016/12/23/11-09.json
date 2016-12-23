@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Fri, 23 Dec 2016 06:00:00 -0500", 
+  "link": "http://cn.engadget.com/2016/12/23/firefoxs-multi-process-mode-is-coming-to-more-users-soon/", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/a509240a7af87ff06b269acd62b94107/204737799/s.aolcdn-1.jpg\" />在过去数月以来，Firefox 都有在更新其功能，为的是追上其他对手的速度、安全性和可靠性，像是早就在 Chrome、Safari 和 Edge 浏览器都应用了的多进程（多行程）功能，即把标签页、附加元件，甚至网页的渲染都从主浏览器中分离处理。据官方博客的说法，在之前的更新中，多进程能让浏览器的反应和载入速度有着分别 4 倍和 7 倍的提升，而这次的版本更新就是让这进步从「没有使用附加元件」和「使用少量附加元件」的使用者，扩展至大部份有使用附加元件的使用者。\n\n在附加元件的多进程之后，Firef...", 
+  "title": "Firefox 将让多进程功能开放给更多使用者使用"
+ }
+]
