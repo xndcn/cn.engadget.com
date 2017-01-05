@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Thu, 05 Jan 2017 06:00:00 -0500", 
+  "link": "http://cn.engadget.com/2017/01/05/nvidia-self-driving-car-xavier-supercomputer/", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/dfa219e0cc0024dc5561c382487887a3/204773854/s.aolcdn-3.jpg\" />在 CES 2017 上，NVIDIA 宣布了两个有关汽车的重大发布：Xavier 自驾车用超级电脑，以及跟 Audi 一同合作开发 AI 汽车。两个项目看似独立，但其实大有关系。Xavier 是一台拥有 512 核 Volta GPU 的自动化 AI 平台的电脑，它会通过观察人类驾驶者和深度学习来学习驾驶，并有云端存储的高清地图资料在后面支持。", 
+  "title": "NVIDIA 要在自驾车和 AI 汽车领域大展拳脚"
+ }
+]
