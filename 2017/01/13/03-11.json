@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Thu, 12 Jan 2017 22:07:00 -0500", 
+  "link": "http://cn.engadget.com/2017/01/12/googles-new-image-compression-tech-is-actually-pretty-cool/", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/3c5570ce17664e2614b070a0fa997e53/204806424/s.aolcdn.jpg\" />为了协助互联网用户能多节省行动数据，谷歌\u001d最新带来 RASIR（快速、准确超影像分辨率）图像压缩技术，让图像体积能减少至只有原来的四份一，加快载入速度之余更能保留画面细节。\n\nRASIR 运算法会分析同一图像的高、低画质版本，当需要读取放大版本的图像时，就会在低画质版本的图像之上补回细节，让使用者能以较少的数据载入到媲美原始图像质素。\n\n可惜的是，这样的技术暂时只有应用至 Android 版 Google+ 之上，他们估计每周会为逾十亿张图像进行图像升级，节省 75% 频宽。幸好日后 Googl...", 
+  "title": "谷歌 RASIR 图像压缩技术虽然强大，但有点自私"
+ }
+]
