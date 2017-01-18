@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Wed, 18 Jan 2017 03:31:00 -0500", 
+  "link": "http://cn.engadget.com/2017/01/18/hackers-break-into-samsung-smartcam-again/", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/eb8561bf61cd07180eacc8f1c948a50d/204824302/s.aolcdn.jpg\" />三星 SmartCam 因为其支持移动 app 控制和鲜有的本地资料存储而受到欢迎。可是在去年 8 月的 DEFCON 22 安全会议上被骇客博客 Exploiteers 被大爆其连网摄像头有着漏洞，能让第三者控制和更改管理员密码。虽然三星已经修复了网站界面和限制使用者只能在网页版上通过 SmartCloud 控制 SmartCam。可是最近 Exploiteers 却找到另一个漏洞来骇入...\n\n即使 Samsung 把被发现的漏洞都修复好了，但还有一组的描述档没有碰到：可以通过 SmartC...", 
+  "title": "三星 SmartCam 摄像头再被骇客破解"
+ }
+]
