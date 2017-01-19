@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Thu, 19 Jan 2017 07:00:00 -0500", 
+  "link": "http://cn.engadget.com/2017/01/19/google-explains-how-it-finds-malware/", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/ea7c6ad0dbe3aedb9f781e03b9d70a4a/204829059/s.aolcdn-2.jpg\" />Android 的 Verify Apps 功能可以侦测到新下载到的应用程序是否安全，但道高一尺、魔高一丈，有的恶意程序已经懂得绕过这道屏障，所以谷歌需要另觅方式来对应。在 Android Developers 博客里，谷歌就释出了他们最新一道的防线，能在 Verify 失效的情况下也能侦测到哪个 app 是有害的。\n\n据介绍，Android 安全团队把「安装尝试数」和设备的 DOI（死亡或不安全 / Dead or Insecure）指数挂勾。停用了 Verify 的设备为 DOI；继续有使用...", 
+  "title": "谷歌解释他们如何识别恶意 Android app"
+ }
+]
