@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Thu, 26 Jan 2017 07:30:00 -0500", 
+  "link": "http://cn.engadget.com/2017/01/26/gmail-block-javascript-attachments/", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/ee37faeebbf98debdc72942066ca51dd/204860262/original%2B%282%29.jpg\" />如果你平常有在 Gmail 邮件里附加 .js 文件的习惯的话，再过几天就行不通了。因为「潜在安全性因素」，Gmail 从二月 13 日起将把 js 档归入禁止附加的文件类型清单中，与现有的 .exe、.msc、和 .bat 等类型的文件一同。就算 js 档是藏在 .zip、.tgz、.gz、或是 .bz2 压缩档里，Gmail 也能把它们纠出来呢！\n\nJavaScript 文件本身并不一定有害，但如果碰到恶意人士的话，他们可以在通过 js 档，让你在不小心点击后，下载其他恶意软件，所以 Goo...", 
+  "title": "Gmail 从二月中起将禁止 JavaScript 附加档案"
+ }
+]
