@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Sun, 29 Jan 2017 04:04:00 -0500", 
+  "link": "http://cn.engadget.com/2017/01/29/oculus-explains-how-room-scale-vr-taxes-your-usb-ports/", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/550235859c8782a263afca5b120d706a/204870695/s.aolcdn-3.jpg\" />看到 Oculus Rift 也能拥有 HTC Vive 主打的 Room-Scale VR（能涵盖房间大小），甚至还能用上最多 4 支追踪感测器，已经跃跃欲试并加入购物清单了？在拿着红包冲动下手之前建议可以先看看原厂的说明，因为根据 Oculus 对于在电脑上新增多支感测器的测试，如果你一次将所有设备都直接插到仅有单一控制器的 USB 3.0 扩展卡的话，将可能会发生意想不到的掉信号问题 -- 解决方法倒也简单，就是当你需要插上两支以上的追踪感测器时，请改用占用频宽更低的 USB 2.0 线组...", 
+  "title": "想尝试 Oculus 的 Room-Scale VR？USB 频宽会是个问题"
+ }
+]
