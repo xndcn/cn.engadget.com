@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Wed, 01 Feb 2017 08:00:00 -0500", 
+  "link": "http://cn.engadget.com/2017/02/01/chrome-for-ios-open-source/", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/5ceb81339447fde5e3f88343528a475c/204883733/chrome-ios-1400.jpeg\" />因为要基于 WebKit 开发而始终未被包含进 Chromium 开源计划的 iOS 版 Chrome，直到今天，其代码终于也向开发者开放了。早些时候，Google 正式在一篇博客中宣布了这个消息，想要借此自行打造 iOS 浏览器，或是寻找 Chrome 安全漏洞的开发者，从此之后应该都会方便许多。当然，对于 Chrome 团队自身来说，iOS 版本开源也能在一定程度上加快他们的开发速度。因为 Chromium 的惯用测试现在也能被用到 iOS 版上，这样一来添加平台通用新功能就会变得更加容易啰...", 
+  "title": "Google 把 iOS 版 Chrome 也开源了"
+ }
+]
