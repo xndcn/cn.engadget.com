@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Fri, 03 Feb 2017 06:00:00 -0500", 
+  "link": "http://cn.engadget.com/2017/02/03/facebook-ai-image-search/", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/cc7e541c00c194e35885838e71091481/204891559/s.aolcdn-2.jpg\" />Google Photos 那能自动分类，并让使用者通过输入关键字搜索相片的功能很酷吧？Facebook 刚刚也把类似的功能引入了。他们利用自家 Lumos 平台而发展的 AI 图像搜索系统，让使用者输入关键字来搜索特定的相片、视频内容，因为这套系统能「看懂」啊。\n\n打比方说，我们想要找回一张有人身穿黑色 T 恤的相片，把这关键字输入后，系统就会在使用者在 Facebook 里的图片库里寻找，即使使用者并没有在文字描述或标签过有这关键字也能找到。\n\nFacebook 的开发者是利用深度学习和神经...", 
+  "title": "Facebook 的 AI 图像搜索能「看懂」相片里的内容"
+ }
+]
