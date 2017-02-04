@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Sat, 04 Feb 2017 09:00:00 -0500", 
+  "link": "http://cn.engadget.com/2017/02/04/google-blurs-the-line-between-websites-and-android-apps/", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/3eb6ab782b161fb0e02eadebe5e46412/204897120/s.aolcdn-1.jpg\" />现在的网页都已经不再只有提供信息，还有能与使用者和其设备互动的 Progressive Web Apps。Android 版的 Chrome Beta 最新加入的「加入至主页面」的功能，则是能让这些网页以「应用程序」的方式放到手机上使用，它还能像一般应用程序般控制其通知和卸载，而非只是一个网页捷径啊。\n\n谷歌指这些 Progressive Web Apps 是利用最新的 HTML 和网页功能来让网站变得「可靠、快速和吸引」，原因是它们利用名为「service workers」的功能来缓存主要的资...", 
+  "title": "Chrome Beta 的新功能让 Android app 和网页的界线变模糊了"
+ }
+]
