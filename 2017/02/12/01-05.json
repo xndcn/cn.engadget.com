@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Sat, 11 Feb 2017 20:00:00 -0500", 
+  "link": "http://cn.engadget.com/2017/02/11/android-wear-2-0-uses-offline-ai-for-its-smart-replies/", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/8d8a61c3ed9cfcb91cd8a9074d4c89cc/204921532/google-android-wear-ai-2017-02-10-02.jpeg\" />Smart Reply 智能回复是 Android Wear 2.0 的一大新特性，它能让你在忙不过来时快速选择回给好友的消息。而在最新的一篇博客中，Google 对该项功能背后的技术做了一番介绍。原来，这一切都是基于离线 AI 实现，根本不需要接入网络去寻求云端计算的帮助。据介绍，在开始的时候研究者们都认为这是项不可能完成的任务，直到一支名为「Expander」的 AI 研发团队想出了现在这套可行的办法。\n\n「我们从头设计了一套更轻量化的全新机器学习架构，它不光能驱动 Android Wear...", 
+  "title": "Android Wear 2.0 的智能回复是通过离线 AI 来实现的"
+ }
+]
