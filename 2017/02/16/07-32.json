@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Thu, 16 Feb 2017 02:30:00 -0500", 
+  "link": "http://cn.engadget.com/2017/02/16/microsoft-drone-simulator/", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/c4ca74ea511d41ffe0d7e226077361e/204943481/s.aolcdn-1.jpg\" />开发能自己飞行的无人机不是难事，但能在现实世界里自动避开不同的障碍物却要难上一个层次。微软最新释出了一套开源的无人机模拟器 &amp;mdash; Aerial Informatics and Robotics Platform，让开发者能先在虚拟世界里撞个够，收集飞行数据。模拟器会随机生成一个有如现实世界般的场景，有着电线杆、树木等的障碍物，开发者就能测试其障碍物回避演算法能否正式使用，而且工具还会记录飞行时的模拟感应器数据，最后还能利用机器学习系统来加速开发进度。\n\n工具开发团队主管 Ashish...", 
+  "title": "微软的无人机模拟器让你在虚拟世界里撞个够"
+ }
+]
