@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Fri, 17 Feb 2017 04:00:00 -0500", 
+  "link": "http://cn.engadget.com/2017/02/17/google-needs-your-help-building-better-video-analysis-algorithms/", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/4065f4557e1be7530dc6d2e38e43046a/204949027/youtube%2B8m.jpg\" />YouTube-8M 是一个利用 YouTube 那庞大视频馆藏，来让编程人员一试其机器学习算法的练习场。现在谷歌为此计划带来重大更新，除了加入更多视频标签和音频元素外，他们更在 Kaggle 社交发起奖金总值达 100,000 美元的竞赛，吸引各路编程好手能设计最好的算法来为 700,000 套视频加入标签（用于训练的 8M 数据组数目）。\n\n谷歌指数据组是从 YouTube 超过 700 万套片藏（时长达 450,000 小时）中挑选出来的，它们以 4716 种不同的标签分类着（平均每套视频...", 
+  "title": "谷歌想要大家一起改善其视频分析算法"
+ }
+]
