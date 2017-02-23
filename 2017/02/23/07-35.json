@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Thu, 23 Feb 2017 02:30:00 -0500", 
+  "link": "http://cn.engadget.com/2017/02/23/valve-launches-steamvr-support-for-linux/", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/a7f8520d0c052de077c8e2c3bae82242/204974027/s.aolcdn-1.jpg\" />Valve 在 2012 年时把旗下 Steam 加入对 Linux 系统的支持，现在更是扩展至 VR 的部分。该公司刚刚释出了 SteamVR for Linux，让开发者能制作在 HTC Vive 使用的 Linux 内容。因为目前仍在 beta 阶段，所以开发者需要使用基于 Vulkan 的 NVIDIA 开发者 beta 驱动程序，而且也只能启用直接在 VR 装置里显示内容的「direct」模式，不能在外接显示器上同步输出。", 
+  "title": "Valve 为 Linux 推出 SteamVR 支持"
+ }
+]
