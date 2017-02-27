@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Mon, 27 Feb 2017 03:45:00 -0500", 
+  "link": "http://cn.engadget.com/2017/02/27/mediatek-helio-x30-availability/", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/d9453bf2fe0d9846a3616e97b4e18bc6/204988907/x30.jpg\" />联发科在去年末时公布的新一代 10nm 旗舰芯片 Helio X30，终于在今天正式宣布量产了。这款仍旧采用三丛集架构的 SoC，共配备了两颗 2.5GHz Cortex-A73 核心、四颗 2.2GHz A53 核心以及四核 1.9GHz 的 A35 核心。跟上代的 X20 相比性能提升了 35%，同时在 CorePilot 4.0 技术的帮助下，X30 能做到自调温控管理。而且它可以依照系统需求安排应用处理次序，以此来延长续航力，从而实现让功耗下降 50% 的效果。\n\n而在 GPU 的部分，...", 
+  "title": "联发科正式宣布 Helio X30 开始量产"
+ }
+]
