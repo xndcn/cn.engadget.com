@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Tue, 28 Feb 2017 20:00:00 -0500", 
+  "link": "http://cn.engadget.com/2017/02/28/windows-10-will-soon-block-non-store-apps-like-os-x-does/", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/c66ef1a2aeb629bd154d9915ecd2603d/204996860/windows-10-blocking-desktop-apps-2017-02-28-02.jpeg\" />在最新的 beta 版 Windows 10 Creators Update 中，微软加入了一项有人迫切需要，又有人会觉得麻烦的新特性。用户现在将可以选择对安装应用的来源进行限制，在选择相关选项后，点击 Win32 安装程序可会引发「你要安装的应用不是来自 Windows Store」的警告，如果再往上调安全等级，来源不被微软认可的安装文件甚至可以被直接禁掉。\n\n当然啰，来自 Windows Store 的正规应用，装起来并不会受到影响。而且 Twitter 用户 @vitorgrs 也指出，带...", 
+  "title": "Windows 10 很快能像 macOS 一样限制安装来源非 Windows Store 的应用"
+ }
+]
