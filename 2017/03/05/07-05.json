@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Sun, 05 Mar 2017 02:04:00 -0500", 
+  "link": "http://cn.engadget.com/2017/03/05/microsoft-windows-10-creators-update-downloads/", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/f5a84d00c6b77f99133ea84d26d7e939/205012252/dims.jpg\" />期待说好不自说自话更新、重启的 Creators Update 吗？感觉突然转了性的微软（让人放个三天不更新？真假啦！戳～），更准备要通过 UUP 统一更新平台来大幅度减小未来的更新档尺寸，降低使用者下载文件的时间。通过新的差分下载封包功能，将可让每次的更新仅需下载「必需部分」，而不用再在每次更新时把一堆早已存在于系统之上的文件给包装在一起。\n\n这其实与 Andorid 近来针对应用程序更新，所准备推出的差分更新技术的「概念」很类似，基本上在比对过后将会把文件有所变动的部分打包下载，然后再使用在...", 
+  "title": "除了不再硬要更新外，Creators Update 还将给你更减肥的更新档"
+ }
+]
