@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Mon, 06 Mar 2017 02:34:00 -0500", 
+  "link": "http://cn.engadget.com/2017/03/06/wd-my-cloud-security-exploits/", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/2b6fd54eef4a6ea461230e4959e6277c/205014616/dims.jpg\" />如果你有在使用 WD My Cloud 网络硬盘产品的话，建议可以考虑先断网使用，因为最近这系列产品似乎有着不小的资安漏洞，让多款 My Cloud 桌上型硬盘产品，被暴露在可能会被骇客攻击的危险之中。根据 Exploitee.rs 的发现，他们在自己购买的 MyCloud PR4100 网络硬盘的使用过程中，察觉其实此系列多数产品都有着数个资安漏洞，除了些 scripts 等问题存在外，其中最严重的是一个可以直接让网络入侵者可以跳过登入，在无需许可的状况下直接下指令并能上传文件。\n\nExplo...", 
+  "title": "WD 网络硬盘爆资安漏洞，多款 My Cloud 产品形同门户大开"
+ }
+]
