@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Tue, 07 Mar 2017 22:04:00 -0500", 
+  "link": "http://cn.engadget.com/2017/03/07/mozilla-video-games-browser/", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/d1e2cc9c2a389c4f656b2e620dd15d2/205025266/dims-2.jpg\" />一般网页游戏，大多因为电脑资源与网速的关系，而无法针对立体显示的性能有什么强大的发挥。不过，这个观念将被 Firefox 浏览器背后的团队颠覆了，Mozilla 最近释出了一个采用 WebAssembly 技术的网页浏览器，其搭载了可以为游戏、科学、设计、影像、视频等用途提供高素质元件的技术，让网页版本的画面运行起来就如同在本机上运作一样，而且还能通过 JavaScript 加速现有的 Web app 的表现。", 
+  "title": "Mozilla 要让浏览器也能运行更细致的 3D 内容，当然包括游戏！"
+ }
+]
