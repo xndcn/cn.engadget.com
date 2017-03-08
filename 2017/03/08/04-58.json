@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Tue, 07 Mar 2017 23:54:00 -0500", 
+  "link": "http://cn.engadget.com/2017/03/07/nvidia-launches-jetson-tx2-platform-for-drones-and-robots/", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/8b124d0defa9a6b3731154dd54bd3da/205025319/dims.jpg\" />想要跟上科技的发展，你必须要加快脚步。NVIDIA 于 2015 年底发布的「移动超级电脑」平台 Jetson TX1 -- 通过小小的机板，即可将其应用在如无人机、机器人等领域上，用以加速机器学习的开发进度 -- 今天该厂又再度跟进推出了次世代的 TX2，希望能在未来成为无人机、机器人、智慧摄影机与其他嵌入式设备的 AI 平台，做为导航、影像与语音识别等用途。\n\n而既然 NVIDIA 又再度升级了这个平台的运算能力，TX2 的设计方向则也朝向不再倚赖云端与远端资料中心的「边界运算（Edge C...", 
+  "title": "Jetson TX2 登场！NVIDIA 的次世代移动超级电脑来了"
+ }
+]
