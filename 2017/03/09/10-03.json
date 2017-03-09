@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Thu, 09 Mar 2017 04:59:00 -0500", 
+  "link": "http://cn.engadget.com/2017/03/09/google-can-use-machine-learning-to-identify-objects-in-videos/", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/2c7030a3c733e7fc111dfea9a01e1200/205031727/img_20170307_190815.jpeg\" />得益于图片辨识技术的发展，人们早就可以在网络上实现以图搜图的效果。但问题是，那只限于静止的图像，画面一动起来，事情就变得没那么简单了。不过现在，Google 终于在视频识别的领域中找到了突破口，他们日前在 Google Cloud Next &#039;17 的大会上，公布了一个全新的 API。而它的功能就是通过机器学习技术，在视频里对以名词和动词为关键词的影像进行搜索和辨认。\n\n这个被命名为 Cloud Video Intelligence 的 API，现在仍处于 beta 测试的阶段。Google 目...", 
+  "title": "Google 的机器学习技术可以辨识影片中的物体了"
+ }
+]
