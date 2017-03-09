@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Thu, 09 Mar 2017 08:30:00 -0500", 
+  "link": "http://cn.engadget.com/2017/03/09/baidu-deep-voice-natural-sounding-speec/", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/7e4de7dd6ac6982e4a1bfee0648656d5/205032398/deep-voice.png\" />除了在硅谷的人工智能中心开发自驾车技术外，百度原来还有在动些其它的脑筋啊。最近他们向公开了一套名为 Deep Voice 的文字转语音系统，根据官方描述来看，其速度和效率似乎都胜过了 Deepmind（Alphabet）正在开发的同类产品 WaveNet。按照百度的说法，Deep Voice 在几乎无须人工介入的前提下，只需短短数小时便能学会说话。而且开发人员还可以对其要传达的感情状态进行设定，这样合成出来的语音听起来就会非常真实、自然。\n\n前面提到的 WaveNet，也可以实现类似的功能，但其...", 
+  "title": "百度的 Deep Voice 系统可以快速合成真人语音"
+ }
+]
