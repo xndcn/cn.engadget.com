@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Wed, 15 Mar 2017 10:13:00 -0400", 
+  "link": "http://cn.engadget.com/2017/03/15/deepmind-ai-learns-to-remember-previous-knowledge/", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/957b342de7972afddc0fe568bcf8122a/205054301/google-deepmind-ai-memory.jpeg\" />虽说人工智能正在一天天变得更像人类的大脑，但在记忆这件事上，目前的技术还不足以创造出一套完美的解决方案。神经网络在面对被赋予的任务时，往往会从头学习所有相关的知识，而非像真人一样，会在现有的经验基础上变通、精进。DeepMind 希望这方面寻找突破，于是他们打造出了一套能让 AI「记住」已学到知识、提升工作效率的算法。其工作原理跟人脑类似，某种程度上，还能反过来帮助科学家更好地理解大脑究竟是怎样运作。\n\n真正的突触会保留那些有用的神经元连接，而这套名为 Elastic Weight Consid...", 
+  "title": "DeepMind 会「记住」已经学到的知识了"
+ }
+]
