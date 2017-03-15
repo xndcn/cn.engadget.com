@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Wed, 15 Mar 2017 11:03:00 -0400", 
+  "link": "http://cn.engadget.com/2017/03/15/chrome-57-throttle-background-tabs/", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/7303b8296a22f4182ed290030fdc629b/205053342/chrome-desktop-mac-1600.jpg\" />你开网页的习惯是如何的呢？定时清理页面，还是开着几十上百个分页不关？如果是后者的话，那应该知道这些页面除了霸占着内存不放之外，对 CPU 来说也是不小的负担，而且如果是笔记本的话，还会进而影响到电力呢。为了控制资源的用量，Chrome 一直以来都有在这方面做各种尝试和努力，从早期停止后台分页的影像更新，到 Chrome 11 将背景更新时间「对齐」，每秒一次对所有的后台分页做一次处理。\n\n现在在刚更新的 Chrome 57 里，Google 又更进了一步，只要一个分页进入后台 10 秒，就会开始...", 
+  "title": "Chrome 57 会限制后台分页的 CPU 用量来省电"
+ }
+]
