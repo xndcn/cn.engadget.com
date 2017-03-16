@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Wed, 15 Mar 2017 21:00:00 -0400", 
+  "link": "http://cn.engadget.com/2017/03/15/youtube-boosts-vr-video-quality/", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/749d6bd63f290a79731bd9da7819f9ba/205054941/_MG_1599-ed.jpeg\" />一般来说，在线上串流 VR 视频的时候，或多或少都会有一些画质损失（毕竟数据量比普通视频大得多）。YouTube 和 Daydream 的开发团队希望在这方面做一些改进，于是他们引入了一种名为等角立方图（EAC，equi-angular cubemap）的全新投射技术，可以让 360 度视频的细节表现变得比过去更为出色。跟常规做法仅能在画面某些位置保持精细的效果相比，新技术能在各个角度等量分布像素，从而达到令整体观感更一致的目的。\n\n除此之外，Google 还推出了一项新的投射独立网格标准（Pr...", 
+  "title": "YouTube 大大改善了在线 VR 视频的画质"
+ }
+]
