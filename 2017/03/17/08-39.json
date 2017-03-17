@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Fri, 17 Mar 2017 04:35:00 -0400", 
+  "link": "http://cn.engadget.com/2017/03/17/googles-new-algorithm-shrinks-jpeg-files-by-35-percent/", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/cec7521a88c51227a0579d49e42367d/205061913/587215534.jpg\" />作为网络内容和广告的大提供者，Google 自然会想尽办法来缩小图片占去的空间，以减少贷款的使用。在 2010 年的时候他们就有推出一个名为 WebP 的文件格式，但 WebP 是独立于 JPEG 的另一个格式，在 JPEG 基本上独霸的今天，要取得广大的支持有现实上的困难。因此 Google 这次转而开发了以开源的 Guetzli 算法为核心的新编码方式，虽然还是 JPEG，但在相同的「感受画质」下，可以缩小文件达 35%（或在同样的文件大小下提供更好的画质）。", 
+  "title": "Google 的新算法可以将 JPEG 文件的大小缩小 35%"
+ }
+]
