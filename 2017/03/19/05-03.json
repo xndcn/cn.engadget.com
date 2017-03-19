@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Sun, 19 Mar 2017 01:01:00 -0400", 
+  "link": "http://cn.engadget.com/2017/03/19/chrome-webgl-2/", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/16e4f044b8d7802669ceabd4558edf19/205066807/486305404.jpg\" />其实早在 Chrome 56（今年一月底更新）的时候，Google 就已经加进了 WebGL 2.0 的支持，但当时并没有特别着墨，而是在昨天的一篇博客文章里才做了特别的描述。WebGL 是一套以让网页得以显示靠显卡加速的 3D 画面的 JavaScript API，最早的 1.0 版六年前就已经加入 Chrome 中，而现在的 2.0 版则是增加了对延迟渲染、色调映射、粒子效果等先进的技巧。这也将 WebGL 提升到了与 OpenGL ES 3.0 相同的功能水准。\n\n太技术性的东西不多说，如...", 
+  "title": "Chrome 悄悄升级 WebGL 2.0 标准"
+ }
+]
