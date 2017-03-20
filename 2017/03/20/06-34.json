@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Mon, 20 Mar 2017 02:30:00 -0400", 
+  "link": "http://cn.engadget.com/2017/03/20/intel-optane-ssd/", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/7347143150f2481ea45d34e9c708da0c/205068428/intel-optane-ssd-dc-p4800x.jpg\" />英特尔的 3D 存储技术「Optane」（之前叫 3D XPoint）在发布一年半后，终于有第一个产品推出了。这个 Optane SSD DC P4800X 直接使用 PCIe x4 插在主机板上，号称读写延迟最快可以低于 10 微秒、维持 2GB/s 的连续读写、并且在生命周期可以读写 12.3PB 的资料。以整体表现来说，Optane 技术介于 DRAM 和 SSD 之间，而且 Optane 还有一个很大的优势，是它的读写速度一样，对于需要高速读写大量资料的应用来说，应该是梦幻逸品吧。\n\n不...", 
+  "title": "英特尔的第一批 Optane 3D 存储瞄准的是服务器市场"
+ }
+]
