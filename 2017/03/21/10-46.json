@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Tue, 21 Mar 2017 06:45:00 -0400", 
+  "link": "http://cn.engadget.com/2017/03/21/arm-DynamIQ-cortex-a9-ai-machine-learning/", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/e9852254db03c12c5b294d620aa57350/205072826/arm-dynamiq.jpeg\" />ARM 的处理器技术其实早就融入了我们日常生活的方方面面，而现在他们已经为可预见的人工智能、机器学习时代做好了新的准备。其新推出的 DynamIQ 架构，可以视作是现有 big.LITTLE 大小核技术的演进，未来基于它打造的芯片产品，不出意外应该会广泛出现在手机、游戏机、汽车等领域当中。跟 big.LITTLE 相比，DynamIQ 对核心的部署方案灵活性更高。它在 SoC 的单一运算集群上最多可配置 8 颗核心，不过厉害的地方在于，设计者能够实现 1 + 3 或是 1 + 7 这样的组合，而...", 
+  "title": "ARM 推出 DynamIQ 架构迎接 AI 新时代"
+ }
+]
