@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Tue, 21 Mar 2017 22:30:00 -0400", 
+  "link": "http://cn.engadget.com/2017/03/21/theres-now-a-gameboy-emulator-for-the-apple-watch/", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/1b5d4cec7a4a8c05bf8ebec15646b88f/205076095/pikawatch-ed.jpg\" />虽然说很难想像在 Apple Watch 上玩 GameBoy 会是个愉快的体验（只能用一只手操作，而且按键小到不行），但模拟器的世界本来就是证明「可行性」要比「可玩性」来得更重要，至少 RPG 类的游戏应该可以勉强玩一下？\n\n这个由开发者 Gabriel O&#039;Flaherty 打造的模拟器取名「Giovanni」，是以现有的 GameBoy 模拟器 Gambatte 为基础，但是重写了影像模块，让它能在不支持 OpenGL ES 或 Metal 的 Apple Watch Series 2 上...", 
+  "title": "小小 Apple Watch 屏幕的小小 GameBoy 模拟器！"
+ }
+]
