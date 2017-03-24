@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Fri, 24 Mar 2017 02:02:00 -0400", 
+  "link": "http://cn.engadget.com/2017/03/24/google-improves-photos-and-duo-for-lousy-connections/", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/7345b031a87d8832a7dee5d8f82332d5/205086962/google-photos-ios-1400.jpg\" />Google 这次对 Photos 和 Duo 两个 App 的改动，应该特别能满足以量计费的手机用户，和出国玩有流量限制的人吧！新的 Photos App 在使用手机网路时，会先备份一张「轻量」的预览图到你的云端帐户，等到侦测到有 WiFi 连线时，再用高画质的版本取代。分享照片给朋友时也一样 -- 在网路不佳时会先送一张低分辨率的图，到网路良好时再推送全尺寸的版本。\n\n在影音聊天软件 Duo 上，Google 则是推出了一个新的纯语音模式，让你可以省下传送影像的流量。这功能让 Duo「无论什...", 
+  "title": "Google 减小 Photos 和 Duo App 在连线不佳时的网路用量"
+ }
+]
