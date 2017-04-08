@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Sat, 08 Apr 2017 09:01:00 -0400", 
+  "link": "http://cn.engadget.com/2017/04/08/gboard-studies-your-behavior-without-sending-details-to-google/", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/779ebe75cad1383dd8b58d3eb54bf973/205142364/FederatedLearning_FinalFiles_Flow%2BChart1.png\" />无论是 Google、苹果、还是其他做键盘预测的厂商，最需要的就是从使用者处收集打字习惯的资讯，来改善预测的准确度。问题是，想要知道使用者的打字习惯，就必须要收集使用者打了什么，这样没有隐私性的疑虑吗？苹果的处理方式是在数据中掺入「数学模型产生的杂讯」，在将文字拆解成无法辨识的「杂讯」的同时，又不妨害分析；但 Google 这边似乎更是技高一筹，因为他们根本就没有要你上传任何的文字。\n\nGoogle 是怎么做到的呢？简单来说，就是他们会先将整个「预测模型」的程序随着 Gboard 一起装到你的手...", 
+  "title": "Gboard 透过上传预测模型的方式，在收集资料的同时保护你的隐私"
+ }
+]
