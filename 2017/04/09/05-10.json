@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Sun, 09 Apr 2017 01:01:00 -0400", 
+  "link": "http://cn.engadget.com/2017/04/09/microsoft-opens-up-its-windows-insider-preview-for-business/", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/b1af606b760b7e1f2872c7483d57029a/205143077/RTX2QJHT.jpeg\" />微软推出 Insider Program 的本意，是为了让更多人能在正式版推出前先帮微软除除虫，然而因为加入 Insider 必须要使用个人帐户，让企业用户的 IT 人员这个最重要的测试族群，一直无法在企业系统的环境下先用 Insider Preview 进行测试。现在微软终于开放了 Insider Program 给企业使用，只要有 Azure Active Directory 帐户，就可以加入商务用测试人员计划了。\n\n不过测试人员还是需要有管理员权限，才能安装新软件，所以也不是任何人都能乱搞...", 
+  "title": "微软开放 Insider Preview 计划供企业试用"
+ }
+]
