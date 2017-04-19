@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Wed, 19 Apr 2017 11:02:00 -0400", 
+  "link": "http://cn.engadget.com/2017/04/19/windows-10-power-throttling/", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/ab8dcabbd5303ea8b3177559ed095ece/205179537/P1010581.jpeg\" />目前 CPU 的加速技术，通常是利用 CPU 低速运转时所「存」下来的温度预算，在碰到需要高运算力的软件需求时，在短时间内拉高频率，快速完成工作，再把频率降回来。问题是，并不是所有的软件都须要快速完成工作，像是扫毒之类的的背景软件，其实只要给它们最低限度的资源，慢慢完成也没关系。\n\n微软在最新版的 Windows 10 Insider Preview 中，就增加了一个名为「Power Throttling」的功能，它可以自动判断一个软件是否在执行重要的工作，如果不是的话，就不给予 CPU 资源，...", 
+  "title": "Windows 10 将会试着主动控制后台软件来省电"
+ }
+]
