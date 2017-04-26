@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Wed, 26 Apr 2017 07:04:00 -0400", 
+  "link": "http://cn.engadget.com/2017/04/26/chrome-improves-casting-video-quality/", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/5263b03658cd5a420eaabce42983264b/205203726/dims-1.jpg\" />虽说桌面版 Chrome 早早就加入了对 Chromecast 的投放支持，不过有用过的朋友应该都知道，如果是在没有原生支持的状况下，想要直接以此方式投放网页上的视频，那品质与掉格的问题可说是惨到一整个基本上不可用的境界。对此，Google 总算找到了解决方法，在新的 Chrome 浏览器上测试提供了加强画质与性能的视频投放功能。\n\n使用方法很简单，在输入了上上下下左右左右BA chrome://flags/#media-remoting，并且重开浏览器后，就只要将投放网页中的视频内容启动全屏幕...", 
+  "title": "无原生 Chromecast 支持的凄惨视频投放问题，终于有解了"
+ }
+]
