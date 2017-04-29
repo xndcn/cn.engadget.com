@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Fri, 28 Apr 2017 21:08:00 -0400", 
+  "link": "http://cn.engadget.com/2017/04/28/chrome-http-not-secure-warning/", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/35eb73ca1804ad03d96f3e9169aa2a27/205215759/google-internet-search-website-picture-id458530343-ed.jpg\" />Google 近来持续依靠自己在浏览器市占率上的优势，推进网站全面采用加密的 HTTPS 通讯协定。从几个月前的 Chorme 56 开始，如果网页上有要求要密码或信用卡号码，但没有 HTTPS 加密的话，Chrome 就会在网址列左方跳出不安全的警告。然而，Chrome 团队认为网页上应当被保护的资料不止密码和信用卡号码而已，所以十月 Chrome 62 推出后，只要你在文字框输入任何东西，Chrome 都会予以警告。\n\n如果你是在无痕模式里的话，Chrome 会自动假设你要求更高的隐私性，所...", 
+  "title": "Chrome 未来在非加密网站上输入任何东西都会给予警告"
+ }
+]
