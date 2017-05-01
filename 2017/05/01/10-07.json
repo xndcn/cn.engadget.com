@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Mon, 01 May 2017 06:00:00 -0400", 
+  "link": "http://cn.engadget.com/2017/05/01/mac-dok-malware-uses-email-phishing-scams/", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/eb06134bab72bfe4e2c74b7a7609e0c/205218716/macbook-ed.jpeg\" />随着市场份额的日益提高，Mac 平台如今也越来越多成为了不法骇客的攻击目标。最近 Check Point 的安全专家发现了一款名为 Dok 的恶意软件，它是第一款通过邮件钓鱼方式「大规模」侵害到 macOS 使用者的木马程序（目前受害者主要集中在欧洲）。其骗取用户下载、打开 .zip 文件的攻击方式虽算不上新鲜，但依旧让不少人中招。得手之后，骇客将可以控制被害人的系统、暗中监视或者引导你去一些伪造的网页，而且当其达到自己的目的后，木马还会自动消失并且清理掉一切痕迹。\n\n据介绍，Dok 是利用伪造...", 
+  "title": "最近有「大规模」恶意软件正通过电邮瞄准 Mac 用户"
+ }
+]
