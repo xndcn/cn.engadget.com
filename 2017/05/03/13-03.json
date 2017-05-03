@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Wed, 03 May 2017 09:00:00 -0400", 
+  "link": "http://cn.engadget.com/2017/05/03/google-chrome-will-automatically-migrate-to-64-bit-on-windows/", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/80884fd4f11a414873e685f065bad7bb/205228313/135176501.jpeg\" />一般来说在条件允许的情况下，用户大多都会尽量去选择 64 位的软件，以此来达到更出色的性能表现。但问题是，肯定还有一部分使用者不清楚这点，而在最新的 Windows 版 Chrome 58 里，Google 就想好要「越俎代庖」了。是说，这个全新的版本，在检测到电脑是运行 64 位系统并拥有不少于 4GB 的内存后，就会自动从 32 位切换到 64 位模式了。\n\n除此之外，9to5Google 也发现，macOS 版 Chrome 59 beta 的通知现在也发生了一些变化。首先一点是，通知现在...", 
+  "title": "Windows 版 Chrome 会在合适的机器上自动切换到 64 位"
+ }
+]
