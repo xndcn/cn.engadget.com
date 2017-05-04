@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Thu, 04 May 2017 09:34:00 -0400", 
+  "link": "http://cn.engadget.com/2017/05/04/qualcomm-lte-drone-tests/", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/2a079cf69e1f038c62ccbc8bc8d39957/205232855/drohne-flugdrohne-fotodrohne-drohnenfotografie-fotodrohne-fotodrohnen-picture-id551346811.jpeg\" />如果想靠无人机来实现运送包裹、视频直播等用途的话，保证连线稳定就显得非常之重要。那当它们在高空飞行时，通过 LTE 网络来进行控制究竟可不可靠呢？高通的研究结果给出了（基本）肯定的回答。在经过了超过 1,000 次的飞行试验后，他们发现现有的移动网络其实已经可以比较好地满足无人机作业的需要。设备在约 650 米的空中仍能收到很强的 LTE 信号，连线中断的概率也跟地面上的手机相近。除此之外，相较移动设备无人机还有一个优势就是，它们在基站范围间的切换可能没有那么频繁。\n\n当然，值得改进的地方肯定也...", 
+  "title": "高通研究结果证明了通过 LTE 操控无人机的可行性"
+ }
+]
