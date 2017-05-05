@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Fri, 05 May 2017 08:00:00 -0400", 
+  "link": "http://cn.engadget.com/2017/05/05/microsoft-tests-a-secured-edge-browser-for-business/", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/4dab594a6009f9aa28d715685b2b045d/205236148/microsoft-edge-browser-2016-09-15-03.jpeg\" />如果你对 Windows 浏览器的安全性要求较高的话，微软接下来的新功能应该会符合你的胃口。在最新的 Windows Insider 预览版中，官方正式将去年九月发布的 Windows Defender Application Guard 投入测试，让用户能以虚拟机的形式运行 Edge 浏览器，确保电脑在受到恶意软件攻击时，问题仅限于浏览器，而不会波及到整个系统。\n\n要想启用这项特性的话，你需要先将 Windows Defender Application Guard 的选项开启，然后在 Edg...", 
+  "title": "微软开始测试以虚拟模式运行 Edge 浏览器"
+ }
+]
