@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Fri, 05 May 2017 03:04:00 -0400", 
+  "link": "http://cn.engadget.com/2017/05/05/google-street-view-computer-vision/", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/f4692881c7efdcc25c7e52d54be08f38/205235712/dims-5.jpg\" />几天前才跟 Google 聊完他们如何用机器学习来让翻译功能变得更为强大，很快地，他们又想到了可以结合神经网络，来利用地图街景的庞大影像资料库进行更多新的应用，例如：改善 Google 地图的商业信息精确度。Google 近年来已利用演算法成功地从 Street View 分析取得路牌号码。现在，则是又更进一步将其使用在取得街道 / 商店名称与电话等信息之上。这项技术其实早就初步应用在了街景功能刚开始推行时，因隐私争议而针对人脸与车牌模糊化的功能之中。而随着机器学习与人工智慧技术的更为进步，Go...", 
+  "title": "机器学习也能帮忙 Google 用街景图来更新商业信息"
+ }
+]
