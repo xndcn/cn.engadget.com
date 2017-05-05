@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Thu, 04 May 2017 23:34:00 -0400", 
+  "link": "http://cn.engadget.com/2017/05/04/gmail-android-phishing/", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/c81574e57d2aa44660ff957e4efdf39f/205235535/Safer%2BLinks%2Bin%2BGmail%2Bon%2BAndroid.jpg\" />在昨天闹得沸沸扬扬的 Google Docs 钓鱼链接事件后，他们很快地就在 Android 版的 Gmail app 推出了最新的防范策略。就像网页版 Gmail 去年推送的功能一样，将可在使用者点击进入可疑链接时，即时地跳转进入警告页面，告知你此网页很可能是伪造等恶意钓鱼的页面。有意思的是，尽管在这是在 Google Docs 钓鱼问题发生的时间点所推出的防范功能，不过由于该攻击使用的是 Google 自己的网址，所以显然即便安装了这个更新，遇到类似的攻击也应该还是无法防范。是说，就算官方已...", 
+  "title": "Android 版 Gmail app 懂得帮你「盯着」钓鱼网址了"
+ }
+]
