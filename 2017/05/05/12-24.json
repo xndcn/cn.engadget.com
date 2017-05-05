@@ -1,0 +1,152 @@
+[
+ {
+  "date": "Fri, 05 May 2017 08:01:00 -0400", 
+  "link": "http://cn.engadget.com/2017/05/05/comac-c919-first-flight/", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/80c790370cdc52e97a3a3674f507806/205236597/129591148_14939660986511n.jpg\" />由中国商用飞机有限责任公司（COMmercial Aircraft corporation of China，COMAC）研制的 C919 客机，是中国继 1970 年代计划中止的「运-10」之后，第一架「大客机」。不过说是「大」，其实 C919 瞄准的是中短程窄体客机市场，与波音 737-800 或空中客车 A320 同一等级。\n\nC919 的 C 代表 Comac 或 China，但也隐含与 A（Airbus）、和 B（Boeing）共组成 ABC，互别苗头的意思。第一个 9 是中国传统上「...", 
+  "title": "中国自主研发的 Comac C919 客机成功首飞"
+ }, 
+ {
+  "date": "Fri, 05 May 2017 07:04:00 -0400", 
+  "link": "http://cn.engadget.com/2017/05/05/google-turns-rasberry-pi-into-a-dirt-cheap-home-competitor/", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/c1c6fc37b0fc6ee0afb6579e33b85c08/205236120/dims.jpg\" />觉得 Google Home 不够便宜，又很想要有一个能随时陪着你的家用 AI 语音助理？没问题，因为 Google 与 Raspberry Pi 早已联手要给你一款更廉价款的 Cardboard 版本。而且还直接附在了 MagPi 的杂志里，让你以便宜的价格，自己动手组装一组搭载着 Google Assistant SDK 的纸盒版 Google Home。更棒的是，拥有 Maker 魂的你，甚至可以编写程序自己加入语音指令来与其他的 Pi 设备协作呢！", 
+  "title": "Google 热爱（？）的纸盒新作：Raspberry Pi 廉价版 Google Home"
+ }, 
+ {
+  "date": "Fri, 05 May 2017 06:01:00 -0400", 
+  "link": "http://cn.engadget.com/2017/05/05/machine-learning-ai-identifies-music-genres/", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/e992f1e628b5812c0dd077da74b0fb3c/205235937/506068442-ed.jpg\" />随着机器学习领域的进步，其应用范围也愈来愈广大，许多原先只能「硬上」的工作，现在都有了更具弹性的选择。判别音乐的类别就是其中之一 -- 在音乐串流盛行的现代，音乐提供者需求一套好的演算法来判读一首歌曲的类别，来尽量符合个别听众的喜好，鼓励听众发掘新音乐。\n\n不过，之前这些判读的演算法都是写死的，面对千变万化的音乐，很难准确地为其进行分类。Cambridge Consultants 宣称自己利用机器学习，开发了一套能辨别音乐类别的 AI，可以即时将听到的音乐做分类，而且做出来的决定更接近人类。除了...", 
+  "title": "机器学习技术能更准确判读音乐的类型"
+ }, 
+ {
+  "date": "Fri, 05 May 2017 04:30:00 -0400", 
+  "link": "http://cn.engadget.com/2017/05/05/google-is-still-adding-basic-chat-features-to-allo/", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/44c9c601ea5ac829bdc923814be78630/205235750/2016DSCF4929-edJT2.jpeg\" />作为一款相对较新的应用，Allo 选择在发布之后再慢慢加上一些 iMessage、Telegram 等对手已有的功能，放到如今的业界也是很平常的事吧？在不久前上线的新版本中，Google 为群组聊天新增了加密无痕模式（过去只在两人聊天时有这种特性）。而且 Droid Life 还发现，你可以自行设定该模式的时限，更好地满足不同的需要。除此之外，新版中还可以预览链接，在已经有 Assistant 加持的基础上又变得更加方便了。\n\n最后，在其它应用里已经很常见的备份、恢复特性，现在 Allo 也终于...", 
+  "title": "Google 又为 Allo 补上了一些同类应用已有的基本功能"
+ }, 
+ {
+  "date": "Fri, 05 May 2017 03:04:00 -0400", 
+  "link": "http://cn.engadget.com/2017/05/05/google-street-view-computer-vision/", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/f4692881c7efdcc25c7e52d54be08f38/205235712/dims-5.jpg\" />几天前才跟 Google 聊完他们如何用机器学习来让翻译功能变得更为强大，很快地，他们又想到了可以结合神经网络，来利用地图街景的庞大影像资料库进行更多新的应用，例如：改善 Google 地图的商业信息精确度。Google 近年来已利用演算法成功地从 Street View 分析取得路牌号码。现在，则是又更进一步将其使用在取得街道 / 商店名称与电话等信息之上。这项技术其实早就初步应用在了街景功能刚开始推行时，因隐私争议而针对人脸与车牌模糊化的功能之中。而随着机器学习与人工智慧技术的更为进步，Go...", 
+  "title": "机器学习也能帮忙 Google 用街景图来更新商业信息"
+ }, 
+ {
+  "date": "Thu, 04 May 2017 23:34:00 -0400", 
+  "link": "http://cn.engadget.com/2017/05/04/gmail-android-phishing/", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/c81574e57d2aa44660ff957e4efdf39f/205235535/Safer%2BLinks%2Bin%2BGmail%2Bon%2BAndroid.jpg\" />在昨天闹得沸沸扬扬的 Google Docs 钓鱼链接事件后，他们很快地就在 Android 版的 Gmail app 推出了最新的防范策略。就像网页版 Gmail 去年推送的功能一样，将可在使用者点击进入可疑链接时，即时地跳转进入警告页面，告知你此网页很可能是伪造等恶意钓鱼的页面。有意思的是，尽管在这是在 Google Docs 钓鱼问题发生的时间点所推出的防范功能，不过由于该攻击使用的是 Google 自己的网址，所以显然即便安装了这个更新，遇到类似的攻击也应该还是无法防范。是说，就算官方已...", 
+  "title": "Android 版 Gmail app 懂得帮你「盯着」钓鱼网址了"
+ }, 
+ {
+  "date": "Thu, 04 May 2017 21:02:00 -0400", 
+  "link": "http://cn.engadget.com/2017/05/04/bando-beoplay-p2/", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/6276aa73d6c984c3bc09a654bb94840c/205233348/beoplay-p2-lede-2.jpg\" />没想到才发布了一个星期的 Beoplay P2 便携式蓝牙（4.2）喇叭现在已经在香港上市了，而且价格也相对吸引：HK$1,398（约 1,240 元人民币）。作为 B&amp;amp;O 的副线产品，P2 继续以设计为本，在丹麦设计师 Cecilie Manz 的操刀下，它轻轻模仿鹅卵石的同时要比去年的 A1（也是 Manz 的作品）更轻、更细小，配合皮革手提带及 IP54 防尘防溅水功能，方便更多场合使用，好让 B&amp;amp;O 进一步覆盖主流市场。尽管全频铝质驱动单元由 A1 的 3.5 吋降至 2...", 
+  "title": "有惊喜的蓝牙喇叭！B&O Beoplay P2 在香港上市"
+ }, 
+ {
+  "date": "Thu, 04 May 2017 09:34:00 -0400", 
+  "link": "http://cn.engadget.com/2017/05/04/qualcomm-lte-drone-tests/", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/2a079cf69e1f038c62ccbc8bc8d39957/205232855/drohne-flugdrohne-fotodrohne-drohnenfotografie-fotodrohne-fotodrohnen-picture-id551346811.jpeg\" />如果想靠无人机来实现运送包裹、视频直播等用途的话，保证连线稳定就显得非常之重要。那当它们在高空飞行时，通过 LTE 网络来进行控制究竟可不可靠呢？高通的研究结果给出了（基本）肯定的回答。在经过了超过 1,000 次的飞行试验后，他们发现现有的移动网络其实已经可以比较好地满足无人机作业的需要。设备在约 650 米的空中仍能收到很强的 LTE 信号，连线中断的概率也跟地面上的手机相近。除此之外，相较移动设备无人机还有一个优势就是，它们在基站范围间的切换可能没有那么频繁。\n\n当然，值得改进的地方肯定也...", 
+  "title": "高通研究结果证明了通过 LTE 操控无人机的可行性"
+ }, 
+ {
+  "date": "Thu, 04 May 2017 08:04:00 -0400", 
+  "link": "http://cn.engadget.com/2017/05/04/google-docs-phishing-scam/", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/1325f2e260ed43aee4257478e2f58835/205232209/dims-4.jpg\" />目前市面上（？）的钓鱼网站与信件何其多，不过今天传出的大规模假冒 Google Docs 邀请的钓鱼信件，倒是让不少人都中招 -- 因为它伪装成了朋友寄给你的信件（实际上在副本里面夹着奇怪的 mailinator.com 帐号），而且长得就跟一般的 Google 文件邀请一样，有着一个蓝蓝的按钮希望你点击后启动该页面。这个按钮所带往的页面，不意外地就是个恶意的钓鱼网站，希望能获得存取你 Google 帐号的权限。说真的，即便是小编自己真的遇到，可能也是在看到是朋友贴给我的话，就会毫不犹豫地按下。...", 
+  "title": "温馨提醒：即便是朋友寄来的 Google 文件邀请信，都可能是恶意钓鱼链接啊..."
+ }, 
+ {
+  "date": "Thu, 04 May 2017 07:01:00 -0400", 
+  "link": "http://cn.engadget.com/2017/05/04/spacex-satellite-internet-2019/", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/ededc9ba64f262818696b45603b2dc80/205231990/spacex.jpg\" />我们在去年 11 月的时候首度听到 SpaceX 准备发射 4,425 枚卫星到低地轨道，提供网络服务的消息。但就算卫星设计和火箭发射的技术困难能解决，SpaceX 依然必须要和政府及无线管制单位紧密合作，才能解决频宽和法规上的限制。因此 SpaceX 专职政府卫星事务的副总 Patricia Cooper 在美国参议院的公听会上进一步对 SpaceX 的计划进行说明，寻求政府的支持。\n\n和过去的卫星网络不同，SpaceX 的计划是在离地仅数百公里的低地轨道部署卫星群。这可以大幅缩短延迟，但也意...", 
+  "title": "SpaceX 预计 2019 年开始发射卫星网络"
+ }, 
+ {
+  "date": "Thu, 04 May 2017 06:04:00 -0400", 
+  "link": "http://cn.engadget.com/2017/05/04/peugeot-nutonomy-self-driving-cars-singapore/", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/bfb4d2c9fc78ed6c5ca29d84c10e5a3b/205231918/dims-3.jpg\" />自动驾驶车的流行基本上已经遍布了各个车厂，标致也早就在之前展示过了他们的概念车款，不过在概念未来实现以前，显然还是得要脚踏实地的先通过完整的测试，才能让自己获得进军此市场的门票。在 MIT nuTonomy 的合作之下，这间法国车厂也正式开始了自动驾驶的测试计划，地点就在 nuTonomy 初始测试之地：新加坡。\n\n定制版的标致 3008s 预计将搭载着 nuTonomy 的软硬件，并于今年九月正式开始上路测试。假若一切顺利，两间公司也将考虑将此测试计划推广到更多城市，使他们能更深入搜集学习自动...", 
+  "title": "标致的自动驾驶车准备上路啰！"
+ }, 
+ {
+  "date": "Thu, 04 May 2017 05:00:00 -0400", 
+  "link": "http://cn.engadget.com/2017/05/04/tesla-says-its-still-on-track-to-build-the-model-3-in-july/", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/a20b960cbb6bdb43456d3519f78e22fa/205231800/tesla-motors-inc-model-3-vehicle-stands-outside-the-companys-in-us-picture-id583558358.jpeg\" />Tesla 备受期待的平价车 Model 3，会像之前的 Model X 那样推迟交付吗？至少从现阶段来看，还没有这样的征兆，在刚刚公布上季财报的时候，厂方也明确表示将会按计划从七月开始量产这款新车。据介绍，Tesla 今年的目标是达到周产 5,000 辆 Model 3，然后随着产能提升，明年再把每个礼拜的生产量增加到 10,000 辆。\n\n那为了配合即将大量出厂的新车，Tesla 也准备在今年进一步扩大「零售、运送、服务」的范围。同时，首批车体修理厂也会在年内开始运营，在第二季中移动修理卡车...", 
+  "title": "特斯拉将会按计划在七月量产 Model 3"
+ }, 
+ {
+  "date": "Thu, 04 May 2017 02:41:00 -0400", 
+  "link": "http://cn.engadget.com/2017/05/04/idc-huawei-overtakes-oppo-to-become-top-vendor-in-china-q12017/", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/9f950712a487f06b0c427f9ffc48f01/205231649/DSC08534.jpeg\" />尽管有「混用门」这样的问题缠身，但凭借着 P10、P10 Plus、荣耀 V9 这几款新机的强势登场，华为上季依旧在中国取得了相当不错的销售成果。其在过去三个月中的出货总量达到了 2,080 万台（荣耀品牌贡献了超过一半），占据整个中国市场的五分之一，较一年前有了 25.5% 的增长。这样的成绩，也帮助他们超越 Oppo 成为了市场第一。后者 Q1 的出货量为 1,890 万台，所占份额微微低于华为，但 18.2% 的比率也已经不低了。\n\n紧随其后排在第三的是 Oppo 同门师弟 Vivo，他们...", 
+  "title": "IDC：华为超越 Oppo 成为上季中国手机市场头牌"
+ }, 
+ {
+  "date": "Thu, 04 May 2017 01:34:00 -0400", 
+  "link": "http://cn.engadget.com/2017/05/04/this-ostrich-robot-doesnt-need-to-think-to-run/", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/575608a894d89718ae606e6fbe6d5131/205231519/dims.gif\" />虽然目前已经有不少机器人懂得自己「行走」了，不过上图这个双足机器人基本上已经算是在「奔跑」了，而且它相对那些倚靠电脑与感测器来运算平衡的机型，采用的是自主稳定的技术，使其可独立以约 16kph 速度往前行，甚至如果能将机器人加大至人类的尺寸，这个机制应该可以将行走速度提升至约 32 ~ 48kph！根据研发单位 IHMC 资深工程师 Jerry Pratt 的描述，这个名为 Planar Elliptical Runner（PER）的研究计划，未来将可应用在一般的跑动机器人上，可以让他们运行起来...", 
+  "title": "这部双足机器人不需「思考」就能行走"
+ }, 
+ {
+  "date": "Wed, 03 May 2017 23:14:00 -0400", 
+  "link": "http://cn.engadget.com/2017/05/03/facebook-q1-2017/", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/29e8ac1d8c763c152c078fbe9c234a76/205231323/dims-2.jpg\" />2017 年的一开始，Facebook 算是默默地缴出了相当不错的收益成绩，而且在用户成长上也即将迎来新的里程碑（怪了，我们粉丝团的新赞却持续下滑 QQ）。在其第一季的财报之中，该公司目前三月份的月活跃使用者已经来到了 19.4 亿人，相对去年成长了 3 亿人之多，由此可见真的要冲上 20 亿大关应该也不久了。用户数飙涨通常来讲也与收益成长有着正相关，所以他们在今年的首三个月也缴出了 80 亿美元收入的成绩单，相对去年有着 49% 的成长；净利的部分则是刚好超过 30 亿，也有着 76% 的惊人...", 
+  "title": "Facebook 用户数直逼 20 亿大关"
+ }, 
+ {
+  "date": "Wed, 03 May 2017 21:00:00 -0400", 
+  "link": "http://cn.engadget.com/2017/05/03/valve-steam-gets-75-000-complaints-a-day-so-be-patient/", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/e24ab1ec949704ef55c506af84ecc4f2/205229853/504930980.jpeg\" />Steam 人人爱，但这并不代表它就没有会被抱怨的地方，比如说有的独立开发者，会认为这个平台像个「黑盒子」不够透明公开，而对普通玩家来讲，最不爽的应该就是反应超慢的客户服务了。有鉴于此，Valve 今天以博客的形式表达了一些歉意，在表达未来会改进的决心同时，也介绍了一下目前平台在处理问题时的现状。\n\nValve 的 John McCaskey 在文章中写道，为了更好地完成客服工作，公司现在已经聘请了更多员工，并且还开发了更有用的支持工具。不过同时他也指出，团队每天的任务相当繁重，正常来说，Val...", 
+  "title": "Valve：Steam 每天要收到 75,000 份求助、投诉，所以请耐心一点吧"
+ }, 
+ {
+  "date": "Wed, 03 May 2017 09:00:00 -0400", 
+  "link": "http://cn.engadget.com/2017/05/03/google-chrome-will-automatically-migrate-to-64-bit-on-windows/", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/80884fd4f11a414873e685f065bad7bb/205228313/135176501.jpeg\" />一般来说在条件允许的情况下，用户大多都会尽量去选择 64 位的软件，以此来达到更出色的性能表现。但问题是，肯定还有一部分使用者不清楚这点，而在最新的 Windows 版 Chrome 58 里，Google 就想好要「越俎代庖」了。是说，这个全新的版本，在检测到电脑是运行 64 位系统并拥有不少于 4GB 的内存后，就会自动从 32 位切换到 64 位模式了。\n\n除此之外，9to5Google 也发现，macOS 版 Chrome 59 beta 的通知现在也发生了一些变化。首先一点是，通知现在...", 
+  "title": "Windows 版 Chrome 会在合适的机器上自动切换到 64 位"
+ }, 
+ {
+  "date": "Wed, 03 May 2017 07:04:00 -0400", 
+  "link": "http://cn.engadget.com/2017/05/03/pga-tour-vr-livestream-tpc-sawgrass/", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/7318ed584e4feb078ceca0f1d366f108/205227946/dims-1.jpg\" />经过了去年在凤凰城公开赛的 VR 视频尝试，PGA 巡回赛这次在科技的帮助下，宣布将为索格拉斯巡回赛球场赛事的经典第 17 洞提供 VR 的「直播」内容，让你即便无法亲临现场，还是可以通过 Samsung Gear VR 享受更沉浸的直播观赛体验。想要观赏的朋友，届时将可利用 PGA Tour VR Live app 来进行这次由 Intel True VR 平台所提供的虚拟实境直播体验；没有 VR 头戴设备的话，也可直接在 Twitter 的 Periscop 直播功能中找到这次赛事的 VR...", 
+  "title": "PGA 将在索格拉斯球场经典球洞提供「VR 赛事直播」"
+ }, 
+ {
+  "date": "Wed, 03 May 2017 06:30:00 -0400", 
+  "link": "http://cn.engadget.com/2017/05/03/google-translate-tw/", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/177a376942b5abe220e8b13eb379f5e2/205227776/P9080529_1400.jpg\" />大家平常有在用 Google 翻译的服务吗？有没有发现最近翻译变更精准了呢？Google 在去年九月悄悄导入了神经元网络来强化翻译的准确度，但当时并没有进一步说明到底神经元网络做了什么。今天在一场媒体说明会上，Google 翻译产品经理 Julie Cattiau 为我们介绍了旧方法与新方法的分别。\n\n以中文为例，以前是用单词的对照表的方式，通过比对一篇文件中，一个中文字出现的位置与英文字的对照，来产生出单词的意思。虽然说单词意思都对，但在语法上就会显得不太自然，保留太多来源语言的句型结构。通过...", 
+  "title": "一起看看 Google 翻译是如何通过机器学习变得更为强大"
+ }, 
+ {
+  "date": "Wed, 03 May 2017 05:04:00 -0400", 
+  "link": "http://cn.engadget.com/2017/05/03/facebook-messenger-games/", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/dd2650d80121fa55f8ebe5702577a964/205227684/dims.jpg\" />在简单的测试之后，Facebook Messenger 的即时游戏功能瞬间变身游戏大平台，今天一次搭载了 50 款支持游戏（预计每周都会新增新游戏），准备让你的聊天视窗充满各种有趣的游戏。Facebook 这次将 F8 大会上所提到的各种新功能包括「Rich Gameplay」与「Games bots」加入这个聊天平台，带来回合制游戏、排行榜与锦标赛机制。另外，AI 聊天机器人还将懂得提示你新的游戏内容，也能用来在棋盘游戏中召唤出来下出最好的一步。\n\n想快点试玩这些怀旧游戏如 Snake（贪吃蛇...", 
+  "title": "50 款游戏「瞬间开玩」的 Facebook Messenger 即时游戏功能全面上线啦！"
+ }, 
+ {
+  "date": "Wed, 03 May 2017 04:04:00 -0400", 
+  "link": "http://cn.engadget.com/2017/05/03/you-can-fix-the-htc-vives-sub-par-headstrap-on-june-6th/", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/36784c2a6b35b38a7a7058a920299163/205227450/dims-4.jpg\" />在短暂的预购之后，HTC 也正式公布了 Vive 专属头戴式耳机的上市信息。根据官方的资料，这款提供十分方便的 VR 体验音效方案配件，预计将会在 6 月 6 日以 NT$3,499（约人民币 800 元）之价在 Vive.com 与经销通路开卖。这款耳机基本上可以直接替代你的头带，提供快速调整旋钮与硬面的内部衬垫结构。能让不同使用者能更快地使 VR 头戴设备符合自己的穿戴需求，给予更好的人体工学与重量平衡表现。内建的一体式耳机亦能给予更便利且快速的相关体验，基本上就省去了各种麻烦啰。", 
+  "title": "HTC Vive 专属头戴式耳机上市资讯公布"
+ }, 
+ {
+  "date": "Wed, 03 May 2017 01:33:00 -0400", 
+  "link": "http://cn.engadget.com/2017/05/03/apple-q2-2017-earnings/", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/d32f0d6e90ae76f4f3b9dae9c601ab62/205227596/Sizes_w6_DSC_2681.jpeg\" />早些时候苹果公布了上一季的财报，如不少人预料的那样，iPhone 销量果然没能保持住连续两季增长的势头。数据显示，苹果在上季中共卖出了 5,080 万台手机，跟一年前同时期相比略有下降。实际上，去年的 Q2 财季也是 iPhone 近些年来首次没有达成隔年增长的一季，所以这次的业绩有如此表现，其实也不算太意外啦。\n\n抛开近况不佳的 iPhone 不论，苹果在这季中的整体营收依然上涨到了 529 亿美元，较一年前又有了 5% 的增幅。在这背后，Mac 的崛起功不可没，在过去三个月中 Apple 电...", 
+  "title": "iPhone 销量又开始小幅下滑了"
+ }, 
+ {
+  "date": "Tue, 02 May 2017 23:59:00 -0400", 
+  "link": "http://cn.engadget.com/2017/05/02/microsoft-surface-arc-mouse/", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/29ab08ace367d7a51915ac3bf6128cd6/205227503/arcmouselede.jpg\" />除了超美的新笔记本外，微软也没忘了更新他们的对应周边，推出新款的可摊平式无线蓝牙鼠标 Surface Arc。一眼望去感觉到最大的改变，就是它直接对应新款 Surface Laptop 的色系，感觉特别的优雅有质感。而相较于先前 Arc Touch 的设计，这次的 Surface Arc 的前端则是不再有左右键与触控滚轮的分别区块，改以整片的触控版来提供完整的操控功能。\n\n售价信息部分，Surface Arc 将以 80 美元（约人民币 550 元）之价开始预购，最早应该会于 6 月 15 日开...", 
+  "title": "微软也为新笔记本推出了搭配的 Surface Arc 无线鼠标（动手玩）"
+ }, 
+ {
+  "date": "Tue, 02 May 2017 23:04:00 -0400", 
+  "link": "http://cn.engadget.com/2017/05/02/the-travelmate-spin-b1-is-acer-s-first-windows-10-s-laptop/", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/4d5b89ce01d1de9cd7339c01345ed432/205227433/dims-3.jpg\" />既然微软已经自己为 Windows 10 S 推出了示范款的顶级机型，Acer 就选择包办了入门款的等级，推出了他们首款为此系统量身制作的教育用笔记本 TravelMate Spin B1。相对于较为秀气的 Surface Laptop，Acer 这台可通过转轴变形的笔记本则是相对粗壮很多，相信更能应付孩童课堂上的生活。它具备了 11.6 吋的 HD 抗压触控屏幕（防止孩童用力乱戳损坏），笔记本外框则是有着橡胶防撞保护，键盘本身则是可防超过 300g 的水，并且导流避免累积在笔记本内部 -- 相...", 
+  "title": "宏碁首款 Windows 10 S 笔记本 TravelMate Spin B1 登场"
+ }, 
+ {
+  "date": "Tue, 02 May 2017 21:00:00 -0400", 
+  "link": "http://cn.engadget.com/2017/05/02/irobot-roomba-690-890-wifi-vacuum-cleaners/", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/8fb3667103fdf41bcca4f5ab9d161018/205224782/roomba1800.jpeg\" />能接入无线网络的扫地机器人现在已很多件，而 iRobot 现在终于也将这项功能加到了旗下的入门级 Roomba 之上。新发布的 690 和 890，都能通过 Wi-Fi 网络直接用 iRobot Home 应用操控。你可以方便地设定清扫周期、查看「清洁状态」，有问题的话也可以直接跟客服取得联络。发售信息方面，690 将会以 375 美元的价格率先于今日起在美国上架，而 890 的售价未定，要等到第二季晚些时候才会推出。\n\n除了发布新品外，iRobot 这次也为所有支持 Wi-Fi 的扫地机器人加...", 
+  "title": "iRobot 将 Wi-Fi 机能带给入门级 Roomba"
+ }
+]
