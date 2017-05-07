@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Sun, 07 May 2017 01:01:00 -0400", 
+  "link": "http://cn.engadget.com/2017/05/07/devices-talk-through-ambient-radio-waves/", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/86255331f6e7b795a5bfde90de567a09/205240356/537459762.jpg\" />当现代装置各种组件的耗电量愈来愈低的同时，无线发信器的电力需求就显得更加突出，特别是在 IoT 装置上，无线发信器常常是电力需求最大的元件。为了降低能耗，Disney Research 的科学家们找出了一种新方法：利用「反向散射（Backscatter）」技术，装置可以利用四周环境中已经存在的各种电波，将其收进回圈后，混入自己的讯息再发出去。\n\n这和 RFID 其实有些相像，但 RFID 用的是单一的频率，而 Disney Research 的技术则是同时使用包括 FM、手机网路、电视等多种频率...", 
+  "title": "未来的装置或许不用无线发射器就可以沟通了"
+ }
+]
