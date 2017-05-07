@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Sun, 07 May 2017 07:45:00 -0400", 
+  "link": "http://cn.engadget.com/2017/05/07/google-explains-phishing-scam-defense/", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/60637896b9ff111a57288e800c52a2b9/205240788/email-phishing-picture-id487418823.jpg\" />前两天的 Google Docs 网路钓鱼事件，让人看到了歹徒是如何在不破坏任何系统之下，巧妙地利用现有的工具，成功地骗到了不少的人。为了避免类似的事件再次发生，Google 表示己经针对被利用的部份做了强化，一方面对第三方认证的使用设下更多的限制（稍早的钓鱼事件关键在于一个伪装成 Google Docs，要求给权限的第三方 App）；二方面调整垃圾信过滤器，强化对此类钓鱼信件的阻挡；三方面则是对于要求个资权限的 App 做更紧密的监控。\n\nGoogle 依然强调 5 月 3 日的攻击事件没有造...", 
+  "title": "Google 说明未来防治 Email 网路钓鱼的手段"
+ }
+]
