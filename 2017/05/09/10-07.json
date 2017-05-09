@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Tue, 09 May 2017 06:00:00 -0400", 
+  "link": "http://cn.engadget.com/2017/05/09/microsoft-windows-malware-protection-engine-rce/", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/827f19cad8d9c755cb662e3df005367e/205247112/view-of-the-new-microsoft-surface-laptop-following-a-microsoft-launch-picture-id676017500.jpeg\" />在刚刚过去的那个周末，Google Project Zero 的两位安全专家 Travis Ormandy 和 Natalie Silvanovich 都在 Twitter 上，讨论前者发现的一个 Windows bug。用 Ormandy 的话来说，这是他「近期记忆中最糟糕的远端 code exec」，而且它在系统预设状态下就会产生影响。更严重的是，潜在的「蠕虫」风险甚至有可能让骇客的攻击自动波及到其它的电脑。\n\n在得知此事后，微软的安全反应中心和 Windows Defender 背后的开发...", 
+  "title": "微软刚刚修复了一个严重的 Windows Defender bug"
+ }
+]
