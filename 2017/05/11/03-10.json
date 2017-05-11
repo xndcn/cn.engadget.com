@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Wed, 10 May 2017 23:04:00 -0400", 
+  "link": "http://cn.engadget.com/2017/05/10/nvidias-first-volta-powered-gpu-sits-in-a-149k-supercomputer/", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/46c74f46555a3ad3fac5c5a49a35e377/205256074/dims-4.jpg\" />NVIDIA 首款基于 Volta 架构 GPU 技术的产品终于正式登场了。在这次的 GTC 大会上，该公司推出了无论在性能亦或是价位上都相当强大的资料中心用显卡：NVIDIA Tesla V100。做为 P100 的升级款式，其使用上了 NVIDIA 第七代的最新架构、采 12nm 制程，搭载 5,120 CUDA 核心、16GB HBM2 内存与 NVLink 2.0 的连接界面，带来为更精密的 AI 与深度学习技术当后盾的 15 teraflops 运算能力。", 
+  "title": "NVIDIA 发布首款 Volta 架构 GPU，抢先搭载于 14.9 万美金的超级电脑上"
+ }
+]
