@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Sat, 13 May 2017 21:00:00 -0400", 
+  "link": "http://cn.engadget.com/2017/05/13/windows-10-will-seamlessly-run-legacy-x86-win32-apps-on-arm/", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/ed5be5ff3d690cf9e68a7c89642f09d9/205264192/windows10_snapdragon.jpeg\" />微软之前就说过，会在今年年末时推出基于 ARM 处理器的 Windows 10 设备，而在这次的 Build 大会上，他们就拿出了一台工程机，展示了一下 x86 Win32 应用在它上面跑起来是什么样子。就呈现出的效果来看，内建模拟器的即时转换效果确实不错，至少对普通用户和不少开发者而言，应该是没那么容易觉察出分别。另外，在缓存的帮助下，Win32 应用在使用一段时间后体验应该会变得更好一些。而且基于 ARM 架构的 Win 10 电脑，对软件的选择也不会受到 Windows Store 的限制...", 
+  "title": "微软演示在 ARM 架构设备上流畅运行 Windows 10"
+ }
+]
