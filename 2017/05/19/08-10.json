@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Fri, 19 May 2017 04:01:00 -0400", 
+  "link": "http://cn.engadget.com/2017/05/19/watch-an-ai-teach-itself-to-drive-in-gta-v/", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/d0d79d5e1530560a885a51621ad817e3/205286110/PythonPlaysGTA5.jpg\" />在现实生活中要政府点头，让你在街道上测试自驾车恐怕有些难度，但幸运的是我们有个不仅场景拟真、交通混乱、载具种类繁多，而且直的撞到人了的话，顶多被骂两句脏话而已的测试场地：GTA V。\n\n程序设计师 Harrison Kinsley 用 Python 创造一个采用卷积神经网络（Convolutional Neural Network）的 AI，将它取名为「Charles」，然后丢进了 GTA V 的世界里。概念上，Harrison Kinsley 是希望模拟单纯靠影像自动驾驶的 AI 系统，所以...", 
+  "title": "来看 Twitch 直播 AI 在 GTA V 里学开车"
+ }
+]
