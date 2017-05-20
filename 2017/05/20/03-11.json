@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Fri, 19 May 2017 23:04:00 -0400", 
+  "link": "http://cn.engadget.com/2017/05/19/wannacry-fix-hack-ransom-cybersecurity-researchers/", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/ccdd58d61c081c48158c0354247feb24/205289465/dims-3.jpg\" />让人很想哭的 WannaCry 勒索病毒，有了可以立即对应的快速解决方案了。虽说微软已经有推出了对应的安全补丁来预防电脑中的文件被「绑架」，而且还对应了早已停止支持的 XP 等系统，但如果是一开机就直接中了的电脑（目前仅确定支持 Windows XP 与 Windows 7），现在已经有了快速的特效药 -- 只要你还没重新开机以及动作慢到内存被覆写的话。\n\n这个由开发者 Benjamin Delpy 所制作的解锁软件「wanakiwi」，可在中毒当下（重启就会被洗掉）就尽快地搜索内存，以取得可恢...", 
+  "title": "Wanakiwi 是 WannaCry 勒索病毒的快速解法（只要你还没重启...）"
+ }
+]
