@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Fri, 26 May 2017 23:01:00 -0400", 
+  "link": "http://cn.engadget.com/2017/05/26/windows-7-vista-8-vulnerability/", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/5ba7bf2c7f51e2b7ebc55faf79388665/205314851/windows-ed.jpg\" />如果你还在用 Windows Vista、Windows 7 或 Windows 8 的话，要小心这个由 Aladdin RD 的安全专家发现的新「臭虫」了。出问题的地方，在于 NTFS 系统的 metadata 档案 $MFT -- 这个档案平常不应该被使用者看到，一般软件也不会去读它，但在少数软件下，如果它被当成是资料夹位置来存取本机资源的话，会导致 Windows 系统将它上锁，让其他软件无法存取。试图存取的软件会一个一个被冻结，最惨的状况就是 BSOD 了。无论如何，都要重开机才有办法恢...", 
+  "title": "还在用老 Windows 机器？小心这个「臭虫」"
+ }
+]
