@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Sun, 28 May 2017 05:01:00 -0400", 
+  "link": "http://cn.engadget.com/2017/05/28/apple-neural-engine-chip-could-power-ai-on-iphones/", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/c434d98d5b8b12df3885f21bc92e97da/205316332/RTX2Z6N2.jpeg\" />苹果的处理器长久以来都是自己设计，除了技术不外漏之外，另一个优点就是可以视需要将芯片功能拆分出来。例如在 2013 年的时候，苹果就动态资讯的监控独立出来，成为一颗 M7 处理器。如今，随着 AI 功能需要的运算能力愈来愈大，据传苹果又打算将 AI 独立出来，成为一颗「神经元引擎（Neural Engine）」。\n\n据 Bloomberg 的消息来源指出，原先苹果的 AI 运算是由主处理器和 GPU 共同分担，而现在看上了 AR 与自驾车的可能应用，苹果才准备独立出来的。从这描述来看，神经元引擎...", 
+  "title": "苹果的「神经元引擎」芯片将专职 iPhone 的 AI"
+ }
+]
