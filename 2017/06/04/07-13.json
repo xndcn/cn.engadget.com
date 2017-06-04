@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Sun, 04 Jun 2017 03:04:00 -0400", 
+  "link": "http://cn.engadget.com/2017/06/04/instant-tethering-comes-to-chromebooks-with-some-caveats/", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/e3907d78882bfb7d705e7642e2940d57/205338731/dims-2.jpg\" />发布之初就已经让人觉得应该会向 Chromebook 上推出的「Instant Tethering」移动网络快速共享功能，终于也由官方向笔记本使用者悄悄推送了。这个可以快速通过蓝牙来进行唤醒手机进行网络连线分享的功能，先是在一月份时在 Nexus 与 Pixel 手机提供，现在则是在 Chrome OS Canary 中也能拥有。\n\n想在 Chormebook 启动 Instant Tethering，将需要在 URL 网址栏位输入 chrome://flags，来找到 enable-tethe...", 
+  "title": "Instant Tethering 网络快速共享功能降临 Chromebook"
+ }
+]
