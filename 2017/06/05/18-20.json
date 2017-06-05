@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Mon, 05 Jun 2017 14:15:00 -0400", 
+  "link": "http://cn.engadget.com/2017/06/05/macos-high-sierra/", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/59ddfad3300fb1cb4faa817c477caa46/205343568/2017wwdc-846.jpg\" />苹果照例在 WWDC 上发表了下一代的 macOS 系统，这次取名是相当没有创意的「High Sierra」。最大的更动是苹果确认了将采用简称「APFS」的现代化的文件系统 Apple File System。APFS 最早在去年 WWDC 上发表，强调的是更快的操作速度，以及对 SSD、USB 随身碟等现代储存媒介的最佳化。在台上关于它的 Demo 并不多，但应该可以对各种操作都起到加速的效果，并提高安全性。此外，苹果也将预设的影片编码由 H.264 规格转移到 H.265（HEVC）。\n\nA...", 
+  "title": "下一版 macOS High Sierra 将采用 APFS 文件系统"
+ }
+]
