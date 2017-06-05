@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Mon, 05 Jun 2017 02:04:00 -0400", 
+  "link": "http://cn.engadget.com/2017/06/05/apple-stops-showing-32-bit-ios-apps-in-searches/", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/f603380f0d4340bb737f961f34f49645/205340602/dims-4.jpg\" />苹果在 iPhone 5s 之后已经在硬件上全面更新支持了 64-bit 的架构，也早已强力推动应用程序改朝换代的措施，鼓励开发者尽快使用 SDK 让 app 都能获得更好的执行效率。而到了最近，这个「鼓励」也改变成了有着强制意味的「警告」了。据称，开发者先前便已经开始收到，关于 32-bit 将无法在之后的 iOS 版本上使用的警告讯息。而现在，Apple 则是赶在 WWDC 之前，开始把这些使用旧架构的 app 由 App Store 搜索结果中移除 -- 简单的说，你将搜索不到这些老 ap...", 
+  "title": "32-bit 的 iOS app 已不再显示于 App Sotre 搜索结果之中"
+ }
+]
