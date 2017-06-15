@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Wed, 14 Jun 2017 22:00:00 -0400", 
+  "link": "http://cn.engadget.com/2017/06/14/firefox-finally-unveils-its-faster-more-memory-efficient-browse/", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/126bce5b3e9602f8f8fb123fbc868ea9/205378423/firefox-multiprocess-browser-2017-06-14-01.jpeg\" />因为一直固守单进程技术，而在内存使用效率上被 Chrome、Safari、Edge 等浏览器甩在后面的 Firefox，在最新的版本中，总算将迎来改观。早些时候发布的 Firefox 54 终于用上了多进程的技术，它可以将不同分页分为不同进程，最多四进程一起跑，能够效率更高地对电脑硬件加以利用。除此之外，新版 Firefox 估计也能让内存有限的使用者获益不少。按照产品主管 Ryan Pollock 的说法，它「不会像 Chrome 那样吃光内存拖慢电脑」，因为 Mozilla 采用的调度策略完...", 
+  "title": "Firefox 终于用上多进程技术了"
+ }
+]
