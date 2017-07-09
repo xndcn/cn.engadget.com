@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Sun, 09 Jul 2017 02:04:00 -0400", 
+  "link": "http://cn.engadget.com/2017/07/09/latest-windows-10-preview-takes-the-headache-out-of-high-dpi/", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/ee4a83de38dd16e7c870d2ae490df6aa/205455860/dims-9.jpg\" />虽然为什么这状况能存在那么久让人感到有点费解，不过 Windows 对 HiDPI 的分辨率问题，终于在最近的 Windows 10 预览版中让使用者看到了解决的曙光。以往 Windows 10 的使用者在切换不同屏幕的时候，常会遭遇到 App 显示模糊需要重开或登出才能获得解决的问题，在最新的 Insider Preview build 16237 中已经获得改善。更新后系统将懂得告诉应用目前所使用的 DPI 为何（甚至可以自订），藉此避免在切换屏幕或改变显示设定后出状况。虽然可能还是需要重开...", 
+  "title": "高 DPI 切换问题终于在 Windows 10 预览版中被解决了"
+ }
+]
