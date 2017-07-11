@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Tue, 11 Jul 2017 07:00:00 -0400", 
+  "link": "http://cn.engadget.com/2017/07/11/ubuntu-linux-available-in-windows-store/", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/869acc045d5243b9aa72d74ddf0e1052/205462971/ubuntu-windows-store.jpeg\" />如五月 Build 时承诺的一样，Linux 三大发行版中针对个人用户而设的 Ubuntu，现在已经出现在了 Windows Store 之中。如果你是 Insider 测试者的话，目前已可在 Windows 10 的 Windows Subsystem for Linux 框架内直接运行 Ubuntu 子系统（不是双开机），像是执行 Bash、SSH 等操作都没有问题。\n\n不过，对于 Fedora 和 SUSE 会在何时登陆 Windows Store，官方尚未给出一个确切的说法。而为 Win...", 
+  "title": "Ubuntu 已进驻 Windows Store"
+ }
+]
