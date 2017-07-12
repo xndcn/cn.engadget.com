@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Wed, 12 Jul 2017 05:00:00 -0400", 
+  "link": "http://cn.engadget.com/2017/07/12/android-stops-glitchy-apps-by-detecting-your-panicky-presses/", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/9794a61da7639a34db8667673f1be4ef/205467284/android-7-1-panic-condition-2017-07-11-01.jpeg\" />对 Android 用户来说，当按下返回键应用没反应时，要不就是机器太慢或软件太烂，要不就是有恶意 App 在背地里搞鬼了。不管怎么说，为了更好地处理这种情况不至于让使用者感到「恐慌」，Google 在 Android 7.1 Nougat 的新版本里加入了名为「Panic Detection」的新功能。简而言之，它能在你快速连按四下返回键之后，自动关闭卡住的应用并退回主界面。这样一来用户要释放更多空间再重启应用，或是干脆禁用或删除掉可疑的内容，操作起来都会更加自如了。\n\n不过，Google 官...", 
+  "title": "以后 Android 应用再卡住，连按返回键就能把它直接关掉了"
+ }
+]
