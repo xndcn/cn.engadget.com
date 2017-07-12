@@ -1,0 +1,14 @@
+[
+ {
+  "date": "Wed, 12 Jul 2017 02:51:00 -0400", 
+  "link": "http://cn.engadget.com/2017/07/12/google-2017-pixel-xl-leak/", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/458b8f2b93be9f916d0f1831f7d53ced/205467171/google-pixel-2-xl-android-police.jpeg\" />夏天到了，下半年手机新旗舰的传闻开始越来越多，除了经久不变的 iPhone 以外，Google 家的 Pixel 系列现在终于也有了新的消息。早些时候 Android Police 发出了一张据称是新款 Pixel XL 的 3D 渲染谍照，这款由 LG 代工、代号「Taimen」的设备总体上还是继承了上代的设计语言。不过其屏幕换成了时下流行的长条型状，尺寸据说为 6 吋，长宽比 2:1，感觉跟 LG 自己的旗舰 G6 比较类似。除此之外，Google 似乎还为这款新机加入了类似 HTC U11...", 
+  "title": "2017 年款 Pixel XL 机身说不定也能挤"
+ }, 
+ {
+  "date": "Wed, 12 Jul 2017 02:01:00 -0400", 
+  "link": "http://cn.engadget.com/2017/07/12/waymo-teaches-autonomous-cars-to-detect-emergency-vehicles/", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/92a9219e8e2d556e9fe0f48ec1164cb0/205465809/dims.jpg\" />虽然与 Uber 的官司还处于各说各话的阶段，不过 Waymo 可没打算让自己的自动驾驶技术就此停顿，最近与美国亚利桑纳州的消防局与警察局合作，希望能通过路测训练来让他们的自驾车习得对紧急执勤中的车辆如：警车 / 机车、救护车、消防车做出该有的反应。在相关单位的配合下，Waymo 的自驾车将会与这些车辆一同进行实际行驶，让自驾车通过车上定制的各式感测器，来搜集侦测紧急车辆从各种角度、速度与距离的警报与闪光灯号，进而让自驾车可以更及早地侦测车辆的靠近，并做出礼让或者是靠边等闪避动作。\n\nWaymo...", 
+  "title": "Waymo 要让自动驾驶车懂得对紧急救护车辆做出反应"
+ }
+]
