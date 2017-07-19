@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Wed, 19 Jul 2017 01:04:00 -0400", 
+  "link": "http://cn.engadget.com/2017/07/19/google-security-features-block-unverified-apps/", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/4849cb08ab14a673f9c6af05b93f1073/205488898/dims-9.jpg\" />针对 Google 文件的钓鱼事件，官方除了直接封锁了恶意的开发者之外，之前说好的防治手段现在也已经正式降临。现在起，只要是未经 Google 官方认证的 app 想要取得你帐号的权限，将会马上进入一个新的警告页面，有点像是 Google 搜索的安全功能，除了告知你此应用并未经过认证可能不安全外，还是会给你一个进阶选项，让你在输入「continue」字串后跳过这个阻挡程序。虽说并非完全阻挡，但基本上应该已经可以挡下许多一时冲动按下允许的状况发生了。\n\n除此之外，友站 TechCrunch 还发现...", 
+  "title": "让你再想一想：Google 对未认证 app 新增警示页面"
+ }
+]
