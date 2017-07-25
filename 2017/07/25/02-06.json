@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Mon, 24 Jul 2017 22:00:00 -0400", 
+  "link": "http://cn.engadget.com/2017/07/24/hololens-ai-chip-computer-vision/", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/23b3eb516465a978b16db49ad0db5f82/205505364/dims.jpg\" />早些时候在 CVPR 大会上（Computer Vision and Pattern Recognition，机器视觉和图形辨识），微软的研究副总裁 Harry Shum 透露自己的公司正在尝试为 HoloLens 所用的 HPU 加上 AI 协同处理器。这样一来 HoloLens 就可以在不需要连接到云端的前提下，靠设备本身来完成即时语音、物体辨识等操作。对我们这样的普通消费者来说，可能会比较期待这两种特性在游戏、娱乐方面的潜力。而在微软眼中，它在企业 AR 的领域也有很大的价值。比如之前在...", 
+  "title": "下一款 HoloLens 将依靠 AI 技术来更好地辨识物体"
+ }
+]
