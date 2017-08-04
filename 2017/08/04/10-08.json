@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Fri, 04 Aug 2017 06:00:00 -0400", 
+  "link": "http://cn.engadget.com/2017/08/04/facebook-translations-entirely-powered-ai/", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/c3c65c11f8e9cf2af41fc2367f3d4e6f/205538399/fblikesign-ed.jpg\" />Facebook 对贴文、评论翻译功能的改造，现在终于有了新的成果。之前基于词组、不太擅长应对不同句型结构的机器翻译方案，如今被这两年话题度很高的神经网络技术所取代。后者更偏向从整句话的角度出发来考虑如何翻译，比如说下面这组对比就能很好地表现出神经网络（后一种）的优势。此外，相较其它方案，神经网络在进行翻译时也能更好地处理未知词语，同时完成翻译的速度也会更快。", 
+  "title": "Facebook 的翻译功能现在完全是由 AI 驱动"
+ }
+]
