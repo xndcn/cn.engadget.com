@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Thu, 03 Aug 2017 23:01:00 -0400", 
+  "link": "http://cn.engadget.com/2017/08/03/password-pwned-protection-troy-hunt-306-million-breach/", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/35c771b2b49e1fd2073759afb4088fe/205537332/Pwned.jpg\" />由安全专家 Troy Hunt 开设的「Have I Been Pwned（HIBP）」网站，原先就有提供输入 Email 后，系统就会自动比对过去几次大规模个资外泄事件的受害者清单的服务，让你可以尽快采取必要的措施，保护自己的帐号。如今 Troy 将整个概念反了过来，让你可以输入任何一组密码，交由 HIBP 的系统去搜索你的密码是否和先前任何一次泄漏的密码重复。这个密码的总资料库包含多达 3.06 亿组的密码，不过虽然看似数量很多，但对有心靠暴力来破解的骇客来说，倒也不是特别麻烦，想来应该会是...", 
+  "title": "在想新密码吗？新服务将帮你尽量避开那三亿多个组合"
+ }
+]
