@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Sat, 19 Aug 2017 23:34:00 -0400", 
+  "link": "http://cn.engadget.com/2017/08/19/google-flawlessly-remove-stock-photo-watermarks/", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/e899433e29fe1915495df9d3767d64da/205581264/dims.png\" />在今年的 CVPR 大会上，Google 发布了一个可能会让图库公司感到非常头大的研究成果。该公司找到了可以通过分析比对数以千百计都被盖上同样水印的图片，快速将两者分离达成几乎完美地达成去除水印的功能 -- 这意味着图库公司在网络所放上的一堆自以为安全的水印图片，很可能在别人也采用类似的分析法后轻松处理，将图库照片纳为囊中物。\n\n不过，好在 Google 也有提供扰乱这样合成功能的方法。", 
+  "title": "Google 研究出「完美去水印」的方法"
+ }
+]
