@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Wed, 23 Aug 2017 08:00:00 -0400", 
+  "link": "http://cn.engadget.com/2017/08/23/microsoft-project-brainwave/", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/1babac3b0ce298eb23c99747ac963d2f/205591935/dims.jpg\" />AI 这回事，感觉就是需要能随问随答、能随时调动像是智能摄像头等所连接的硬件设备，功能才够看。为此，微软就开始开发了自家的硬件加速平台 Project Brainwave，目标是能带来高速、实时的云端 AI。配置上，平台是用了英特尔新推出的 Stratix 10 FPGA 芯片，能在 1 毫秒的时延内进行多达 39.5 teraflops 的机器学习工作，换句话说就是能处理非常复杂的 AI 工作。\n\n在对比竞争对手，Project Brainwave 因为使用「软性」的动态神经网络处理引擎而有着...", 
+  "title": "微软为实时 AI 打造硬件平台"
+ }
+]
