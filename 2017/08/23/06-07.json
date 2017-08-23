@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Wed, 23 Aug 2017 02:00:00 -0400", 
+  "link": "http://cn.engadget.com/2017/08/23/thanks-google-shutterstock-stop-automated-watermark-removal/", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/1de5cb0407593b9371e712dddaa539fb/205591681/shutterstock%2Bwatermark-ed.jpg\" />不知道是不是和谷歌事先套好了，图库网站 Shutterstock 在谷歌发表「完美去水印」法之后没几天，就宣布了套用反制水印的新图库已上线。谷歌的方法是比对几千张照片，找出经过浮水印处理的画素，并将它们隔离出来，还原画素原本的颜色。谷歌的方法不怕水印的平移或透明度的改变，但要有几千张长得一模一样的浮水印才行。\n\n这就为 Shutterstock提供了基础 -- Shutterstock 自称他们「逆向工程」了谷歌的方法（但其实就和谷歌自己建议的反制法一模一样），将水印微微地「扭曲」了一下，同时每...", 
+  "title": "Shutterstock 已经开始反制谷歌的「完美去水印」法了。"
+ }
+]
