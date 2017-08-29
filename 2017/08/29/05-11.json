@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Tue, 29 Aug 2017 01:04:00 -0400", 
+  "link": "http://cn.engadget.com/2017/08/29/dji-pulls-drone-app-plugins/", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/ff22780d7ef846184d4187c8f3f48f57/205609617/dims-3.jpg\" />除了让航拍 / 航拍机能够更安全地飞行的更新外，前阵子被质疑信息安全性薄弱的 DJI，现在也对此开始拿出些对应的策略来挽回人心。该公司最近针对一些在原厂 DJI Go app 或 DJI Go 4 app，搜集过多使用者信息并将其传输到网际网络的三方外挂（Plug-in），将通过更新来将其下架。官方特别以 JPush 这个外挂为例，其原本的功能是可以在视频完成上传后发出通知给使用者，但官方发现其实它在未征询使用者的同意下还额外多搜集了一些信息，包括 Android 设备上所安装的 App 清单等...", 
+  "title": "DJI 将搜集过多使用者信息的航拍机 plugins 下架"
+ }
+]
