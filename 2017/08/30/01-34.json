@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Tue, 29 Aug 2017 21:30:00 -0400", 
+  "link": "http://cn.engadget.com/2017/08/29/intel-18-core-xeon-w-cpu/", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/78cbe2e46042af3c837447a89eaaef05/205611823/intel-w-xeon-processors-2017-08-29-02.jpg\" />在一系列的消费端处理器相关新闻之后，Intel 终于把目光又放回了 Xeon 系列的工作站处理之上，而且这下子把产品线和命名搞得更混乱了（说的好像原本不混乱一样...）。新的系列命名为「Xeon W」系列，W 应该就是「Workstation（工作站）」的意思，大约介于服务器级与消费级产品之间，未来将取代旧的 E5-1600 系列芯片。\n\nE5-1600 主要是用在单处理器的环境，自然新的 W 系列也一样，提供 4 核一直到 18 核的选择，并且支持最高 512GB 的 RAM、vPro、AMT...", 
+  "title": "Intel 发表 18 核 Xeon-W 系列工作站处理器"
+ }
+]
