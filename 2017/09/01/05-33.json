@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Fri, 01 Sep 2017 01:30:00 -0400", 
+  "link": "http://cn.engadget.com/2017/09/01/facebook-ai-correct-skewed-360-photos/", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/84a2a3b6b40c31fd2243f5a0926a62d3/205622215/dims.jpg\" />随着 Facebook 去年正式支持显示 360 度相片后，愈来愈多相关的功能也加入了，像是最近就让使用者直接利用手机 app 拍摄 360 度相片。不过始终这是需要人手拍摄的相片，所以成像必然会有落差。据 VentureBeat 的报导，Facebook 将基于 2012 年创造的 AlexNet，开发新的深度神经网路系统来分析 360 度相片，并为其进行优化，为的是让其他使用者看得更舒服，尤其是对显示要求更高的 VR 使用者。\n\n而且为了对应体积肥大的 360 度相片，Facebook 也有...", 
+  "title": "Facebook 借助 AI 来修正 360 度相片"
+ }
+]
