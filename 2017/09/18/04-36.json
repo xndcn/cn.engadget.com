@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Mon, 18 Sep 2017 00:30:00 -0400", 
+  "link": "http://cn.engadget.com/2017/09/18/pirate-bay-hijacks-cpus-for-digital-currency-mining/", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/d573c72266d955aa7def60f4f3357b43/205677765/dims.jpg\" />侵权网站不能像一般的网站一样透过置放广告赚钱，所以他们是如何维持营运呢？作为知名盗版网站之一的 Pirate Bay 就被发现他们的 JavaScript 代码中，有包括着「借用」来访客人的电脑处理器来进行挖掘 Monero 虚拟金币，而且不能拒绝啊。不过这代码似乎只有在搜寻结果页和类别列表页生效，大家可以试着留意 CPU 有没有变得更高负荷。", 
+  "title": "Pirate Bay「借助」访客的 CPU 来挖掘虚拟金币"
+ }
+]
