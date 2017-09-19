@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Tue, 19 Sep 2017 05:30:00 -0400", 
+  "link": "http://cn.engadget.com/2017/09/19/piriform-ccleaner-hacked-malware-downloads/", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/f91fc0cc4cb8f7b4adbe0a5b55b468c/205682294/dims.jpg\" />CCleaner 是 Avast 旗下一款相当知名的系统清理软件，在全球范围内有着超过 1.3 亿人的广泛用户基础。而就是这么一款工具，最近成为了不法之徒的目标。有骇客直接入侵了软件下载源并植入了后门，使得 CCleaner 会自动进行「多阶段恶意软件下载」，从而达到勒索、盗取隐私等目的。\n\n按照官方说法，目前有大约 227 万用户受到了恶意软件的「感染」。毫无疑问，这一骇客行为给使用者带来了非常大的安全风险。不过考虑到 CCleaner 的总下载量已经超过 20 亿次，而且平均每周新增的用户数...", 
+  "title": "知名系统清理工具 CCleaner 被骇客植入了后门"
+ }
+]
