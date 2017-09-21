@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Thu, 21 Sep 2017 01:34:00 -0400", 
+  "link": "http://cn.engadget.com/2017/09/21/ios-11-control-center-doesnt-fully-turn-off-wifi-or-bluetooth/", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/f34a41e61f30a037b9f20aa5ad987b91/205690193/dims-16.jpg\" />顺利升上了 iOS 11，正在把玩那个大改的控制中心（Control Center）吗？那么你也许要知道一下，列在其上的两个必备功能蓝牙与 Wi-Fi，其实如果你在这个快捷的控制中心按下关闭，它们都并不会真正关闭（！）。虽然应该有些朋友会觉得这倒底是演哪出，不过苹果在说明文件中其实早就有提到这样的机制。\n\n简单地讲，在控制中心上针对蓝牙与 Wi-Fi 的「关闭」，其实比较偏向于「断线」，将会中断与其他设备的连线，保持 Apple Pencil 与 Apple Watch 等设备，还有 Hando...", 
+  "title": "其实 iOS 11 的控制中心并不能真正关闭蓝牙与 Wi-Fi"
+ }
+]
