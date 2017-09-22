@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Fri, 22 Sep 2017 04:00:00 -0400", 
+  "link": "http://cn.engadget.com/2017/09/22/ccleaner-malware-targets-tech-titans/", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/31348e3f924a65f4c73b10c8db7ba603/205694750/166162078.jpg\" />就在我们以为，几天前发生的 CCleaner 被侵入事件并未造成特别大危害的时候，Cisco Talos 的安全专家们却发现了攻击背后隐藏的实际目的。原来，包括 Google、三星、微软、索尼、HTC、Linksys、D-Link 和 Cisco 本身在内的至少 20 家科技公司，才是骇客真正的目标。安全员在分析了调查中涉及到相关人士的数据资料后，已经确认骇客的计划是感染上述公司内部网络中的电脑。初始植入的后门实际上只是引发第二波恶意软件入侵的手段，后者才是骇客真正的「杀招」。\n\nTalos 研...", 
+  "title": "CCleaner 后门事件的真实目标原来是科技巨头"
+ }
+]
