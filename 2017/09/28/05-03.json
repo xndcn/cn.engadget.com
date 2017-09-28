@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Thu, 28 Sep 2017 01:00:00 -0400", 
+  "link": "http://cn.engadget.com/2017/09/28/edit-Firefox-Quantum-double-speed-twice-fast-browser-Mozilla/", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/e742ea42f171edcd3c7ab4cbb0426b19/205713639/dims.png\" />去年年末的时候，Mozilla 宣布了名为 Project Quantum 的计划，而其成品也在今天正式进入 beta 阶段，让大家亲身体验。Quantum 浏览器的主要卖点是快，换算为数字比较，就是在测试速度的 Speedometer 2.0 中，比 Firefox 52 的分数高上一倍。这是因为他们在 Quantum 浏览器中应用了新的 CSS 引擎 -- Rust，一种支持多行程技术，可以同时在多个核心上运作的语言。而且也有优先为正在使用页面载入资料的安排，据 Mozilla 的说法，RA...", 
+  "title": "Firefox Quantum 浏览器 beta：速度翻倍！"
+ }
+]
