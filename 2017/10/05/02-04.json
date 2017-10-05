@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Wed, 04 Oct 2017 22:00:00 -0400", 
+  "link": "https://cn.engadget.com/2017/10/04/apple-watchos-update-addresses-lte-connectivity-issues/", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/d5514d723e54c50610b4a9b4cee28401/205736309/_MG_2813.jpg\" />属于 Google 的大日子，没想到苹果这边也出了条新闻来小小刷一下存在感。之前许多 Apple Watch Series 3 用户遇到的 LTE 连线问题，在最新的 watchOS 4.0.1 中总算是得到了解决。具体来说，原先 Series 3 手表在自动搜到某些需要进一步验证的开放 Wi-Fi 热点时，因为没法像手机或电脑那样弹出验证页面，系统的连线状态就会卡在那里，设备也不会自己跳回移动网络。新版本在类似情况下会停止自动连接，这样在无法成功接入后，手表就会自动切换回能用的服务了。", 
+  "title": "watchOS 更新解決 Apple Watch Series 3 的 LTE 连线问题"
+ }
+]
