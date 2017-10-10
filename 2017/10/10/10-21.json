@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Tue, 10 Oct 2017 06:12:00 -0400", 
+  "link": "https://cn.engadget.com/2017/10/10/origin-wireless-motion-detection-breathing-rate-sensor/", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/777660b2c0b5dfc105746e6df96fafeb/205750483/DSC_0135.jpg\" />一般的室内安保系统，大多都会依靠相机或是专门的感应器来实现监控效果。不过这两者都会有硬件和安装成本，而且实话说，很多使用者本身在镜头下都会感到非常不自在。考虑到这些问题，Origin Wireless 想到了一种利用 Wi-Fi 讯号来探测室内运动的经济方案。他们所使用的「时间反演机」技术（Time Reversal Machine），本质上是一套理论上可通过固件更新加入任何 Wi-Fi mesh 路由器的算法。它可以在不给处理器增加太大负担的前提下，探测出小到人体呼吸这样的细微运动。\n\n一套完...", 
+  "title": "想让 Wi-Fi mesh 路由器探测到你的呼吸吗？"
+ }
+]
