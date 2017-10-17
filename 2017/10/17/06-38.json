@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Tue, 17 Oct 2017 02:30:00 -0400", 
+  "link": "https://cn.engadget.com/2017/10/17/microsoft-already-has-krack-attack-wifi-fix/", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/37d0d7dd771b9bb0be45933e38cf01dc/205772216/tplink1.jpg\" />早些时候爆出的「Krack Attack」Wi-Fi 加密漏洞，能够通过伪造同名 WPA2 加密 Wi-Fi 的钓鱼手法（并非破解 WPA2），分析使用者的上网数据流量甚至发动中间人攻击。在如今 Wi-Fi 遍地的环境中，无疑意味着很大的潜在风险。正因为此，各大科技公司在漏洞浮出水面后火速给出了回应，微软、Google 跟苹果都已经为自己旗下的平台准备好了对应的防范更新。\n\n三者之中，微软的动作最快，目前已经为所有支持范围内的 Windows 版本（不低于 Windows 8）推送了安全升级。与...", 
+  "title": "微软、Google、苹果已针对「Krack Attack」Wi-Fi 漏洞做好应对方案"
+ }
+]
