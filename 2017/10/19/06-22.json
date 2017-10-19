@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Thu, 19 Oct 2017 02:15:00 -0400", 
+  "link": "https://cn.engadget.com/2017/10/19/samsung-introduces-linux-on-galaxy/", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/c24b7a9a27451207386bb18998364792/205780458/samsung-dex-linux-on-galaxy.jpg\" />三星今年推出的 DeX 手机转电脑解决方案引起了不少人的兴趣，所以官方会花力气下去进一步扩展功能，应该也算是意料之内的事情。早些时候他们带来了全新的 Linux on Galaxy，如名称所示，就是让你的 Galaxy 手机在插入 DeX 以后可以直接运行 Linux。不过，跟 Ubuntu、Debian 等常见的 Linux 版本不同，三星的这套方案是通过一个应用来启动，而且为了保证性能它使用了跟 Android 本身相同的 kernel。\n\n目前三星已经开放了 Linux on Galaxy...", 
+  "title": "三星的 DeX 可以拿來跑 Linux 了"
+ }
+]
