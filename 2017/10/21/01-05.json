@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Fri, 20 Oct 2017 21:01:00 -0400", 
+  "link": "https://cn.engadget.com/2017/10/20/intel-amazon-speech-enabling-developer-kit-preorder/", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/d36a83142df11004862d3ff5bbcd5978/205784853/img_0593_production.jpg\" />Amazon 有为开发者准备一个云端的 Alexa 服务模拟器，让开发者可以试验自己的新 Skills，这也让 Amazon 的这个语音助理平台有了不错的成长。不过想必还是有些开发者希望结合硬件和软件提供特殊的服务，这时候仅仅是软件的版本恐怕就不太够用了。\n\n因此，Amazon 找上了 Intel 合作，推出了「Intel Speech Enabling Developer Kit」语音开发套件，提供完整的远距语音辨识前端解决方案。它除了内建有八个麦克风的阵列之外，还有 Intel 的专门数位信...", 
+  "title": "Intel 与 Amazon 合作推出 Alexa 的开发硬件套件"
+ }
+]
