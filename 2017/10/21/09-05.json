@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Sat, 21 Oct 2017 05:01:00 -0400", 
+  "link": "https://cn.engadget.com/2017/10/21/adobe-scribbler-ai-automatically-colors-portrait/", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/fb7d9f09b81559766fe54af38267c684/205788389/515984020.jpg\" />随着 AI 技术愈来愈进步，现在连为黑白照片着色都成为了 AI 的新技能之一了。Adobe 在稍早的 MAX 2017 活动上，由研究专家 Jingwan Lu 示范了一个名为「Project Scribbler」的计划，利用 Adobe 的 Sensei 深度学习平台，自动为照片着色。研究团队将数千张脸部肖像照 -- 有些黑白、有些彩色 -- 喂给 AI 系统，让 AI 自行学习什么部位应该上什么样的颜色，以及材质、阴影等之类的变化。\n\n不过，目前这技术还在起步的阶段， 「着色」能力仅限于脸部...", 
+  "title": "Adobe 的 Scribbler AI 懂得如何为人像照片自动着色"
+ }
+]
