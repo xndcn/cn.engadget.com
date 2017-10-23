@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Mon, 23 Oct 2017 02:01:00 -0400", 
+  "link": "https://cn.engadget.com/2017/10/23/windows-10-enables-anti-cheat-protection/", 
+  "description": "<img src=\"http://o.aolcdn.com/hss/storage/midas/6c792eb83ac6add169a7888346361441/205790637/RTX1LYEC.jpeg\" />Windows 10 的 Fall Creators Update 增加的新功能不算多，但却有这么一个潜在影响甚大的功能埋在其中。微软启用了一个名为「TruePlay」的内建防作弊机能，号称能保护 Windows 平台上的玩家免于常见的作弊方式。基本上它会开启一个专门的保护模式，避免被其他软件写入，并且触发一个监控的背景程式，在发现有异常的时候，传送资料去给开发者。如果你不想 TruePlay 鸡婆传送资料的话，也可以把它关掉，但可能就无法上线玩多人游戏了。\n\n当然，它的有效性还是取决于有多少用...", 
+  "title": "Windows 10 现在内建了游戏防作弊机能"
+ }
+]
