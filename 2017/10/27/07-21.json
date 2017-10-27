@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Fri, 27 Oct 2017 03:15:00 -0400", 
+  "link": "https://cn.engadget.com/2017/10/27/nvidia-unveils-geforce-gtx-1070-ti/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/d02aecd2397a49453bd139ab3a4d606d/205806152/nvidia-geforce-gtx-1070-ti.jpg\" />今天稍早 NVIDIA 发表了全新的 GTX 1070 Ti 显卡。这定位真是有些微妙 -- NVIDIA 已经很久很久没有在 70 系和 80 系之间插入产品，更何况 1070 Ti 和 GTX 1070、GTX 1080 一样都是 GP104 架构的延伸，各项规格与价格更是都卡在两者之间，等于硬是切出一个新等阶来。\n\n具体的说，1070Ti 在 CUDA 核心数（2432）与材质单元数（152）上只比 1080（2560 / 160）差一点，基础时脉（1607MHz）与 TDP（180W）更...", 
+  "title": "NVIDIA 发表定位奇特的 GTX 1070 Ti 显卡"
+ }
+]
