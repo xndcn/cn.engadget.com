@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Tue, 31 Oct 2017 09:01:00 -0400", 
+  "link": "https://cn.engadget.com/2017/10/31/google-earth-firefox/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/454c24aab7005ef636dc0b04b3fd6ff2/205816339/google-earth-firefox.jpg\" />今年稍早的时候 Google Earth 首度由桌面应用跨足到了浏览器领域，成为可以直接在 Chrome 里执行的 app。Google 今天解释说这并不是 Google 独厚自家的产品，而是当初写成浏览器 App 的时候并没有什么好的通用方式，所以 Google 最终选择了性能较好的 Native Client，供 Chrome 和 Google Earth 使用。\n\n不过，Google 并没有放弃让 Google Earth 可以在所有浏览器上使用的努力，随着 W3C 上的 WebAssem...", 
+  "title": "Google Earth 准备好要来到其他浏览器上了"
+ }
+]
