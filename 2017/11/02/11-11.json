@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Thu, 02 Nov 2017 07:03:00 -0400", 
+  "link": "https://cn.engadget.com/2017/11/02/youtube-machine-learning/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/bb26b2288c3a68a3388fbdcbc070d2ce/205824656/P9090977_1400.jpg\" />今天 Google 在一场以机器学习为主题的媒体聚会中，很难得地为我们揭露了一点 YouTube 背后的人工智慧是如何演进，并且找出好的视频来进行个性化的推荐。机器学习影响让推荐视频在观看时数的占比于三年内提升了三倍之多，目前已经占总观看时数的 70%（剩的 30% 大多是 embed），YouTube 首页每天都要为个别的观众推荐高达两亿支的视频。\n\n对 YouTube 来说，视频推荐的困难主要有三点： 首先，YouTube 每分钟都有超过 500 小时的新视频被上传，如何理解每个视频的内容，...", 
+  "title": "YouTube 总是能推荐好视频给你？原来都是机器学习的威能！"
+ }
+]
