@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Sun, 12 Nov 2017 20:00:00 -0500", 
+  "link": "https://cn.engadget.com/2017/11/12/security-firm-claims-to-defeat-face-id-with-mask/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/9a05b387e205f35337d476e4eeaa77e9/205855057/face-id-mask-bkav.jpg\" />当苹果在 iPhone X 发布会上介绍 Face ID 的时候，他们曾宣称即使是好莱坞级别的面具也无法骗过其系统。不过根据安全公司 Bkav 最新的研究成果来看，电影行业的仿真技术似乎并非「攻破」Face ID 的关键。他们选择的方法，是用 3D 打印的面部框架模型和 2D 图片（眉眼的部分），然后再配上手工制作的「皮肤」。\n\n具体的效果，从下面的短片中就可以看到，Face ID 确实很快对那张看起来一点都不真的脸做出了反应。当然，我们无法确定在此之前 Bkav 做了多少次尝试。不过按照他们的...", 
+  "title": "有安全公司声称自己用面具骗过了 iPhone X 的 Face ID"
+ }
+]
