@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Sun, 19 Nov 2017 02:30:00 -0500", 
+  "link": "https://cn.engadget.com/2017/11/19/apple-imac-pro-includes-a10-chip-from-iphone/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/e0937be2cca470c28f1196bafd25fdfa/205875034/_MG_5926.jpg\" />早先说苹果将在 Mac 内建客制化 ARM 晶片的传闻，似乎有了新的变化。之前是讲在 MacBook 笔电内担当睡眠模式下的低能耗晶片，让笔电可以继续与外接保持沟通，而这次主角则是换成了 iMac。一位 Jonathan Levin 在 iMac Pro 的 BridgeOS 程式码里发现了 A10 Fusion（与 iPhone 7 相同）将担当协同处理器的蛛丝马迹，但 iMac（相对）没有睡眠省电的问题，所以到底内建的 A10 Fusion 晶片到底要负责什么样的工作，令人好奇。\n\n目前最热...", 
+  "title": "iMac Pro 或将拥有 Siri 语音控制的功能？"
+ }
+]
