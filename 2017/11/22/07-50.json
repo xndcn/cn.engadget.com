@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Wed, 22 Nov 2017 02:45:00 -0500", 
+  "link": "https://cn.engadget.com/2017/11/22/android-has-collected-location-despire-sharing-settings/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/61b38952bcb997faf7c380cd3b2c6546/205884506/dims-1.jpg\" />大家会特意到设定页里关掉分享定位信息的功能，无非就是为了尽可能保护自己的隐私，可是 Android 系统却被发现阳奉阴违啊。Quartz 获得官方证实，指 Android 手机在 2017 年开始，持续把邻近的信号塔位址发回给谷歌，无视隐私权里的定位信息设定，而且更不管设备有没有电信服务或是使用任何 app。理论上，谷歌或其他有心人士能够通过分析多座信号搭的三角定位，推算设备的位置。", 
+  "title": "​​​​​​​Android 系统无视隐私权设定，持续分享位置信息"
+ }
+]
