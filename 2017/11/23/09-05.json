@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Thu, 23 Nov 2017 04:00:00 -0500", 
+  "link": "https://cn.engadget.com/2017/11/23/apple-research-self-driving-cars/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/7771f4a88590a3e33d7229dc230db1fc/205888209/apple+-self-driving-research-2017-11-22-01.jpg\" />一向在自驾车计划上口风比较紧的苹果，没想到居然会选择在 arXiv 这个专供研究者搜集初期回馈的公开平台上，发布自己首篇与自驾技术相关的论文。在文章中苹果的研究者介绍了一种名为 VoxelNet 的 LiDAR 使用新方案，它能借 AI 之力克服 LiDAR 本身在分辨率上的不足，从而在不用其它感应器、相机帮忙的前提下，更好地对行人、骑行者进行辨识。\n\n根据苹果团队的说法，VoxelNet 能达到的效果「相当令人振奋」。其表现要好于市场中现有的任何方案，未来有望降低自驾车的成本及提高安全性。只是...", 
+  "title": "苹果新公开的论文揭示了一些其自驾车技术的发展方向"
+ }
+]
