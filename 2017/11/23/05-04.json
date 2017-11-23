@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Thu, 23 Nov 2017 00:01:00 -0500", 
+  "link": "https://cn.engadget.com/2017/11/23/intel-security-flaw-core-processors/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/15057ff6da741e965e8c98bdc9595cc5/205888050/Intel%2B8th%2Bgen%2B2.jpg\" />Intel 稍早确认了全系列第六代、第七代、和第八代 Core 处理器，再加上 Xeon E3-1200 v5、V6 家族、Xeon W、Atom C300、Atom E3900、Apollo Lake Pentium、Celeron N、Celeron J 等系列处理器的管理引擎（Managment Engine, ME）、服务器平台服务（Server Platform Services, SPS）、和受信任的执行引擎（Trusted Execution Engine, TXE）存在重大漏洞，...", 
+  "title": "Intel 最近几代的 Core 处理器有严重的安全性问题"
+ }
+]
