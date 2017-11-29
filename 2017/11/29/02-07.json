@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Tue, 28 Nov 2017 21:00:00 -0500", 
+  "link": "https://cn.engadget.com/2017/11/28/macos-high-sierra-bug-full-admin-access-without-password/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/520cc1c090c3bba2b9a115c20415fdf5/205902725/dims.jpg\" />如果你正在使用最新的 macOS High Sierra 的话，在说完这篇新闻之前请不要离开你的 Mac，不然你的电脑就有可以被他人轻易骇进。最起初开发者 Lemi Orhan Ergin 发现到一个超级容易就能获取 macOS 系统管理员权限的明显漏洞，就是在登入页面进入「系统偏好设定」，并在「使用者与群组」的 File Vault 登入选项中，于使用者名称一栏输入「root」，留空密码栏并按 Enter 键数次，就可以获得「superuser」的权限。", 
+  "title": "macOS 严重漏洞让管理员权限不需密码也能获得"
+ }
+]
