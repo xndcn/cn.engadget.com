@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Wed, 29 Nov 2017 23:00:00 -0500", 
+  "link": "https://cn.engadget.com/2017/11/29/apple-fixes-macos-root-access-bug/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/ae3c8db2216047d5ce8dd4ee4cef9845/205906676/dims-1.jpg\" />昨天爆出 macOS High Sierra 的系统设计出现明显漏洞，让第三方能轻易透过物理接触就能获得 macOS 的最高取存权限。苹果随即发出声明表示会推出更新修复问题，但终究也要花上接近一天的时间来释出这名为 Security Update 2017-001 的补丁，現在大家已经可以透过 App Store 下载。在安装后，root 使用者帐号就不能像之前被发现一样，无需密码就获得权限。苹果为这补丁也有再发声明，他们首先为漏洞致歉，并表示会评估「开发过程」来防止再发生同类事件。", 
+  "title": "苹果已经发出更新修复 macOS 系统管理员无密码漏洞"
+ }
+]
