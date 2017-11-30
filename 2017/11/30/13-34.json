@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Thu, 30 Nov 2017 08:30:00 -0500", 
+  "link": "https://cn.engadget.com/2017/11/30/apples-high-sierra-security-patch-affected-mac-file-sharing/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/3ffdc76a216c636a352a408ec6bdb02e/205907750/23834-30559-23816-30517-23815-30506-Screen-Shot-2017-11-28-at-210527-l-l-xl.jpg\" />这几天传很开的 macOS High Sierra 管理员无密码漏洞，在官方今天早些时候释出对应的更新后，风险已经降低了不少。但叫人没想到的是，这个赶来「救火」的补丁程序居然自己也会导致使用上的问题。部分用户在安装了它之后，电脑在分享文件时出现了无法正常验证、连线的故障。事发之后，受到影响的使用者将情况放到了网上，好在很快有人在苹果的支持文档内找到了解法。你只需要进到终端输入 sudo /usr/libexec/configureLocalKDC 然后按 Return，接着键入管理员密码再回车，...", 
+  "title": "修复 macOS 密码漏洞的更新搞半天自己又会引发文件分享故障"
+ }
+]
