@@ -1,0 +1,14 @@
+[
+ {
+  "date": "Sat, 02 Dec 2017 02:04:00 -0500", 
+  "link": "https://cn.engadget.com/2017/12/02/apple-macos-high-sierra-bug/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/23fb880b4d0a9b38a67a12f503ec64fb/205914234/dims-5.jpg\" />尽管苹果已经火速地为 macOS High Sierra 的系统管理员（root）无密码漏洞推出补丁，不过据报在「Security Update 2017-001」修正之后，若是再装上系统更新的话，那么这个漏洞就会再度敞开... 实话讲，这样重启的流程应该并不算常见，因为会需要先是升级到 macOS 10.13 之后就安装补丁，然后才升级到 macOS 10.13.1 才会让这个问题被重新带回来 -- 但还是有一种情况，就是原本都忘记更新系统，却在看到有这个 Patch 后先赶快安装，才进行系统...", 
+  "title": "macOS 的 root 无密码漏洞在系统更新之后又被重启（！）"
+ }, 
+ {
+  "date": "Sat, 02 Dec 2017 02:04:00 -0500", 
+  "link": "https://cn.engadget.com/2017/12/02/blackberry-will-pay-nokia-137-million-to-resolve-contract-dispu/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/e64e4aa11423db96c0c19e3e12e7d94/205914012/dims-3.jpg\" />不只是高通与苹果在庭上打得火热，另一边在 ICC 国际商会这一边，Nokia 与 BlackBerry 的合约官司也有了判决结果，不过... 却又在美国与德国另辟了两个战场（各公司的官司战，真的是没完没了）。ICC 判决 BlackBerry 将因未就专利许可合约付款须向 Nokia 赔偿 1.37 亿美金。对此，BlackBerry 虽然对于仲裁法庭无法接受论述而感到失望，但也已接受这样的决定，此外 BlackBerry 在声明中仍表示，将针对 Nokia 侵权的问题在美国与德国继续寻求法律协...", 
+  "title": "BlackBerry 将需付出 1.37 亿美元解决与 Nokia 的合约官司"
+ }
+]
