@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Sat, 02 Dec 2017 22:34:00 -0500", 
+  "link": "https://cn.engadget.com/2017/12/02/chrome-windows-block-third-party-apps-crashes/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/3159b66af185c5a31e18ddcb4171f1af/205914261/dims-6.jpg\" />根据官方的资讯，约有 2/3 的 Windows 版 Chrome 浏览器用户所使用的三方应用程序如：防毒或无障碍应用，都会直接与 Chrome 连动，且大部分都通过在浏览器应用中导入编码的方式来实现这些功能。不过，这其中约有 15% 的应用则是会导致 Chrome 当掉的问题发生。而为了避免因为注入编码而影响到用户的使用体验，Google 宣布未来将会开始封锁这些会导致问题的应用程序，并将分三个阶段执行。\n\n首先，预计在明年 4 月推出的 Chrome 66 版中，Google 将会开始在应用...", 
+  "title": "Windows 版 Chrome 浏览器将会封锁导致当机的三方应用"
+ }
+]
