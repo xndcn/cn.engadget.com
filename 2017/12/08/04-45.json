@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Thu, 07 Dec 2017 23:34:00 -0500", 
+  "link": "https://cn.engadget.com/2017/12/07/ios-homekit-bug-smart-locks-unauthorized-access/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/36a6159fdd2e2c2a28b45b5b3a8a5212/205932199/dims.jpg\" />物联设备虽然可以让居家生活变得更为方便，不过一但有被入侵的风险，那就会突然将原本应该可以安心居住的家，变得充满不安氛围了。Apple HomeKit framework 最近就被发现了个漏洞，将可允许未经授权存取居家联网装置，如智慧门锁与智慧车库控制器等物联网装置。是说，在这个消息爆出之前，苹果其实早早就先在伺服器端就修正了这个漏洞。不过这样的动作也同步关闭了对分享用户的远端存取功能，还好根据官方的说法，这项功能也将会在后续的 iOS 更新中被加回。\n\n所以，如果在远端存取 HomeKit 装置...", 
+  "title": "iOS HomeKit 有让智慧门锁能未经授权访问的漏洞"
+ }
+]
