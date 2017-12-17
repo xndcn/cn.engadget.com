@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Sun, 17 Dec 2017 01:10:00 -0500", 
+  "link": "https://cn.engadget.com/2017/12/17/google-chrome-64-beta-delivers-mute-autoplay-video-muting/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/74526a98c33936b34fa809a50f6ae1e0/205960036/download-hero-cros_web.jpg\" />Google 在九月中的时候就有说过会对「自动播放」的恼人影片拿出些办法，如今解决方案已经出现在 Beta 版的 Chrome 64 上了。具体来说，每个网站网址列最左边都会有一个绿锁（表示安全）或灰色惊叹号，按下后会出现一大排关于该网站的权限设定。未来这里会多出一个选项，让你可以针对这个网站，对自动播放的影片静音。因为是以网站为单位做的设定，所以每一个想阻挡的网站都要按一次，至少按完后再去同网站的其他页面就不用重按啰。\n\n除了静音功能外，Beta 版中还包括了强化的弹出视窗阻挡器、自动转址的保...", 
+  "title": "Google 在 beta 版 Chrome 中加入自动播放影片的静音选项"
+ }
+]
