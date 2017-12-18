@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Mon, 18 Dec 2017 05:01:00 -0500", 
+  "link": "https://cn.engadget.com/2017/12/18/windows-10-bundled-password-manager-had-security-flaw/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/fcab9a3b0d270c9c5402fcc99f4fded0/205961256/surface-book-2-gallery-9-1.jpg\" />无论对自家的代码多么小心控管，当包裹的第三方插件出包时，还是会为最终产品带来风险的。微软最近就面临了这个问题，被 Google 的研究专家 Tavis Ormandy 在 Windows 10 的映像档当中包含的 Keeper 网页密码管理插件里，发现了一个大漏洞，让恶意网站可以盗取你存下来的密码。虽然 Ormandy 的映像档是开发者用的 MSDN 版本，但有 Reddit 的使用者回报在一般市售的安装版中，也有同样受影响的 Keeper 版本。\n\n一名微软发言人向 Ars Technica...", 
+  "title": "Windows 10 包裹的第三方密码管理工具有巨大的安全漏洞"
+ }
+]
