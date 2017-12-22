@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Fri, 22 Dec 2017 05:01:00 -0500", 
+  "link": "https://cn.engadget.com/2017/12/22/windows-10-face-authentication-printed-photos-spoof/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/8fb3777b8f6763911fbf4c43c1d68d1e/205975423/surface-pro-4.jpg\" />Windows 10 的脸部认证系统或许可以分辨你和你的双胞胎兄弟，但如果是你自己的照片的话，似乎还是有机会被骗的呢。当然，这并没有简单到随便拍张照都可以的程度，而是要用「近红外线」相机拍照，而且要是清楚的正面才行，所以想偷溜进你电脑的人有一大堆的准备工作要做，但至少被骗过的风险还是存在的。\n\n发现这个漏洞的是德国安全顾问 SySS，他们在包括 Dell Latitude 和 Surface Pro 4 在内的多款硬件与 Windows 10 版本上做测试，发现只有最新的 Fall Creato...", 
+  "title": "印出来的「近红外线」照片足以骗过 Windows Hello 认证"
+ }
+]
