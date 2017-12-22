@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Fri, 22 Dec 2017 09:21:00 -0500", 
+  "link": "https://cn.engadget.com/2017/12/22/google-ai-rates-photo-quality/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/1fde20bcb115c1d3cbe2ee0b0578c3a9/205975710/google-ai-rates-photos.jpg\" />Google 懂得找出照片中的物体，也可以分辨照片中的人物，但一直以来照片拍得漂不漂亮，都是人类自己的事，毕竟就像俗话说的，青菜萝卜各有所好嘛。不过个人偏好不说，如果想要让 AI 给出一个符合「大众口味」的评价，似乎还是办得到的。\n\nGoogle 打造的「神经元影像评价系统（NIMA）」利用深度学习的神经元网络，学习照片以及人类评审给予的评价，从而整理出一套什么样的构图、色彩、和物件位置的组合，是对人类来说有「美感」的。当然，和大部份这类的系统一样，我们其实根本无法得知 NIMA 是怎么做出判断...", 
+  "title": "Google 的 AI 现在懂得以「美感」为照片评分"
+ }
+]
