@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Thu, 21 Dec 2017 20:00:00 -0500", 
+  "link": "https://cn.engadget.com/2017/12/21/apple-ignored-a-major-homekit-security-flaw-for-six-weeks/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/1578abe65ef9b5924b972654b6d67595/205974017/HomeKit.jpg\" />一直以来，苹果都在强调自己的 HomeKit 平台有多么多么安全。想入坑的消费者不得不为此花更多的钱，去买那些内含苹果认证零件的产品，才能享受到苹果口中高品质的安全物联生活。但最近发生的一件事，却让人怀疑起他们的承诺含金量到底有多少。之前在 iOS 11.2.1 中补上的 HomeKit 大漏洞，原来早在十月时便已被一位名叫「Khaos Tian」的开发者发现。但在他早早将情况回报给苹果的前提下，相关人员却直到一周多前才刚刚把问题解决。\n\n根据 Khaos Tian 之前在 Medium 上发布...", 
+  "title": "原来之前那个 HomeKit 漏洞苹果忽视了足足六周之久..."
+ }
+]
