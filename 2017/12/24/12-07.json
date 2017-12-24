@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Sun, 24 Dec 2017 07:02:00 -0500", 
+  "link": "https://cn.engadget.com/2017/12/24/nvidia-is-gearing-up-to-end-32-bit-os-support/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/73351c5a9ad48e71eb6198314e1fe633/205979236/dims-2.jpg\" />32-bit 系统要步进历史的距离又变近了。NVIDIA 宣布了他们在驱动器版本 390 开始，将不再支持 32-bit 的 Windows、Linux 和 FreeBSD 系统。在这个逐步进化至 64-bit 系统的大潮流中，其实也只是早晚的问题。\n\n在进一步不被支持之后，32-bit 甚至是 16-bit 系统的安全性将会受到更大的威胁，因为它们都不再会有安全性更新来对应新型病毒或骇客入侵的手段。所以各位 N 卡的阵营的老 PC 使用者，这是个好机会去升级自己的电脑啰。", 
+  "title": "NVIDIA 将取消支持 32-bit 系统"
+ }
+]
