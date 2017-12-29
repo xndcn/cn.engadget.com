@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Fri, 29 Dec 2017 00:34:00 -0500", 
+  "link": "https://cn.engadget.com/2017/12/29/chrome-os-will-finally-run-android-apps-in-the-background/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/6c03c444ecd381e97c25a163aa126da1/205987656/dims-2.jpg\" />可以运行 Android app 是新世代 Chrome OS 的一大卖点，但许多人不知道的是，其实这功能在大多 app 上并不支援背景运行，也就是切换到背景时运作即会暂停。这在手机上会觉得还好（省电省效能嘛），但在电脑上就会觉得实用性好像变得略低。还好，Google 最近在 Chrome OS 64 beta 版上，已经透过 Android Parallel Tasks 来改善这个状况，将可允许 Android app 的背景运行，让你能在以行动应用看影片的同时，一边浏览网页或甚至进行行动系统...", 
+  "title": "Chrome OS 测试版加入 Android app「背景运行」支援"
+ }
+]
