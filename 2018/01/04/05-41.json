@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Thu, 04 Jan 2018 00:35:00 -0500", 
+  "link": "https://cn.engadget.com/2018/01/04/meltdown-spectre-microsoft-intel-google-apple/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/9e3e9eae333634eac454881c78fbc66b/205998666/s-m-logos.jpg\" />就在 Intel 还在为了上一个 Core 处理器安全性问题焦头烂额的同时，现在又被安全专家们发现了另一个漏洞，而且这个漏洞相对要严重更多，影响范围更是广及近二十年左右所有的 Intel 处理器和部份 ARM、AMD 处理器。准确的说，这次的漏洞分成两类，分别取名为「Meltdown」与「Spectre」，两者都与 CPU 本身的硬件设计有关，分别利用了处理器的「乱序执行」机能与「分支预测」机能，让恶意程式码可以从 CPU 当中偷取本应受保护的资料。\n\nMeltdown 是两者当中相对比较容易被...", 
+  "title": "安全专家发现 Intel 处理器有重大安全问题，建议立即更新系统"
+ }
+]
