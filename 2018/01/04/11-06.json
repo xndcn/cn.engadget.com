@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Thu, 04 Jan 2018 06:00:00 -0500", 
+  "link": "https://cn.engadget.com/2018/01/04/opera-update-protects-hijacking-bitcoin/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/a33089424ddc155cb345b4c4494df6b3/205998843/dims.png\" />之前曾有报道过，现在有网站隐藏代码，当读者进入网站浏览时就会利用他们的电脑来「帮助」挖掘加密货币（比如说比特币）。这样的做法非但不道德，还会严重占用读者的设备的 CPU 资源，有的甚至连浏览器关闭后仍会继续运作，几乎等于骇客行为。Opera 在版本 50 的广告拦截器中，加入了防止浏览器被绑架的保护机制，以免电脑被绑架为比特币掘矿机。", 
+  "title": "Opera 能让你的浏览器不被绑架为比特币挖矿机"
+ }
+]
