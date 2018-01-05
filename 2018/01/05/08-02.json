@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Fri, 05 Jan 2018 03:01:00 -0500", 
+  "link": "https://cn.engadget.com/2018/01/05/intel-patching-exploitable-processors/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/67ca0633f85e605af08dc2aa74fb18ac/206001204/Intel%2B8th%2Bgen%2B2.jpg\" />Intel 在昨天公开的 Meltdown 与 Spectre 两种安全性漏洞当中陷入了大危机，但 Intel 的反应也相当迅速，表示会在下周前针对五年内推出的 CPU 产品的 90% 发布更新。Intel 指的应该主要是伺服器和其他商务客户，一般消费者这边的更新应该最终还是要由软体（作业系统）商提供。\n\n以这部份来说，微软表示已发布数个更新来降低危害，并针 Surface Pro 3、Pro 4、Book、Book 2、Studio、Laptop 等产品发布了 UEFI 更新，同时强化了云端服...", 
+  "title": "Intel 表示下周前会针对大部份五年内推出的晶片产品释出安全更新"
+ }
+]
