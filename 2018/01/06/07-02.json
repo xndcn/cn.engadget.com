@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Sat, 06 Jan 2018 02:00:00 -0500", 
+  "link": "https://cn.engadget.com/2018/01/06/intel-faces-multiple-lawsuits-spectre-meltdown-vulnerabilities/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/a6272dcd4cb81b2f413658b4695f7cc5/206003794/the-intel-co-logo-is-seen-in-the-companys-booth-during-the-tokyo-game-picture-id850543050.jpg\" />Intel 本周爆出的 Meltdown 与 Spectre 安全漏洞还未彻底解决，就已经有不少官司找上门了。据 Gizmodo 报道，目前在美国已有三起针对上述漏洞的集体诉讼。英特尔被指在得知漏洞后数月都隐瞒不报，而且对应的补丁程序还会拖累设备的性能。按照 The Register 的说法，性能的降幅大约在 5% 到 30% 之间，但英特尔则表示影响「跟系统负载有很大关系」，并称普通用户并不会注意到有太大的区别（望向最近有类似烦恼的 Apple）。\n\n考虑到 Meltdown 与 Spectr...", 
+  "title": "英特尔因 Meltdown 与 Spectre 漏洞面临起诉"
+ }
+]
