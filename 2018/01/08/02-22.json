@@ -1,0 +1,20 @@
+[
+ {
+  "date": "Sun, 07 Jan 2018 21:20:00 -0500", 
+  "link": "https://cn.engadget.com/2018/01/07/intel-amd-rx-vega-m/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/ace0eb99df581995a36e2bb60869fc7e/206005109/8th%2BGen%2BIntel%2BCore%2Bprocessor.jpg\" />Intel 要采用 AMD 的显示芯片打造新处理器，果然不是说假的。在 CES 前夕 Intel 发表了搭载 AMD RX Vega M 显示芯片的全新第八代 Core 处理器， 结合强大的运算能力，和独立显示芯片等级的内显， 应该在不久的将来， 就会出现一批工作游戏样样行的轻薄笔记本了吧。\n\n新发表的处理器属于 Intel 的「H 系列」，一般来说这个系列的成员都会和独显一同出现在规格表上，但是 AMD RX Vega M 模组不同的地方， 在于处理器、显示芯片、以及显示用的 HBM2 内存被...", 
+  "title": "Intel 第一颗采用 AMD Vega 显示的笔记本处理器终于现身了！"
+ }, 
+ {
+  "date": "Sun, 07 Jan 2018 21:17:00 -0500", 
+  "link": "https://cn.engadget.com/2018/01/07/samsungs-2018-4k-tvs-add-bixby-ai/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/3a456cea822cc9e3fd7315906ca67a09/206007146/dims.jpg\" />三星今年为电视产品线上加入了大量新成员，其中更有尺寸大得符合其名的 Wall。这些电视虽然各具特色，但将会无一例外地加入对 Bibxy AI 的支持，并且更整合 SmartThing 技术到其中。三星表示这自动化家居的支持，将会提供更便于分享、连结，更简便的电视操控以及与其他装置产品同步的方式。除此之外，他们更会有一个通用的节目指南，包含来自苹果、Roku 和 TiVo 的搜寻和建议内容。", 
+  "title": "三星把 Bixby AI 带到 2018 年款的 4K 电视里"
+ }, 
+ {
+  "date": "Sun, 07 Jan 2018 21:13:00 -0500", 
+  "link": "https://cn.engadget.com/2018/01/07/intel-nuc-amd-rx-vega/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/65087fc13d4ff02baac2556240e8599a/206005490/NUC8i7HVK+Skull+On.png\" />和 Intel 搭载 AMD RX Vega M 显示的第八代 Core 处理器一同发表的，是这台代号「Haydes Canyon」的新一代 NUC。靠着 Vega M 的加持，这台体积仅 1.3 公升的小机器， 号称是市面上能跑的动 VR 的最小电脑。\n\n不过话虽如此，他的体积还是比去年发表的「Skull Canyon」要大上一圈，并且一共将推出两个版本：高阶版的采用 Core i7-8809G 和 RX Vega M GH 显示，而低阶版的略差一点，采用 Core i7-8705G 芯片及...", 
+  "title": "Intel NUC 是首批采用 AMD Vega GPU 的产品"
+ }
+]
