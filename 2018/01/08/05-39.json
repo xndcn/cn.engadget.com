@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Mon, 08 Jan 2018 00:28:00 -0500", 
+  "link": "https://cn.engadget.com/2018/01/08/nvidia-xavier-soc-self-driving-cars/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/3ca088952172144aef4af54376a2552c/206005684/0107_NVIDIA-Drive-Xavier.jpg\" />自驾车市场越来越热闹，在这个领域已经投入很多的 NVIDIA 自然也希望能保持在前列的位置。继去年拿出了 Xavier 车用 AI 超级电脑后，在这次的 CES 上他们又再发布了全新的 Xavier SoC。这款产品拥有超过 90 亿个晶体管，采用 8 颗定制的 CPU 核心和 512 核心的 Volta GPU。同时它还配备了 8K HDR 影像处理器，以及深度学习加速器和新的机器视觉加速器。按照官方说法，这款 SoC 能在 30 瓦功耗下达到 30 TOPS 的运算力，效率是过去架构的 15...", 
+  "title": "NVIDIA 为自驾车带来强劲的 Xavier SoC"
+ }
+]
