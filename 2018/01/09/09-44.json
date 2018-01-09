@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Tue, 09 Jan 2018 04:40:00 -0500", 
+  "link": "https://cn.engadget.com/2018/01/09/microsoft-halts-meltdown-spectre-amd-patches/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/98c9a63610e2bac0234bb6a9a6f24a83/206012420/dims-2.jpg\" />闹得满城风雨的 Meltdown 和 Spectre 漏洞，逼使各家厂商都要快速推出针对性的更新来缓解情况。其中据 The Verge 于微软的支持页面发现，他们暂停了向 AMD 电脑推送相关的补丁更新，原因是有部分使用者在安装更新后，PC 就再不能开机 -- 被砖了。文件中写道为避免使用者会经历未能启动的情况，微软将会暂时停止推送相关 Windows 作业系统的更新到使用指定 AMD 处理器型号的 PC。", 
+  "title": "微软针对 Meltdown 的更新，反倒把 AMD 机器砖了"
+ }
+]
