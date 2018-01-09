@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Mon, 08 Jan 2018 19:30:00 -0500", 
+  "link": "https://cn.engadget.com/2018/01/08/apple-updates-macos-and-ios-to-address-spectre-vulnerability/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/b942813b097317b17d68cfdb7a76a229/206010586/mba.jpg\" />在给出了 Meltdown 漏洞解决方案没几天后，苹果现在又为 macOS 和 iOS 的用户推出了针对 Spectre 漏洞的更新。按照官方说法，新的 iOS 11.2.2 包含了「减轻 Safari、WebKit 中 Spectre 影响的安全改进」，另一边的 macOS High Sierra 10.13.2 补充更新也是起到类似的效果（还把 Safari 升级到了 11.0.2）。安全起见，各位使用者就尽快换用新版本吧。", 
+  "title": "解决 Spectre 漏洞的 macOS 和 iOS 更新来了"
+ }
+]
