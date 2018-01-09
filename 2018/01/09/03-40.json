@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Mon, 08 Jan 2018 22:34:00 -0500", 
+  "link": "https://cn.engadget.com/2018/01/08/intel-meltdown-spectre-flaw-security-patch/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/def244f11e1de807de3eab120a3353c0/206011551/dims-6.jpg\" />为了尽速补上 Meltdown 与 Spectre 安全漏洞，已经承诺将会在本周「针对 5 年内推出的 CPU 产品的 90% 发布更新」的 Intel，今天在 CES 的舞台上其 CEO Brian Krzanich 也针对剩下 10% 的部分提出补救时程，确认将会在本月底前提供修正。但又再度强调这个更新之后可能对处理器性能的冲击（最高 30%... 不过就目前来讲真的是先救急比较实在），并表示将会持续与产业合作来降低性能降低所可能带来的冲击。虽然感觉反应真的算是快了，只是 Intel 现阶段...", 
+  "title": "Intel 将在一月底前完成所有「近期」芯片的 Meltdown / Spectre 漏洞修正"
+ }
+]
