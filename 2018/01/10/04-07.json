@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Tue, 09 Jan 2018 23:00:00 -0500", 
+  "link": "https://cn.engadget.com/2018/01/09/google-shortening-amp-urls/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/e38ae482dc75481f0dce28662c790493/206016183/dims.jpg\" />谷歌的 AMP 计划可让参加者的网站有着更快的载入速度和更节省数据的特性，不过其代价就是该页面的网址列 URL 会加入 Google 的前缀，像是 google.com/amp/www.engadget.com... 观感不佳嘛。据谷歌的解释就是他们做为中间人的角色，预先载入网页，所以才会做到 AMP 的效果，而加入 google.com 的前缀就是为了隐私的考虑。但谷歌表示他们将会在 2018 年下半年，在 Chrome 和其他手机浏览器把 AMP 网址列的前缀缩短。", 
+  "title": "AMP 网页的网址列里，即将不会再有谷歌的前缀"
+ }
+]
