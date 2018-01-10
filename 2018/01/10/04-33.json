@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Tue, 09 Jan 2018 23:30:00 -0500", 
+  "link": "https://cn.engadget.com/2018/01/09/microsoft-meltdown-spectre-performance-hit/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/3d105b95a9a303299e95da75c7ffe7eb/206016298/RTX1AVL0.jpeg\" />我们一直被警告填补 Meltdown 和 Spectre 漏洞的更新会拖慢电脑速度，但究竟有多严重？微软自己跑了一系列的测试，发现第六代 Core i 处理器或更新的 Intel 处理器，大约只有「个位数百分比」的速度影响，基本上很难感觉到差异，但如果是更老的电脑的话，就会有更明显的感受了。\n\n简单来说，新的 Intel 处理器不需要花太多的功夫来限制分支预测功能的使用，因此受到的影响较小，但老电脑就没有这方面的能力了。除了处理器之外，Windows 的版本也会影响速度 -- Windows 1...", 
+  "title": "微软表示安全性更新会明显拖慢老电脑的速度"
+ }
+]
