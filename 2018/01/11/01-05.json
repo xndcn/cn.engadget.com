@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Wed, 10 Jan 2018 20:00:00 -0500", 
+  "link": "https://cn.engadget.com/2018/01/10/nvidia-gpu-meltdown-and-spectre-patches/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/888ec7c422ac9e9181e8d7a51befadd4/206018360/gtx-1080-review-gallery-12-1.jpg\" />让人很头大的 Meltdown、Spectre 漏洞，看来不单单只是影响处理器和操作系统而已，今天 NVIDIA 也证实自己旗下的 GPU 产品同样会受到波及。据介绍，所有 GeForce、Quadro、NVS、Tesla 和 GRID 芯片都至少会面临 Spectre（variant 1）漏洞的风险，Spectre（variant 2）的状态是「可能影响」，Meltdown（variant 3）倒是不用操心。目前 NVIDIA 那边已经针对第一类漏洞推出了安全更新（除了 Tesla 和 GRI...", 
+  "title": "NVIDIA 的 GPU 也没逃过 Spectre 漏洞的影响"
+ }
+]
