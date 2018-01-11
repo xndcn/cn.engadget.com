@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Wed, 10 Jan 2018 21:40:00 -0500", 
+  "link": "https://cn.engadget.com/2018/01/10/mac-app-store-preferences-bug/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/14c26967c42c37f38d17a5ce1a42ce3c/206020020/dims.jpg\" />苹果的 Mac 系统再爆出与密码有关的漏洞。有使用者发现他们可以在 macOS High Sierra 里，透过任何密码都可以修改 App Store 的喜好设定。这漏洞是在使用者作为系统管理员的身份证入帐户后，喜好设定会首先因此帐户的特性而自动解锁，但如果喜好设定页面仍然继续锁定的话，使用者这时候即使任意填写密码也可能解锁；幸好的是其他设定页没有出现类似问题，仍然需要正确密码才可以解锁。", 
+  "title": "Mac 再有漏洞，任何密码都可以修改 App Store 喜好设定"
+ }
+]
