@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Thu, 11 Jan 2018 06:00:00 -0500", 
+  "link": "https://cn.engadget.com/2018/01/11/whatsapp-add-people-to-private-groups-security-flaw/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/554b9ca817020e1344d208e57f863832/206020099/dims-1.jpg\" />WhatsApp 在 2016 年开始就为其通讯服务提供端至端加密，把使用者之间的文字、相片或视频内容都加密保护，显示他们对于用户个资保护的积极性。可是据 Wired 的报道，WhatsApp 的服务器有着严重漏洞，可以从服务器端把无关人员加入私密群组之中。", 
+  "title": "WhatsApp 服务器存有漏洞，可把无关人士加入私密群组"
+ }
+]
