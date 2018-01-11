@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Thu, 11 Jan 2018 02:23:00 -0500", 
+  "link": "https://cn.engadget.com/2018/01/11/nvidia-gpu-meltdown-and-spectre-patches/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/888ec7c422ac9e9181e8d7a51befadd4/206018360/gtx-1080-review-gallery-12-1.jpg\" />对于让人很头大的 Meltdown、Spectre 漏洞，其实不单单只是处理器或操作系统厂家需要出来打补丁而已啊。今天早些时候 NVIDIA 宣布会为旗下多款产品更新驱动程序，以防止其搭配的 CPU 受到漏洞的影响。据介绍，所有 GeForce、Quadro、NVS、Tesla 和 GRID 芯片都都在更新之列，GPU 本身不存在问题，主要是原来的代码可能会让对应的处理器至少面临 Spectre（variant 1）漏洞的风险。Spectre（variant 2）的状态是「可能影响」，Meltd...", 
+  "title": "NVIDIA 更新 GPU 驱动以防 CPU 受到 Spectre 漏洞影响（更新：勘误）"
+ }
+]
