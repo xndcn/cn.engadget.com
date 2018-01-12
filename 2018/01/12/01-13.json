@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Thu, 11 Jan 2018 20:00:00 -0500", 
+  "link": "https://cn.engadget.com/2018/01/11/intel-reveals-meltdown-processor-benchmark-slowdown/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/ae7bc1854aa02c1c3f5f78f2fcd1b93c/206021731/attendees-walk-past-the-intel-corp-booth-during-the-2018-consumer-picture-id903646832%26client%3Da1acac3e1b3290917d92.jpg\" />早些时候英特尔在官方博客中确认，安装过 Meltdown / Spectre 修复更新后的电脑，在运行速度上最多可能会比原来慢 10%。他们是在观察了第六代、第七代和第八代 Core 处理器在 Windows 10 上的性能变化后得出的结论，其中第八代（Kaby Lake、Coffe Lake）芯片搭配 SSD 受到的影响最小，数字基本上低于 6%。第七代 Kaby Lake-H 的移动处理器稍高一点来到了 7% 左右，第六代 Skylake-S 受到的影响最大，平均性能降幅大约在 8%。\n\n当...", 
+  "title": "修复 Meltdown / Spectre 后处理器速度差多少？英特尔亲自告诉你"
+ }
+]
