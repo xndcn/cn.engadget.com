@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Fri, 12 Jan 2018 06:04:00 -0500", 
+  "link": "https://cn.engadget.com/2018/01/12/google-not-all-chromebooks-get-meltdown-fix/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/af3509b7ac3bdd3170a510557892a668/206023625/dims-6.jpg\" />针对 Meltdown 的问题，Google 完整列出了所有 Chromebook 产品的修正状况（点我观看）。简单地讲，只要「CVE-2017-5754 mitigations (KPTI) on M63?」那项有着 Yes 或是 Not needed 的标示，那代表着你的 Chromebook 应该能安然度过这次的麻烦事；要是标示着 No 的话，则代表着这项产品仍需要通过更新来修正 -- 虽然有点麻烦但总比没有好！因为如果这列表上标着 EoL 的话，就代表这些结束维护周期的产品，将不会收到关...", 
+  "title": "Google 公布哪些 Chromebooks 将无法获得 Meltdown 修正"
+ }
+]
