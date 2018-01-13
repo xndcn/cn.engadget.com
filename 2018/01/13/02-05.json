@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Fri, 12 Jan 2018 21:00:00 -0500", 
+  "link": "https://cn.engadget.com/2018/01/12/amd-spectre-patch/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/88facf811be4a4f6340573834ea8ecb5/206025587/many-old-cpu-chips-and-obsolete-computer-processors-picture-id533459506.jpg\" />在这次的整个 Meltdown / Spectre 安全事件中，虽然说 AMD 因为架构的关系对 Meltdown 是免疫的，但相对来说比较难被执行的两种 Spectre 攻击，依然有可能攻击到 AMD 的处理器。AMD 强调第二种 Spectre 漏洞利用的机会「接近于零」，不过为了安全起见，在稍早发表第一种攻击的补丁（然而出包）之后，现在也开始向 PC 制造商和 OS 商提供第二种攻击的更新档。\n\nLinux 的用户应该很快，甚至已经可以看到相关的更新；至于 Windows 的使用者，还要等...", 
+  "title": "AMD 為第二種 Spectre 漏洞發佈更新"
+ }
+]
