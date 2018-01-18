@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Thu, 18 Jan 2018 00:34:00 -0500", 
+  "link": "https://cn.engadget.com/2018/01/18/google-fix-wifi-bug-cast-devices/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/564ce75f81cfc2407cbd696f6faefee9/206040768/dims-1.jpg\" />虽说几家厂商已经提前拿出了解法，不过这个让众家路由器包括 TP-Link、ASUS、Linksys、Netgear 与 Synology 都蒙受其害，因 Chromecast 设备狂发 MDNS 封包而导致失去 Wi-Fi 连线的问题的罪魁祸首 Google，也终于在数周的混乱后将会在今日（18 日）于 Google Play 上推出对此的修正。\n\nGoogle 表示，这个问题是因为 Android 手机发送过量封包而导致 Wi-Fi 变慢或甚至断线，受影响产品则是包含 Google Home...", 
+  "title": "Google 今日推出 Chromecast 瘫痪路由器的臭虫修正"
+ }
+]
