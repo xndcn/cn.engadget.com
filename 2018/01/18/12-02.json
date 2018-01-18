@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Thu, 18 Jan 2018 07:01:00 -0500", 
+  "link": "https://cn.engadget.com/2018/01/18/intel-spectre-reboot-problem-affects-newer-cpu/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/7fe55ec7fa3f00f67aed54565b48e6aa/206041043/RTX31SV8.jpeg\" />英特尔稍早的时候接获客户反馈，说采用 Haswell 和 Broadwell 系列处理器的电脑，在部署了英特尔提供的 Spectre 补丁后，会发生经常自动重启的问题。经过英特尔工程师的努力，好消息是他们已经在内部成功地重现了这个错误，并且正在努力修正中；但坏消息是受影响的不止上面这两款处理器，连更新的 Skylake / Kaby Lake 还有更旧的 Ive Bridge / Sandy Bridge 都有同样的问题。英特尔 VP Navin Shenoy 表示该公司已经快找出问题的根源之所...", 
+  "title": "英特尔的 Spectre 补丁无论新旧电脑都有可能发生重开机问题"
+ }
+]
