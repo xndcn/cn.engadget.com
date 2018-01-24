@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Wed, 24 Jan 2018 02:01:00 -0500", 
+  "link": "https://cn.engadget.com/2018/01/24/apple-meltdown-patch-macos-sierra-el-capitan/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/ac9123cefeec153c5b954f693c7318ac/206058399/dims-3.jpg\" />跟着最新版 macOS 的修正脚步，旧版的苹果桌面系统包括 Sierra 与 El Capitan 都开始针对 Meltdown 与 Spectre 漏洞，分别在「安全性更新 2018-001」与「Safari 10.0.2」中提供解法。不过后者似乎除了 Safari 有解决 Spectre 问题外，还缺少了 High Sierra 更新中所提及的 WebKit 部分，所以不确定是漏提了，还是会在其他更新中补上。\n\n是说，这波更新至少确认了苹果没忘了为旧系统带来 Spectre 与 Meltdo...", 
+  "title": "苹果旧版 macOS 已获得 Meltdown 与 Spectre 漏洞更新"
+ }
+]
