@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Thu, 25 Jan 2018 05:04:00 -0500", 
+  "link": "https://cn.engadget.com/2018/01/25/chrome-update-rids-android-devices-of-pop-ups-and-redirects/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/5e0241829acf7f3395c903140467e351/206062675/dims-6.jpg\" />今天是最新正式版 Chrome 64 全面向全平台推送的日子，在包括 Mac、Windows 与 Linux 的桌面版本部分，先提供了改善 Meltdown 与 Spectre 漏洞所造成的冲击，也为包括 Android 移动版本提供了更改进的弹出式视窗阻挡以及全站静音，还带来了会阻挡恶意自动转址的功能。\n\nGoogle 也分别为不同系统版本新增了些功能。Android 版将懂得阻挡三方 iFrame 语法（除非你主动触发它）；iOS 版则是针对文章建议功能提供了单独的开关，还跟 iPhone...", 
+  "title": "Chrome 64 正式推出，提供阻挡恶意自动转址与全网站静音功能"
+ }
+]
