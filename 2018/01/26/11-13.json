@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Fri, 26 Jan 2018 06:09:00 -0500", 
+  "link": "https://cn.engadget.com/2018/01/26/twitter-uses-smart-cropping-to-make-image-previews-more-interest/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/e5581ac8151e14817493f044ab71f4d7/206066569/TwitterPicAI.png\" />我们上传照片的时候，如果说比例和显示的相同那当然没有什么问题，但如果比例不同的时候（例如拍直式的，但显示为横式），就多少需要裁切一下了。目前大部份的网站只是很简单地取画面正中央的部份，但以整张照片的构图来说，正中间很少会最是有趣的部份，一般都会放在约 2:5 到 1:2 的位置，因此常常会发生头被切掉一半之类的奇怪自动裁切结果。\n\nTwitter 为了协助我们保留画面最有趣的部份，利用了神经元网路来比较样本相片以及人类测试者的目光。在画面上停留的时间，来学习什么样的元素是最受观注的。从这里，Tw...", 
+  "title": "Twitter 现在懂得用智能裁切让图片缩图更「有趣」"
+ }
+]
