@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Mon, 29 Jan 2018 23:04:00 -0500", 
+  "link": "https://cn.engadget.com/2018/01/29/lenovo-fingerprint-manager-passwords-vulnerable/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/f7e91d7237061419bc8d13e30b504cb9/206076430/dims-5.jpg\" />虽然目前已经补上紧急修正，但还是很难想像联想（Lenovo）在众多笔记本与桌机产品中所使用的指纹辨识软件「Fingerprint Manager Pro」，先前居然仅以低加密性的演算法以及一组写死（hardcoded）的密码，导致有心人士可以轻易地跳过指纹辨识认证直接取用电脑系统。这项重大漏洞影响共 30 多款 ThinkPad、ThinkCentre 与 ThinkStation 机型（本篇最后有提供列表），并且有暴露电脑凭证以及指纹资料的可能。\n\n是说，由于 Windows 10 已经不再需...", 
+  "title": "联想指纹管理软件出现重大漏洞，快更新修正吧！"
+ }
+]
