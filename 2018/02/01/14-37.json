@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Thu, 01 Feb 2018 09:28:00 -0500", 
+  "link": "https://cn.engadget.com/2018/02/01/flash-storage-spec-doubles-speeds-on-future-smartphones/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/915b0fdf0c85213eff6fc0c2ec6e53f2/206085536/ufs-30-jedec-2018-02-01-02.jpg\" />智能手机的存储速度如今已经很快，不过 JEDEC 不久前公布的 UFS 3.0 标准，接下来又会让硬件的性能提升到一个新的等级。跟之前的 UFS 2.1 相比，它的频宽加大到了 11.6Gbps，搭配双通道的理论传输速度最快可达 2.9GB/s。除此之外，UFS 3.0 的功耗也变得更低，同时还加强了各种温度条件下的稳定性。而上面所有这些，都是得益于新款 NAND 的低电压特性。\n\n在有了 UFS 3.0 的高速支持之后，手机用户将可以更轻松地进行类似拍摄 4K @60fps 甚至 8K 视频这...", 
+  "title": "UFS 3.0 标准正式发布"
+ }
+]
