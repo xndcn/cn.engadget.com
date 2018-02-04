@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Sat, 03 Feb 2018 21:00:00 -0500", 
+  "link": "https://cn.engadget.com/2018/02/03/chrome-os-spectre-meltdown/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/f71c42a24520ff67aba69d8ff029bb66/206092270/acer-spin.jpeg\" />Chrome OS 日前迎来了最新的 64 版本，其中专门针对 Spectre 和 Meltdown 漏洞进行了「额外的浏览器防护」。当然，既然 Chrome OS 升到了 64，系统内的浏览器毫无疑问也更新到了最新的 64 版本。除了安全性上的提升外，Google 还加强了弹窗广告和自动跳转的拦截功能。值得一提的是，对于 Acer Spin 那样可以 360 度翻转的 Chromebook，开发团队还专门准备了类似 Android 那样的「电源键 + 音量减键」截图组合键。同时分屏的模式也变得...", 
+  "title": "Chrome OS 更新补上 Spectre、Meltdown 漏洞"
+ }
+]
