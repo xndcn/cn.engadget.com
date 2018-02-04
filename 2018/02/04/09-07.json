@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Sun, 04 Feb 2018 04:00:00 -0500", 
+  "link": "https://cn.engadget.com/2018/02/04/apples-ios-11-3-may-use-icloud-as-a-single-sign-on-for-websites/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/e18fd5ee7a71ce076569aadc38ed41a2/206093461/the-icloud-logo-is-seen-on-a-computer-tablet-screen-in-this-photo-on-picture-id863815290.jpg\" />日前 9to5Mac 在 iOS 11. 3 预览版的代码中发现，苹果似乎在筹备基于「iCloud 个人数据」的第三方网站快速登入解决方案。虽然现在还不清楚这背后究竟是一套怎么样的运作方法，但估计应该是给予网站获取名字、电邮地址等数据的权限，以此来换取登录时的便捷性。除此之外，在代码中还出现了一项用相机扫描 QR 码进行 Apple ID 认证的特性，但这具体对应的什么功能暂时来说还不得而知了。", 
+  "title": "iOS 11. 3 或许能用 iCloud 内的信息直接登录网站"
+ }
+]
