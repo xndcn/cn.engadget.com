@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Thu, 08 Feb 2018 06:00:00 -0500", 
+  "link": "https://cn.engadget.com/2018/02/08/intel-xeon-d-processor/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/8b95f8dc0b5ad12b543ba6f5a65efbbd/206105642/intel-xeon-d.jpg\" />过去英特尔的 Xeon 芯片大多是跟机房、工作站这样的场景联系在一起，但在如今这个新的网络时代，它的触角也需要延伸到联网汽车、VPN、串流视频等新的领域中去。而全新登场的 Xeon D-2100 便是一系列专门为这些需求而设的 SoC，旨在将 Xeon 级别的性能带到网络的「边缘」。它搭载了最多 18 颗核心和 36 执行绪，可配备四个 10Gbps 以太网口，相对而言 60W 到 110W 之间的功耗并不算很高。\n\n目前官方还没有公布 Xeon D-2100 的具体价格信息，但正常来说普通消费...", 
+  "title": "英特尔的新款 Xeon SoC 将改善车内联网体验"
+ }
+]
