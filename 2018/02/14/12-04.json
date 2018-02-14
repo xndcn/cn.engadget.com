@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Wed, 14 Feb 2018 07:00:00 -0500", 
+  "link": "https://cn.engadget.com/2018/02/14/arm-machine-learning-processors/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/617a711053b2957d0526f7c8a3194991/206125552/artificial-mind-and-science-concept-picture-id903073928.jpg\" />ARM 之前在 AI 领域已经有所发力，不过现在他们又再进一步，推出了全新的 Project Trillium 软、硬件配套方案，来进一步加快机器学习、神经网络等 AI 相关技术的速度。其中 ARM ML 芯片能提供远胜普通 CPU、GPU 的机器学习效率，数据吞吐量为 2 到 4 倍。与此同时 ARM OD 芯片的作用则主要集中在物体侦测上，它能以 1080p @60fps「无限制」即时探测物体，而且对人的识别更强，除了面孔外还能准确认出饰物、动作或手势。至于软件的部分，ARM NN 起到的作...", 
+  "title": "ARM 最新的处理器设计是专为移动 AI 准备的"
+ }
+]
