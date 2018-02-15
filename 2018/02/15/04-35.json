@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Wed, 14 Feb 2018 23:30:00 -0500", 
+  "link": "https://cn.engadget.com/2018/02/14/intel-expands-bug-bounty-to-catch-spectre-like-security-flaws/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/104362375d140e38f1be8b2c39a52835/206128712/dims.jpg\" />搞得满城风雨的 Meltdown 和 Spectre 漏洞，虽然英特尔也算是作出了及时反应，但也严重影响了大众对于他们家产品的信心。为了及早在漏洞造成实际损失之前修复，英特尔希望有更多的外力来协助。他们把现行的漏洞悬赏计划加强，除了将一般的安全缺陷悬赏金额提升至 10 万美元，还在今个年度多加了一个达 25 万美元的悬赏等级，特地针对类似 Spectre 之类的旁道攻击（Side-channel attack）。", 
+  "title": "英特尔加强漏洞悬赏计划，为及早堵截 Spectre 等级漏洞"
+ }
+]
