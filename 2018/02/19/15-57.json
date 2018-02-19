@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Mon, 19 Feb 2018 10:52:00 -0500", 
+  "link": "https://cn.engadget.com/2018/02/19/microsoft-windows-10-arm-limitations/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/a1472977823b5a24bddd422dfbacacd5/206140079/hp-x2-snapdragon-gallery-6-1.jpg\" />随着基于 ARM 芯片的 Windows 设备开始陆续登场，跟这套比较特别系统有关的细节也开始渐渐浮出水面了。Thurrott 日前找到了一份由来自微软官方的文档，其中列出了一些 Windows 10 on ARM 的使用限制（文档目前已被删除，不过还可以找到缓存的版本）。首先，这个版本是没法用 x64 软件的，因为它要靠模拟 x86 来运行 Windows 应用。开发者要么为 ARM 平台创造专门的 app，要不就只能依赖 x86 的版本了。\n\n除此之外，系统只支持 ARM64 驱动，硬件兼容...", 
+  "title": "微软不小心泄露了 ARM 芯片 Windows 10 设备可能存在的限制"
+ }
+]
