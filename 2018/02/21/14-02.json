@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Wed, 21 Feb 2018 09:00:00 -0500", 
+  "link": "https://cn.engadget.com/2018/02/21/nintendo-switch-linux-mod/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/2d3604f43ed39c19eff3bfe3ec7375b1/206145826/nintendo-switch-linux-fail0verflow.jpg\" />尽管 Switch 上有老任的各种定制设计，但这款设备说穿了仍旧是一台使用（特殊版）NVIDIA Tegra 处理器的平板。既然如此，它就有被改造来运行其它软件系统的可能，而骇客团队 fail0verflow 就选择用 Linux 来进行尝试。在经过一番操作之后，他们手上的 Switch 已经可以正常使用屏幕触控、上网、3D 图像加速等功能，虽然无法完成运行 Steam 游戏之类的任务（毕竟很多 Linux 应用都不是为 ARM 芯片准备的），但理论上拿来充当普通电脑应该也是堪用了。\n\nfail...", 
+  "title": "有骇客让 Nintendo Switch 跑起了 Linux"
+ }
+]
