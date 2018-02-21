@@ -1,0 +1,14 @@
+[
+ {
+  "date": "Wed, 21 Feb 2018 07:32:00 -0500", 
+  "link": "https://cn.engadget.com/2018/02/21/qualcomm-snapdragon-845-mobile-vr-reference-design/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/b220568034efccf21d4c57388e4c2459/206145787/dims-3.jpg\" />在月底的 MWC 2018 开展之前，高通开始陆续释出他们次世代旗舰 SoC Snapdragon 845 的能力。今天更来预告利用 S845 而打造的独立 VR 装置将会具备何等能力，包括是加入「注视点渲染」和「房间规模追踪」，而且据高通的说法，S845 平台效能和功耗都分别比前代 S835 有着 30% 的改进。", 
+  "title": "高通释出新的参考设计，展示新世代 VR 装置应有的模样"
+ }, 
+ {
+  "date": "Wed, 21 Feb 2018 07:30:00 -0500", 
+  "link": "https://cn.engadget.com/2018/02/21/qualcomms-snapdragon-845-streams-music-to-multiple-bluetooth-de/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/77bdae86648ccaf116b91c6121a71762/206146404/dims.jpg\" />Qualcomm 已经预告了新一代旗舰 SoC Snapdragon 845 的图像处理效能，更强的相机和 AI 的能力，今天要再给大家介绍一下它的新功能 Broadcast Audio。这新能力可让使用者把装置同时与多个蓝牙音讯装置连接，并同步串流播放音乐。所以使用者将来即使没有 Wi-Fi 喇叭，也可以把多台蓝牙喇叭连在一起播放。高通还加入了自动重传和隐藏遗失封包的功能，达致几近完美的同步播放。\n\n这样透过蓝牙传输以一连接多台喇叭的 Broadcast Audio ，可让使用者获得有如高阶智...", 
+  "title": "高通 S845 可以同时在多个蓝牙装置上播放音乐"
+ }
+]
