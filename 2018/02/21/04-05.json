@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Tue, 20 Feb 2018 23:00:00 -0500", 
+  "link": "https://cn.engadget.com/2018/02/20/android-p-prevents-apps-from-hijacking-camera/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/39c1dd91f061c6a31cc0a5ce82001b21/206145288/dims-1.jpg\" />现在人手一台的智能手机上，都具备强大的相机和麦克风，要是被不法分子利用为监控工具，被获取的资料将会非常「丰富」。为了根治这极为危险的潜在风险，谷歌的工程师透露了将会在下一版 Android P 里加入防护机制，禁止待用的 app 取用装置的相机和麦克风。如果系统发现有待用状态的 app 尝试取用相机，Android P 就会把它关闭并发出错误讯息通知使用者；没有在使用的 app 要是尝试取用麦克风的话，虽然系统会允许收音，但却不会在 app 被启用之后写入数据。这样的做法就能平衡禁止恶意软体取用...", 
+  "title": "Android P 将能防止装置被用作监控工具"
+ }
+]
