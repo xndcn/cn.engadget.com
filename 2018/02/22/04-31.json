@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Wed, 21 Feb 2018 23:30:00 -0500", 
+  "link": "https://cn.engadget.com/2018/02/21/bittorrent-exploits-let-rogue-websites-control-your-pc/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/3264d73e9e1e24b5550fd09c3b950df0/206149371/dims-1.jpg\" />点对点分享应用程序 BitTorrent 和其轻量版 uTorrent 一直都是绑架软体的最爱。Google 研究员 Tavis Ormandy 最近发布详细报告，指 Windows 版本的客户端里存有 DNS 的重新绑定漏洞，骇客可藉此改变受害者的网页域名，让他们可以获得电脑的存取权。骇客透过遥距执行代码，把恶意软件下载到 Windows 的启动资料夹（下次开机时就会启动）、提取下载文件，以及查看下载历史。这漏洞存在于所有未经修补的版本，包括 uTorrent Web。", 
+  "title": "uTorrent 客户端漏洞可让流氓网站控制你的电脑"
+ }
+]
