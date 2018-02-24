@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Fri, 23 Feb 2018 23:00:00 -0500", 
+  "link": "https://cn.engadget.com/2018/02/23/google-launches-arcore-1-0/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/a540eace2e268d3e87cbb3d87dfe199/206153585/arcore-porsche.jpg\" />之前还处在预览阶段的 Google ARCore 平台，在经过了差不多半年的打磨后，现在终于要迈进 1.0 正式版向全球范围内的开发者开放了。从现在开始，所有用 ARCore 工具包制作的 Android 应用将都可以把虚拟元素融入真实的世界当中。据官方介绍，包括 Snapchat、Porsche、网易、京东等多家公司都已经开始在自家的部分软件或游戏中，加入 AR 特性丰富使用者的体验了。\n\n不过，虽然软件端的准备已基本就绪，但要使用 ARCore 你还必须拥有匹配的硬件设备。目前总共有包括 G...", 
+  "title": "Google 的 ARCore 1.0 正式向全球开发者开放"
+ }
+]
