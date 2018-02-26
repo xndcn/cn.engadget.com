@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Mon, 26 Feb 2018 04:30:00 -0500", 
+  "link": "https://cn.engadget.com/2018/02/26/mtk-helio-p60-soc-added-ai/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/aefb0a782844ded61f6495eeec400766/206160009/mediatek-generic-chip.jpg\" />近年说起智能手机的 SoC 的新闻，最常看到的必然是高通和华为两家。适逢 MWC 大展，久违了的联发科技也来凑凑热闹，展示他们沉寂多时后带来的成果 -- Helio P60 SoC。这款新的智能手机 SoC 是针对现在市场愈变看重的 AI 处理器来，所以 MTK 也在里面新增一颗专门的多核心人工智慧处理器（Mobile APU）和应用 NeuroPilot AI 技术，以 GPU 一半的功耗来完成同样的 AI 运算要求。", 
+  "title": "步进 AI 时代，联发科推出搭载 APU 的 Helio P60 SoC"
+ }
+]
