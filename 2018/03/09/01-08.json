@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Thu, 08 Mar 2018 20:00:00 -0500", 
+  "link": "https://cn.engadget.com/2018/03/08/google-is-making-it-easier-to-download-all-your-chrome-passwords/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/c969743a2ce28b77dcd75cf7c7b42245/206195477/127894814.jpeg\" />再过不久 Chrome 以文档形式导出浏览器内密码的功能，应该就会变得更加容易使用了。Google 最近已经开始在开发者通道测试这项计划已久的改进，虽然它将何时登陆正式版目前还不得而知，但正常来说应该不会让人等太久吧。具体来说，目前在开发者版本中，只要进到设定搜索「密码」（Password），找到「保存密码」的菜单然后点击「导出密码」，你留在 Chrome 里的密码便会以 .csv 的格式导出。接下去你可以把文件导入其它密码管理器，这样就能省下许多重新输入的力气啰。", 
+  "title": "未来你将可以更方便地下载 Chrome 里的密码"
+ }
+]
