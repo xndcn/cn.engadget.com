@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Wed, 14 Mar 2018 05:00:00 -0400", 
+  "link": "https://cn.engadget.com/2018/03/14/firefox-59-blocks-irritating-site-notification-requests/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/1bd64afd10d3e37436ab11f26596b364/206212444/DSC03190.JPG\" />虽说网站上的某些推送通知很有用，但对那些不希望启用类似特性的人来说，网页上动不动就弹出的开启推送请求真的会让人十分困扰。为了解决这个问题，Firefox 在最新发布的 59 版本中，加入了对应的禁用选项。不光如此，现在用户也可以手动设定禁止网页弹出调用设备相机、麦克风或位置信息的请求，让你在上网时能够更加清净。\n\n当然啰，在新版本中 Mozilla 也加快了浏览器的载入速度。另外还有改进过的私密浏览模式，可以帮你去掉推荐链接的路径信息以防止跨站追踪。目前我们的电脑上已经收到了 FF 59 的更新...", 
+  "title": "Firefox 59 可以禁掉烦人的网站通知推送请求了"
+ }
+]
