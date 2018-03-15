@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Wed, 14 Mar 2018 23:00:00 -0400", 
+  "link": "https://cn.engadget.com/2018/03/14/google-open-sources-pixel-2-portrait-code/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/b907ee5821489ddcca251bd5cf63d7ed/206215627/dims.jpg\" />说到 Pixel 2 系列最叫人印象深刻的功能，不得不说的就是它只利用单颗相机配合 AI 演算法，就能模拟到别家需要双相机才能实现的人像浅景深效果。今天谷歌更要把这能力开放给其他有兴趣的开发者，把他们所应用的 AI 图像分层演算法 DeepLab-v3+ 变成开源代码，让第三方相机 app 都可以利用藉此神经网路，来把相片中的内容分割成前景主体和背景，带来更优异的浅景深效果。", 
+  "title": "谷歌 Pixel 2 人像模式的程序码成为开源"
+ }
+]
