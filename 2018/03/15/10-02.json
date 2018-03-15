@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Thu, 15 Mar 2018 06:00:00 -0400", 
+  "link": "https://cn.engadget.com/2018/03/15/microsoft-fixes-more-meltdown-and-spectre-flaws-in-windows/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/5165b6c3b994c5fd7c5cc93dff960ebf/206215856/microsoft-windows-10-promo-pavilion-picture-id495108702.jpg\" />微软为全球 PC 用户修补 Meltdown、Spectre 漏洞的计划，现在又往前进了重要的一步。在本月的例行更新中，他们为 x86 版的 Windows 7 和 8.1 加入了针对性的补丁内容，至此所有目前处在支持周期内的 Windows 版本就都已经对两大漏洞有所防范了。\n\n除此之外，之前影响到 Windows 10 安全更新的防毒软件兼容性检查问题，在这轮更新中也得到了解决。微软现在决定放宽检查尺度，让更多 Win 10 设备得以装上安全更新。不过他们同时也表示，尺度虽然放宽但对防毒工具...", 
+  "title": "微软给 x86 版 Windows 7、8.1 带来 Meltdown、Spectre 漏洞补丁"
+ }
+]
