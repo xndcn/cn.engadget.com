@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Thu, 15 Mar 2018 07:00:00 -0400", 
+  "link": "https://cn.engadget.com/2018/03/15/steamvr-s-auto-resolution-knows-what-your-gpu-can-handle/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/d68cab1e2ec105b323c38b69ec876215/206215948/0a85087e25aafb745db8a9b848ae7225ee4b2c61.png\" />Valve 今天为 SteamVR 推出新版本 beta，最主要的是里面加入了自动调节 VR 内容显示品质的新功能，让配备相对低阶 GPU 的电脑能更好地处理 VR 渲染。有了这功能的协助，开发者和 VR 玩家也不需要过于担心电脑的配置，因为软体会自动因应硬体配置，输出最适合的画面。", 
+  "title": "SteamVR 将会自动适应电脑的 GPU 进行优化"
+ }
+]
