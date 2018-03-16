@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Thu, 15 Mar 2018 22:01:00 -0400", 
+  "link": "https://cn.engadget.com/2018/03/15/intel-chip-redesign-spectre-meltdown-flaws/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/b5c04fc260de845be7bd9bc838302316/206217907/intel-ed+%281%29.jpg\" />早前引发了轩然大波的 Meltdown 与 Spectre 漏洞，英特尔这段时间以来都没有停止开发修正。其中软件的更新部份已经为近五年内「100%」的产品提供，但软件更新多少会有点降低速度的后遗症，这非要从硬件上着手才行。英特尔之前说会在今年内推出对 Spectre、Meltdown 免疫的芯片，我们本来以为是全新设计的产品，但目前听起来还是在现有的架构下去做小幅度改动，于芯片内做出「分割」，限制外部的存取权，在应用和使用者权限等方面对入侵者做出阻挠。\n\n内建额外安全机制的新芯片将由 Xeon...", 
+  "title": "英特尔将小幅重新设计第八代 Core i 处理器，来防堵先前的漏洞"
+ }
+]
