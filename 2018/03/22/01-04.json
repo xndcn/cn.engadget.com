@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Wed, 21 Mar 2018 21:00:00 -0400", 
+  "link": "https://cn.engadget.com/2018/03/21/amd-vows-to-fix-newly-disclosed-processor-vulnerabilities/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/301f6632bc6f24fd9bb3bc1246b0e426/206233387/464270905.jpg\" />在十天前被以色列公司 CTS Labs 爆出，旗下平台安全处理器存在 13 项可能让骇客窃取敏感数据、安装恶意软件或是控制电脑的漏洞后（可归为 RyzenFall、MasterKey、Fallout、Chimera 这几类），AMD 现在终于出来表明了自己的态度。在新发布的声明中，他们淡化了漏洞的威胁性，并且承诺在未来几周时间内便会推出对应的补丁。\n\n不过在漏洞相关的技术问题以外，CTS 此次在向 AMD 通报时选择的方式，却引发了关于责任披露的一场讨论。一般来说，安全专家在发现某家公司的产品存...", 
+  "title": "AMD 承诺在未来几周内补上被 CTS 爆出的漏洞"
+ }
+]
