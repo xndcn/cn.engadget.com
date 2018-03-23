@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Thu, 22 Mar 2018 22:00:00 -0400", 
+  "link": "https://cn.engadget.com/2018/03/22/apple-siri-bug-hidden-notifications/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/1884c39815c35343d27d25919d3fca44/206236816/sirinews.jpg\" />Siri 之前被爆出会在锁屏下对关于隐藏通知内容的提问有问必答（会念出短信和 iMessage 以外的第三方讯息），现在对应的修复更新终于有了眉目。「我们已经知道了问题并会在下一次更新中将其解决。」苹果如此向我们说道。尽管更新具体的推出时间目前还不确定，但正常来说应该是会赶在 iOS 11.3 到来前先进行一次小的修补吧。\n\n不过在那之前，如果你担心自己隐私外泄的话，有两个临时办法可以参考。一个是关掉敏感 app 在锁屏中显示通知的选项，另一个则是选择在设备锁定时禁用 Siri。", 
+  "title": "不让 Siri 再念出隐藏通知内容的更新应该很快会来了"
+ }
+]
