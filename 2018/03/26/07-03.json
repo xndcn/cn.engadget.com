@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Mon, 26 Mar 2018 03:01:00 -0400", 
+  "link": "https://cn.engadget.com/2018/03/26/transport-layer-security-standard/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/f3224e49c0bb03b519fbdea06834ea1f/206243963/padlock-on-laptop-keyboard-picture-id652259296.jpeg\" />在这个网路安全性愈来愈受到关注的时代，负责加密的新一代 Transport Layer Security 1.3 标准却花了四年才终于确定了下来，距离上一个标准 TLS 1.2 更是已经经过了十年之久。TLS 主要的工作是做为网路加密的通讯协定，取代目前已经被认为不安全的 SSL 机制。\n\nTLS 1.3 和前代主要的差异就是移除了对许多已被证实不安全、或是不必要的功能与加密方式，并且缩短了加密前的前置作业，减少了恶意者的操作空间。此外，它也减少了已经建立好安全连线的双方间需要重复交换资讯的次数...", 
+  "title": "新网路安全标准带来更快、更安全的使用体验"
+ }
+]
