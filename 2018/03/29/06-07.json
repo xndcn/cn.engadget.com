@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Thu, 29 Mar 2018 02:03:00 -0400", 
+  "link": "https://cn.engadget.com/2018/03/29/uber-reduced-safety-sensors-on-its-autonomous-cars/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/6febb569bc9facb4382277bfbd321875/206255316/uber-self-driving-car-in-san-francisco-picture-id684693626.jpg\" />正因为自驾车死亡事故而受到严厉检视的 Uber 自驾车计划，被路透社爆出稍早曾大幅削减 Volvo 测式车配备的 LiDAR 数量，由一般自驾车的 5~6 个，减少到只剩车顶上的一个。LiDAR 可以说是车辆判断距离和障碍物的重要依据，借由快速扫描四周环境，来更新自驾系统对潜在危险的认知。如果只剩下一个顶端 LiDAR 的话，极有可能弦生判断上的死角，特别是在车辆的四个角落。\n\n目前尚未有证据指向 LiDAR 的覆盖死角就是肇事的元凶，但先前事故视频发布时，就有就算行人在黑暗中，LiDAR 也应...", 
+  "title": "Uber 据报缩减了自驾车上的感应器数量"
+ }
+]
