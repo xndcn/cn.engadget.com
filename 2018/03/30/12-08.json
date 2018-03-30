@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Fri, 30 Mar 2018 08:00:00 -0400", 
+  "link": "https://cn.engadget.com/2018/03/30/macos-egpu-vr-itunes/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/326d92e5f558e2b86acb1476c432c80f/206259104/mac-egpu.jpg\" />苹果在 WWDC 2017 时向 macOS 使用者承诺的外接 GPU（eGPU）支持，如今总算在新上线的 macOS 10.13.4 里实现了。在升级到最新的固件后，不管是开发者、VR 玩家或是其它需要用到额外显示性能的用户，都可以通过 Thunderbolt 3 为电脑接上一颗附加的显卡。除此之外在这个新版本中，Safari 在自动填入密码前会先等待用户选择登录信息以确保隐私安全，同时原先在 beta 版本中已出现的 iMac Pro 专属「Ink Cloud」壁纸也出现在了正式版中。\n\n另...", 
+  "title": "新版 macOS 已加入对外接 GPU 的支持"
+ }
+]
