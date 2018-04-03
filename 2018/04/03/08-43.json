@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Tue, 03 Apr 2018 04:40:00 -0400", 
+  "link": "https://cn.engadget.com/2018/04/03/cloudflare-1111-dns-privacy-service/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/fbeaf1e0ccf37f64d4f866ae4b090e06/206266001/internet-security-concept-picture-id864472424.jpeg\" />在这个网路隐私愈来愈被重视的时代，却有一个窥视你浏览习惯的重要来源，是被大家所忽视的，也就是「DNS」。DNS 的工作是将「域名」与「IP 位置」相对应，在解析的过程当中，DNS 伺服器是可以看到你要前往的网站、你的 IP、你的 ISP 等资讯，如果 DNS 有不良意图的话，是可以收集不少关于你的使用习惯、地理位置等内容的。\n\nCloudfare 的 1.1.1.1 DNS 服务（位置就是... 1.1.1.1）答应不会将任何查询目标记录下来，连 log 都会在 24 小时内删除。此外，Clou...", 
+  "title": "Cloudflare 推出更快、更隐祕的 DNS 服务「1.1.1.1」"
+ }
+]
