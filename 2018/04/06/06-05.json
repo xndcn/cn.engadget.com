@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Fri, 06 Apr 2018 02:00:00 -0400", 
+  "link": "https://cn.engadget.com/2018/04/06/microsoft-windows-arm-pc-64-bit-sdk-build/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/d0ffc15f8c3ed6dd956ede388cb2ecb0/206274567/dims-1.jpg\" />搭载 Qualcomm Snapdragon 平台的 Windows 笔电虽然在连网方面有其优势，不过同时也有着没有支持 64-bit 应用程序的致命缺点。虽然微软大派定心丸，在多个场合中表示他们终究会给这 ARM 架构平台加入 64-bit app 的支持，但实际的时程，要来到今天才有消息啊。微软的 Windows 部门总经理 Erin Chappie 向我们透露他们将会在快将开始的 Build 开发者大会上发布 ARM 64 适用的 SDK。", 
+  "title": "微软将为 ARM 芯片加入 64-bit 支持"
+ }
+]
