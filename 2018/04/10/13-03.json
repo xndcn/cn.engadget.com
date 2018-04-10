@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Tue, 10 Apr 2018 09:00:00 -0400", 
+  "link": "https://cn.engadget.com/2018/04/10/windows-3-file-browser-open-source/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/147fea60930be8458788acaede942ecb/206283775/Winfile-v10-0-file-manager_%28cropped%29.png\" />看到上面这张图，经历过上世纪 90 年代的 PC 用户多半都会感到非常亲切。里面这套首现于 Windows 3.0 的文件管理器界面，可以说是当时使用者最为熟悉的 Windows 元素之一了。在被 Windows 95 的 Explorer 渐渐取代之前，它几乎等同于当年许多人对电脑 GUI 的第一印象（实际上文件管理器也是 Windows 平台用以取代 MS-DOS 的首个重要图形用户界面）。而时至今日微软选择将其开源，想必能让不少人都好好过一把怀旧的瘾吧。\n\n感兴趣的朋友，可以去 Githu...", 
+  "title": "这套 Windows 3.0 风格的文件管理器让你秒回 90 年代"
+ }
+]
