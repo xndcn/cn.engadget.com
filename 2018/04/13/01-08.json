@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Thu, 12 Apr 2018 21:00:00 -0400", 
+  "link": "https://cn.engadget.com/2018/04/12/apple-mac-32-bit-app-warning/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/b014d72b7704d163576b8e717c2978c3/206291649/dims.jpg\" />从今天开始，如果你试图在 macOS 10.13.4 中运行 32 位应用的话，系统会弹出个一次性的警告框，提醒用户（或者说开发者）将软件升级到 64 位以符合新的兼容性要求。是说，在 macOS 全面转向 64 位之前，32-bit 的 app 还是可以使用。但当苹果彻底完成转换之后，对旧架构的支持便会停止，对应的软件如果不更新的话就真的没法再用了。", 
+  "title": "苹果：32 位应用快将不能在 Mac 上使用"
+ }
+]
