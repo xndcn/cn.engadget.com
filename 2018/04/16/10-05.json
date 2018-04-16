@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Mon, 16 Apr 2018 06:00:00 -0400", 
+  "link": "https://cn.engadget.com/2018/04/16/jpeg-xs-format-nab-2018/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/e155ede5d7f39ec507da338575a58222/206298294/dims-2.jpg\" />大家对于 JPEG 格式的认知可能只限于图片压缩标准，不过其背后的组织却在今天针对未来媒体使用而发布全新的格式：JPEG XS。这被描述为新的低能耗格式的 JPEG XS，是设计为串流直播视频和 VR 内容，甚至是透过 Wi-Fi 和 5G 网路传送而来。这新格式并非用于取代现有的 JPEG 格式，而且也不要被它的名字骗到，JPEG XS 的体积其实并没有变小。不过这新格式是特别为了低延迟和高效益而优化的，换句话说，JPEG 是用于下载，而 JPEG XS 是用于串流。", 
+  "title": "低延迟 JPEG XS 格式是专门为串流和 VR 使用而来"
+ }
+]
