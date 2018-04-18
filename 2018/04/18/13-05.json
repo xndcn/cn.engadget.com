@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Wed, 18 Apr 2018 09:00:00 -0400", 
+  "link": "https://cn.engadget.com/2018/04/18/googles-safe-browsing-android-apps/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/fc18eddd3d117badba4f9f409befe883/206305122/google-play-2016.jpg\" />如果你是用 Chrome 来上网的话，多半受到过 Google 安全浏览（Safe Browsing）功能的「关照」，它的存在能让用户尽量免受钓鱼、病毒网站的骚扰。而现在为了进一步扩大这项特性的保护范围，Google 已通过 Play Protect 计划将安全浏览加到了 WebView 零件里面。这样一来即便是第三方的 app，在加载网页内容时也会有多一道关卡自动提供防护了（开发者也不需要特意去进行什么调整）。\n\nWebView 的这项新特性所用到的技术其实跟 Android 版 Chrome...", 
+  "title": "Google 要把安全浏览特性整合到 Android 应用里面"
+ }
+]
