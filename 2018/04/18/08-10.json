@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Wed, 18 Apr 2018 04:06:00 -0400", 
+  "link": "https://cn.engadget.com/2018/04/18/windows-10-fido-2-support/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/ad24b8d00f4f1ba1c75fdb67a559723f/206304764/dims.jpg\" />微软认为他们不光是让浏览器正朝着无密码的方向发展，更需要把 Windows 在系统层面上变得更方便。因此，微软安全博客今天发文透露，他们即将在下一个 Windows 10 更新之中加入支持新的 FIDO 2.0 标准，让家中或办公室的 Windows 10 装置都能实现无密码登入。意思就是在使用 Windows Hello 来替代输入密码之外，还更扩展至使用 USB 安全锁匙来登入 Azure Active Directory 云端服务。\n\nFIDO 2.0 的核心是网路认证（Web Authe...", 
+  "title": "Windows 10 更新将会支持更多免密码登入"
+ }
+]
