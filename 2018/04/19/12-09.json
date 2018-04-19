@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Thu, 19 Apr 2018 08:00:00 -0400", 
+  "link": "https://cn.engadget.com/2018/04/19/google-chrome-may-now-support-oculus-rift/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/ab95b6243797e385efcd813be698ca72/206307661/Oculus+Rift+gallery+5.jpg\" />最近有眼尖的 Reddit 用户发现，在最新的稳定版 Chrome for Windows 中其实已经加入了对 Oculus Rift 的支持（需要键入 chrome://flags 然后搜索 oculus 开启对应选项）。在启用之后，你便能通过 WebVR 的形式来使用头戴设备本身和配套的 Oculus Touch 控制器了。实际上，早在 2014 年的时候 Google 就承诺会针对 Oculus 的产品进行这方面的改进了，也不知道是出于什么原因让用户等了那么久，要知道晚来的 Daydrea...", 
+  "title": "Windows 版 Chrome 现已支持 Oculus Rift"
+ }
+]
