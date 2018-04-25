@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Wed, 25 Apr 2018 06:01:00 -0400", 
+  "link": "https://cn.engadget.com/2018/04/25/nvidia-ai-fixes-photos/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/8ca2ca3a337d6a80e41cfc7fa0ecce52/206323049/nvidia-ai-photo-repair.jpg\" />Adobe 当年推出通过四周的像素来自动填补空洞的「Content Aware Fill」功能时，根本可以用黑科技来形容，但真正应用时，还是免不了会有一些限制。如果填补的内容是固定的色块或材质（例如天空或草地），Content Aware Fill 可以做出还算不错的结果，但如果是人脸或是材质复杂的话，那就不一定有好的效果了。\n\nNVIDIA 这次发布的研究结果，是在 Content Aware Fill 的概念之上再引入了 AI 深度学习，除了单纯寻找填补之外，还会试着去理解画面的内容，来判断...", 
+  "title": "NVIDIA 的照片自动填补技术用 AI 来找出缺少的物件"
+ }
+]
