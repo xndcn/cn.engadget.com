@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Fri, 04 May 2018 07:01:00 -0400", 
+  "link": "https://cn.engadget.com/2018/05/04/google-chrome-learns-to-mute-sites/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/20f5cee5b141224f52bdc1cf656d6504/206346555/google-chrome-autoplay.jpg\" />当你现在浏览任何网站时，Chrome 基本上只给你默认静音和默认播放两种选项，但实际上不同的网站可能会有不同的需求。举例来说，你会想关掉自动播放广告的网站，但如果是看游戏直播的话，那应该一打开就开始播放才正常吧？因此最新版的 Chrome 现在增加了自动学习的功能，如果某个网站你每次打开都会先静音的话，那以后 Chrome 就会自动将其静音；反之如果某个网站你从不在意自动播放的话，Chrome 就会放任它播放了。\n\n在 Chrome 开始「学习」前，全新安装的 Chrome 本身会默认全部静音，...", 
+  "title": "Chrome 现在懂得从你的浏览习惯来决定是否自动静音"
+ }
+]
