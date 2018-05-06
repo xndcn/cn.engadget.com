@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Sat, 05 May 2018 21:01:00 -0400", 
+  "link": "https://cn.engadget.com/2018/05/05/apple-fix-bug-affecting-iphone-7-7-plus-microphones/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/7eb831e3b595f686dd90329382960f83/206349777/606990294.jpg\" />部份 iPhone 7 和 7 Plus 的用户在升级到 iOS 11.3 后发现麦克风失灵，不仅打电话不通，连带著录音笔、FaceTime、甚至 Siri 都一并失效。苹果没有公开承认问题的存在，但却在一份内部文件中，提示了授权服务中心在收到这样的手机时该如何处理。\n\nMacRumors 网站取得了这份文件，其中表示在某些案例中，有电话播入时免持听筒的图标会是灰掉的，这是检查是否有问题的最快方式。维修服务人员应先要求客户中止任何蓝牙音频设备的连线，如果这无效的话，就该执行音频诊断。如果诊断出现...", 
+  "title": "苹果将会维修一个影响 iPhone 7 和 7 Plus 麦克风的错误"
+ }
+]
