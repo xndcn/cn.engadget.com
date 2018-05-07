@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Mon, 07 May 2018 06:30:00 -0400", 
+  "link": "https://cn.engadget.com/2018/05/07/mit-maplite-self-driving-car/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/17a29d9deb19ade39c2616836d0477a2/206352002/dims-1.jpg\" />大家有想过为什么车厂都选择在都市里进行自驾车的路试，而非在四野无人的乡郊地区呢？这是因为自驾车系统能够自动驾驶，其中一环是车上感应器会辨识周遭事物，像是路肩、行车道和标记来建立需要的 3D 地图，但这些都不太会在偏远地区的道路上找到。不过 MIT CSAIL 却找到解决之道，他们在得到丰田的协助下，开发了新的 MapLite 架构，让自驾车不需要 3D 地图就能导航。", 
+  "title": "MIT 的自驾车懂得在没有图资的乡郊自行导航"
+ }
+]
