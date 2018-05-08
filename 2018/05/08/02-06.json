@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Mon, 07 May 2018 22:00:00 -0400", 
+  "link": "https://cn.engadget.com/2018/05/07/microsoft-project-kinect-for-azure-build-2018/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/def8b2d36cdf47a83ecf76c3a0b67f33/206353146/dims-2.jpg\" />Xbox Kinect 的体感应用虽然为游戏业界带来了冲击，但最终还是要停产作结。想不到这失落的技术会在 AI 潮流里获得第二次生命，在 Build 大会之上，微软发布了 Project Kinect for Azure，以更低的功耗来应用这感应器的能力；换句话说，就是以 Azure AI 分析来自包括深度感应器、IR 感应器等的数据。微软表示在 Kinect 上开发的遗产都有应用在 HoloLens，Project Kinect for Azure 则是让开发者能在新的情境条件下开发这与环境有...", 
+  "title": "Kinect 重获新生！用于推动 AI 和 Azure 发展"
+ }
+]
