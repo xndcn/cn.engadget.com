@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Tue, 08 May 2018 22:01:00 -0400", 
+  "link": "https://cn.engadget.com/2018/05/08/chrome-os-linux-support-official/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/ebad01d142348fcb4a18d922e33de87c/206358787/dscf7127-1.jpg\" />Chromebook 其实之前就有让同一台机器可以跑 Linux 的第三方计划，但过去的做法是创造一个独立的档案系统来安装，这样做会失去 Chrome OS 的一些重要的安全性防护。Google 的做法则是在 Chromebook 内打造了一个专门的虚拟机器，这样不仅让 Linux 的 app 可以直接由 Chrome OS 的界面中启动，而且可以直接取用 Chrome OS 的文档。\n\n不过，使用虚拟机器的话，性能难免会受到一些影响，这部份 Google 有信心大部份的 Linux 软件跑起来...", 
+  "title": "Chromebook 很快就将能跑 Linux 软件了"
+ }
+]
