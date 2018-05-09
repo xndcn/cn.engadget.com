@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Wed, 09 May 2018 02:10:00 -0400", 
+  "link": "https://cn.engadget.com/2018/05/09/apple-restrict-usb-access-ios-locked-seven-days/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/accf6b99065b8a322c4f828ff60c0164/206359072/dims.jpg\" />苹果一直以来都被执法部门要求协助他们把嫌疑人的 iOS 装置解锁，但都被拒绝，后来更掀起官司。今天，据 TechCrunch 的报导，苹果更再加入限制措施，禁止已经被锁定七天的 iOS 装置透过 USB 被存取资料，要解锁就只要输入正确的锁定密码。\n\n这新功能是由 ElcomSoft 的 Oleg Afonin 在 iOS 11.4 beta 的程序码中发现的。这被名为 USB Restricted Mode 的模式，早前也有在 iOS 11.3 beta 里出现，能让 iOS 装置在被锁定 7...", 
+  "title": "据传上锁超过 7 天的 iPhone 再也不能透过 USB 强行解开"
+ }
+]
