@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Wed, 09 May 2018 05:00:00 -0400", 
+  "link": "https://cn.engadget.com/2018/05/09/chrome-automatic-muting-breaks-web-games/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/5a9817492ac1c66d1936cd1d68dc03d/206359398/dims-1.jpg\" />谷歌为了打击自动播放广告，在最近的 Chrome 浏览器里加入了自动静音功能，原意是为使用者带来更好的使用体验。可是这功能实在是过于强大，就连一些网页游戏也被无辜地封锁了。开发者对 Daily Dot 诉说（Google 其后也确认了），指他们的网页游戏被这功能完全封锁了播放声音的能力，即使是点击以游玩的版本也未能幸免。据 Getting Over It 的开发者 Bennett Foddy 的说法，这封锁功能应该会允许采用点击以游玩的 Javascript 音讯界面，可是事实上却仍有不少开发者...", 
+  "title": "Chrome 浏览器的自动静音功能误封了无辜的网页游戏"
+ }
+]
