@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Thu, 10 May 2018 06:00:00 -0400", 
+  "link": "https://cn.engadget.com/2018/05/10/mozilla-firefox-passwords-web-authentication-support/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/8dc9ab9fc6c29cff70c7ea95e07bc442/206362637/firefox-quantum.jpg\" />Mozilla 今天为 Windows、Mac、Linux 以及 Android 平台推出了全新的 Firefox 60 版本，其中桌面版的一大变化，就是引入了新的 Web Authentication API。这项新的安全标准可以让用户在不使用密码的前提下，通过类似 YubiKey 那样的单一实体设备，来完成多个线上帐户的登录操作。当然啰，这并不意味着你在现阶段已经可以彻底抛弃密码，毕竟目前还有不少网站都没支持 Web Authentication 标准呢。\n\n但不管怎么说，这次更新都意味着...", 
+  "title": "Firefox 又朝无密码化迈进了一步"
+ }
+]
