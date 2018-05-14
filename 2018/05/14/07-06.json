@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Mon, 14 May 2018 03:00:00 -0400", 
+  "link": "https://cn.engadget.com/2018/05/14/android-malware-returned-to-google-play-with-just-a-name-change/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/14a5eeb247b31fd019ab8f99fbf96d18/206370798/dims-1.jpg\" />谷歌近年高调打击 Android 系统的恶体软件，尤其是上架到 Google Play 的 app。可是 Symantec 却发现有 7 个曾经被下架的恶意软件，只靠简单的换个新开发者和 app 名字，就能重新上架 Google Play。这些恶意软件伪装成生产力工具，甚至使用谷歌产品的图像来增加真实性，而且会使用各种手段来争取留在手机里的时间，包括是延迟进行恶意攻击的时间（例如安装后 4 小时才生效），让使用者不虞有诈。\n\n目前仍然未知这些恶意软件如何骗过审查机制，我们已经对此向谷歌查询。可是...", 
+  "title": "研究发现恶意软件被下架后，改个名字又能上架 Google Play"
+ }
+]
