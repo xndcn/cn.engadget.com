@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Thu, 17 May 2018 03:00:00 -0400", 
+  "link": "https://cn.engadget.com/2018/05/17/google-chrome-66-muting-autoplay-rollback/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/8edf45d0267602ca71b286af985f3f7a/206381057/dims.jpeg\" />上月推出的 Chrome 66 更新，其主要的新功能&amp;minus;&amp;minus;把自动播放视频内容静音&amp;minus;&amp;minus;在推出后才发现影响部分网页游戏和艺术项目的网页未能正常运作，引起了开发者的一阵骚动。现在的 Chrome 团队就决定加推一个新的 v66（66.0.3359.181）版本，尤许使用 Web Audio API 的网页未受新功能影响，但不包括使用 &amp;lt;audio&amp;gt; 和 &amp;lt;video&amp;gt; HTML 标签的网页。不过这只属于临时措施，因为团队表示会在预定...", 
+  "title": "Google Chrome 的静音功能暂时收起，让开发者有时间更新网页"
+ }
+]
