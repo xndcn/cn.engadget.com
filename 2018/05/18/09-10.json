@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Fri, 18 May 2018 05:00:00 -0400", 
+  "link": "https://cn.engadget.com/2018/05/18/chrome-to-kill-secure-indicator/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/3102fa5fdb34e51043813014e6a7b17d/206384500/dims.jpg\" />为了推动加密网站的转换，谷歌先后推出各种措施来「威逼利诱」。今天 Chrome 安全产品经理 Emily Schechter 更预告了将在 9 月推出的 Chrome 69 中，将不会刻意标示加密网页为「安全」，意即 Chrome 浏览器的网址列左方那个「安全」字样将不会在 HTTPS 的网页出现，因为他们认为现今网页应该预设已经受 HTTPS 加密保护。反之，仍是 HTTP 的网页却会被标记为「不安全」，让其效果更加突出。更进一步的是由 10 月开始，当要在 HTTP 网页里输入资料的话，Ch...", 
+  "title": "Chrome 将不会刻意标示加密网页为「安全」"
+ }
+]
