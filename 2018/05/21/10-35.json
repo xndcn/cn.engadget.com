@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Mon, 21 May 2018 06:30:00 -0400", 
+  "link": "https://cn.engadget.com/2018/05/21/tesla-releases-source-code-for-autopilot-and-infotainment-tech/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/8fc1cdde8f72948991aa3c2879253464/206391644/dims.jpg\" />虽然 Tesla 系统平台是利用开源的 Linux 和 BusyBox 来开发，但他们过去却没有按 GPL 的要求来积极回馈开源社交。总算，Tesla 在 GitHub 上发布了 Autopilot 的系统映像，以及用于 Model S、Model X 那基于 NVIDIA Tegra 处理器的车载系统内核资料。目前释出的版本虽然不一定是最新的版本，不过 Tesla 也有承诺持续更新公开的资料。\n\nElectreck 报导指，Tesla 在回应开发者的查询时，表示正准备释出「其他领域」的源代码。...", 
+  "title": "Tesla 释出部分技术的源代码"
+ }
+]
