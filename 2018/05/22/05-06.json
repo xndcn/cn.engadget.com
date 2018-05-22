@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Tue, 22 May 2018 01:00:00 -0400", 
+  "link": "https://cn.engadget.com/2018/05/22/intel-details-fourth-spectre-style-cpu-exploit/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/e35cdc7e3c0f3e89886df13616ef0df7/206394024/RTX451TJ.jpeg\" />在年初巨大的 Spectre / Meltdown 事件之后，Intel 就有承诺不仅会尽快将漏洞补起来，而且还会继续研究是否有类似的设计错误可以让不肖者有机可趁。今天 Intel 便与 Google 和微软一同公开了第四种（简单名为 Variant 4）绕过安全机制取得资料的管道，基本上和之前的一样，都是利用处理器的预测功能，透过其他频道取得资料。\n\n好消息是，许多先前为其他 Spectre 版本释出的的补丁也对 Variant 4 有效，所以之前有更新好的人，已经有基本的防御力，但对于 Va...", 
+  "title": "Intel 公告第四种 Spectre 安全性漏洞的细节"
+ }
+]
