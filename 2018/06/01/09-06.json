@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Fri, 01 Jun 2018 05:00:00 -0400", 
+  "link": "https://cn.engadget.com/2018/06/01/arm-processor-design-more-efficient-mobile/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/37d6aaf6792866c9fa2423fd189ae944/206419198/circuit-board-with-cpu-motherboard-system-chip-with-glowing-processor-picture-id870283878.jpg\" />在早些时候于旧金山举行的一场活动中，Arm 公开了三款为移动设备而设的全新芯片设计。首先在 CPU 的部分，新发布的 Cortex-A76 是 Arm 高性能系列的最新产品。相较去年的 A75，它在性能上提升了 35%，用电效率也改进了 40%。至今为止已有不少 A7x 的芯片被用在 Windows 10 电脑之上，其中不少续航力都超过了 20 小时，A76 的出现可能又会把便携机的功耗控制水平带上一个新的台阶。\n\n接着是 Mali-G 系列 GPU 的最新成员 G76，对比现有的 G72，它在...", 
+  "title": "Arm 带来三款更省电的移动芯片设计"
+ }
+]
