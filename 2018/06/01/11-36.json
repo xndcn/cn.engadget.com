@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Fri, 01 Jun 2018 07:30:00 -0400", 
+  "link": "https://cn.engadget.com/2018/06/01/asus-cryptocurrency-motherboard-h370-mining-master/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/4411b191876b8829c3bcf7c077e85bac/206419071/h370.png\" />华硕在去年的时候做了一张可以通过 PCIe 连接 19 张显卡的挖矿主机板「B250 Mining Expert」来试水温，想不到竟然大受好评，达到六位数的销量远超过预期，因此今年华硕又向这个坑里更进了一步，推出名为「H370 Mining Master」的新主机板，除了简化连接之外，也增添了新的监测选项功能来让你更清楚每张显卡的运作状态。\n\nH370 Mining Master 的一切都针对挖矿来进行优化，不必要的东西全都移除来节省成本，只留下辅助显卡运作所必需的功能。上一代配置了 18 个...", 
+  "title": "华硕最新的挖矿主机板可以一次控制 20 个 GPU"
+ }
+]
