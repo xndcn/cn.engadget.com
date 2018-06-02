@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Sat, 02 Jun 2018 08:00:00 -0400", 
+  "link": "https://cn.engadget.com/2018/06/02/vlc-one-of-first-arm64-windows-apps/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/ff39709777125a5081ab0d405ad74d47/206421455/dims-2.jpg\" />采用 ARM 架构处理器的 PC 产品虽然已经推出，不过 ARM 版的 Windows 10 当时却只有支持 32 位元的应用程序可用，微软在最近完结的 BUILD 大会上才推出开发适用于这平台的 64 位元应用的 SDK。在一轮等待之后，终于首款以 ARM64 架构的 Windows 应用：VLC for Windows 正式登场了。\n\n如果你是入手了这些以连网和续航力为卖点的 ARM 架构 Windows PC 的话，现在已经可以去 VLC 的官网下载这应用，记紧要在下拉式选单中选择 ARM...", 
+  "title": "VLC 成为首款 ARM64 架构的 Windows 应用"
+ }
+]
