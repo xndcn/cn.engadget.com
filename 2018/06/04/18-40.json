@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Mon, 04 Jun 2018 14:36:00 -0400", 
+  "link": "https://cn.engadget.com/2018/06/04/apple-arkit-2-wwdc/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/4449c1299b5574b0efff91aea7672bd/206426088/wwdc18-436.jpg\" />除了 USDZ 通用 AR 格式以外，Apple 在今天的 WWDC 开幕 keynote 上还正式公布了 ARKit 2.0。在这版套件中，你能凭借 Measure 应用更准确地测量现实物体的尺吋，同时软件的面部追踪精准度也有所提升。另外很重要的一个变化是，ARKit 2.0 会支持多人在同一 AR 环境下进行互动（AR 游戏接下来应该又有新的开发方向了）。而且虚拟物体将可以被固定在 AR 环境中的某个位置，即使你关掉 app 再开，它所处的地方也不会发生变化。", 
+  "title": "ARKit 2.0 带来多人互动模式"
+ }
+]
