@@ -1,0 +1,14 @@
+[
+ {
+  "date": "Mon, 04 Jun 2018 16:30:00 -0400", 
+  "link": "https://cn.engadget.com/2018/06/04/macos-mojave-dark-mode-gallery-view-new-organization/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/2deb05c2e2d4fca25909a8c17b000bcc/206426457/wwdc18-625.jpg\" />在旧金山附近的山区玩了四年后，下一版的 macOS 将带我们「换个风景」，前往加州东南角的莫哈韦沙漠，取名 macOS Mojave。最「明显」的改动，就是新增了作业系统级别的「深色模式」支持，让专业影像工作者和程序猿可以不受四周工具列干扰的工作。所有 macOS 内建的 App 都会支持这个模式，第三方软体支持大概要等更新，但应该不会太难才是。", 
+  "title": "macOS Mojave 新增深色模式以及整理桌面档案成堆的功能"
+ }, 
+ {
+  "date": "Mon, 04 Jun 2018 16:30:00 -0400", 
+  "link": "https://cn.engadget.com/2018/06/04/apple-ios-apps-mac-cross-platform-sort-of/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/98b882a45e09f14c85dff2b9725ec3f9/206426452/dims-2.jpg\" />过去一直在盛传 iOS 和 macOS 会合并的说法，今天就由苹果在 WWDC 大会上以一个大大的「No.」来终结了。不过空穴来风、未必无因，在面对 iOS 生态蓬勃发展的 App Store，于 Mac 上面的同名应用商店实在也太惨了。为了改善这局面，苹果这次的 WWDC 上除了宣布 Mac 版本的 App Store 会迎来界面的更新，以及让 Adobe、微软、Snap 等知名开发者都推出 Mac App 版本的旗舰产品外，还宣布了会简化 iOS 移植至 macOS 的过程。", 
+  "title": "iOS 和 macOS 不会合并，但大大简化移植的过程"
+ }
+]
