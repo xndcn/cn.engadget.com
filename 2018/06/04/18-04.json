@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Mon, 04 Jun 2018 14:00:00 -0400", 
+  "link": "https://cn.engadget.com/2018/06/04/apple-pixar-adobe-standardized-ar-file-format/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/529540256fc345424b8e1aa454d852cf/206425845/wwdc18-437.jpg\" />未来在 iOS 12 里，AR 文件的分享过程估计会变得更加容易。苹果今天在 WWDC 2018 的开幕 keynote 上宣布，将联合 Pixar、Adobe 等知名企业一同推行名为 USDZ（Universal Scene Description）的 AR 文件通用格式。这种格式能在一个单独的文件里呈现 3D 渲染的 AR 内容，相较过去的方案更加易于分享。\n\n按照 Craig Federighi 的说法，USDZ 基本上可视作在 iOS 12 上以所见即所得方式呈现的「AR 快速预览」。它...", 
+  "title": "苹果联手皮克斯、Adobe 等共同推出 AR 文件通用格式 USDZ"
+ }
+]
