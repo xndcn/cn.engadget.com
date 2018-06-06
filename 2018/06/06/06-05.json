@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Wed, 06 Jun 2018 02:00:00 -0400", 
+  "link": "https://cn.engadget.com/2018/06/06/amd-threadripper-32-cores/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/692a5c76ba7164f703dbe9a660a91265/206430633/AMD+threadripper+Gen2+1.jpg\" />昨天才刚宣布将在今年稍晚推出 28 核处理器的英特尔，今天就被 AMD 又踩了一脚 -- AMD 宣布了将在第三季推出第二代的 Threadripper 处理器，最高将可以搭载到 32 核、64 执行绪，维护 AMD 在多核工作站应用上的领先地位。\n\nAMD 在 Threadripper 里使用的 Zeppelin 核心为八核的设计，第一代最高是两组 Zeppelin，共 16 个核心；而今天发表的第二代则是可以到四组 12nm Zeppelin。不过虽然说 32 核心已经和服务器用的 EPYC...", 
+  "title": "Ryzen 发表最高 32 核心的第二代 Threadripper 处理器"
+ }
+]
