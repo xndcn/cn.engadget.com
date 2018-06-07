@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Thu, 07 Jun 2018 00:02:00 -0400", 
+  "link": "https://cn.engadget.com/2018/06/07/router-malware-bypasses-web-encryption/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/ddc4b0ef5ea902fa23d790951d89171e/206434035/dims-1.jpg\" />来自 Cisco Talos 的研究报告指出，他们发现一个名为 VPNFilter 的恶意软件不仅让装置未能使用，更可以绕过我们常见的 SSL 加密凭证，在这恶意软件中的模式会拦截发出去的网页请求，并改为不安全的 HTTP 要求，藉此骇客就可以盗取登入资料等的个人讯息。同时它还可以安插恶意的 JavaScript 在网页、连上该路由器的 PC 或其他装置，进行「中间人攻击」。\n\n而且这恶意软件的影响范围，似乎要比之前预计的更广。在五月底发的报告表示，这软件只有针对 Linksys、MikroTi...", 
+  "title": "有路由器恶意程序会绕过网页加密来盗取个资"
+ }
+]
