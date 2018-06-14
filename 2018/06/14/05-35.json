@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Thu, 14 Jun 2018 01:30:00 -0400", 
+  "link": "https://cn.engadget.com/2018/06/14/cortana-used-hack-windows-10-pcs/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/d55f6142d7567ad9aab62841f0344af7/206452440/dims-2.jpg\" />在 Windows 10 里的虚拟助手 Cortana 没错是能帮忙整理资料、提升生产力，可是最近却被 McAfee 的研究人员发现它居然为骇客带来一扇窗，报告中指出，在 Windows 10 的锁定页面上启用 Cortana 的话，就可以打开进入执行代码的功能表，让骇客可以藉此载入恶意软体，甚至重设 Windows 帐户密码。\n\n这漏洞的出现是源自 Cortana 即使在电脑被锁定下，仍然能聆听语音指令的功能，再配合了 Cortana 在搜寻功能里的常规索引。这骇入方式需要骇客与电脑有着物理上...", 
+  "title": "Cortana 可能是 Windows 10 电脑被骇的帮凶"
+ }
+]
