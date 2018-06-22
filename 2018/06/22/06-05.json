@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Fri, 22 Jun 2018 02:01:00 -0400", 
+  "link": "https://cn.engadget.com/2018/06/22/samsung-now-has-an-8tb-ssd-thanks-to-3d-memory-tech/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/cfa35e3193151c01bf0442fb490d6b6b/206473082/SamsungSSD.jpg\" />Samsung 发表了容量可高达 8TB 的新 NVMe SSD，但却是专门为了服务器设计的，就算你想买一个回来，也不一定能插得进主板上。这个名为「NF1」（亦称 NGSFF）的新规格，乍看之下很像 M.2，但宽度扩增到了 30.5mm，刚好是机架能容许的最大高度，让它可以「侧着」插入机架内。NF1 在厚度上的规范也更宽松，让 Samsung 得以放入更厚的芯片。\n\n在最高容量下，这新的 SSD 在正反两面各放入了 8 颗的 512GB NAND 包装，每个包装内都有 16 层的 256Gb 、...", 
+  "title": "Samsung 推出容量高达 8TB 的服务器用 SSD"
+ }
+]
