@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Sat, 23 Jun 2018 02:00:00 -0400", 
+  "link": "https://cn.engadget.com/2018/06/23/google-measure-arcore-android-phone/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/81456165401e2a6d16278371d7f0b92/206475666/dims.jpg\" />AR 市场的竞争激烈，可以在苹果和谷歌互相过招的动作之前看到。就在苹果宣布会在 iOS 12 开始，把利用 AR 的 Measure 应用加入到支持 ARKit 的 iOS 设备后，谷歌今天也来跟进这做法。原本只有兼容 Google Tango 平台的设备可以使用的 Google Measure，今天也扩至只要支持 ARCore 的 Android 手机都可以。\n\nGoogle Measure 工具现在是利用 ARCore 来测量现实中物件的长度、阔度和高度，只要简单地凭空把手机镜头照一照物件就...", 
+  "title": "所有支持 ARCore 的 Android 手机都可以凭空测量物件了"
+ }
+]
