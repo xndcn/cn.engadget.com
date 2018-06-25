@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Sun, 24 Jun 2018 22:30:00 -0400", 
+  "link": "https://cn.engadget.com/2018/06/24/google-adds-security-drm-to-android-apps/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/1e33b8bb621c6be8dad9a8899477d223/206477892/dims.jpg\" />谷歌为进一步保护 Android 装置，他们为上架到 Play Store 和其他合资格渠道的 Android APK 都加入「小量」的安全元数据，用以确保是透过合法的途径下载得来的。谷歌表示这做法能在装置离线时都可以为 app 认证，而且让其加入至使用者的馆藏，并于日后可以透过谷歌的平台接收到更新。换句话说，其实这做法也等同为 app 加入数码权利管理（Digital rights management，DRM）。\n\n对于开发者来说，他们大多都需要在谷歌的平台以外下载 Android 应用程序...", 
+  "title": "谷歌为 Play Store 的应用程序加入防止篡改的 DRM 保护"
+ }
+]
