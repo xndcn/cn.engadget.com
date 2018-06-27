@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Wed, 27 Jun 2018 08:00:00 -0400", 
+  "link": "https://cn.engadget.com/2018/06/27/sd-7-0-pcie-nvme/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/b6713db17b70fbc817e05008e6a3e21b/206486914/sd-lede.jpg\" />SD Association（SDA）今天在 MWC 上海发布了新的 SD7.0 规格，主要带来两种新的功能：一个是让 SD 卡能通过 PCIe 和 NVMe 传输资料的「SD Express」、另一个则是让容量增加到 128TB 的「SDUC」。\n\n支持 SD Express 的卡片会标上「EX」的字样，旧的 SDHC、SDXC 卡都有可能支持，不一定要今天同时发布的 SDUC。在本质上，SD Express 的卡片和原有的 SD 卡大小相同，但和 UHS-II/III 一样，在原有的金属接点...", 
+  "title": "SD 7.0 规范发布，带来 PCIe、NVMe 等接口的支持"
+ }
+]
