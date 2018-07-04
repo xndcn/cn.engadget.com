@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Wed, 04 Jul 2018 07:01:00 -0400", 
+  "link": "https://cn.engadget.com/2018/07/04/deepmind-ai-quake-iii-arena-human/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/fb014a19c5834a71ba80859938169775/206503229/QuakeIII.jpg\" />自从 AlphaGo 突破了围棋这个人工智慧的门槛后，DeepMind 并没有就此满足，反而朝向更复杂的游戏前进，透过机器学习开发了可以像人类一样玩《Quake III Arena》的 AI。DeepMind 团队将重心放在「夺旗模式」上，并且让地图会在每场比试间随机进行变化。AI 不仅要能快速在随机地图中找到自己的位置并导航，还要懂得和队友合作、并且适应各种不同的敌方战术。\n\n更进一步增加 AI 开发难度的，是游戏的目标只有一个，就是「赢」，而达成这个条件的方式有太多种，让 AI 很难判定到底...", 
+  "title": "DeepMind AI 的下一个挑战：像人类一样玩《 Quake III Arena》"
+ }
+]
