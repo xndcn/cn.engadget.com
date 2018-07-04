@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Wed, 04 Jul 2018 01:00:00 -0400", 
+  "link": "https://cn.engadget.com/2018/07/04/third-party-app-developers-reading-gmail/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/d951ea74b7d3aeb9ab2b13e5cb3e531/206503080/dims-2.jpg\" />去年的夏季，谷歌承诺了不再扫描 Gmail 邮件内容来寻找用于推送广告的关键字，可是华尔街日报却发现谷歌仍然允许第三方开发者可以读取用户邮件的内容。虽说谷歌解释指是用户给予了开发者权限阅览，可是问题是用户是否清楚知道给予了对方什么权限，以及给了什么的人呢？\n\n据报导中指出，市场研究公司 Return Path Inc. 会收集注册了他们旗下的免费应用程序的电邮地址的内容，每天会扫描并分析超过 1 亿封电邮；同时 WSJ 亦指虽然扫描和分析的工作大多由电脑完成，但也有约 8,000 封邮件会由人类...", 
+  "title": "谷歌确认第三方开发者可以阅读你的 Gmail 邮件"
+ }
+]
