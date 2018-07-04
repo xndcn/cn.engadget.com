@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Tue, 03 Jul 2018 22:30:00 -0400", 
+  "link": "https://cn.engadget.com/2018/07/03/ios-12-code-hints-at-ipad-with-face-id/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/11bda7dcbe254b00e583a2f0757a657a/206502118/ios12-avatarkit-ipad.jpg\" />许多人都已经猜测了很久的刘海新 iPad，在 iOS 12（beta）上线后又流出了更多的线索。除了系统状态栏上为刘海留出来的空间以外，现在开发者 Steve Troughton-Smith 又在 AvatarKit 里发现，这一 Animoji 和 Memoji 背后的框架原来也已经加入了对 iPad 的支持。那鉴于这些功能都必须要依靠精确追踪面部的 TrueDepth 相机才能实现，苹果接下来给平板新品加上 Face ID 的可能性估计是很高了。\n\n至于新 iPad 到来的时间，现在只能说下...", 
+  "title": "iOS 12 代码预示搭载 Face ID 的 iPad 即将到来？"
+ }
+]
