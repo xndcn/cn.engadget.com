@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Thu, 05 Jul 2018 01:30:00 -0400", 
+  "link": "https://cn.engadget.com/2018/07/05/ai-powered-instant-camera-cartoons/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/86ed55a1594b81372b88c19ff465d0e/206505033/draw-this-instant-camera-dan-macnish.jpg\" />雖說「照相」這回事我們一般追求的是逼真，但偶爾搞笑一下好像也還蠻好玩的？這台由 Dan Macnish 打造的「立可拍」相機，以 Raspberry Pi 為核心，結合了機器學習的物件辨識與 Google 的「Quick, Draw!」小遊戲收集來的上百萬張塗鴨資料庫，將照片中的物件轉換成塗鴨後再用熱轉印紙印出來。這結果就就像上圖這樣，頗具抽象的效果。\n\n相機不會保留原始的照片，因此你只能「看圖說故事」，去猜測原本的照片內容是什麼了。不過這並不容易，因為機器辨識系統還蠻容易誤判的，例如將植物當成...", 
+  "title": "这台 AI 相机可以将照片转换成小朋友的涂鸭"
+ }
+]
