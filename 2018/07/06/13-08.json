@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Fri, 06 Jul 2018 09:00:00 -0400", 
+  "link": "https://cn.engadget.com/2018/07/06/mit-cheetah-3-robot-moves-while-blind/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/d955379f07690414bbc0288a75ca403c/206508075/mit-cheetah-3-robot-blind.jpg\" />目前大部份的机器人都是靠「视觉」-- 无论是摄影机还是 Lidar -- 来判断前进的路线，但在真实世界中这不一定总是可行，像是太暗或太不平整的表面，都可能会造成机器人误判。我们人类当然也有碰到这样状况时候，但我们可以靠着身体接触地面或其他表面的回馈，来做为判定的依据「摸黑」前进，因此 MIT 的机器专家们也想让机器人也有类似的能力。\n\n这研究的结果，就是最新一版的 Cheetah 机器狗（猫？），名为「Cheetah 3」。它内建的演算法共有两种，一个可以综合加速感应器、陀螺仪、关节的位置、以...", 
+  "title": "MIT 的 Cheetah 机器狗不用眼睛就能爬、跑、跳"
+ }
+]
