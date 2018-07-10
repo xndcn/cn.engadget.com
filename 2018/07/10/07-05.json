@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Tue, 10 Jul 2018 03:02:00 -0400", 
+  "link": "https://cn.engadget.com/2018/07/10/ios-update-security-focused-usb-restricted-mode/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/a4f8b3a14834d9002716d9495b054105/206515137/iphonex.jpg\" />虽然在 iOS 11.4.1 的更新日志里没有被提及，但在这个最新的版本里，苹果其实已经加入了 beta 版 iOS 11.4.1 和 iOS 12 内已含有的 USB 限制模式。简单来说，它的作用就是在手机上锁一个小时后（而不是之前的一周），自动禁掉通过 Lightning 口接入设备的功能。\n\n你现在只要进到设定页面，然后在 Touch ID 或是 Face ID 里面就能找到一个新的「USB 配件」选项。该选项预设是关闭的状态，代表在设备锁定超过一小时后，需要先解锁才能允许 USB 配件连...", 
+  "title": "新版 iOS 原来已加入 USB 限制模式"
+ }
+]
