@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Fri, 13 Jul 2018 08:00:00 -0400", 
+  "link": "https://cn.engadget.com/2018/07/13/firefox-focus-lock-tabs-ios-face-touch-id/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/1726d8d6eda306a3fa65160ce8395fc8/206523970/dims-2.jpg\" />针对保护个资而来的 Firefox Focus 浏览器，其 iOS 版本在更新之后变得更安全了，因为他们加入了利用 iOS 设备的 Touch ID 和 Face ID 来锁定应用程序的功能。当开启了这功能之后，Firefox Focus 就会要求先通过 Face ID 或 Touch ID 来解锁，然后才可以重新显示在退出 app 之前正在浏览的网页；不然就需要开启新的浏览，原来的记录也会消去。\n\n目前这功能似乎仍未登上 Android 平台，但他们也有给这谷歌的移动系统另外一个独有功能，那就...", 
+  "title": "Firefox Focus 让你用 Face ID 锁住刚刚看了什么网页"
+ }
+]
