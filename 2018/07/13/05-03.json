@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Fri, 13 Jul 2018 01:00:00 -0400", 
+  "link": "https://cn.engadget.com/2018/07/13/google-chrome-67-site-isolation/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/c308feaec158711f2c7c529fd9ff394c/206523729/dims.jpg\" />曾经造成一时话题的 Spectre 安全漏洞，叫得一众科技厂商都要重新设计产品以防止再发生同类问题。谷歌更是在他们得意的软件端出一分力，在刚发布的 Chrome 67 浏览器中正式加入的网站分离功能，减少入侵者进行 Spectre 式的投机性旁道攻击的机会。这技术将会把网页渲染过程限制为来自单一站点的内容，防止不法分子透过在一般网页之中安插会跳转至有问题网页的恶意代码（像是跨网页弹出式页面或遥距储存的执行码）。理论上，如果使用者是浏览无害的网站时，不法分子将不能获得你的密码或其他数据。\n\n这网站...", 
+  "title": "谷歌 Chrome 现已能防止透过网页进行的 Spectre 式攻击"
+ }
+]
