@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Fri, 20 Jul 2018 08:00:00 -0400", 
+  "link": "https://cn.engadget.com/2018/07/20/google-ai-compares-poses-80-000-images/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/b1bfbb843f265a50591a24f126fc5c0c/206541043/Screen+Shot+2018-07-19+at+2.04.02+PM.png\" />Google 今天推出了一款名为 Move Mirror 的小工具，它本质上是一个基于 AI 技术的实验项目，能将你在 webcam 前做出的动作记录下来，然后跟资料库内超过 80,000 幅的图像进行比对，最后找出动作相似的影像。Move Mirror 采用的是名为 PoseNet 的机器视觉模型，它可以探测到使用者的身体，并且辨识出主要的关节位置。比对出来的结果会根据你动作的变化即时更换，两边的影像会被并排放在一起，你甚至可以做成 GIF 动图发给朋友一乐呢。\n\n「通过 Move Mirro...", 
+  "title": "Google 的 Move Mirror 人工智能小实验能找出跟你动作一样的图像"
+ }
+]
