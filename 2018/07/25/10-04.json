@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Wed, 25 Jul 2018 06:01:00 -0400", 
+  "link": "https://cn.engadget.com/2018/07/25/apple-blames-software-bug-for-macbook-pro-cpu-throttling-issue/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/c18919b9149b943b18712bce0fe47eeb/206551552/eng-macbook-ed-2JT.jpg\" />还记得前几天爆出的 MacBook Pro 在高负载下的自动降频事件？苹果在与发现问题的 YouTuber Dave Lee 合作了解状况后，认为其根源是温控系统的软件中，缺少一个重要的「数位钥匙（Digital Key）」而非硬体问题。在最新的 macOS 10.13.6 补充更新中已修正这个错误，苹果建议所有的 MacBook Pro 用户都应该更新，虽然不像 Core i9 版本那么明显，但多少都会有些许的性能改善。\n\n苹果并指出大部份的使用者无论如何都不应该会碰到显著的 CPU 降频问题...", 
+  "title": "苹果称 i9 处理器降频是「软件问题」，已推出修正补丁"
+ }
+]
