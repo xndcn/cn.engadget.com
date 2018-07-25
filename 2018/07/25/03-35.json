@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Tue, 24 Jul 2018 23:30:00 -0400", 
+  "link": "https://cn.engadget.com/2018/07/24/firefox-nightly-blocks-autoplaying-audio/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/84973239d989b594f6068a6c8f6083b0/206551014/dims.jpg\" />使用 Firefox 浏览器的朋友，终于也可以免受被突然自动播放的网页音讯吓坏了。Mozilla 最新为 Firefox 推出的 nightly builds 中，包括了测试把自动播放音讯静音的选项，而且使用者还可以自选封阻的力度，例如把指定的网站放进例外名单，或是完全封锁自动播放功能，网页每次要播放音讯前都需要先询问使用者。\n\n毕竟这仍是个 nightly builds，所以出包、臭虫和其稳定性都没有保证，各位有兴趣的朋友可以等到 beta 阶段才去尝鲜吧。无论如何，这对于 Firefox 使...", 
+  "title": "Firefox 浏览器也在测试封阻自动播放的音讯"
+ }
+]
