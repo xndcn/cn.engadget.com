@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Wed, 25 Jul 2018 09:30:00 -0400", 
+  "link": "https://cn.engadget.com/2018/07/25/chrome-now-alerts-you-to-unsecure-http-sites/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/5cd8448b69c56e8cb1acb2923e1e3ae9/206551027/dims.png\" />虽然 Chrome 已经采取不少措施来通知使用者是否正在造访未加密的 HTTP 协定标准网站，但从今天开始，相关作法将变得更加积极。对比过去 Chorme 选择只在安全的 HTTPS 网站的网址列左方显示绿色的「安全」字样，现在只要使用者造访不安全的 HTTP 网站，相同位置便会出现「不安全」的警示字样，点击该字样，会另外显示建议使用者不要在网站上输入任何敏感信息，以避免遭到骇客窃取。", 
+  "title": "未来浏览 HTTP 协定的网页时 Chrome 将显示「不安全」的警告"
+ }
+]
