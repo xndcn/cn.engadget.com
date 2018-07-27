@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Fri, 27 Jul 2018 08:00:00 -0400", 
+  "link": "https://cn.engadget.com/2018/07/27/windows-10-forced-update-feature/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/1367e522c6e3d396fe514037df2d1565/206556344/windows-10-update.jpeg\" />要说 Windows 10 最让人不爽的地方，相信大部分用户都会把强制自动更新排在第一个。微软肯定也知道这件事，要不然也不会在去年给系统加入延后三天或选择特定时间更新的选项了。不过光有这些显然还不够，微软相信自己可以靠 AI 技术将这方面的体验变得更好。在最新的 Windows 10 Insider 预览版中，系统会利用机器学习来训练一个预估模型，以判断进行软件更新的最佳时间。\n\n举例来说，新版在试图重启前，会先确认你是否是刚刚打开电脑。另外它也会试图判断你暂离时间的长短，防止出现你很快回来却发...", 
+  "title": "微软打算靠机器学习来预测 Windows 10 最佳更新时间"
+ }
+]
