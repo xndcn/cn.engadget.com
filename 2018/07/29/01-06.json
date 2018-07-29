@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Sat, 28 Jul 2018 20:59:00 -0400", 
+  "link": "https://cn.engadget.com/2018/07/28/samsung-patches-smartthings-hub-flaws/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/9a3b026feda7ddecc06a9771e4bb5c2b/206558860/samsung-smartthings.jpg\" />Cisco 的安全性研究部门 Talos 发现了 Samsung 的 SmartThings Hub 有多达 20 个漏洞，让不法之徒可以控制与其连线的装置。当然，在公开之前，Talos 已经与 Samsung 合作将所有的漏洞补上，由 Samsung 推出了相关的软件更新。据 Samsung 发言人表示，这个韧体更新是全自动的，并且已经确认「所有市面上的 SmarThings Hub V2 装置都已更新到最新状态」。\n\n这些漏洞不会让你的个资外泄，要利用也不是都那么容易，但骇客还是能做到诸如观...", 
+  "title": "Samsung 补上多个 SmartThings Hub 的安全漏洞"
+ }
+]
