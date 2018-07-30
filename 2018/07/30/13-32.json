@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Mon, 30 Jul 2018 09:23:00 -0400", 
+  "link": "https://cn.engadget.com/2018/07/30/fox-ai-predicts-movie-viewing-based-on-trailers/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/f455e4a745b5f66bc125fe6b7afc9b57/206560017/dims.jpg\" />现在的电影预告片不光是以吸引更多人进电影院为目的，还会为了在社交平台上造成话题而有所改变。而为了达成这样的效果，将来的预告片更似乎会以 AI 建议为基准来进行剪辑呢。我们在说的就是 20th Century Fox 正在利用的深度学习系统，它能对什么人会基于怎样的预告片而进场看电影做出预测。Fox 通过导入电影预告片和入场人数记录的关系，以 AI 分析预告片中的影像元素（包括颜色、面孔、取景和灯光）对于不同人种观众与电影票房的影响。有着大量对话和暖色灯光的预告片，在对比采用大胆色彩和清晰远景的预...", 
+  "title": "Fox 的 AI 以预告片来预测电影观众族群"
+ }
+]
