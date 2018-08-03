@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Thu, 02 Aug 2018 21:00:00 -0400", 
+  "link": "https://cn.engadget.com/2018/08/02/tesla-is-quietly-making-its-own-ai-chip-for-self-driving-cars/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/42f5d650e69f54f95c517cf051b437f7/206568567/download.jpg\" />在早些时候的财报会议中，Elon Musk 终于证实了长久以来的传闻，承认自己的公司其实从至少两年前开始就已经在「暗中」开发为自驾功能准备的定制 AI 芯片了。按照他的说法，基于该芯片的新自驾技术未来将会被运用到 Model 3、Model X 和 Model S 的 Autopilot 系统之中。和目前 Tesla 使用的 NVIDIA GPU 相比，这套方案能提供更强劲的运算力，它每秒能处理 2,000 帧的画面，较现有的 200 帧水平有非常显著的提升。\n\n据 Tesla 总监 Pete...", 
+  "title": "特斯拉承认自己一直在悄悄开发为自驾功能而设的 AI 芯片"
+ }
+]
