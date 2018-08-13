@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Mon, 13 Aug 2018 09:00:00 -0400", 
+  "link": "https://cn.engadget.com/2018/08/13/android-exploit-targets-app-external-storage/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/463c94d47619993a61f81f578be4ddb5/206589636/dims.jpg\" />常见针对于行动装置的安全漏洞，都是来自网页或是作业系统深层的缺陷而引致，但根据 Check Point 最近的发现，有恶意软件看准了各装置于支持外部储存方面的安全疏忽，可以藉此控制手机。\n\n一般 app 都会放在 Android 装置的内部储存空间，并会受谷歌沙盒保护避免感染病毒，可是有些开发者却没有按照谷歌的外部储存指引来保护 app，让骇客可以利用这薄弱的安全防护措施来操纵数据和造成破坏，Check Point 把这方式命名为「man-in-the-disk」攻击。\n\n这种攻击会先乔装成一个...", 
+  "title": "有恶意软件针对支持外部储存的 Android 装置"
+ }
+]
