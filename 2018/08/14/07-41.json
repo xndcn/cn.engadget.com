@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Tue, 14 Aug 2018 03:33:00 -0400", 
+  "link": "https://cn.engadget.com/2018/08/14/nvidia-ray-tracing-turing-siggraph/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/81c419d6889e548f1049653ee69e3459/206592184/43976273442_863f3bb5c2_o.jpg\" />今年早些时候，NVIDIA 发布了包括对全新即时光影技术支持在内的一系列 RTX 新功能。不过有一个问题是，在很长一段时间内并没有专门的硬件来搭配这些新的特性。直到今天的 SIGGRAPH 大会上，NVIDIA CEO 黄仁勋终于掏出了主打即时光影和 AI 表现的图灵架构新显卡。得益于专用的处理器，其渲染即时光影的速度可达到之前 Pascal 架构的 25 倍。除此之外，新品还配备了三星的 GDDR6 内存，传输速度和功耗都有了很大的进步。\n\n不意外的是，新显卡的主要目标用户是电影制作、产品建模...", 
+  "title": "NVIDIA 新出的图灵架构 GPU 是首款专为即时光影技术而设的显卡"
+ }
+]
