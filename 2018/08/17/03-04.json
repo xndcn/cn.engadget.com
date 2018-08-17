@@ -1,0 +1,14 @@
+[
+ {
+  "date": "Thu, 16 Aug 2018 23:00:00 -0400", 
+  "link": "https://cn.engadget.com/2018/08/16/intel-8th-generation-nucs-core-i7/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/4d16d851cf4339536396388ecc70c201/206600558/dims.jpg\" />别以为英特尔推出了搭载 AMD RX Vega GPU 的 Hades Canyon 迷你电竞电脑之后就会忘了原本的产品线，今天他们宣布推出搭载第 8 代 Core 处理器的新一代 NUC 迷你电脑，并因此受惠于升级至使用 Iris Plus 655 图像处理器，让这台小 PC 足以接上 4K 萤幕和电视上进行游戏。", 
+  "title": "英特尔 NUC 迷你 PC 升级至第 8 代处理器"
+ }, 
+ {
+  "date": "Thu, 16 Aug 2018 23:00:00 -0400", 
+  "link": "https://cn.engadget.com/2018/08/16/valve-hints-at-windows-on-linux-emulation-tools/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/b7ab7ba9c53d69b64f6a2c17aabb0f68/206597592/dims.jpeg\" />Steam Machine 发售以来销量始终不见起色，除硬件因素外，一直以来第三方厂商对于开发 Linux 版本的游戏兴致缺缺，也导致 Steam OS 的游戏选择陷入匮乏的窘境。值得庆幸的是，最近传来一则消息，Valve 正设法为 Steam Machine 带来更多游戏，而方法便是通过某项尚未发布的「兼容性工具」来达成。日前一位 Reddit 上的会员发现，Steam 的界面文件中，Steam Play 功能下出现了一项「自动加载兼容性工具」的选项，目的就是用来运行厂商为其它操作系统所开发的...", 
+  "title": "Valve 或许正试图让 Steam Machine 能运行 Windows 平台的游戏"
+ }
+]
