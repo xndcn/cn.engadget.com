@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Sat, 18 Aug 2018 21:05:00 -0400", 
+  "link": "https://cn.engadget.com/2018/08/18/google-deepmind-ai-run-data-center-cooling-systems/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/8ee26ed91aefce02c38c344b78d8b1d0/206603622/GOOGLE_CBF_009.width-800.jpg\" />Google 的数据中心说是世上最先进的之一也不为过，但先进的不仅是在服务器里跑的东西，甚至还包括了数据中心本身。Google 从两年多前就开始套用 AI 到数据中心的日常管理中，协助系统管理人员维持环境温度，而现在 Google 更是将整个温控的决定都交到了 AI 手上，管理人员只负监管的责任，而不介入操作。\n\n事实上，在之前还是由人类手动进行温度管理的时候，辅助的 AI 就已经自己发现了不少节约能源的技巧，只是因为每次都要由人类确认过后再施行，失去了不少的效益。这也促使了 Google 将整...", 
+  "title": "Google 的资料中心现在已经交由 AI 操作冷却系统"
+ }
+]
