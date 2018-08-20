@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Mon, 20 Aug 2018 16:00:00 -0400", 
+  "link": "https://cn.engadget.com/2018/08/20/nvidia-rtx-2000-ray-tracing/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/8f8261e1ae020e4ed19b132d3f4477ff/206606614/2080Ti%2B2.jpg\" />NVIDIA 在上周的 Siggraph 上推出了首批 Turing 架构的工作站级 RTX Quadro 系列显卡，而今天则是在 GDC 上带来了第一批的消费级 RTX 显卡，由 RTX2080Ti 打头阵。RTX 是什么呢？这指的是 NVIDIA 以 Turing 架构为基础的新技术，利用专门的 Ray Tracing 核心（RT 核心）和 Tensor core 核心协同，用 Ray Tracing 演算法来渲染画面，产生出更拟真的画面来。", 
+  "title": "NVIDIA 推出 RTX 2000 系列显卡，专注于 Ray Tracing 表现"
+ }
+]
