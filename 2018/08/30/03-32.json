@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Wed, 29 Aug 2018 23:30:00 -0400", 
+  "link": "https://cn.engadget.com/2018/08/29/whatsapp-google-drive-backups-arent-encrypted/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/bdcbe819c87fbcaa27fb6ffe8063a78/206628737/dims-1.jpg\" />在 11 月 12 日起，Android 版本 WhatsApp 的使用者将可以把对话备份至 Google Drive 而不会占据储存限额，相信会吸引不少用户即时把备份上传。但这项「德政」原来藏匿了魔鬼在细节中，因为 WhatsApp 的加密保护将不能在外部服务中应用，意即备份至 Google Drive 的对话和媒体资料都会失去 WhtatsApp 提供的端至端加密保护，这包括现行的 Google Drive 备份方式。\n\n把愈变肥大的对话备份上传至云端储存是个非常合理的做法，因为手机储存空间...", 
+  "title": "备份至 Google Drive 的 WhatsApp 资料会失去加密保护"
+ }
+]
