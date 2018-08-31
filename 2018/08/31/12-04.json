@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Fri, 31 Aug 2018 08:00:00 -0400", 
+  "link": "https://cn.engadget.com/2018/08/31/harvard-google-neural-network-aftershock-prediction/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/b88a8cc69048586ad27ae674a300303e/206632064/dims+%281%29.jpeg\" />来自哈佛大学和谷歌的科学家们日前提出一项新的技术，该技术能通过经训练的神经网络，预测地震余震可能发生的地点。研究人员为神经网络提供超过 131,000 笔主震和余震对比的历史资料作为训练，比起现在的「库仑应力变化（Coulomb stress transfer）」预测方式仅计算单一压力转移，AI 能够同时计算多个压力转移，也成功带来了更高的准确度。", 
+  "title": "谷歌和哈佛大学合作使用 AI 来更准确地预测余震发生地点"
+ }
+]
