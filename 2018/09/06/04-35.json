@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Thu, 06 Sep 2018 00:30:00 -0400", 
+  "link": "https://cn.engadget.com/2018/09/06/lockheed-and-drl-drone-ai-challenge/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/6998174fd44c813a859faf9c73532e7d/206643637/dims-2.jpg\" />目前在无人机搭载的自动驾驶，都不是以高速飞行为目的，所以更遑论要挑战专业竞速机手了。Lockheed Martin（洛马）与 DRL（无人机竞速联盟）就想要逆转这现况，两者合作开展 AlphaPilot Innovation Challenge，鼓励大众开发针对高速飞行的无人机 AI 系统，并要在联盟的比赛中取得胜利。有意参加的朋友，将需要在 NVIDIA Jetson 的平台上开发 AI，好让系统能转移到联盟使用的 AIRR 电路板上使用。\n\n这挑战会在 11 月正式开始，奖金总额达 200...", 
+  "title": "洛马想要大众一起开发超越专业机手的 AI 无人机导航系统"
+ }
+]
