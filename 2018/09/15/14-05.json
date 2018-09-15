@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Sat, 15 Sep 2018 10:00:00 -0400", 
+  "link": "https://cn.engadget.com/2018/09/15/chrome-70-fingerprint-authentication-android-mac/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/9c9dbb766f823e45b9e63416148b644c/206667093/dims+%283%29.jpeg\" />庆祝完 Chrome 的十岁生日后，让我们再次把注意力拉回测试版新功能的发展上吧。在 Chrome 70 中，网路验证 API 将会预设支援 Mac 和 Android 平台上的指纹辨识功能，未来开发人员将能把该项新的支援，应用于例如双重身分认证等用途之上。新版本也带来了新的「形状识别（shape identification）」功能，该功能可以透过三种不同的 API，达成識別网路图片中的面孔（包括眼睛、鼻子、嘴巴）、条码（将 QRcode 解码）以及 Latin-1 编码文字的能力。", 
+  "title": "Chrome 将支援 Android 和 Mac 平台上指纹辨识的\b相关功能"
+ }
+]
