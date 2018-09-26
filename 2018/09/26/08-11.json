@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Wed, 26 Sep 2018 04:00:00 -0400", 
+  "link": "https://cn.engadget.com/2018/09/26/google-chrome-70-sign-in-sync-privacy/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/9ea1a6e7941aac971d0509b7c1434712/206692076/Chrome_UI.max-1000x1000.jpg\" />上周末时密码专家 Matthew Green 在使用 Chrome 69 时发现，自己在 Google 相关网站上登录之后，浏览器本身也会变成登录了 Google 帐号的状态。这样的做法让他很是担心，因为其原本选择不登录 Chrome，就是为了避免浏览器级别的追踪行为。对于 Green 的忧虑，Chrome 主管 Adrienne Porter Felt 解释说这么设定是为了（在多人使用的情况下）提醒使用者登录的是哪个帐户，而且除非用户自己许可，否则他们是不会将浏览器的记录同步到 Google...", 
+  "title": "在 Chrome 70 里用户可选择不同步 Google 网页和浏览器的登录状态了"
+ }
+]
