@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Fri, 28 Sep 2018 13:57:00 -0400", 
+  "link": "https://cn.engadget.com/2018/09/28/facebook-hack-exposed-info-on-up-to-50-million-users/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/10d0e9236246078c788887509a3c832e/206700260/dims.jpeg\" />Facebook 今天宣布于刚刚过去的星期二遭受不明骇客攻击，导致高达 5 千万使用者资料被暴露，已即时通知执法部门。这次攻击利用了「检视角度」（&quot;View As&quot;）模式的一个漏洞取得其他帐号的存取权杖（access tokens），所以 Facebook 已为这 5 千万个受影响的帐号重置存取权杖，同时更为另外 4 千万个帐号采取同样的手法以防万一。也就是说，如果你今天突然被登出 Facebook 的话，请放心，这是 Facebook 干的好事。Facebook 更暂时关闭了「检视角度」功能，...", 
+  "title": "Facebook 遭骇，约 5 千万使用者受影响"
+ }
+]
