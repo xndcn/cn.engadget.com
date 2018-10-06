@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Fri, 05 Oct 2018 22:00:00 -0400", 
+  "link": "https://cn.engadget.com/2018/10/05/windows-10-october-update-1809-delete-data-wipe-user-profile/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/dd4cbbdcc6ac82f22e00b50cd8cf7a83/206717237/dims.jpg\" />这两天已经有不少人抢先升级了 Windows 10 的十月更新（版本号 1809），但除了新功能外，这个最新的版本也给一部分使用者带来了大麻烦。在 Reddit 和微软的官方论坛上都有人回报称，在完成更新后他们电脑上的文档、音乐或是图片等数据，都莫名其妙地被系统自行删除了（很多人都没能顺利恢复数据）。\n\n对于此事微软目前还没有给出官方回应或解决办法，暂时来看唯一可能起到作用的方案，是利用 gpedit 指令进到 Computer Configuration/Administrative Temp...", 
+  "title": "Windows 10 的最新版本可能会误删掉用户的数据"
+ }
+]
