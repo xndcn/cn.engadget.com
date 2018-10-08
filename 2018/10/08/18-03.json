@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Mon, 08 Oct 2018 13:55:00 -0400", 
+  "link": "https://cn.engadget.com/2018/10/08/intel-28-core-xeon-cpu/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/4007ee3447c39bf1f58a08374109d00b/206721296/eng-intel-edJT.jpg\" />如之前在 Computex 上承诺的一样，在发布第九代 Core 桌面处理器的同时，英特尔也带来了 28 核心 56 线程的 Xeon W-3175X。是说，以技术来讲，Intel 要做 28 核心的处理器并没有太大问题，之前的 Platinum 8176 就是很好的例子。不过这款产品是以服务器为方向，而新 Xeon 则是一款专为内容创作者准备的芯片。\n\nW-3175X 的基础和加速频率分别是 3.1GHz 和 4.3GHz，支持 6 通道 DDR4 内存，TDP 为 255W。按照英特尔的说法...", 
+  "title": "英特尔带来为内容创作者而设的 28 核心 Xeon 处理器"
+ }
+]
