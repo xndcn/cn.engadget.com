@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Mon, 08 Oct 2018 13:33:00 -0400", 
+  "link": "https://cn.engadget.com/2018/10/08/intel-9th-generation-core/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/2a852b6ebf7fae5c2980e31d2b5eb7ac/206721248/eng-intel-ed-2JT.jpg\" />传了挺久的首批英特尔第九代 Core 桌面处理器，早些时候正式在纽约登场亮相了。这次更新的产品仍旧采用 Intel 的 14nm 制程，不过会提供更多的超频空间（得益于钎焊导热）、Optane 内存支持以及硬件层面的 Spectre、Meltdown 防御。全新的 Core i9-9900K 和 i7-9700K 都配置了 8 颗核心，前者 16 线程，后者为 8 线程。还有一款 i5-9600K，则是 6 核心加 6 线程的组合。其中 i9-9900K 的基础频率是 3.6GHz，加速频率可冲...", 
+  "title": "英特尔的第九代 Core 桌面处理器最高能冲上 5GHz"
+ }
+]
