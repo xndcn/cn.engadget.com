@@ -1,0 +1,14 @@
+[
+ {
+  "date": "Mon, 08 Oct 2018 23:30:00 -0400", 
+  "link": "https://cn.engadget.com/2018/10/08/google-limits-third-party-access-to-accounts/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/a11cd9e2b9b7bb834b95ce1406582128/206722361/google-account-permission.jpg\" />Google+ 爆出隐私危机之后，Google 不光是把该产品的消费者版本砍掉，还宣布逐步改变其开发者工具，志在把更多控制帐户隐私的权力交还使用者。就如 Android 系统的权限管理相似，每次有服务要求取存 Google 帐户的资料时，都会收到一个存取请求，使用者藉此就可以控制自己有哪些资料可以让该服务使用，哪些不会分享。\n\n这新的权限控制工具将会首先应用在 10 月这新创建的 Google 帐户，2019 年初前会逐步推展至其他现有帐户。\n\nGoogle 虽然没有明确说明太多，但似乎他们是为...", 
+  "title": "Google 限制第三方取存 Gmail 和其他帐户资料"
+ }, 
+ {
+  "date": "Mon, 08 Oct 2018 23:28:00 -0400", 
+  "link": "https://cn.engadget.com/2018/10/08/google-reportedly-exposed-data-for-hundreds-of-thousands-of-user/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/ac739ca557a79d9ff9e99071c3919307/206722397/dims.jpg\" />Google 家的社交平台 Google+ 原来曾经在今年 3 月发生了一次严重的用户资料外泄事故，但这科网巨擘却一直保密，直至今天华尔街日报把事件披露之后才确认事件。Google 在重申问题已经即时解决之后，宣布将会关闭消费者版本 Google+。", 
+  "title": "数十万 Google+ 帐户资料外泄，消费者版本将会关闭"
+ }
+]
