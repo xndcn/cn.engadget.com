@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Tue, 09 Oct 2018 02:00:00 -0400", 
+  "link": "https://cn.engadget.com/2018/10/09/chrome-70-will-break-hundreds-of-sites/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/6e3a316500574367da1c0fde52062ac2/206722488/dims-1.jpg\" />Google 将会在下一版 Chrome 浏览器加强安全性，但这升级似乎却是不少网站的坏消息。安全研究员 Scott Helme 发现在排名前 100 万的网站之中，有数千个仍然使用着 2016 年 6 月之前发出的 Symantec HTTPS 凭证， 然而将在 10 月 16 日推出的 Chrome 70 不会信任这凭证。当中更有不少是大型网站，像是多个印度政府的网站、特拉维夫政府网站以及宾州州联邦信用合作社的网站。\n\nFerrari 和 Solidworks 之前也是受影响的网站之一，但他...", 
+  "title": "即将到来的 Chrome 安全性更新会让数千个网页受影响"
+ }
+]
