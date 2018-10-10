@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Wed, 10 Oct 2018 03:30:00 -0400", 
+  "link": "https://cn.engadget.com/2018/10/10/windows-10-october-update-missing-folders/", 
+  "description": "<img src=\"https://s.aolcdn.com/hss/storage/midas/1d472a20334164bfa352221fd34d6e41/206725347/img-1451e-1.jpg\" />由于早先更新文件的错误，导致部分 Windows 10 使用者的文件莫名遭到删除，也让微软暂缓了原本推出十月份更新的计划。然而稍早，微软表示他们已确认问题所在并且完成了修复，也进一步说明该问题是与一项名为「已知资料夹重新导向（Known Folder Redirection）」的新功能有关，若使用者安装了早先的更新，该功能在自动删除某些重复复制的资料夹时，便可能会在特定的三种使用情境下遗失原文件。", 
+  "title": "微软表示他们已经修复了早先会误删文件的更新错误"
+ }
+]
