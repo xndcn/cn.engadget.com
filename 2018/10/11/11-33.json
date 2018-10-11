@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Thu, 11 Oct 2018 07:30:00 -0400", 
+  "link": "https://cn.engadget.com/2018/10/11/whatsapp-fixes-video-call-exploit/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2018-10%2F8c9b4bd0-cd22-11e8-8f7f-546b2b1529d2&amp;client=a1acac3e1b3290917d92&amp;signature=00132a1b6c0ead801b36d900802922ae695e4b3a\" />如果身为 WhatsApp 的使用者，你或许不知道你有幸躲过了一个被骇客攻击的机会。WhatsApp 稍早宣布他们修复了一项服务中的安全漏洞，利用这个漏洞，骇客就能在使用者接起影像通话时，传送异常的即时传输协定封包（Malformed RTP packet），破坏 app 的堆积内存（heap memory）并展开攻击，趁机劫持 app 和你的帐号。但由于网页版 Whatsapp 用户端是仰赖 WebRTC 协议来运作，该漏洞对网页版使用者并没有影响。", 
+  "title": "WhatsApp 修复了一项能透过影像通话劫持帐户的漏洞"
+ }
+]
