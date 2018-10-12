@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Fri, 12 Oct 2018 06:00:00 -0400", 
+  "link": "https://cn.engadget.com/2018/10/12/apple-iphone-spoofed-call-patent/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2018-10%2F1b5b5b60-cdca-11e8-9cff-c2b91ff56949&amp;client=a1acac3e1b3290917d92&amp;signature=cd5e33a334c3615204d92db5765b63b3b6dcf86e\" />苹果虽然已经在 iOS 里加入支持启用第三方应用检测并阻止骚扰电话的功能，不过品质参差，而且更经常会因为开发者追不上原厂的变化而有多少题题。但 Apple Insider 却发现到苹果已经申请了一个会自动以响声或震提醒用户有垃圾来电的专利。\n\n在专利文件中描述了手机会在接收到电话之后，就会检查已经建立的合规资料库，用以确定来电者的身份。这功能会分析该通来电的信息，包括网络设备标识符，服务器标识符等。\n\n除了苹果之外，Google 也在稍早的新品活动上介绍了如此利用 Google Assistan...", 
+  "title": "iPhone 或许快加入内建的垃圾电话侦测功能"
+ }
+]
