@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Sun, 14 Oct 2018 22:30:00 -0400", 
+  "link": "https://cn.engadget.com/2018/10/14/fake-flash-updates-install-crypto-mining-malware/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=http%3A%2F%2Fmedia.zenfs.com%2Fde-DE%2Fhomerun%2Fdpa_759%2Fc659b6a28ff3e4d98f426b1eda20045c&amp;client=a1acac3e1b3290917d92&amp;signature=340a5db487b62fb6490da2f7733c3609f9a5dc1d\" />据网路安全机构 Palo Alto Networks 的报告指出，他们在八月开始于网路上发现了一个虚假的 Flash 更新提示，其真身是个用于挖掘 Monero 虚拟货币的恶意软件 XMRig。但有趣的是，这个恶意软件的安装的时候，还真是会替受害人的电脑更新 Flash。\n\n研究员发现在这假的「AdobeFlashPlayer_ _ 」执行档中，会从一个特定的网页位址下载内容，在分析后得知这活动与 113 个恶意程序相似，并已经曾经被回报指这是与挖矿相关的恶意位址。研究员随后在 Windows...", 
+  "title": "网路上出现由挖矿恶意软件假装的 Flash 更新提示"
+ }
+]
