@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Thu, 18 Oct 2018 01:30:00 -0400", 
+  "link": "https://cn.engadget.com/2018/10/18/google-details-pixel-3-titan-m-chip/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=http%3A%2F%2Fmedia.zenfs.com%2Fen-GB%2Fhomerun%2Fengadget_uk_662%2F16cbe1d14be90c08c2a6a66a3356dbfe&amp;client=a1acac3e1b3290917d92&amp;signature=2ae471b758893c7ca8b1c24f1041dba3e3a055a1\" />Google 为 Pixel 3 系列加入的定制安全芯片 Titan M，到底是如何能保护手机资料呢？Google 非常乐意为大家解答，而且更准备好懒人包来让大家更好明白。简单来说，Titan M 是作为 Pixel 3 手机的守卫和保险箱而作用着。这芯片会与 Android 系统连动，储存着最新一个已知安全的 Android 版本来跟手机配对，防止手机被骇客透过安装旧版本 Android 系统来进行入侵，同时封锁了在 Android 系统里解开 bootloader 的可能，以及必需要输入密码...", 
+  "title": "Google 解释 Pixel 3 系列的定制安全芯片是如何运作"
+ }
+]
