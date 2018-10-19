@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Fri, 19 Oct 2018 05:30:00 -0400", 
+  "link": "https://cn.engadget.com/2018/10/19/google-g-suite-gmail-integrations-dropbox-box/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=http%3A%2F%2Fmedia.zenfs.com%2Fen-GB%2Fhomerun%2Fengadget_uk_662%2F13d1dc84658f7f34e70f8d0066988c8c&amp;client=a1acac3e1b3290917d92&amp;signature=d9c351b4a3d1d2939db62f3e724b6b62d284c547\" />虽说不少企业都会使用 Gmail 作为他们公司电邮的托管服务，但云端储存却可能会另选其他服务，像是 Dropbox 和 Box 等。有鉴于此，Google 也为企业向的 G Suite 带来更新，整合这些第三方云端储存服务。\n\n就如早已经加入到个人版本 Gmail 的与 Dropbox 整合方案一样，可让使用者在 Gmail 邮件传送 Dropbox 连结和直接从电邮下载附件。Box 的整合更是便利，直接透过这云端服务的帐户传送就可以了。当 Gmail 侦测到邮件内有 Jira 或 BitBuc...", 
+  "title": "企业版 Gmail 整合 Dropbox、Box 等多个云端储存服务"
+ }
+]
