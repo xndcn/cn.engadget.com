@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Tue, 23 Oct 2018 02:10:00 -0400", 
+  "link": "https://cn.engadget.com/2018/10/23/windows-10-gentler-spectre-fix/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2018-10%2F0bfe7910-d67e-11e8-afeb-c63679b10be6&amp;client=a1acac3e1b3290917d92&amp;signature=f72c09eaaeefcaa9ba4be7e5875225a9c978a54a\" />虽然早先微软对 Spectre 和 Meltdown 这两类 CPU 漏洞攻击展现了积极的态度，并陆续推出了修补程序，但同时也为电脑性能带来了不等程度的影响。然而值得庆幸的是，在接下来的几个月内，这方面的问题或将得到改善。该公司核心团队（Kernel Team）的开发经理 Mehmet Iyigun 稍早在 Twitter 上表示，2019 年上半年 Windows 10 的更新将会改采 Google 的 Retpoline 技术，来应付当前第二版 Spectre 的攻击，并将对性能带来的影响缩...", 
+  "title": "Window 10 未来的更新将会改善 Spectre 修补程序对效能的影响"
+ }
+]
