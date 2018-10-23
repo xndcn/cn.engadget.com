@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Tue, 23 Oct 2018 07:00:00 -0400", 
+  "link": "https://cn.engadget.com/2018/10/23/google-camera-save-photos/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=http%3A%2F%2Fmedia.zenfs.com%2Fen-US%2Fhomerun%2Fengadget_479%2F5237c8d164be36782273034c45361d72&amp;client=a1acac3e1b3290917d92&amp;signature=09d38721099bc305ebf283dd64f9b7c865190dd2\" />现在 Pixel 3 手机热腾腾上市了，使用它的用户们却发现，Android Pie 的相机似乎有个不小的 bug，在特定的情境下会拍了照，但却没有真的把照片存下来。Google 并没有明确说明问题在哪里，但根据用户回报，似乎问题是发生在 HDR 拍照的情境 -- 因为 HDR 处理需要一点额外的时间，如果你在处理玩之前就切换到另一个 app 的话，相机软件就有机会会「忘记」把事情做完，自然照片就没存下来了。\n\nGoogle 向主站表示，将会在「未来数周内」推出针对这个罕见状况的修正更新，所以至...", 
+  "title": "Google 将修复一个保存照片失败的相机软件错误"
+ }
+]
