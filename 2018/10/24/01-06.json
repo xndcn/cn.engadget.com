@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Tue, 23 Oct 2018 21:00:00 -0400", 
+  "link": "https://cn.engadget.com/2018/10/23/baidu-real-time-translation/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fmedia-mbst-pub-ue1.s3.amazonaws.com%2Fcreatr-uploaded-images%2F2018-10%2F0615f540-d620-11e8-befd-8e092c213ccd&amp;client=a1acac3e1b3290917d92&amp;signature=c79077ad6ae99da95d7e3d8955a6bdcff962b083\" />说到即时翻译，你可能会先想到 Google 或是微软的技术，不过百度希望自己未来也能在这片市场中占据一席之地。早些时候他们公布了自己研发的 STACL 系统（Simultaneous Translation with Anticipation and Controllable Latency，带有预测和可控延迟的即时翻译），据称也能在被译者开始讲话后几秒钟，而不是说完一段话后，就开始进行几乎同步的翻译。\n\n如名称所示，刚刚讲到的「几秒钟」实际上是一个可控制的时长。当你需要在两种关联性相对较强的语...", 
+  "title": "百度开发了自己的即时翻译系统"
+ }
+]
