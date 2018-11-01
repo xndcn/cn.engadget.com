@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Thu, 01 Nov 2018 07:00:00 -0400", 
+  "link": "https://cn.engadget.com/2018/11/01/ai-can-learn-language-the-way-children-do/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=http%3A%2F%2Fmedia.zenfs.com%2Fen-US%2Fhomerun%2Fengadget_479%2F8faf0f80664f15f0e115802dfdc2e867&amp;client=a1acac3e1b3290917d92&amp;signature=dc519f3b712c0c8c1bd9e39d4747b749429ec037\" />以目前的技术来说，如果你试着教导一个 AI 系统新的语言，通常都需要使用大量的「注释」（机器学习中，由人类为资料加上的额外标签）来为其解释每个单词的意涵，然而搜集罕见语言注释的过程往往旷日费时，加上由于同一字词常拥有不同的解读方式和使用习惯，经如此训练后的 AI，可能仍无法准确反映人们自然说话的方式。而稍早，麻省理工学院针对这样的状况提出了一种新技术，能让 AI \b如同小孩子般进行学习，或将能同时突破这类学习速度和内容局限性的关卡。藉由研究人员开发出的一种 parser（语法分析器），AI 就能...", 
+  "title": "麻省理工学院开发出一种能让 AI 像小孩子般学习语言的技术"
+ }
+]
