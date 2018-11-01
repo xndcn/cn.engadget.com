@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Thu, 01 Nov 2018 06:05:00 -0400", 
+  "link": "https://cn.engadget.com/2018/11/01/googles-new-recaptcha-doesnt-require-a-click/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=http%3A%2F%2Fmedia.zenfs.com%2Fen-GB%2Fhomerun%2Fengadget_uk_662%2Fc4d5c7e18f327ea279d76b87b8abef3f&amp;client=a1acac3e1b3290917d92&amp;signature=05a699a06c4894d58ed7db3f9a2b07bb183953e6\" />Google 自从 2007 年推出 reCAPTCHA 以来，我们已经花了超过十年的时间在打勾、找红绿灯、读门牌等各色的活动上，证明自己不是机器人，但看起来这些活动即将成为往事 -- Google 的 reCAPTCHA v3 将完全隐藏与使用者间的互动，而是靠着你在浏览网站时的行为和与网站间的互动，来给予一个由 0.1 分（差）到 1 分（良）间的「评价」。网管可以设定简单的分界点，例如「要求评价低于 0.5 分的访客进行进一步的认证」、「评价低于 0.3 分的访客发言自动通知论坛版主」等，...", 
+  "title": "Google 的最新版 \breCAPTCHA 不用你再打勾或回答问题了"
+ }
+]
