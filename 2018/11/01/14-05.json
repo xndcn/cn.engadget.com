@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Thu, 01 Nov 2018 10:02:00 -0400", 
+  "link": "https://cn.engadget.com/2018/11/01/google-home-hub-api-security-flaw/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=http%3A%2F%2Fmedia.zenfs.com%2Fen-US%2Fhomerun%2Fengadget_479%2Fb78e769860861070c503f62969e92292&amp;client=a1acac3e1b3290917d92&amp;signature=0a54d06bcee911a0dfc50d6f21af228099a0597d\" />一位名为「Jeremy Gamblin」的安全专家在把玩 Google Home Hub 的时候，发现了一个 API 上的大漏洞 -- 由于装置有不少个开放的连接埠，G\bamblin 得以透过命令列开始直接下指令，经过一番实验后，他不仅可以直接强迫 Home Hub 重开机，而且还能关闭 Home Hub 的无线网路、关闭通知、和做一堆其他的糟糕事。\n\n但 Google 一方则是表示其实这并没有想像中的问题那么大，因为 Gamblin 使用的 API 是让 App 可以操作 Home Hub 用...", 
+  "title": "Google 否认新发现的 Google Home Hub 安全性漏洞是个大问题"
+ }
+]
