@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Tue, 06 Nov 2018 01:30:00 -0500", 
+  "link": "https://cn.engadget.com/2018/11/06/intel-48-core-xeon-processor/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=http%3A%2F%2Fmedia.zenfs.com%2Fen-US%2Fhomerun%2Fengadget_479%2F7ee6adb735a06e19811416769ff7524f&amp;client=a1acac3e1b3290917d92&amp;signature=861f06707ba7a97b386cd1bbdfe98f34fa46c3d0\" />Intel 稍早发布了目前产品线中最高端的产品，足足有 48 个核心的 Cascade Lake-AP 处理器。和早前的 28 核心 Xeon W-3175 不同的是，这次不是单芯片的 48 核心，而是在一个封装内包进两个 24 核的芯片，本质上可以看做是一个迷你的双 Xeon 处理器系统，当然把两颗这个放进真正的双处理器主机板的话，就变成一共 96 个核心了。一颗 Cascade-AP 共有 12 个 DDR4 内存通道，也可以接受 Optane 内存。不过， Xeon W-3175 具备 H...", 
+  "title": "英特尔的 48 核 Xeon 处理器明年登场"
+ }
+]
