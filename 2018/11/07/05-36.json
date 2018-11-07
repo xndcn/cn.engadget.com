@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Wed, 07 Nov 2018 00:30:00 -0500", 
+  "link": "https://cn.engadget.com/2018/11/07/amd-launches-7nm-radeon-instinct-gpus/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=http%3A%2F%2Fmedia.zenfs.com%2Fen-GB%2Fhomerun%2Fengadget_uk_662%2F4f96a2f16f6fa1a18818c10ffe9eded2&amp;client=a1acac3e1b3290917d92&amp;signature=34ec25349a2288bc2fffd3dcaf99d269fe2e26d4\" />AMD 如约推出了采用台积电 7nm 制程的 Radeon Instinct 系列新「显卡」，但虽然说是显卡，其实 Instinct 是瞄准了 AI、云服务、科学运算等特殊领域的应用的运算加速器，并不是张真的用来「显示」的处理器。Instinct 共分成两款，分别是高阶的 MI60 和较便宜的 MI50，前者号称是同级最快的双精度浮点运算加速器，在 64bit 浮点运算下，可以达到 7.4 TFLOPS 的计算力。两张卡片都内建有高频宽的 HBM2 内存，并且可以将多达四张卡片串接，并在卡片间以...", 
+  "title": "AMD 推出第一款 7nm 制程 GPU，但不是给我们一般消费者用的"
+ }
+]
