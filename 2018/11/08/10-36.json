@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Thu, 08 Nov 2018 05:30:00 -0500", 
+  "link": "https://cn.engadget.com/2018/11/08/google-android-in-app-updates-api/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=http%3A%2F%2Fmedia.zenfs.com%2Fen-US%2Fhomerun%2Fengadget_479%2F5a3fd601263383049675a95322e94c3b&amp;client=a1acac3e1b3290917d92&amp;signature=5c2ae50b2a743e04a8ca93fe9bf5d4851ef73438\" />App 更新中的时候不能使用算不上是什么大事，但碰上了的时候觉得恼人还是难免的。为了解决这个「问题」，Google 将提供开发者一个新的 API，让开发者可以选择是把画面整个锁住，在更新完成前都不允许使用，或是在后台下载的过程中让使用者继续使用（称为「Flexible update」），到一切就绪再重开 App 就好了。前者是设计给重大的更新，而后者则是给一般的小功能。开发者甚至可以自定义升级过程的呈现方式，让它看起来更像 App 的一部份，而非一个系统功能。\n\n就当下来说，新的 App 内更新...", 
+  "title": "Android App 未来在使用中也能更新了"
+ }
+]
