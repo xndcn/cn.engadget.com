@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Mon, 12 Nov 2018 06:30:00 -0500", 
+  "link": "https://cn.engadget.com/2018/11/12/quantum-compass/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=http%3A%2F%2Fmedia.zenfs.com%2Fen-GB%2Fhomerun%2Fengadget_uk_662%2F729b8ddfe41ed65fbe54f8a6a747d9b1&amp;client=a1acac3e1b3290917d92&amp;signature=7c308c8c23ac21cdefed28a78d457ed2249d7004\" />GPS 是现代社会不可或缺的一部份，但基于太空的系统难免有各式各样的风险，从自然灾害的太阳闪焰，到人为的讯号干扰、破坏、甚至是凯斯勒现象，都能让 GPS 失效，导致地面、空中交通大混乱。不过现在科学家至少有了备用的方案，靠的是一种超高精度的「量子加速度感应器」，来达到接近 GPS 一般精度的惯性导航。\n\n惯性导航简单来说，就是利用装置自身的陀螺仪来判断方向、加速度感应器来判断速度的一种技术，由两者相结合，就可以不需要任何外部资讯的输入，算出相对于出发点的方位和距离。这样的技术最大的限制就是一点点...", 
+  "title": "量子「罗盘」不用卫星也可以有 GPS 一般的精度"
+ }
+]
