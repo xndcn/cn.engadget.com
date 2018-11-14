@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Wed, 14 Nov 2018 00:45:00 -0500", 
+  "link": "https://cn.engadget.com/2018/11/14/google-squoosh-app-optimize-images/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=http%3A%2F%2Fmedia.zenfs.com%2Fen-US%2Fhomerun%2Fengadget_479%2F474f3d882f88308d5a2e1bc6f4e33a03&amp;client=a1acac3e1b3290917d92&amp;signature=0a9a2831297d873723615b56a01516746c6aacd6\" />在打击诈骗网站之外，谷歌近来也推出了新工具 Squoosh，希望能透过优化图片的方式，来帮助提升网页加载的效率。Squoosh 是一项由 Google Chrome Labs 所开发的网页图片最佳化工具，使用者可以透过它利用 WebAssembly 技术及相关程式码开发的功能，快速地对图片进行压缩或转换格式。方便的是，目前市面上主流的浏览器都能使用这项新工具。透过浏览器造访 Squoosh 网页后，只要待其读取完毕，你甚至可以在离线的时使用它呢。", 
+  "title": "谷歌新的工具 Squoosh 能让你透过浏览器轻松优化图片"
+ }
+]
