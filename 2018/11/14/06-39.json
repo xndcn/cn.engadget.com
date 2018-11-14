@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Wed, 14 Nov 2018 01:31:00 -0500", 
+  "link": "https://cn.engadget.com/2018/11/14/samsung-exynos-9820-soc/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2018-11%2Fafef18e0-e7d6-11e8-bdfd-1e7e27c0480c&amp;client=a1acac3e1b3290917d92&amp;signature=1537075239625f1f5443c6904b56ec26453698e1\" />临近年底，也就是新一年 Galaxy S 系列发布的前夕，三星新一代的 Exynos 旗舰芯片也准时亮相了。这一次的 Exynos 9820 是基于三星的 8nm LPP FinFET 制程打造，它配备了两颗定制的 M4 核心、两颗 Cortex-A75 核心以及四颗 Cortex-A55 核心，按照官方说法，M4 对比 M3 单核性能有 20% 左右的提升，功耗表现改进了 40%，另外 SoC 的多核性能升幅也有 15%。除此之外 9820 还采用了 Mali-G76 MP12 GPU，性能跟...", 
+  "title": "三星的 Exynos 9820 芯片也将内建独立的 NPU"
+ }
+]
