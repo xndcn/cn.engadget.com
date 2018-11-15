@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Wed, 14 Nov 2018 20:00:00 -0500", 
+  "link": "https://cn.engadget.com/2018/11/14/microsoft-resumes-windows-10-update-rollout-after-data-loss/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2018-11%2F09470480-e835-11e8-bb13-b9f6814d75aa&amp;client=a1acac3e1b3290917d92&amp;signature=4e4dd47f202fee0f44b880b5e4e1d75f37bf0178\" />在经历了差不多一个月的调整测试后，之前被爆出存在误删用户文件 bug 的 Windows 10 十月更新，现在终于修复完毕，重新允许使用者自己通过「检查更新」来手动升级了。这一次微软自信地表示问题已解决，而且「没有进一步迹象」表明新版本仍会导致数据丢失。不过为了以防万一，他们还是决定先「放缓」更新的速度，所以大范围的推送可能还是得等到官方确定万无一失以后。\n\n值得一提的是，趁着更新恢复的机会，微软也为自家团队的软件测试方法进行了一番辩解。他们声称自己之前引入了「数据与反馈」机制来提升软件品质，而...", 
+  "title": "数据丟失 bug 已修复，微软重新开放 Windows 10 十月更新的手动升级"
+ }
+]
