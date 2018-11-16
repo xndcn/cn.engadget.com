@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Fri, 16 Nov 2018 04:30:00 -0500", 
+  "link": "https://cn.engadget.com/2018/11/16/iphone-x-bug-hackers-deleted-photos-files-apple/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=http%3A%2F%2Fmedia.zenfs.com%2Fen-US%2Fhomerun%2Fengadget_479%2Fd248af95fa25be0b82e80d3fcad6b0d0&amp;client=a1acac3e1b3290917d92&amp;signature=6979355d600a83b4357a5781226ca2a6e78a34bf\" />无论是为了什么理由，相信大家都曾在手机上删除过照片吧。但如果我跟你说，你那张凌晨三点时喝醉的自拍，其实并没有「真的消失」，你会作何感想呢？本周在国外的一场黑客竞赛 Mobile Pwn2Own 中，两位研究人员 Richard Zhu 和 Amat Cama 在运行 iOS 12.1 的 iPhone X 上，发现了一个 Safari 的漏洞，藉此黑客就能窃取系统上应该要被删除（但尚未真正删除）的照片和文件。而他们也因此成功地获得了 5 万美元的活动奖金。", 
+  "title": "某个 iPhone X 的漏洞让黑客可以窃取「最近删除」的照片"
+ }
+]
