@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Mon, 19 Nov 2018 00:30:00 -0500", 
+  "link": "https://cn.engadget.com/2018/11/19/windows-10-arm-app-creation-tools/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=http%3A%2F%2Fmedia.zenfs.com%2Fen-US%2Fhomerun%2Fengadget_479%2Fc9ffe333c7c019a9a8dc21f2204b0e38&amp;client=a1acac3e1b3290917d92&amp;signature=0a27eb79b327b93775ae530998514f7aa589eea5\" />虽然运行于 ARM 处理器架构的 Windows 10 效能已有了显著的提升，但在缺乏原生应用程序的情况下，该平台似乎也难以发挥它应有的潜能。为协助此新兴平台的发展，微软于上周推出的 Visual Studio 15.9，其中便贴心地为开发人员们提供了制作原生 ARM64 软体所需的各种工具，以提升相关作业的效率和方便性。软体完成开发后，开发人员可以自由选择是否将其与其它处理器架构的版本打包在一起，发布\b至 Microsoft Store 或它处供大众下载。\n\n即便如此，目前应仍需等上一段时间，...", 
+  "title": "微软为 ARM 架构的 Windows 10 开启了原生应用程序的大门"
+ }
+]
