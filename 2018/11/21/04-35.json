@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Tue, 20 Nov 2018 23:30:00 -0500", 
+  "link": "https://cn.engadget.com/2018/11/20/microsoft-account-fido2-support/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=http%3A%2F%2Fmedia.zenfs.com%2Fen-US%2Fhomerun%2Fengadget_479%2F04b7c67ded4cc9636dc2f843b1d62d94&amp;client=a1acac3e1b3290917d92&amp;signature=d9419bbd572676ee6e5d37eea23b62616e3951cc\" />既然 Windows 10 十月份的更新已正式回归，微软摆脱密码的计划也继续动了起来。现在用户可以透过 过 Edge 浏览器，选择使用 Windows Hello 或符合 FIDO2 标准的安全设备（如 Yubico 的 YubiKey 5）来登入自己的 Microsoft 帐号啰。透过这些方式，往后想检查 Outlook 邮箱或是购买 Xbox 游戏时，就不需再每次都一个一个字地输入密码啦。微软强调，上述两种情况在透过新方式登入时，系统会要求使用者本人进行本机的面部识别或提供 PIN 码，因此...", 
+  "title": "现在不一定要使用密码才能登入 Microsoft 帐户啰"
+ }
+]
