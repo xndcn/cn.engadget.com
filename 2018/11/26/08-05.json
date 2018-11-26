@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Mon, 26 Nov 2018 03:00:00 -0500", 
+  "link": "https://cn.engadget.com/2018/11/26/orbiter-flaw-affects-mars-water-findings/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=http%3A%2F%2Fmedia.zenfs.com%2Fen-US%2Fhomerun%2Fengadget_479%2Fa3be779e06f6305481d2ad3bf2ff0666&amp;client=a1acac3e1b3290917d92&amp;signature=5b656e164bee2b423ce1ea50850ac5388cb17545\" />原先对火星表面的水含量抱持着极高期望的科学家们，这下可是遭遇挫败了。一个新的研究发现，火星上空的 Mars Reconnaissance Orbiter 卫星所搭载的 CRISM（Compact Reconnaissance Imaging Spectrometer for Mars）器材内建的软件，会「误判」高对比地区的影像数据，在进行修正时将它们标记成了盐床。由于盐床一般都被认为代表示滞留过的证据，因此可能火星上的水并没有先前想像中的多。\n\n科学家是在回头比对原始资料的时候，发现这个错误的。...", 
+  "title": "火星表面上的水可能没有想像中多"
+ }
+]
