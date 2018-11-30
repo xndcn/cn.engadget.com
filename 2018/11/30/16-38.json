@@ -1,0 +1,152 @@
+[
+ {
+  "date": "Fri, 30 Nov 2018 10:59:00 -0500", 
+  "link": "https://cn.engadget.com/2018/11/30/arkit2-demo-hk/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2018-11%2F2789b960-f492-11e8-9b25-4c2e0aff89ae&amp;client=a1acac3e1b3290917d92&amp;signature=548744f3e354b94c55139d7cb47ffcea0240cb3b\" />圣诞节快到，大家应该都在筹备圣诞派对的游戏，尤其是能够让多人共同合作或分组对抗的那种吧。受惠于苹果 ARKit 2 的「体验分享功能」，现在多台 iOS 装置能够在同一个 AR 空间之中游玩，甚至有的可以在旁呐喊助威。小编今天获邀参加苹果 以 AR 为主题的活动，试玩了多个不同的多人 AR 游戏，而且更有幸跟一名香港的 AR 游戏开发者进行访谈，听取他分享如何在短时间内就完成首个 AR 作品。", 
+  "title": "善用苹果 ARKit 2 多人连线，圣诞节派对一起来玩 AR 游戏吧"
+ }, 
+ {
+  "date": "Fri, 30 Nov 2018 07:30:00 -0500", 
+  "link": "https://cn.engadget.com/2018/11/30/samsung-860-qvo-ssd/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=http%3A%2F%2Fmedia.zenfs.com%2Fen-GB%2Fhomerun%2Fengadget_uk_662%2Fdd8d748b0c0e78bb3cb577e3971da359&amp;client=a1acac3e1b3290917d92&amp;signature=e6212cd8873f412ea181545805752d01dc486946\" />Samsung 稍早正式推出了第一款容量达 1TB，采用 QLC NAND 的 SATA SSD 系列，取名「860 QVO」，可望在未来进一步压低 SSD 的单价，带来更大容量的 SSD 选择。不过，SSD 界好玩的地方是，每一代的「进步」虽然让单价愈来愈低，但常常都是伴随着耐用性和速度上的取舍而来的，还真不能说绝对就是比上代更优异。\n\n新一代的「QLC」NAND 技术，简单来说就是让 NAND 的每个单元，都能储存 4-bit 的资料，多过前代 TLC 的 3-bit。但相对的，这也表示每个...", 
+  "title": "Samsung 的 860 QVO 是新一代高容量低价 SSD 的开端"
+ }, 
+ {
+  "date": "Fri, 30 Nov 2018 06:00:00 -0500", 
+  "link": "https://cn.engadget.com/2018/11/30/nasa-reveals-companies-return-to-the-moon/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=http%3A%2F%2Fmedia.zenfs.com%2Fen-US%2Fhomerun%2Fengadget_479%2F868423518814dd6676a7f77decbfd836&amp;client=a1acac3e1b3290917d92&amp;signature=e9f75654dca53294a38fe15b7dd74ec1ae4217a4\" />NASA 自从太空梭计划结束后，到底接下来该做什么、怎么做，每一届的总统和 NASA 署长都订下了不一样的目标。一下子去火星、一下子又改成去拖个陨石回来，而现在到了特朗普任内，则又将目光转向了月球，认为这是个更有可行性的目标。为了支持特朗普政府的月球方案，NASA 现任署长 Jim Bridenstine 提出了一个新的 Commercial Lunar Payload Service（商业月球运载服务，CLPS）计划，依循早前 COTS 计划向民间征求送货到国际太空站的相同模式，希望民间企业积...", 
+  "title": "NASA 选定九间重返月球的民间合作公司"
+ }, 
+ {
+  "date": "Fri, 30 Nov 2018 04:30:00 -0500", 
+  "link": "https://cn.engadget.com/2018/11/30/dell-hack-attempt/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=http%3A%2F%2Fmedia.zenfs.com%2Fen-US%2Fhomerun%2Fengadget_479%2F4da52a7fb0e370502300b4920826bd73&amp;client=a1acac3e1b3290917d92&amp;signature=f7a735f1239466fdf9d4dba1ec0059ee1473be62\" />据 Dell 官方表示，在 11 月 9 日时，有一批骇客曾企图破坏该公司的网络以窃取用户资料。目前虽然没有确凿的证据，显示他们在当日的行动中有所斩获。但似乎也不代表用户资料真的就全数安全无虞。\n\nDell 在声明中解释，这次骇客企图窃取的资料，只包含了用户的姓名、email 和经过 Hash（杂凑函数）处理的密码。其它像是信用卡等相关资讯，则不包含于其中。Dell 也表示，在检测到骇客入侵的第一时间，公司便立即采取了对应手段，除了联系政府相关部门以及数字取证公司，也已重新设定所有用户的密码。如...", 
+  "title": "骇客企图盗取 Dell 的用户资料未果（吧？）"
+ }, 
+ {
+  "date": "Fri, 30 Nov 2018 03:00:00 -0500", 
+  "link": "https://cn.engadget.com/2018/11/30/google-assistant-visual-lyrics-big-update/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=http%3A%2F%2Fmedia.zenfs.com%2Fen-US%2Fhomerun%2Fengadget_479%2F8c9656f43d9ae4da0f1d6fe52320406c&amp;client=a1acac3e1b3290917d92&amp;signature=58e87ffb3c499c9cc37ab9d592b1feda9d3139c4\" />Google 在圣诞节前为 Google Assistant 带来了一系列的新功能，不过与其说是感谢圣诞老人，还不如说是感谢 Jeff Bezos 比较实际些 -- 毕竟很多功能都是 Alexa 早就已经有的，Google 这只是追上了而已啊！这当中最值得一提的，就是当你在 Google Home Hub 或其他有显示器的助理上播放音乐的时候，现在多了显示歌词的选项，不过限制也还蛮多的，不仅要订阅 Google Play Music，而且也不是所有的歌都有提供歌词。如果想听歌学英文，不要总是在空...", 
+  "title": "Google Assistant 在圣诞大更新中获得了歌词显示等多项新功能"
+ }, 
+ {
+  "date": "Fri, 30 Nov 2018 01:30:00 -0500", 
+  "link": "https://cn.engadget.com/2018/11/30/youtube-stories-expansion-10000-subscribers/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=http%3A%2F%2Fmedia.zenfs.com%2Fen-US%2Fhomerun%2Fengadget_479%2F103adbf101e21e5ee268a214b3da1c97&amp;client=a1acac3e1b3290917d92&amp;signature=62e98aeaefd9729334aec721b3874d1891f3ab5f\" />据 The Verge 报导，YouTube 稍早已经把类似于 Instagram 限时动态的新功能 YouTube Stories 开放给更多人使用啦。现在只要你拥有一万名订阅者，就能获得测试该功能的权限啰。\n\n虽然 YouTube Stories 的逻辑与 Instagram 等平台上的限时动态十分类似，但也有几点不同的地方。首先，YouTube Stories 最长可以连续放置七天，而不是 24 小时。此外，不论有没有订阅，使用者都能够观看到各频道所发布的 Stories。同时 Stori...", 
+  "title": "YouTube 已将类似于 Instagram 限时动态的新功能开放给更多人使用"
+ }, 
+ {
+  "date": "Fri, 30 Nov 2018 00:05:00 -0500", 
+  "link": "https://cn.engadget.com/2018/11/30/samsung-china-intellectual-property-theft-south-korea/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=http%3A%2F%2Fmedia.zenfs.com%2Fen-GB%2Fhomerun%2Fengadget_uk_662%2F13c9261fccab69349ffdd022aff5a40e&amp;client=a1acac3e1b3290917d92&amp;signature=39658ecdd055d6d22e2ba8b90db5e73a2880aad0\" />南韩检察官控告九个人和两家公司涉嫌兜售三星的曲面 OLED 技术（现应用于旗舰手机上的）予一间位于中国大陆的公司，其中三星的供应商 Toptec Co Ltd 的 CEO 和其余三人已经就本案被捕；检察官指涉案的公司 CEO 及 8 名员工因为出售专利技术而收受了达 1,380 万美元。", 
+  "title": "九人被控兜售三星的曲面屏幕技术"
+ }, 
+ {
+  "date": "Thu, 29 Nov 2018 23:00:00 -0500", 
+  "link": "https://cn.engadget.com/2018/11/29/swiftkey-for-android-adds-search-function/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=http%3A%2F%2Fmedia.zenfs.com%2Fen-GB%2Fhomerun%2Fengadget_uk_662%2F42da90538cdfbab12d14c0411cebd99c&amp;client=a1acac3e1b3290917d92&amp;signature=d92824982218f9a5f4cf8b965af155951a8d8614\" />有试过与朋友在传讯息途中谈到一个新话题需要找网路大神的答案吗？一般情况下都会先离开对话去搜寻，然后再把相关的东西分享到对话之中。如果你有使用 SwiftKey 的话就可以省下这工夫了，因为它的键盘工具列中新增了搜寻工具，只要点击几下就可以到 Bing 搜寻网页结果，而且可以即时预览内容，过程不需要离开讯息 app。有合用的资料更可以撷图或分享 URL 给对方，一键完成工作。", 
+  "title": "Android 版 SwiftKey 键盘加入搜寻功能"
+ }, 
+ {
+  "date": "Thu, 29 Nov 2018 21:37:00 -0500", 
+  "link": "https://cn.engadget.com/2018/11/29/microsoft-redesigns-office-icons/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=http%3A%2F%2Fmedia.zenfs.com%2Fen-US%2Fhomerun%2Fengadget_479%2Ffa8108df5e91fc4a3f25684c664422d4&amp;client=a1acac3e1b3290917d92&amp;signature=750a6f7d17c46566827a12dcec800aaf8b1ab9fb\" />应用程式的图标是使用者每次使用该工具前都会看到的东西，是外界对它的第一印象。微软希望大家更能感受他们已经转型为云端为先，今天释出一系列新的 Office 365 的图示，透过这旗舰产品来向外界展示他们是如何把产品云端化。新的设计会在「未来数月」推送至 app 和网页版，取代已经沿用了 5 年的旧图示。", 
+  "title": "微软重新设计 Office 产品图标，展示步进云端时代"
+ }, 
+ {
+  "date": "Thu, 29 Nov 2018 06:00:00 -0500", 
+  "link": "https://cn.engadget.com/2018/11/29/ar-headset-tech-helps-blind-navigate/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=http%3A%2F%2Fmedia.zenfs.com%2Fen-US%2Fhomerun%2Fengadget_479%2F93efdb9e921a65edf0d9b4fee775e501&amp;client=a1acac3e1b3290917d92&amp;signature=6c5ae82b1bf956f823bc3ac00f1a5ea66ed7edf5\" />对于盲人而言，造访一个新地方时，要正确地辨别出所处空间中各个物体的方位往往是一大挑战。为此，加州理工学院的研究人员近来开发出了一款「认知虚拟实境助理（Cognitive Augmented Reality Assistant）」，简称 CARA，它能透过微软的 HoloLens 让周遭的物体与配戴的人「说话」，帮助盲人能更轻松地了解环境的状况。简单来说，CARA 会利用电脑视觉（Computer Vision）来识别所处空间中的物体，并会基于方位发出特定音高的说明声音，同时让配戴者掌握物体为何以...", 
+  "title": "这个新的 AR 技术能透过让物品「说话」帮助盲人辨识方位"
+ }, 
+ {
+  "date": "Thu, 29 Nov 2018 05:00:00 -0500", 
+  "link": "https://cn.engadget.com/2018/11/29/eu-to-be-climate-neutral-by-2050/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=http%3A%2F%2Fmedia.zenfs.com%2Fen-GB%2Fhomerun%2Fengadget_uk_662%2Ff04da7b1bfcb02583af6ef3f45913afa&amp;client=a1acac3e1b3290917d92&amp;signature=b9da38585b50b8bf0d8173239efe701139309107\" />不少欧洲国家都已经承诺会出力对抗气候异常的问题，现在欧盟更定出了一个很进取的新目标--在 2050 年前达成「气候中和」的经济体，意即温室气体零排放。同时这目标还伴随着更广泛使用可重生能源、电动交通，甚至是「负碳排放」工业。", 
+  "title": "欧盟目标在 2050 年前达到「气候中和」"
+ }, 
+ {
+  "date": "Thu, 29 Nov 2018 03:30:00 -0500", 
+  "link": "https://cn.engadget.com/2018/11/29/facebook-testing-blocking-terms-on-wall/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=http%3A%2F%2Fmedia.zenfs.com%2Fen-US%2Fhomerun%2Fengadget_479%2Fbb95bd3762a5715863a14493c4659b88&amp;client=a1acac3e1b3290917d92&amp;signature=157af2be01664dbf0690f7b7601fc192cc47b4cf\" />如果你是对某些字眼特别敏感的人，或许 Facebook 正在测试的新功能正是为你所设计。一位国外就读计算机科学系的学生 Jane Manchun Wong，稍早从 Facebook 代码中发现该公司似乎正在测试一项在动态墙上封锁特定单词、句子甚至是表情符号的功能。得知该消息后，我们已试图联系 Facebook 作进一步的确认，但目前尚未收到相关回覆。", 
+  "title": "Facebook 正在测试一项隐藏动态墙上特定字词的功能"
+ }, 
+ {
+  "date": "Thu, 29 Nov 2018 03:00:00 -0500", 
+  "link": "https://cn.engadget.com/2018/11/29/nike-pg-2-5-playstation-classic-paul-george/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=http%3A%2F%2Fmedia.zenfs.com%2Fen-US%2Fhomerun%2Fengadget_479%2Fcea7addb0a956208b4274bf0aca4959f&amp;client=a1acac3e1b3290917d92&amp;signature=e6446a5323338bee33319123fcbccafb97428d6f\" />对于 PlayStation 的粉丝来说，12 月的第一周实在是让人非常兴奋。除了会于 12 月 3 日开卖的 PS Classic 迷你主机以外，由 Sony 联手 Nike 及 NBA 球星 Paul George 一同推出的新一代 PG 2.5 x PlayStation 主题球鞋，也将在 12 月 1 日正式发售。\n\n如我们之前为大家介绍的一样，这次的联名产品设计源于初代的 PlayStation。所以鞋子的基本色调变成了灰色，而且左边鞋舌上还有彩色的复古「PS」图案，右鞋舌上则是 Pa...", 
+  "title": "Nike 的 PG 2.5 新鞋带你重回初版 PlayStation 的时代"
+ }, 
+ {
+  "date": "Thu, 29 Nov 2018 02:18:00 -0500", 
+  "link": "https://cn.engadget.com/2018/11/29/nintendo-creators-program-forbids-youtube-livestream/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=http%3A%2F%2Fmedia.zenfs.com%2Fen-US%2Fhomerun%2Fengadget_479%2F8f163ec383a230a2a88aef7baff0f3e4&amp;client=a1acac3e1b3290917d92&amp;signature=b00beeb62fb2c9c05827714694148cdb16fef816\" />为了从分享游戏视频和实况的风潮中分一杯羹，任天堂自 2013 年起，便尝试透过 YouTube 的 Content ID 匹配功能，从相关的视频中获取利润。到了 2015 年时，任天堂更进一步推出了 Nintendo Creators Program，除了让实况主得以合法地分享任天堂旗下的游戏内容，也能藉此分得些许收益。而就在稍早，任天堂宣布该计划将于今年年底正式喊停，取而代之的是一套类似于索尼和微软当前政策的新规范，期待让粉丝们能更方便地进行创作，展现他们对于该公司游戏的喜爱，并将相关的视频顺...", 
+  "title": "Nintendo Creators Program 年底喊停，全新政策登场接棒"
+ }, 
+ {
+  "date": "Thu, 29 Nov 2018 01:05:00 -0500", 
+  "link": "https://cn.engadget.com/2018/11/29/audi-etron-gt-unveil/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=http%3A%2F%2Fmedia.zenfs.com%2Fen-GB%2Fhomerun%2Fengadget_uk_662%2Fa24201d1d48bcc7fd8f3cba790b32aa8&amp;client=a1acac3e1b3290917d92&amp;signature=8926fe8acdf9d803f4a4cbf486e66f679f69dadf\" />如预告的一样，奥迪的 E-Tron 系列今天在洛杉矶车展上迎来了自己的最新成员 E-Tron GT，一款拥有出色外观和规格的电动轿跑车。如果你是奥迪粉丝的话，相信很容易就会将它当成最新的心头所好。哪怕是一般的轿跑车爱好者，估计也会对其产生不小的兴趣吧。", 
+  "title": "奥迪 E-Tron GT 纯电概念车真是又快又美丽"
+ }, 
+ {
+  "date": "Thu, 29 Nov 2018 00:30:00 -0500", 
+  "link": "https://cn.engadget.com/2018/11/29/elon-musk-boring-tunnel-la-westside/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=http%3A%2F%2Fmedia.zenfs.com%2Fen-US%2Fhomerun%2Fengadget_479%2Faa5e9bf0b1ec4cf95e422b934096c422&amp;client=a1acac3e1b3290917d92&amp;signature=083cd99202f484ae87f8f1979dd4b05628c3c13e\" />Musk 的 Boring Company 隧道挖掘公司在自家后院的小测试隧道已接近完工，如果想要再向外挖的话，就势必要和邻近的政府及居民打交道才行。在此时 Boring Company 终于见识到了来自外界的阻力，由地方团体指控计划中位于洛杉矶 405 高速公路及 Sepulveda 大道底下的隧道没有经过适当的环评程序，不应准予建造。\n\n上月 Boring Company 与地方团体达成和解，并在昨日正式终止了隧道的建造计划。Boring Company 接下来将专注在一条终点位于道奇棒球场...", 
+  "title": "Musk 的 Boring Company 被迫放弃洛杉矶西侧的测试隧道"
+ }, 
+ {
+  "date": "Wed, 28 Nov 2018 23:00:00 -0500", 
+  "link": "https://cn.engadget.com/2018/11/28/lg-mobile-business-tv-chief/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=http%3A%2F%2Fmedia.zenfs.com%2Fen-US%2Fhomerun%2Fengadget_479%2F6fbb96819136b0e1a4bf0d0853525996&amp;client=a1acac3e1b3290917d92&amp;signature=2feca6e21284fdbba213d1661d8e0ae71d1b6d95\" />LG 宣布一系列高层级的架构重组措施，其中重点更是为了拯救手机业务而指派了现任家庭娱乐事业部总裁的Brian Kwon 兼管，现掌行动通讯业务的 Hwang Jeong-hwan 会专注于 LG 的总合业务发展办公室的工作。同时 LG 还另外创建了机器人和自驾车部门来对应相关新产品，新安排将于下月生效。", 
+  "title": "LG 指派电视部门主管来拯救手机业务"
+ }, 
+ {
+  "date": "Wed, 28 Nov 2018 22:00:00 -0500", 
+  "link": "https://cn.engadget.com/2018/11/28/apple-watch-series-4-ecg-electrocardiogram-app-watchos/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=http%3A%2F%2Fmedia.zenfs.com%2Fen-GB%2Fhomerun%2Fengadget_uk_662%2F9038f8266c2fb5c0b4aa757e2db46c3d&amp;client=a1acac3e1b3290917d92&amp;signature=5bcef5bf6ea8fedb699c47b69803a1f388e92447\" />Apple Watch Series 4 的其中一个杀手鐗，是支持医疗器材级的心电图（ECG ）功能，可让使用者更简单地监控自己有否出现心跳异常，然而这支手表都推出好一阵子，有关功能都还没有开放使用。今天终于有消息指在下个月推出的 watchOS 更新中，就会解封 ECG 了。\n\n据 MacRumors 获得的一份 Apple Store 训练文件中显示，ECG 功能将会随 watchOS 5.1.2 推出，这版系统已经在过去数周进入 beta 阶段，如此长的测试时间相信就是要为 Apple W...", 
+  "title": "下一个 watchOS 更新将会解封心电图功能"
+ }, 
+ {
+  "date": "Wed, 28 Nov 2018 20:39:00 -0500", 
+  "link": "https://cn.engadget.com/2018/11/28/new-zealand-blocks-wireless-carrier-using-huawei-equipment/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2018-11%2F3d894330-f34c-11e8-9f5f-d0a9727d4715&amp;client=a1acac3e1b3290917d92&amp;signature=96eebe353418b8acecf6de7b63c36f77175951a2\" />据纽约时报报导，日前新西兰政府通讯安全局以可能存在「重大国家安全隐患」为由，禁止其国内电信商 Spark 采用华为提供的 5G 移动网络设备。这是继澳洲之后，又一个将华为 5G 技术拒之门外的国家。是说，做为近邻新西兰跟随澳洲的脚步其实也不能算是意外啦。当然，要问针对华为反应最激烈的国家，那肯定还得是美国。他们除了在国内颁布禁令严防死守外，还曾公开表态提醒自己的盟友，要看清华为技术可能带来的风险并采取手段进行预防。\n\n对于新西兰政府的举动，华为已表示自己将「积极消除任何顾虑，会与对方合作寻找解决...", 
+  "title": "新西兰也对华为的 5G 技术说「不」了"
+ }, 
+ {
+  "date": "Wed, 28 Nov 2018 19:28:00 -0500", 
+  "link": "https://cn.engadget.com/2018/11/28/tesla-celebrates-one-billion-autopilot-assisted-miles/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2018-11%2F4d715590-f34b-11e8-af71-758b347c6657&amp;client=a1acac3e1b3290917d92&amp;signature=4bc802dafafb67fc7d2894f06e9351b1b4db3c58\" />涉及机器完全 / 辅助驾驶的里程数，对自驾车来说既是宝贵的「经验」，又是重要的衡量标准之一。而在这项数据上，特斯拉刚刚达成了一项里程碑式的成就。按照其说法，至今为止有 Autopilot 参与的续航里程总数已经超过了 10 亿英里。而这个数字在 2012 年以来所有特斯拉车辆（包括没选购 Autopilot 和这项技术出现以前的）行驶距离中占到的比例，已经达到了 10%。\n\n能达到这样的成绩其实还蛮厉害的，不过相信许多人也跟我们一样好奇，在这 10 亿英里的 Autopilot 里程里事故率又是...", 
+  "title": "特斯拉：Autopilot 参与的续航里程已经超过 10 亿英里"
+ }, 
+ {
+  "date": "Wed, 28 Nov 2018 14:42:00 -0500", 
+  "link": "https://cn.engadget.com/2018/11/28/dji-osmo-pocket-camera-costs-349/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2018-11%2Fb0fa1290-f342-11e8-9df0-0e82ec53b96b&amp;client=a1acac3e1b3290917d92&amp;signature=b64c4fdf76e40af041d18bad38250afb4ec00aa9\" />果然如网络上流出的传闻一样，大疆今天发布会的主角，就是好似从 Mavic 2 上拆下来重造的微型云台相机 Osmo Pocket 了。这款高度刚刚超过 10cm 的装置，拿出来只有巴掌大小。它的顶端设有大疆最拿手的三轴云台，上面装载有一颗 12MP 的相机。其内部采用了 1/2.3 吋感光元件和 f/2.0 镜头，能够以 100Mbps 码率拍摄最高 4K@60fps 的视频。在以 4K@30fps 规格录影时，内建的 875mAh 电池可以提供最多两小时的续航力。", 
+  "title": "大疆想靠 Osmo Pocket 进一步蚕食便携云台相机市场（更新：动手玩图集）"
+ }, 
+ {
+  "date": "Wed, 28 Nov 2018 09:00:00 -0500", 
+  "link": "https://cn.engadget.com/2018/11/28/sprint-and-htc-5g-mobile-smart-hub-2019/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=http%3A%2F%2Fmedia.zenfs.com%2Fen-US%2Fhomerun%2Fengadget_479%2F1277d07eaab9f6c65feb158440f0c0b0&amp;client=a1acac3e1b3290917d92&amp;signature=c727f80c706c43e3aefbb861c88b965e8a7713a8\" />在与 T-mobile 合并的计划几经波折后，原本在电信市场屈居劣势的 Sprint 发展也开始引来注目，尤其是该公司十分倚重的 5G 相关领域。除了明年将协同 LG 推出一款 5G 手机，稍早 Sprint 也宣布，将会在 2019 上半年，推出由 HTC 制造的「5G 移动智能网络中心（5G mobile smart hub）」便携式路由器。虽然没有提到太多细节，但官方也透露，该产品将会使用高通的 Snapdragon X50  modem，能提供各类数码设备 Gigabit 等级的连线速度...", 
+  "title": "HTC 和 Sprint 将在 2019 年合作推出 5G 便携式路由器"
+ }, 
+ {
+  "date": "Wed, 28 Nov 2018 08:00:00 -0500", 
+  "link": "https://cn.engadget.com/2018/11/28/amazon-cyber-monday-record/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=http%3A%2F%2Fmedia.zenfs.com%2Fen-GB%2Fhomerun%2Fengadget_uk_662%2Fa4f529b084d4bc3154a501220521b110&amp;client=a1acac3e1b3290917d92&amp;signature=30a2ba22a6d49e0a83377a379f1c3428871d7d79\" />在经历了感恩节购物季的一阵疯狂之后，亚马逊现在来回顾自己今年的成绩了。按照他们的说法，今年的「网络星期一」（Cyber Monday）已超过七月的 Prime Day，成为了公司史上最大的购物日。在感恩节前后五天的时间段内，Amazon 上各式各样的优惠总共吸引消费者在其网络商店中购买了超过 1.8 亿件商品。\n\n不过，在声明中官方没有透露单「网络星期一」一天售出的产品有多少，也没给出整个假期总共创下的营收数字。但好在还是有一些有趣的数据可以跟大家分享，比如说在「黑色星期五」当日消费者透过 Am...", 
+  "title": "亚马逊：今年的「网络星期一」是公司史上最大的购物日"
+ }, 
+ {
+  "date": "Wed, 28 Nov 2018 07:45:00 -0500", 
+  "link": "https://cn.engadget.com/2018/11/28/nubia-red-magic-mars/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2018-11%2Fd33814c0-f319-11e8-b7ff-3681b663b6d1&amp;client=a1acac3e1b3290917d92&amp;signature=ae21a67e6111a9bada7e30c8c9b026d05ed1b6c7\" />努比亚旗下电竞品牌红魔在四月时推出的第一款产品，因为用的只是高通上一代的驍龙 835 芯片，在规格上多少显得有那么点不够电竞。厂方显然也清楚这一点，于是在临近年尾的时候，我们迎来了硬件升级的红魔 Mars。这一次努比亚为自己的新机，用上了 S845 处理器和最高 10GB RAM。而且在初代电池外的三层石墨和背后 X 形的风冷散热槽之外，也另配了全新的液冷降温系统，希望以此来保证手机持续的高效能输出（专门的游戏模式开关键也被保留下来了）。", 
+  "title": "红魔 Mars 让努比亚的电竞手机终于有了旗舰级规格（更新：动手玩图集）"
+ }, 
+ {
+  "date": "Wed, 28 Nov 2018 06:30:00 -0500", 
+  "link": "https://cn.engadget.com/2018/11/28/oled-hfr-lg-ces-2019/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=http%3A%2F%2Fmedia.zenfs.com%2Fen-US%2Fhomerun%2Fengadget_479%2Fad129c6498ccd012cd9b453e0338f1be&amp;client=a1acac3e1b3290917d92&amp;signature=a97ff17243f5d35797b2cf97adf08a54df5f2a9d\" />2019 年 CES 渐渐逼近，而 LG 也选择在此时带来了一些旗下电视产品的最新消息。在一则宣传旗下电视 Alpha 处理器的官方新闻中，LG 为我们初步介绍了该公司 2019 年 OLED 电视将会使用的新 Alpha 9 处理器（第二代 &amp;alpha;9）。但令人疑惑的是，除了提及该处理器将提供新的「四段降噪」功能，并支持  120fps 的高帧率（HFR）视频，文中所列出的功能与去年的型号其实大致雷同。\n\n首先，相信多数人对于新的电视是否能支持 HDMI 2.1 标准应该十分好奇，有鉴于...", 
+  "title": "LG 开始透露旗下 2019 年 OLED 电视的相关消息"
+ }
+]
