@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Fri, 30 Nov 2018 04:30:00 -0500", 
+  "link": "https://cn.engadget.com/2018/11/30/dell-hack-attempt/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=http%3A%2F%2Fmedia.zenfs.com%2Fen-US%2Fhomerun%2Fengadget_479%2F4da52a7fb0e370502300b4920826bd73&amp;client=a1acac3e1b3290917d92&amp;signature=f7a735f1239466fdf9d4dba1ec0059ee1473be62\" />据 Dell 官方表示，在 11 月 9 日时，有一批骇客曾企图破坏该公司的网络以窃取用户资料。目前虽然没有确凿的证据，显示他们在当日的行动中有所斩获。但似乎也不代表用户资料真的就全数安全无虞。\n\nDell 在声明中解释，这次骇客企图窃取的资料，只包含了用户的姓名、email 和经过 Hash（杂凑函数）处理的密码。其它像是信用卡等相关资讯，则不包含于其中。Dell 也表示，在检测到骇客入侵的第一时间，公司便立即采取了对应手段，除了联系政府相关部门以及数字取证公司，也已重新设定所有用户的密码。如...", 
+  "title": "骇客企图盗取 Dell 的用户资料未果（吧？）"
+ }
+]
