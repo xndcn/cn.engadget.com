@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Sat, 01 Dec 2018 03:02:00 -0500", 
+  "link": "https://cn.engadget.com/2018/12/01/google-explains-pixel-3-ai-portraits/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=http%3A%2F%2Fmedia.zenfs.com%2Fen-GB%2Fhomerun%2Fengadget_uk_662%2F91db49205e9a05e32d6f8ed917fb29f7&amp;client=a1acac3e1b3290917d92&amp;signature=5e0730b909d7c4b1919b52b741191baf6e2631c2\" />跟前代相比，Google 今年出的 Pixel 3 系列在处理人像拍摄时的表现要来得更好。考虑到两者用的都是单颗主相机的设计，所以改进大部分还是来源于软件。那说到底，Google 究竟做了些什么让 Pixel 3 的人像算法变得更强？今天他们就决定发文来解释一下。\n\n在 Pixel 2 推出的时候，Google 是利用神经网络和相机上的相位对焦技术（后者主要是跟视差效果有关）来确定拍摄时处于前景的对象。但这套方案在面对变化不大的场景时就容易出错，而且在以小光圈进行拍摄的时候也比较容易发生问题。为...", 
+  "title": "Google 解释 Pixel 3 是如何靠 AI 改进人像功能的"
+ }
+]
