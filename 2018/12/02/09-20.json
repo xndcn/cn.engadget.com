@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Sun, 02 Dec 2018 04:15:00 -0500", 
+  "link": "https://cn.engadget.com/2018/12/02/windows-10-preview-privacy-microphone-update-reboot/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=http%3A%2F%2Fmedia.zenfs.com%2Fen-GB%2Fhomerun%2Fengadget_uk_662%2F076d422e4f0a151a7366988d65471feb&amp;client=a1acac3e1b3290917d92&amp;signature=5256b6999199d0917fbc0ed4b14c154c3b4be7ee\" />在最新的 Windows 10 Insider 预览版中，微软对隐私、通知方面的功能又做了些改进。首先，在通知区域能显示麦克风是否在被使用的基础上，他们又进一步加上了具体是哪个 app 在调用麦克风，或者有几个软件（如果不止一个的情况）在使用的说明。如此一来，使用者就可以对自已的音频隐私进行更好地保护。\n\n与此同时，继之前增加的暂停更新选项之后，微软现在又在系统托盘内加入了一个橙色的提示图案。让用户在使用系统时可以知道，设备有需要重启的更新等待安装，这样就可以避免电脑在不合时宜的时候自关自开了。...", 
+  "title": "Windows 10 可能很快会告诉你哪个 app 在使用麦克风了"
+ }
+]
