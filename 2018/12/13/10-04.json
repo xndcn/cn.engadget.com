@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Thu, 13 Dec 2018 05:00:00 -0500", 
+  "link": "https://cn.engadget.com/2018/12/13/ai-reveals-hidden-objects-in-the-dark/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=http%3A%2F%2Fmedia.zenfs.com%2Fen-US%2Fhomerun%2Fengadget_479%2F1dcd5f7bb0688149863414c202ae5f4d&amp;client=a1acac3e1b3290917d92&amp;signature=2d2bd84754d87ec59483eca04e577edcd5344ae4\" />在几乎完全没有光线的环境中，相信任何人都无法清楚看到大部分的物体，但对 AI 来说或许不是件难事。麻省理工学院的科学家近来开发出一种技术，能透过深度神经网络在几乎没有光线的环境下，看见其中的物体。为了让神经网络培养出这样的能力，该团队利用了一万张黑暗、充满噪点，甚至是没有对焦的图片，搭配上在其中存在的物品的图片，对其进行训练。而这样的方式，不仅让神经网络了解应该辨识出什么物品，也能训练其在微弱的光源下该如何从画面中凸显出该辨识的目标。除此之外，研究人员也给神经网路上了一堂物理课，让它理解没有对焦...", 
+  "title": "AI 技术可以让隐藏于暗处的物品现形"
+ }
+]
