@@ -1,0 +1,20 @@
+[
+ {
+  "date": "Wed, 19 Dec 2018 08:00:00 -0500", 
+  "link": "https://cn.engadget.com/2018/12/19/levandowski-claims-3099-mile-self-driving-car-trip/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=http%3A%2F%2Fmedia.zenfs.com%2Fen-US%2Fhomerun%2Fengadget_479%2F05b03b041c169e6b5694299141643c8e&amp;client=a1acac3e1b3290917d92&amp;signature=01e552a41d2b4e86671615fa2364b3f566e13a66\" />还记得那位离开 Uber，默默创立了一间自驾卡车新创公司的 Anthony Levandowski 吗？伴随这回久违的现身，这位颇具争议的工程师似乎带来了这段期间的成果。首先，他宣布自驾卡车新创公司 Pronto.AI 已正式成立，同时也发表了一支影片，纪录下他乘坐于搭载自家技术的自驾车中，自旧金山行经近 5,000 公里到达纽约的过程。根据他对卫报的说法，在完成这趟旅途前，这辆搭载 AI 技术的丰田 Prius 仅仅受过少量的训练，并且没有预先规划路径或在途中进行任何人为操作。如果真的如其所示...", 
+  "title": "前 Uber 工程师宣称以自驾车行驶了将近 5,000 公里"
+ }, 
+ {
+  "date": "Wed, 19 Dec 2018 07:00:00 -0500", 
+  "link": "https://cn.engadget.com/2018/12/19/chrome-may-fight-back-button-hijacks/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=http%3A%2F%2Fmedia.zenfs.com%2Fen-US%2Fhomerun%2Fengadget_479%2Ff44cbc25a0bfc7b427cb27f66be60714&amp;client=a1acac3e1b3290917d92&amp;signature=07ff14820e38c236b2a26eb60583af0c6d029574\" />网路上闲晃时，总会遇上一些奇怪的网站在点开之后就会把你不停重新导向至广告页面，而且你也不能简单回到上一页离开，查看浏览记录时更会惊觉浏览器曾被载入了数十个同样的网址里。终于 Google 要出手制止这些坏行为了，他们最近发布了新的 Chromium 代码，展示 Chrome 浏览器将会懂得针对这种操控历史记录的行为，自动标示或跳过非使用者操作的网页。\n\n虽然目前仍未有消息指 Google 会对于这些重新导向的网页主施加惩罚，但近期该公司已经着手对付显示虚假系统警报和其他恶意内容等网站，所以或许不...", 
+  "title": "Chrome 浏览器终于能制止绑架上一页的坏网页"
+ }, 
+ {
+  "date": "Wed, 19 Dec 2018 06:00:00 -0500", 
+  "link": "https://cn.engadget.com/2018/12/19/gboard-500-languages/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=http%3A%2F%2Fmedia.zenfs.com%2Fen-US%2Fhomerun%2Fengadget_479%2Fffc7b1b134c8892c08c5b17037bad23e&amp;client=a1acac3e1b3290917d92&amp;signature=b9f17164759406802c951526814b201e745804bd\" />不过是推出了两年，Google 的虚拟键盘 Gboard 已经支持多达 500 个不同语言。据 Google 的博客文章所指，这成就更让地球上 9 成的人口能以他们的母语在手机上输入文字。", 
+  "title": "Gboard 键盘推出仅两年，支持语言已经达 500 种"
+ }
+]
