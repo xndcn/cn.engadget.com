@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Thu, 20 Dec 2018 00:00:00 -0500", 
+  "link": "https://cn.engadget.com/2018/12/20/windows-sandbox-safety-programs/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=http%3A%2F%2Fmedia.zenfs.com%2Fen-US%2Fhomerun%2Fengadget_479%2Ff2b05c475a4aea42533dcd78c7c1e443&amp;client=a1acac3e1b3290917d92&amp;signature=1faa53e890907d656d0d65d868f3cd37ea4ce49b\" />长久以来，不论是下载或是执行一个未知的 .exe 文件，无疑都存在着一定的风险。而对于有测试这些文件需求的人来说，过去可能会选择在虚拟机上安装一个 Windows 来应付相关任务。而现在，微软新推出的 Windows Sandbox 或许会是一个更方便的选择。大小仅 100MB 的 Windows Sandbox 可以创造一个「与系统隔离的暂时性桌面环境」，让有相关需求的人可以在其中执行各类文件。一旦完成作业，整个沙盒将会被完全移除，进而确保电脑上的所有内容都不会受其影响。目前这项新功能可以在...", 
+  "title": "Windows Sandbox 是一个让你安心测试程序的好地方"
+ }
+]
