@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Wed, 19 Dec 2018 22:30:00 -0500", 
+  "link": "https://cn.engadget.com/2018/12/19/facebook-collects-user-data-tinder-okcupid/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=http%3A%2F%2Fmedia.zenfs.com%2Fen-GB%2Fhomerun%2Fengadget_uk_662%2F6c110b37031f1d85f1962c0be9c458be&amp;client=a1acac3e1b3290917d92&amp;signature=223052d0dbb77dd1ead5f6d3d9ae2d4fd5e5164e\" />德国的移动安全资讯公司 Mobilscher 发表报告详细说明 Facebook 如何在第三方 app 中获得用户资料，诸如 Tinder、Grindr、OKCupid、健康相关的 Pregnancy+ 和 MigraineBuddy，甚至宗教相关的 Bible+ 和 Muslim Pro 等多款 app，看似没有共通点，但原来都是内嵌了 Facebook 的 SDK。IP 位址、正在使用的 app、装置种类和使用者的独有广告辨识码这些个人资料也在 app 启动的时候，透过 SDK 被传回 Fa...", 
+  "title": "Facebook 竟可从第三方应用收集用户的敏感个人资料"
+ }
+]
