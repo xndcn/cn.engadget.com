@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Mon, 31 Dec 2018 01:00:00 -0500", 
+  "link": "https://cn.engadget.com/2018/12/31/more-popular-apps-are-sending-data-to-facebook-without-asking/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=http%3A%2F%2Fmedia.zenfs.com%2Fen-GB%2Fhomerun%2Fengadget_uk_662%2F7e51690b0606ece8d844bddfa64aa1a8&amp;client=a1acac3e1b3290917d92&amp;signature=997ea2062ea99e29b5ce978ce4de56d64f28f34a\" />会未经使用者同意就把数据回传给 Facebook 的 app 愈爆愈多，《金融时报》引述 Privacy International 的研究发现，在 Android 平台上最受欢迎的首 34 个 app 中，至少有 20 个没有事先询问使用者，在启动时就会回传资料给 Facebook，包括 Kayak、MyFitnessPal、Skyscanner 和 TripAdvisor。被回传给 Facebook 的使用者的各种分析数据，包括了使用者独有的 Android ID，随后更会连同其他数据回传。...", 
+  "title": "更多 app 被指未经同意就把数据回传给 Facebook"
+ }
+]
