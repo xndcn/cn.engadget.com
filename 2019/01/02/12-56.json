@@ -1,0 +1,26 @@
+[
+ {
+  "date": "Wed, 02 Jan 2019 07:00:00 -0500", 
+  "link": "https://cn.engadget.com/2019/01/02/oneplus-6t-mclaren-edition-design-battery-review/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-01%2F7de630e0-0e6e-11e9-bdda-f082d839d5b4&amp;client=a1acac3e1b3290917d92&amp;signature=777225677c9a60dd37c849b98d6eef307282819e\" />之前在标准版一加 6T 登场的时候，笔者就说过这款产品的商业意义在重要性上是大过手机在硬件上的升级的。对比一加 6，它各方面的加强幅度都在预料之中。虽然这符合一加在 T 系列上一贯的改进步调，但在今年多家品牌都开始大跃进的前提下，总不免会让人感觉欠缺了一点惊喜。\n\n或许也正是出于这个原因，厂方在后续又加推了一个不管是噱头还是产品本身都真正能让人眼前一亮的迈凯伦联名款。这个版本在笔者眼中会更符合对 6T 完全体的预期，而且有了它的存在，一加在年末的旗舰销售大战中底气估计也会变得更足了。", 
+  "title": "一加 6T 的迈凯伦版或许才是这款手机的完全体"
+ }, 
+ {
+  "date": "Wed, 02 Jan 2019 04:04:00 -0500", 
+  "link": "https://cn.engadget.com/2019/01/02/nasa-osiris-rex-asteroid-bennu-orbit/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=http%3A%2F%2Fmedia.zenfs.com%2Fen-GB%2Fhomerun%2Fengadget_uk_662%2F0795898962f1b8735c351a3657addfe2&amp;client=a1acac3e1b3290917d92&amp;signature=b2aaef6fb9295094a42cd4877faf7aa0d7107c92\" />虽然说上个月初 NASA 的小行星采样任务 OSIRIS-REx 就已经抵达了目的地 Bennu，但放在质量这么小的物体上，「抵达」和「入轨」还是两个不一样的概念的。在 OSIRIS-REx 速度减慢到可以被 Bennu 微弱的重力「捕捉」前，实际上两者是并行着绕着太阳前进，无法说 OSIRIS-REx 是以 Bennu 为主体在运行。\n\n现在经过一个月的轨道调整，OSIRIS-REx 终于开始围绕着 Bennu 运转，这也成为了人造卫星入轨成功的最小型星体，直径才 500m 而已。这打破了去年...", 
+  "title": "OSIRIS-REx 顺利进入小行星 Bennu 的轨道"
+ }, 
+ {
+  "date": "Wed, 02 Jan 2019 02:30:00 -0500", 
+  "link": "https://cn.engadget.com/2019/01/02/chrome-os-block-usb-port-locked-devices/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=http%3A%2F%2Fmedia.zenfs.com%2Fen-GB%2Fhomerun%2Fengadget_uk_662%2F59a7a0f8ef87655b2855f8addd57011a&amp;client=a1acac3e1b3290917d92&amp;signature=ff8b770e2093ec10aa57fa0888d6fdf4b17261dc\" />目前 Chromebook 即使上锁了，有心人士还是可以通过所谓的「Rubber Ducky」或其他恶意 USB 设备来骇进机器。Chrome Story 发现在 Canary Chrome 里内新增了 USBGuard 的功能，可以防止相关的恶意攻击。这做法就有如 Apple 在 iOS 11 开始限制设备的 USB 存取功能一样，可以保护使用者的个资。", 
+  "title": "Chrome OS 将会封锁已锁定 Chromebook 的 USB 口"
+ }, 
+ {
+  "date": "Wed, 02 Jan 2019 01:00:00 -0500", 
+  "link": "https://cn.engadget.com/2019/01/02/meditations-gaming-launcher/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=http%3A%2F%2Fmedia.zenfs.com%2Fen-US%2Fhomerun%2Fengadget_479%2F734be90d38926c0cd463d158bd03471d&amp;client=a1acac3e1b3290917d92&amp;signature=2be1ce68c796aee4f4d4eac6e3a8f2a50b507e00\" />自从 2017 年时，荷兰独立游戏工作室 Vlambeer 的负责人 Rami Ismail 因为玩了一个小游戏而开心了一整天，他便立下愿望，希望这样的体验能够天天发生，并让更多人也能藉此为忙碌的生活带来喘息的机会。于是他开始着手招募数百名开发人员，如今这项愿景终于以名为 Meditations（冥想）的游戏平台问市啰。\n\nMeditations 每天都会带来一个新的小游戏，每个游戏都会附上一段文字，让玩家们可以将其作为冥想、分散注意力、省思或是找寻灵感的契机。Ismail 表示，他希望每个人都...", 
+  "title": "让这个平台每天提供的小游戏帮助你放松身心吧"
+ }
+]
