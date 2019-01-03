@@ -1,0 +1,26 @@
+[
+ {
+  "date": "Thu, 03 Jan 2019 07:30:00 -0500", 
+  "link": "https://cn.engadget.com/2019/01/03/google-fuchsia-os-android-apps/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=http%3A%2F%2Fmedia.zenfs.com%2Fen-US%2Fhomerun%2Fengadget_479%2Fa77fdb1cad933bb4b550a045a346b7c3&amp;client=a1acac3e1b3290917d92&amp;signature=7fe9662487eff5d53085c9e7bae4b4e388d1fada\" />虽然谷歌新的 Fuchsia 操作系统可能还要几年才会问世，但根据 9to5Google 的消息，该系统应该是确认能运行 Android 的 app 啰。该报道指出，他们在 Android 开源计划网站（AOSP）上发现了一个新发布的文件，描述上说明「这是用来为 Fuchsia 建构 ART（Android Runtime）的。」换句话说，谷歌正在开发一个特殊版本的 ART，使得 Fuchsia 可以顺利运行 Android 的 app。\n\n此外，文件的备忘录中也写到「与面对一般 Android...", 
+  "title": "谷歌的 Fuchsia OS 将能运行 Android 的 app"
+ }, 
+ {
+  "date": "Thu, 03 Jan 2019 05:45:00 -0500", 
+  "link": "https://cn.engadget.com/2019/01/03/olympus-sports-camera-teaser/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-01%2F9ff43d00-0f43-11e9-b6ef-1c020411a9a3&amp;client=a1acac3e1b3290917d92&amp;signature=dfad1934ba42079183939f55096fae256fbcf46b\" />尽管在 2018 年里相机行业有不少让人兴奋的新闻，但那些似乎都跟奥林巴斯没有太大的关系。不过 2019 年一上来，情况就发生了改变，就在刚才这家老牌厂商宣布将会在 1 月 24 日推出一款全新的高端相机。在官方发布的预热视频中，摄影师手持装有电池手柄和 40-150mm f/2.8 变焦镜头的相机在泳池、沙滩边进行拍摄。从这些场景推测，此番奥巴要出的很有可能是一款主拍体育的高速、耐候新品，OM-D EM-1 Mark II 后继者登场的概率应该不低。\n\n之前 OM-D EM-1 Mark II...", 
+  "title": "奥林巴斯将在 1 月 24 日发布体育拍摄向的高端相机"
+ }, 
+ {
+  "date": "Thu, 03 Jan 2019 05:00:00 -0500", 
+  "link": "https://cn.engadget.com/2019/01/03/usb-c-protection-security-devices/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fengadget_uk_662%2Fcc22d49e14302f6d94c0b4d497804f2a&amp;client=a1acac3e1b3290917d92&amp;signature=2aaa0b99edbc9471c55c1fbf4269e1d5ed2188b1\" />USB 接口因为通用规格和易用的特性，成为了电子设备常见的连接端口，但也成了不法分子使坏的手段之一，以伪装成充电器和储存设备的外观来骇进电脑、手机等。USB 开发者论坛（USB-IF）就趁着 USB-C 仍然成长的阶段，为这新接口加入认证计划，希望能阻挡经物理连接的恶意攻击。", 
+  "title": "USB-C 接口将可加入认证协定，对抗恶意 USB 设备"
+ }, 
+ {
+  "date": "Thu, 03 Jan 2019 03:30:00 -0500", 
+  "link": "https://cn.engadget.com/2019/01/03/netflix-confirms-hiring-activision-cfo/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=http%3A%2F%2Fmedia.zenfs.com%2Fen-US%2Fhomerun%2Fengadget_479%2F4d9b0146748645751027e63ce4315d47&amp;client=a1acac3e1b3290917d92&amp;signature=8f12e577a4f8cc153571ebc7722acf098ebe7b8f\" />正当传闻喧嚣尘上，Netflix 在稍早出面证实他们的确已挖角了 Activision 的财务主管 Spencer Neumann，他将正式加入该公司取代即将退位的现任首席财务官 David Wells。但对于传闻中提到将会于 2019 年初正式上任，Netflix 则没有作出回应。而想当然尔，对此发展 Activision 并不是很开心啊。\n\nActivision 在一份官方的声明中表示，该公司已经以「违反法律义务」为由解雇了 Neumann。就此看来，Neumann 加入 Netflix 一...", 
+  "title": "Netflix 证实它挖走了 Activision 的首席财务官"
+ }
+]
