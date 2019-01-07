@@ -1,0 +1,14 @@
+[
+ {
+  "date": "Mon, 07 Jan 2019 01:46:00 -0500", 
+  "link": "https://cn.engadget.com/2019/01/07/nvidias-349-rtx-2060-gpu-is-more-powerful-than-a-1070-ti/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-01%2F25d22da0-1247-11e9-aff7-3e1f96209f58&amp;client=a1acac3e1b3290917d92&amp;signature=45b3dbc0c58eb29edf0712140a1ae0e07a4b5219\" />在推出了相对高端的 RTX 2080 Ti、2080 和 2070 显卡之后，NVIDIA 在今天的 CES 发布会现场正式端出了全新的 RTX 2060。这款新品具备有 240 颗 Tensor 核心，深度学习运算力可以达到 52 teraflops。它同时还采用了 6GB GDDR6 内存，并拥有 5 giga-ray 即时光线追踪机能（ray tracing）。虽说 2060 可能是目前最弱的一款 RTX，但按照 NVIDIA 的说法，它还是要比 1070 Ti 更快，性能较 1060 会...", 
+  "title": "NVIDIA 发布售价 US$349 的 RTX2060 显卡"
+ }, 
+ {
+  "date": "Mon, 07 Jan 2019 01:45:00 -0500", 
+  "link": "https://cn.engadget.com/2019/01/07/asus-zenbook-s13-hands-on/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fengadget_uk_662%2F91a431dff9071cb9deb7f3a00c3d567c&amp;client=a1acac3e1b3290917d92&amp;signature=924c669c080b70127cd826462961eb28ab359432\" />华硕今年在 CES 上推出了两款商务用的新笔记本。首先是号称拥有「世界最窄边框」的新款 ZenBook S，在 13.9 寸面板四周的边框仅 2.5mm 宽，而且藉由下沉式转轴巧妙的隐藏，连下边框都几乎不见踪影了。唯一稍微比较「突出」的只有上边框，除了提供开启上盖时让手指有个可以抓的地方之外，Webcam 也藏在这里。\n\n新款 ZenBook S 厚仅 12.9mm，虽然这比稍早的 Acer Swift 7 要厚上一点，但 Zenbook S 的效能也要高上不少，不仅可以选择 U 系列的 i5-...", 
+  "title": "华硕的更新款 ZenBookS 拥有「世上最窄的边框」"
+ }
+]
