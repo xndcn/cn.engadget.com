@@ -1,0 +1,14 @@
+[
+ {
+  "date": "Tue, 08 Jan 2019 04:01:00 -0500", 
+  "link": "https://cn.engadget.com/2019/01/08/samsung-updates-family-hub-smart-fridge-new-ui/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-01%2Fa4a412b0-1323-11e9-b72f-b48e9e1d8706&amp;client=a1acac3e1b3290917d92&amp;signature=f28f2f6b97ebd6d2a447a091662ba3c06a65483a\" />现在每到 CES，三星都会给自己的 Family Hub 智能冰箱进行一番更新。而今年的 Family Hub 2019 则是换上了一套重新设计的 UI，而且在 Bixby 的帮助下，使用者现在也能够以更自然的常用语言来向它提出难度更高的问题。除此之外，你当然也可以 Family Hub 上完成预设烤箱、搜索菜谱或是召唤 Uber 等语音操作，冰箱的屏幕上也能显示各类有用的信息。\n\n值得一提的是，三星表示新软件未来也会被自动更新到旧观的机器上，如果你家里有一台的话那就不妨期待一下啰。", 
+  "title": "三星为 Family Hub 冰箱带来新 UI 和更多功能"
+ }, 
+ {
+  "date": "Tue, 08 Jan 2019 04:00:00 -0500", 
+  "link": "https://cn.engadget.com/2019/01/08/intel-nervana-processor-for-inference/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fengadget_479%2Fed26ad0d84e457669fc81ef53437b066&amp;client=a1acac3e1b3290917d92&amp;signature=1d5ec6c1fa51bad577ed6157c5798fd4d63f0183\" />从去年开始就忙于 AI 处理器开发的 Intel 终于在稍早公开了最新成果，也就是新一代的 Nervana 神经网络芯片。Nervana 的特别之处，在于它最擅长的将是「推理」（将所拥有的知识应用于数据处理），而不是处理目前较常见的深度学习时所进行的培训。虽然 Intel 尚未提供详细资讯，但表示该公司正与 Facebook 进行合作，希望能开发出在处理推理相关任务上，有飞跃性进步的特殊芯片。\n\n对于 Facebook 未来实际上会如何使用 Nervana，目前尚不得而知。但根据现有的资讯，显然...", 
+  "title": "Intel 最新的 Nervana 处理器将专注于 AI 的推理能力"
+ }
+]
