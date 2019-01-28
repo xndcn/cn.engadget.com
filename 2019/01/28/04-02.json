@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Sun, 27 Jan 2019 23:00:00 -0500", 
+  "link": "https://cn.engadget.com/2019/01/27/android-q-hardware-face-recognition/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fengadget_uk_662%2F7a835454a9ea253934d11efd72547451&amp;client=a1acac3e1b3290917d92&amp;signature=fa8020e189c045e69a7ac0c81e90a3a0a5b4e712\" />目前 Android 阵营厂商想要推出搭载有脸孔辨识功能的手机产品，要不就自行研发，要不就应用 Android 系统中那轻易就被骗过的那方案。不过这乱局似乎很快就有改善，XDA 和 9to5Google 都发现到在早期版本 Android Q 的代码中，就已经有原生支持脸孔辨识的硬体。支持的深度更不限于解锁手机，而且更可以授权付款和登入 app，就如 Face ID 在 Apple 产品一样。\n\n然而目前还没有消息透露这原生的脸孔辨识功能，会如何在完整版的 Android Q 上出现，不过在惯例...", 
+  "title": "Android Q 或许会有对应苹果 Face ID 的能力"
+ }
+]
