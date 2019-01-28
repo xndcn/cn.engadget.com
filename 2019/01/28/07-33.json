@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Mon, 28 Jan 2019 02:27:00 -0500", 
+  "link": "https://cn.engadget.com/2019/01/28/mit-automatically-reduces-racist-biases-in-face-detection/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-01%2F117b8050-22cc-11e9-b5d5-271a91c68f64&amp;client=a1acac3e1b3290917d92&amp;signature=fb5e7fa425939487609b9efdfafd550a2bcfa8d4\" />为了降低种族差异对面部辨识系统的影响，过去曾有人尝试过提供更全面训练数据的方法，但这往往需要人工持续加入新的资料。而 MIT 的 CSAIL（计算机科学与人工智能实验室）目前正试图打造一套更好的方案，他们希望用新的算法来自动减少训练数据中的种族影响，从而达到进一步提升人脸辨识 AI 适用范围的目的。据称该方案会先对数据进行扫描，在确定其倾向性后会再重新采样，以确保数据能恰当覆盖到不同性别、肤色的人种。\n\n虽然在现阶段这套方案还没法完全消除相关的影响，但其效果似乎已经非常之显著。经过 MIT 的测...", 
+  "title": "MIT 正开发能自动减少种族差异影响的人脸辨识 AI"
+ }
+]
