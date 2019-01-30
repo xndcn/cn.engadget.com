@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Wed, 30 Jan 2019 09:00:00 -0500", 
+  "link": "https://cn.engadget.com/2019/01/30/firefox-65-privacy-controls/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-01%2Fc323cc60-2469-11e9-bff8-a610b39e78b7&amp;client=a1acac3e1b3290917d92&amp;signature=6b416408ff348c78a67213df6d6fe1886be990d3\" />在过去几年里 Mozilla 一直在有意加强 Firefox 的隐私功能，而新鲜出炉的桌面版 Firefox 65 在这方面又向前迈了一步。在这个新版本中，官方改进了内容拦截特性的选项。现在用户可以自由选择标准（仅在隐私窗口中拦截已知追踪器）、严格（拦截 FF 监测到的所有追踪器）和自订（使用者自己选择拦截的内容）三种模式，以满足不同的浏览需求。\n\n除此之外，在 Windows 版 FF65 中还增加了对 AV1 视频格式和 WebP 图片的支持，并且针对性能管理进行了改善。而在 Mac 这边，...", 
+  "title": "桌面版 Firefox 带来更清楚、灵活的隐私功能"
+ }
+]
