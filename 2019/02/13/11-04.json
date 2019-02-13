@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Wed, 13 Feb 2019 06:00:00 -0500", 
+  "link": "https://cn.engadget.com/2019/02/13/500px-2018-breach-exposed-user-data/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fengadget_uk_662%2Fe7dae7d52155d27831e7489dc2b0189e&amp;client=a1acac3e1b3290917d92&amp;signature=ab04653a56df8cb7f0186721135f09f994abbeb3\" />照片分享平台 500px 今天公开了自已去年 7 月的时候发生用户资料外泄的事件，但一直到几天前的 2 月 8 日才发现。据调查，未授权的侵入者取得了所有在当时已注册的用户的全名、Email、hash 加密过的密码、以及选填的生日、地址、姓别等资讯，但并未有取得其他相关资料（例如信用卡号码）的证据。\n\n做为标准应对程序，500px 表示他们已经修补好让侵入者有机可趁的漏洞，并已经重设了所有人的密码，同时建议所有受影响的人更改所有其他地方所使用的相同密码，以策安全。如果想要取回所有在 500px...", 
+  "title": "500px 现在才发现去年 7 月曾发生用户资料外泄"
+ }
+]
