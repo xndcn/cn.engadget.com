@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Fri, 15 Feb 2019 04:01:00 -0500", 
+  "link": "https://cn.engadget.com/2019/02/15/xiaomi-m365-electric-scooter-hack-bluetooth/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=http%3A%2F%2Fmedia.zenfs.com%2Fen-US%2Fhomerun%2Fengadget_479%2Ffd991c772e15541a545c966c181608d8&amp;client=a1acac3e1b3290917d92&amp;signature=8a56431096a868997060133b7288ebd76ddede45\" />电动滑板车不仅是我们这里，在国外也是个愈来愈热门的产品类别，而小米虽然进入市场不算早，但因有合作的共享滑板车厂商，因此在美国已有了不错的发展。不过行动安全公司 Zimperium 发现，小米的 M365 电动滑板车（应该就是米家电动滑板车）的蓝牙模组有个漏洞，让骇客可以「遥控」滑板车的油门。\n\n这个漏洞利用了蓝牙模组与手机 App 间的连线，骇客不需特别的密码或确认，就能直接连进 M365 的系统，而且当骇客上传恶意软件到机器上时，系统也不会确认软件是否来自受信任的官方来源。这让他们可以做到任意...", 
+  "title": "骇客找到方法「遥控」小米的 M365 电动滑板车"
+ }
+]
