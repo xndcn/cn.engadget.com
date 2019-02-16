@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Sat, 16 Feb 2019 05:00:00 -0500", 
+  "link": "https://cn.engadget.com/2019/02/16/ai-creates-infinite-fake-faces/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fengadget_uk_662%2Feba4563f780ecc65abe8ab401c66dffb&amp;client=a1acac3e1b3290917d92&amp;signature=0ffc83cbc940aa40e0c8b250330a5e8d892aab0f\" />一位名为「Phillip Wang」的开发者，打造了一个名为「ThisPersonDoesNotExist（这个人不存在）」的网站，顾名思议，就是可以无限量地产生其实并不存在的人的肖像照。这个工具利用了 NVIDIA 设计的生成式对抗网路（generative adversarial network）和大量的人脸资料，来训练一个模型，产生「合理」的人脸来。靠着租用的伺服器与 GPU，这套系统大约每两秒就能产生一个新的脸出来，对于运算的要求其实不算太高。\n\n当然，在生成的过程中，一点瑕玼是难免的，...", 
+  "title": "这个网站用 AI 来创造无限数量的「假脸」"
+ }
+]
