@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Tue, 19 Feb 2019 00:00:00 -0500", 
+  "link": "https://cn.engadget.com/2019/02/19/google-chrome-incognito-mode-blocking/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=http%3A%2F%2Fmedia.zenfs.com%2Fen-US%2Fhomerun%2Fengadget_479%2F9ff47f504b8c89c031bf29e4561f2b02&amp;client=a1acac3e1b3290917d92&amp;signature=be99ab9a4d7b08032b72ee15c61c0aa5e76d9f43\" />Chrome 的无痕模式其实长久以来都存在着一个漏洞，让有心网站得以侦测造访者是否正在使用无痕模式，并藉此企图获取用户的相关数据。近来甚至包含波士顿环球报和麻省理工科技评论等含有付费内容的知名网站，也开始使用这个的漏洞，为的是防止任何人在无痕模式下跳过付费步骤，直接浏览相关内容，同时尽可能地获取用户的各类数据。好消息是，根据 9to5Google 稍早的报导，Google 已经展开对此漏洞的修补行动了。\n\n该漏洞主要是源于 Chrome 的「FileSystem」API。正常来说，在无痕模式下此...", 
+  "title": "Chrome 将会让无痕模式更经得起有心网站的刺探"
+ }
+]
