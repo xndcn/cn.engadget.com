@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Mon, 25 Feb 2019 21:30:00 -0500", 
+  "link": "https://cn.engadget.com/2019/02/25/android-fido2-certification/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fengadget_uk_662%2F1e4557f5fca5c9d3fb2ff111da8be952&amp;client=a1acac3e1b3290917d92&amp;signature=be973919f65ff4f06758dc3d5b06cadb6fb2f39d\" />现在的智能手机说是有各种各样的生物辨识系统来代替密码，但其使用能算是广泛吗？像是部分 app 和网页就还是需要人手输入密码了。不过，Android 系统获确认正式得到 FIDO2 认证，此后就可以在兼容的 app 和使用 WebAuthn 标准的网页中，直接使用指纹或实体安全金匙来登入，不需要再输入长长的密码字元了。\n\n规格上，这认证支持 Android 7.0 Nougat 和以后的装置，只要透过 Google Play Service 就可以获得如此方便的新功能，当然这也要开发者端的及时更新...", 
+  "title": "免密码登入将会更常见于 Android 的 app 和网页"
+ }
+]
