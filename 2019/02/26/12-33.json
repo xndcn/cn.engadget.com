@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Tue, 26 Feb 2019 07:30:00 -0500", 
+  "link": "https://cn.engadget.com/2019/02/26/apple-in-app-subscriber-discounts/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D5616%2C3744%2C0%2C0%26quality%3D85%26format%3Djpg%26resize%3D1600%2C1067%26image_uri%3Dhttps%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-02%2Fc1dd8080-3940-11e9-bf7c-5a65daf8ace8%26client%3Da1acac3e1b3290917d92%26signature%3D7fa9295b64ecf74dcce2bc7440c9719274015df3&amp;client=a1acac3e1b3290917d92&amp;signature=f258d1ad88089a42a0ec220cbcca7cd8ba377057\" />为了鼓励用户们持续订阅 app 的服务，苹果将允许开发者为现有订户们提供折扣优惠。直到稍早之前，开发人员都只能向新用户提供免费赠品或是优惠活动，但这也代表他们并没有相关管道能激励现有订户持续地付费。随着越来越多的 app 从买断制转向付费订阅的经营模式，如此改变相信对于开发人员和用户们都是好消息啊。\n\n现在凡是使用 StoreKit API，在 iOS 12.2、macOS 10.14.4 和 tvOS 12.2 最新测试版的系统中，app 都将能提供三种类型的优惠折扣，包括：限时免费订阅、订阅...", 
+  "title": "苹果允许开发者向现有订户提供 app 内订阅优惠了"
+ }
+]
