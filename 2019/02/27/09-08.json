@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Wed, 27 Feb 2019 04:00:00 -0500", 
+  "link": "https://cn.engadget.com/2019/02/27/google-machine-learning-wind-power/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D4806%2C3078%2C0%2C0%26quality%3D85%26format%3Djpg%26resize%3D1600%2C1025%26image_uri%3Dhttps%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-02%2Ffbc6fd80-39ef-11e9-9eef-69c987edfb3f%26client%3Da1acac3e1b3290917d92%26signature%3D60177864fb2c99e079329f7bef398a473f2e6200&amp;client=a1acac3e1b3290917d92&amp;signature=93f8db15140352b22249651bab16ae2faa0bd344\" />风力发电是近来愈来愈普及的一种发电方式，但随着风力发电占比逐步提高，其不稳定性和不可预测性便成了愈来愈大的考验。为了进一步提高风力发电的实用性，Google 提出了用机器学习的方式，来预测未来的发电状况，做为供电的参考。\n\nGoogle 自去年起，将气象观测资料、气象预测、和实地的量测结果喂进 DeepMind 的机器学习平台上，提供 36 小时后的风力预测，并且应用在自家位于美国中部的 700MW 风力发电场。虽然说这并不能改变风吹的量，但却让 Google 能提前知会电力公司未来一天预计能提...", 
+  "title": "Google DeepMind 将机器学习套用到风力发电上，提前 36 小时提供预测"
+ }
+]
