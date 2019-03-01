@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Fri, 01 Mar 2019 05:00:00 -0500", 
+  "link": "https://cn.engadget.com/2019/03/01/google-chromechrome-bfcachel-speed-back-button-page-load/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fengadget_uk_662%2Fd0d0b7ed9e8876cdbc342a1f35399d94&amp;client=a1acac3e1b3290917d92&amp;signature=74ddb574b33a6be2f45b440b357c6af45eade242\" />浏览网页时免不了会来回不同的页面，但在返回上一页时却会因为浏览器需要重新载入内容而要等待一下。但 Google 希望为 Chrome 的使用者减少这些烦恼，所以他们研发了新的缓存技术 bfcache（back-forward cache）。Google 表示，这 bfcache 技术可以为 Android 版本的 Chrome 浏览器在返回上一页时提速 19%；PC 版有 10%。\n\n这功能看似简单，不过其实有相当的挑战，尤其是会引起私隐的忧虑，例如是要确保 JavaScript 不会在没有显示...", 
+  "title": "Google Chrome 新的缓存功能让你更快载入上一页"
+ }
+]
