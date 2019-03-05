@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Tue, 05 Mar 2019 03:00:00 -0500", 
+  "link": "https://cn.engadget.com/2019/03/05/google-discloses-high-severity-mac-security-flaw/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D1600%2C966%2C0%2C0%26quality%3D85%26format%3Djpg%26resize%3D1600%2C966%26image_uri%3Dhttps%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-03%2Ffc468f90-3e96-11e9-adeb-410c14e482af%26client%3Da1acac3e1b3290917d92%26signature%3Df3950650f002fefaeea37110a32d763519913219&amp;client=a1acac3e1b3290917d92&amp;signature=953146628d4737e56cf18a91518e4c9d87288e4d\" />谷歌的 Project Zero 安全披露计划稍早再显双面刃的本色，这回走上刑台的又是老面孔 macOS 啦。谷歌指出 macOS 目前存在着一个严重的内核（kernel）漏洞，它能让有心人士在虚拟管理子系统不会察觉的情况下，安然修改用户挂载的文件系统映像档。对此苹果的修正档仍在开发当中，相信在还未发布前，Mac 用户的心情多少会受到影响吧。\n\n至于为何 Project Zero 会选在此时发布这项消息呢？像是去年 11 月时，Google 也是在 Apple 尚未修补漏洞前，就提前揭露了相关消...", 
+  "title": "谷歌又在苹果推出补丁前公开了一个 Mac 上严重的安全漏洞"
+ }
+]
