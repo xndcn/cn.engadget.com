@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Tue, 05 Mar 2019 04:00:00 -0500", 
+  "link": "https://cn.engadget.com/2019/03/05/web-authentication-becomes-official-standard/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D6500%2C3900%2C0%2C0%26quality%3D85%26format%3Djpg%26resize%3D1600%2C960%26image_uri%3Dhttps%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-03%2F4e4f79a0-3e83-11e9-befd-598e2310e077%26client%3Da1acac3e1b3290917d92%26signature%3De82437b5be74d279f67b8fc4fe1bdc8e0eae428c&amp;client=a1acac3e1b3290917d92&amp;signature=3e95b1977d3ab2d3decf32a5f3fe20a841cb6b7d\" />FIDO 联盟的 FIDO2 标准及其核心的 Web Authentication（WebAuthn）规范由于各大科技公司的支持，已经在很大的程度上，成为了网络上非密码登入的主流标准。如今 W3C 正式将其纳入了网络标准之中后，未来预期将会有更多的网站采用，让非密码式的登入更为普及吧！\n\n目前支持 WebAuthn 的平台有 Windows 10 及 Android，再加上 Google Chrome、Mozilla Firefox、Microsoft Edge、Apple Safari（预览版...", 
+  "title": "W3C 与 FIDO Alliance 宣布 WebAuthn 成为网絡标准"
+ }
+]
