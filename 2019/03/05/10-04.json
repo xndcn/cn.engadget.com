@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Tue, 05 Mar 2019 05:00:00 -0500", 
+  "link": "https://cn.engadget.com/2019/03/05/facebook-2fa-phone-number/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-03%2F6d3e5b50-3f1f-11e9-afbf-88a4a07ecd15&amp;client=a1acac3e1b3290917d92&amp;signature=ea3c3f15292e639a028358a0fd812c6c46e17d47\" />Facebook 又在用户隐私这件事上惹麻烦了，这次的问题根源仍然是对个人数据的滥用。最近有使用者发现，原本仅仅是提供给两步验证使用的私人电话号码，竟然也可以被别人拿来查找对应的帐号。Facebook 未经允许便提供了这样的寻人途径，同时也没有给两步验证用户将此关闭的选项。\n\n按照 Twitter 上 Jeremy Burge 的说法，你给 FB 的号码可被用于搜索，而且「根本没有办法把它关掉」，最多只能把允许查找的范围限定在好友圈内而已（但预设范围可是所有人皆能利用号码查找）。另外这些数据也会...", 
+  "title": "提供给 Facebook 两步验证的号码，是没法真正保持私密的"
+ }
+]
