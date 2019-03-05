@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Tue, 05 Mar 2019 01:30:00 -0500", 
+  "link": "https://cn.engadget.com/2019/03/05/android-tv-bug-google-photos/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D4290%2C2748%2C0%2C0%26quality%3D85%26format%3Djpg%26resize%3D1600%2C1025%26image_uri%3Dhttps%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2018-10%2F0f7aa990-d0c2-11e8-b73d-ca6e2a825935%26client%3Da1acac3e1b3290917d92%26signature%3D3f68436fa3e28af9afaffdbac903c9e5131a9696&amp;client=a1acac3e1b3290917d92&amp;signature=9167e66f55f1415f3e1d099f85af3d6a6a0366af\" />不知道大家还记不记得，Google 有为智能电视推出一个专属的 Android TV 系统，其中一个最实用的功能是可以把 Google Photos 里的相片选作屏幕保护相片般播放，当作大型电子相框般用。然而这功能却出现个尴尬的漏洞，在 Twitter 上有用户表示，他可以在 Google Home 应用里找到一个长长的陌生人的用户列表，然后可以把他们在 Google Photos 上的相片放到电视上当作屏幕保护相片播放。\n\n这有问题的设定是在「已连结的帐户」之中，但这漏洞却让使用者可以点选存取...", 
+  "title": "Android TV 漏洞让用户看到陌生人的 Google Photos"
+ }
+]
