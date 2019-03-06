@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Wed, 06 Mar 2019 08:00:00 -0500", 
+  "link": "https://cn.engadget.com/2019/03/06/ji32k7au4a83-password/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-03%2F61e278f0-3e3d-11e9-8d3f-1d655a2d9c0b&amp;client=a1acac3e1b3290917d92&amp;signature=eb8da3b00ca1bf1355d348a122d64e2c024f4302\" />乍看之下，「ji32k7au4a83 」这组密码似乎挺正常的，甚至基于其复杂的程度，相信不少人应该会觉得它还蛮安全的吧？但事实上，如果将这组看似乱码的密码，输入至知名的密码盗用查询网站 Have I Been Pwned 中，你会发现该密码已经被盗用了 141 次啦。至于原因呢，只能说如果你是位于台湾的读者，请试着用注音输入法输入这串文字，相信马上就会懂啰。\n\n当然这边也要为不使用注音（台湾所普遍使用的标音系统）的读者们解释一下，当使用该输入法键入这串乱码时，其实就会打出「我的密码」四个字。也或...", 
+  "title": "别再使用「ji32k7au4a83 」作为你的密码啦！"
+ }
+]
