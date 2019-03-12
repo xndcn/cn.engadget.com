@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Tue, 12 Mar 2019 10:01:00 -0400", 
+  "link": "https://cn.engadget.com/2019/03/12/firefox-send-share-encrypted-files/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-03%2F289497f0-449a-11e9-abbf-72ce35b739d7&amp;client=a1acac3e1b3290917d92&amp;signature=391d94062163a328d1ec77f1119e9639b0e2c5b3\" />在 2017 年的时候，Mozilla 曾为 Firefox 推出过一项名为 Send 的服务，让使用者可以将不大于 1GB 的文件，临时上传到云端进行一次性加密分享。而在今天官方对 FF Send 进行了一番更新，他们现在允许用户在登入 FF 帐号后分享最大 2.5GB 的文件（不登录的话还是限制为 1GB）。同时在浏览器以外，还新增了通过 Android beta app 传输的特性。\n\n和 Dropbox、WeTransfer 等服务相比，Firefox Send 作为浏览器的扩展功能，似...", 
+  "title": "Firefox 为 Send 免费加密文件传输服务带来更多功能"
+ }
+]
