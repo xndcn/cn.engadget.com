@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Tue, 12 Mar 2019 22:00:00 -0400", 
+  "link": "https://cn.engadget.com/2019/03/12/windows-10-automatically-uninstall-buggy-updates/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-03%2F3e5086f0-44f2-11e9-bb7d-968e7106b4a4&amp;client=a1acac3e1b3290917d92&amp;signature=53f085de66a7949442ef32a142139b722a165997\" />带 bug 的系统更新会让人很头疼，而微软现在想到了新的解决办法。日前他们在官方支持页面上证实，当更新内容与系统不相容或是存在严重 bug 的时候，若是 Windows 没有其它办法来解决问题，那它就会把删除更新作为最后的方案。如果遇到这种情况的话，那你在开机时应该会看到「我们删除了一些近期安装的更新，让你的设备可以再次正常启动」。\n\n此外，为了防止更新中的 bug 未来再次影响到用户，Windows 还会在 30 天内自动暂停安装「有问题的更新」。从微软的角度出发，这段时间应该能让他们找到修复...", 
+  "title": "Windows 10 将会自动删除有严重 bug 的更新"
+ }
+]
