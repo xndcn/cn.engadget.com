@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Sat, 16 Mar 2019 04:10:00 -0400", 
+  "link": "https://cn.engadget.com/2019/03/16/winrar-bug-malware/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fengadget_uk_662%2F63506301210957f1197df86513d32da7&amp;client=a1acac3e1b3290917d92&amp;signature=2e083018772d78e641460d4b7470f6914ce11940\" />各位还记得上个月我们曾报导的一个存在 WinRAR 中 19 年的 bug 吗？在消息公开后不久后，该公司已尽速地对其作出了修补。但也由于该漏洞现在广为人知，不少取巧的骇客正趁着用户尚未更新至 5.70 版本前展开攻击。McAfee 在一篇官方文章中表示，他们目前已经发现了超过 100 起相关的攻击，其中多数的目标都集中在美国。\n\n藉此漏洞，骇客们只要将 ACE 文件重新命名为 RAR 副档名，就可以在使用者利用 WinRAR 解压缩文件时，神不知鬼不觉地在 startup 资料夹中生成一个恶意...", 
+  "title": "McAfee 发现超过 100 起针对 WinRAR 上 19 年漏洞的攻击"
+ }
+]
