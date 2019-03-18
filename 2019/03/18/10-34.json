@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Mon, 18 Mar 2019 06:30:00 -0400", 
+  "link": "https://cn.engadget.com/2019/03/18/mit-csail-kpam-robot-system/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D1600%2C990%2C0%2C0%26quality%3D85%26format%3Djpg%26resize%3D1600%2C990%26image_uri%3Dhttps%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-03%2F3c879d60-488d-11e9-b4fa-2553e2397294%26client%3Da1acac3e1b3290917d92%26signature%3D6428eaed425dec83e2fdd73e3e60e095d5039f87&amp;client=a1acac3e1b3290917d92&amp;signature=f4f449a527d0ec1f05885e06fc70b9be30547a09\" />虽然随着科技的演进，机器人们也变得越来越聪明了，但多数于工厂作业的机器人，依然需要透过事先设定，才有办法正确处理眼前的事务。然而麻省理工学院计算机科学与人工智慧实验室（CSAIL）近来开发出一种新系统，将能赋予机器人们学会并处理首次见到的物体的能力。这个新系统名为 kPAM，它能让机器人将眼前的物体视为一系列 3D 节点的组合，并藉此创造出对应的视觉蓝图，以判断该如何行动。", 
+  "title": "机器大脑能够让机器人理解并操作它们从未见过的物体了"
+ }
+]
