@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Tue, 19 Mar 2019 01:15:00 -0400", 
+  "link": "https://cn.engadget.com/2019/03/19/nvidia-ray-tracing-tech-coming-to-GTX-cards/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D1399%2C932%2C0%2C0%26quality%3D85%26format%3Djpg%26resize%3D1600%2C1066%26image_uri%3Dhttps%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-03%2F7a1e9090-49c1-11e9-befd-04088bf8a94a%26client%3Da1acac3e1b3290917d92%26signature%3Dc3b1ce2ceda0ac0145d608bc9aae79dd2dd6ac44&amp;client=a1acac3e1b3290917d92&amp;signature=62193e756f5b319f2faf6218ee11a02d09fef70f\" />NVIDIA 今天稍早宣布了早一代的 GTX 10 系列将在四月获得对 DXR API 的支援，也就是说 GTX 1060 以上的显卡都将获得即时光线追踨技术（ray-tracing）的能力。不意外地，在缺少 RTX 系列显卡专有的 RT 核心之下，GTX 系列显卡开启即时光线追踨后的帧率将掉到不能用的边绿上 &amp;mdash;&amp;mdash; 例如《地铁：离乡》在 1440p 解析度下只有 18fps &amp;mdash;&amp;mdash; 但 NVIDIA 希望游戏开发者们能选择性地在游戏画面中加入即时光线...", 
+  "title": "NVIDIA 的即时光线追踨技术既将来到 GTX 显卡上"
+ }
+]
