@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Wed, 20 Mar 2019 08:30:00 -0400", 
+  "link": "https://cn.engadget.com/2019/03/20/nvidia-ai-doodles-photorealistic/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=http%3A%2F%2Fmedia.zenfs.com%2Fen-US%2Fhomerun%2Ftechcrunch_350%2Ff460b67f5341691f4e44a3631a248eea&amp;client=a1acac3e1b3290917d92&amp;signature=1536e9364624772f11faabe59c8708414750b043\" />NVIDIA 在今年的 GPU 技术大会（GTC）上，带来了一个名为「GauGAN」的新 AI 示范软件，可以将一个指示哪里是草地、哪里是天空、哪里是云的草图，转换成颇具真实感的风景照。它利用的是名为「生成式对抗网络（generative adversarial networks）」的机器学习方式，让 AI 可以从真实世界的照片中学习不同的材料在不同的地方应该呈现什么样貌，以及两种材质间的边界可以用什么样的方式来处理最为洽当。", 
+  "title": "NVIDIA 的 AI 可以将涂鸦转换成颇具真实感的风景照"
+ }
+]
