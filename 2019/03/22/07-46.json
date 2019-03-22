@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Fri, 22 Mar 2019 03:44:00 -0400", 
+  "link": "https://cn.engadget.com/2019/03/22/finland-investigating-nokia-data-china/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D4888%2C3258%2C0%2C0%26quality%3D85%26format%3Djpg%26resize%3D1600%2C1066%26image_uri%3Dhttps%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-03%2F5607c970-4bdc-11e9-b7d5-ab4837749001%26client%3Da1acac3e1b3290917d92%26signature%3D9598ea0ad82afb6d088761aebaabd46d2ce6d261&amp;client=a1acac3e1b3290917d92&amp;signature=e48b529cb8f4836e271ac7d5134184f6dc47921a\" />芬兰的资安部门正在调查诺基亚的母公司 HMD，因为据当地公营广播业者 NRK 的发现，他们的 Nokia 7 手机在启动后就把多项敏感资料回传到设于中国的服务器。发现这问题的 Henrik Austad 表示，这些资料包括身处位置、SIM 卡号码和电话号码，全都未被加密地传到位址名为「vnet.cn」的服务器，NRK 接着发现这 vnet.cn 服务器其实是由国营的中国电信拥有。", 
+  "title": "芬兰正调查诺基亚手机会传输敏感资料到中国的报导"
+ }
+]
