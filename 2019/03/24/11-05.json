@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Sun, 24 Mar 2019 07:00:00 -0400", 
+  "link": "https://cn.engadget.com/2019/03/24/android-ad-fraud-scheme-drained-batteries/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fengadget_uk_662%2F6318c36b8d9b343738d6f6c45a6ba057&amp;client=a1acac3e1b3290917d92&amp;signature=754559c45df42566cb4c0be5e6f0f3a2d06b70d1\" />BuzzFeed News 报导指他们获最少有两家欺诈检测公司确认现在有大规模的恶意广告在肆虐，整个骗局是先透过绑架使用 Twitter 的 MoPub 广告平台的 app 内广告，然后就会在相关 app 运行时悄悄地在播放他们的视频广告，但因为这都会隐藏在正当的图片广告之后，所以使用者并不自知。问题就是投放广告的商户只会知道视频广告有被播放而需要支取费用，但却不知道广告其实并没有被任何人看到，同时 app 的开发者更会被使用者投诉指这 app 消耗了比预期更多的电池和数据。", 
+  "title": "恶意广告让 Android 装置消耗大量电池和数据"
+ }
+]
