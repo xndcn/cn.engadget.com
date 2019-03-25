@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Mon, 25 Mar 2019 03:30:00 -0400", 
+  "link": "https://cn.engadget.com/2019/03/25/faa-tentatively-approves-737-max-fix/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fengadget_uk_662%2F7f7c20cbb9628f15dd7af119c8f730a1&amp;client=a1acac3e1b3290917d92&amp;signature=bca9c6b970ed23342e905bc63ba9fb7fc8e38976\" />据华尔街日报报道，波音的 737 Max 危机处理或许即将有了成果，由 FCC「初步」核可了波音提供的软件更新，并且将进入飞行模拟器与实测的阶段。航空公司们最快数周内就可以获得更新，不过确切的时程尚未拍板定案，未来还有更动的可能性。\n\n这个软件更新主要是解决飞行辅助系统 MCAS 过于「激进」的问题，确保 MCAS 不会仅由一个攻角感测器（测定飞机仰角与前进方向间的夹角）的数据就做出反应，同时也将 MCAS 操作升降舵的角度进行限制，使机师保有强制忽略 MCAS 进行手动操作的选项。波音稍早已将...", 
+  "title": "美国 FAA 初步核可波音 737 Max 的软件更新"
+ }
+]
