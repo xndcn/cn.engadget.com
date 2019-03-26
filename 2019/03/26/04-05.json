@@ -1,0 +1,14 @@
+[
+ {
+  "date": "Tue, 26 Mar 2019 00:00:00 -0400", 
+  "link": "https://cn.engadget.com/2019/03/26/powerbeats-pro-code-leak/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D1600%2C1067%2C0%2C0%26quality%3D85%26format%3Djpg%26resize%3D1600%2C1067%26image_uri%3Dhttps%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-03%2Fc400ed00-4f4a-11e9-9ee7-be26435d0711%26client%3Da1acac3e1b3290917d92%26signature%3D85408af8e65de50c675f31f12ff9c41ae0c1b3e9&amp;client=a1acac3e1b3290917d92&amp;signature=c6ef858688c075d43feb23c2e2d7f3ba91db5c38\" />不久之前报导过苹果或许也会以 Beats 子品牌推出新的真・无线耳机，虽然它没有在昨晚的苹果活动上亮相，不过却出现在最新释出的 iOS 12.2 更新之中。9to5Mac 发现在这系统版本中，藏有名为 Powerbeats Pro 的影像资讯，可见是沿用针对运动族群的挂耳式设计，同时引入了大家都引颈期盼的雾面黑色，就连便携充电盒也一整个黑色的。\n\n目前仍未知道 Powerbeats Pro 会有什么规格，不过结合早前 CNET 的报导，这新耳机也会用上 H1 无线芯片，引入语音激活的 Hey S...", 
+  "title": "Beats 版本的 AirPods 大概是长这个样子"
+ }, 
+ {
+  "date": "Mon, 25 Mar 2019 23:57:00 -0400", 
+  "link": "https://cn.engadget.com/2019/03/25/asus-hack-shadowhammer-backdoor/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D3999%2C2661%2C0%2C0%26quality%3D85%26format%3Djpg%26resize%3D1600%2C1065%26image_uri%3Dhttps%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-03%2F3b369090-4f15-11e9-ab67-4197cbc809e8%26client%3Da1acac3e1b3290917d92%26signature%3D7d3dc2ca71cd17aea238912d88bebc8e58f4981d&amp;client=a1acac3e1b3290917d92&amp;signature=be038529b5af7ab293694cdacfac3b84f61f5160\" />据 Kaspersky Lab 释出研究报告显示，华硕在过去半年以来不知情地为骇客散播包含后门程序的恶意软体到逾五十万台 Windows 电脑。骇客是透过劫持了华硕其中一个用于推出软体更新的服务器，实行被名为 ShadowHammer 的攻击，不过这问题已经在去年被发现且制止了。\n\nKaspersky Lab 表示，骇客在获得负责软体更新的服务器的存取权后，就可以把恶意软体躲在华硕获得的数码认证后面，传送到连结的机器中。在这次的事件，就是把留有后门程序的虚假软件更新推送给电脑，因为 Kasper...", 
+  "title": "骇客透过华硕服务器把后门程序安装到旗下电脑"
+ }
+]
