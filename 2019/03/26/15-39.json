@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Tue, 26 Mar 2019 11:34:00 -0400", 
+  "link": "https://cn.engadget.com/2019/03/26/asus-releases-fix-for-update-tool-malware-attack/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-03%2F844effc0-4fdc-11e9-9ab3-4f0c1634db47&amp;client=a1acac3e1b3290917d92&amp;signature=deac691a5b91d7923b7d5f2b52931cf248b36933\" />早些时候华硕被爆出在不知情情况下散播后门软件的事件，现在又有了最新的进展。就在不久前官方为旗下笔记本推出了新版本的 Live Update 软件，彻底杜绝了设备遭受 ShadowHammer 攻击的风险。除此之外，华硕还承诺新的「多重安全认证机制」能够减少未来类似问题再发生的可能性，并且会启用一套「端到端加密的加强机制」。同时他们也不忘指出，自己在用户看不到的服务器系统上也进行了针对性的改进。\n\n值得一提的是，尽管 Kaspersky Lab 认为此次受到影响的电脑至少有大约 50 万台，但华硕...", 
+  "title": "华硕释出针对 ShadowHammer 恶意软件的更新"
+ }
+]
