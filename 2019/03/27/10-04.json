@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Wed, 27 Mar 2019 06:00:00 -0400", 
+  "link": "https://cn.engadget.com/2019/03/27/firefox-lockbox-for-android/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fengadget_uk_662%2Ffabcdb8eea1cc7ce258d2e0e3820d151&amp;client=a1acac3e1b3290917d92&amp;signature=39d0018a9cc99d661253d5bff6063d4d8fd583ed\" />早先在 iOS 上率先推出的 Firefox Lockbox 稍早终于也在 Android 上登场啦。和 iOS 版本相同，往后用户可以通过它来同步并取用自己在各平台 Firefox 中储存的密码。\n\nLockbox 基本上是使用 AES-256-GCM 加密来保护密码，如果这样还不放心，你也可以再添加一道指纹解锁的程序。目前 Lockbox 已经可以于 Play 商店免费下载，当然它算不上是个多强大的工具，但对于有无数组密码需要记忆的现代人来说，相信还是会十分实用。", 
+  "title": "Firefox 的 Lockbox 让你将储存的密码带到 Android 设备上"
+ }
+]
