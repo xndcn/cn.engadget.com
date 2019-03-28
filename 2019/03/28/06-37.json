@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Thu, 28 Mar 2019 02:30:00 -0400", 
+  "link": "https://cn.engadget.com/2019/03/28/researchers-find-36-security-flaws-in-lte/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fengadget_uk_662%2F6050405f68dbd663342144d0412589d4&amp;client=a1acac3e1b3290917d92&amp;signature=6407d8a1d3e4e0015ac419e111b6713c702fbae8\" />看来 LTE 的安全漏洞远比之前专家们所想的还多。直至目前，韩国的研究人员们已经在 LTE 中发现了 36 漏洞，骇客们能藉此来进行各式严重程度不一的攻击，包括暂时断开网络来进行窃听，甚至掌控数据等。该研究团队是透过特别的「模糊测试（fuzzing）」工具，以提供大量随机数据来探测不规则性的方式，顺利找到了这些漏洞。\n\n然而对于电信商最麻烦的是，不同的 LTE 网络设备会拥有不同的漏洞。如果一家电信商使用了两种不同的网络设备，那它可能就会同时遭遇两种设备分别带来的问题。而同一个网络设备，也可能会...", 
+  "title": "研究人员已在 LTE 协议中发现了 36 个漏洞"
+ }
+]
