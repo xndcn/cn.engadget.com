@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Thu, 28 Mar 2019 08:00:00 -0400", 
+  "link": "https://cn.engadget.com/2019/03/28/boeing-explains-737-max-update/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D2432%2C1601%2C0%2C0%26quality%3D85%26format%3Djpg%26resize%3D1600%2C1053%26image_uri%3Dhttps%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-03%2F4ba3ebb0-50d9-11e9-bde2-a6645b39b666%26client%3Da1acac3e1b3290917d92%26signature%3Ddb6abd1e3b7f154af150418d3e85ebdca1f5744d&amp;client=a1acac3e1b3290917d92&amp;signature=50ee21f74c1379c51d204f571348325fb4970f3a\" />在先前 FAA 初步核可波音 737 Max 的软件更新时，我们有稍微介绍了一下更新的内容，不过还是比不上波音自己来说的详细啊！关键当然是控制俯仰角，避免失速的 MCAS（Maneuvering Characteristics Augmentation System）系统，先前它只会由一个攻角感测器的数据做判断，因此如果该感测器故障的话，就有可能会误判而做出错误的反应。现在则是改成两个攻角感测器的读数都会纳入考虑，如果相差超过 5.5 度的话，就会认定为感测器故障，而不启动 MCAS。\n\n其他和...", 
+  "title": "波音详细说明 737 Max 的软件更动内容"
+ }
+]
