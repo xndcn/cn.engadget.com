@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Thu, 04 Apr 2019 07:30:00 -0400", 
+  "link": "https://cn.engadget.com/2019/04/04/adobe-after-effects-content-fill-eraser/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-04%2Fabbeec90-568b-11e9-95db-3831d8dbbe6c&amp;client=a1acac3e1b3290917d92&amp;signature=22cfe07424a4b72f928a67f0f11f0d4a6658fc71\" />在最新版的 Creative Cloud 影像套件中，Adobe 终于为 After Effects 加入了一项他们很久以前就介绍过的功能 &amp;mdash; 内容感知填充（Content-Aware Fill）。这项被新用于视频制作的特性拥有跟 Photoshop 上类似功能一样的名字，它能凭借 Adobe 的 Sensei AI 算法来分析画面中主要拍摄对象以外内容，从而达到移除影子、电线、标志等不必要元素的目的（可参照下方视频的示范）。", 
+  "title": "Adobe 的 After Effects 现在可以去掉影像中不必要的元素了"
+ }
+]
