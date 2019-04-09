@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Tue, 09 Apr 2019 09:30:00 -0400", 
+  "link": "https://cn.engadget.com/2019/04/09/firefox-protect-against-crypto-mining/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-04%2F12d93830-5aca-11e9-b52d-10662f250b24&amp;client=a1acac3e1b3290917d92&amp;signature=805503b47ed1dd1d6cf9525be8d78ece7f6bd0fa\" />随着人们在网络上花的时间越来越长，对个人数据、所用设备的保护就变得愈来愈重要。而 Mozilla 就一直在这方面努力，他们即将为 Firefox 浏览器推出的数字指纹（fingerprinting）保护和反暗中挖矿特性，便是为了进一步减少用户的后顾之忧。据介绍，Mozilla 此番仍然是跟为其提供了防追踪软件支持的公司 Disconnect 合作。而上面提到的新功能目前已被加入到 Firefox Nightly 68 和 Beta 67 这两个版本之中，未来官方也打算将对应选项默认开启，尽可能减...", 
+  "title": "Firefox 将加入保护数字指纹和反挖矿特性"
+ }
+]
