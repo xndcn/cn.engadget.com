@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Tue, 09 Apr 2019 04:30:00 -0400", 
+  "link": "https://cn.engadget.com/2019/04/09/microsoft-edge-chromium-test-build-insider-preview/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-04%2Fc5290410-5a94-11e9-adfc-81cf59fc98c4&amp;client=a1acac3e1b3290917d92&amp;signature=1530e907a9e57b818a3d8483c41c8b0b69e06491\" />微软筹备了好些时间的 Chromium 版 Edge 浏览器，现在终于向 Windows 10 用户开放了首批测试版本。目前 Canary 预览版会每天更新，相对来说 bug 也会比较多。而开发者版本则会进行周更，更稳定的 beta 公测版未来也将推出，预计会以六周为更新周期。在这款基于 Chromium 的新浏览器中，微软不意外整合了 Windows Defender SmartScreen、Bing、Microsoft News 等自家的服务。同时它也支持来自微软商店和各类适用于 Chrom...", 
+  "title": "微软：基于 Chromium 的 Edge 浏览器首批测试版已上线"
+ }
+]
