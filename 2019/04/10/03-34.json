@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Tue, 09 Apr 2019 23:30:00 -0400", 
+  "link": "https://cn.engadget.com/2019/04/09/exodus-spyware-ios/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D3605%2C2403%2C0%2C0%26quality%3D85%26format%3Djpg%26resize%3D1600%2C1067%26image_uri%3Dhttps%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-04%2F1ddb6a70-5aff-11e9-b7ef-2ca559ce0a82%26client%3Da1acac3e1b3290917d92%26signature%3D3ce3fe45b6be0f16461a014c50fe88be98d3c27e&amp;client=a1acac3e1b3290917d92&amp;signature=660be1af5db840c0f422cca81b28c93a359265be\" />安全研究公司 Lookout 发表报告指出，他们发现曾经只针对 Android 装置的间谍软件 Exodus 也有出现 iOS 版本了。幸好的是只要你是乖乖地透过官方的 App Store 下载 app 来用就不须担心，因为这间谍软件目前只有出现在第三方应用程序商店的 app 中。\n\n据 Lookout 的分析，iOS 版 Exodus 主要活跃于数个假装是意大利和土库曼斯坦电讯商的钓鱼网页，如果被下载到手机里，它就会盗取手机里的联络人资料、相片、视频和音讯档、GPS 和装置的位置等，骇客甚至可...", 
+  "title": "Android 间谍软件 Exodus 出现 iOS 版本"
+ }
+]
