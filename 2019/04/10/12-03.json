@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Wed, 10 Apr 2019 08:00:00 -0400", 
+  "link": "https://cn.engadget.com/2019/04/10/facebook-ai-map-of-africa/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D1600%2C1067%2C0%2C0%26quality%3D85%26format%3Djpg%26resize%3D1600%2C1067%26image_uri%3Dhttps%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-04%2Fa78407e0-5560-11e9-bfdb-c3c479498c62%26client%3Da1acac3e1b3290917d92%26signature%3D0dc50298433e42819d11cd6f05e7df12e97fa591&amp;client=a1acac3e1b3290917d92&amp;signature=e253814c31d79f49bf491ceac6d7ae4dba7aee68\" />Facebook 过去就曾使用 AI 技术来创建地图，然而这次计划的规模可说是前所未见。日前 Facebook 推出了一张几乎覆盖了全非洲范围的详细人口分布地图，希望能借此协助救援机构掌握该向何处提供支持。在技术上，这张地图生成的方式与过去其实大同小异，但该公司特别进行了一些调整，以确保面对 4,100 万平方公里如此广大的范围，也可以维持高度的准确性。\n\n这项计划使用一个经过 100 万张照片训练的神经网络，来分类高达 115 亿张卫星图片（每张大小为 64x64 像素）。凭着每张图片中的是否...", 
+  "title": "Facebook 透过 AI 技术创建了非洲的人口地图以协助舒缓该地灾情"
+ }
+]
