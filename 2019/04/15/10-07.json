@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Mon, 15 Apr 2019 06:00:00 -0400", 
+  "link": "https://cn.engadget.com/2019/04/15/internet-explorer-file-stealing-exploit/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fengadget_uk_662%2F327bd2214950c8d090c498054be82be9&amp;client=a1acac3e1b3290917d92&amp;signature=dbd8b720967ea2de4007ad38057d979ef512be0f\" />PC 的老用户应该对 IE 的「网页封存」格式 MHT 不算太陌生，虽然从来没有获得广泛的使用，但在网路时代的早期，想要将网页打包成一个文档，MHT 算是比较简单的一种方式。只是随着时代演进，将网页完整存下来的难度愈来愈高，这样的格式使用的人也就愈来愈少了。不过，存成 MHT 依然是 IE 的一个选项，更重要的，在没有什么其他人使用的情况下，MHT 的预设开启软件通常也还是 IE。\n\n这也是由安全研究专家 John Page 所发现的这个漏洞危险的地方。他发现了 IE 处理 MHT 的方式，可以...", 
+  "title": "IE 的安全性漏洞让骇客得以窃取档案"
+ }
+]
