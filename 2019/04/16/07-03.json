@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Tue, 16 Apr 2019 03:00:00 -0400", 
+  "link": "https://cn.engadget.com/2019/04/16/hackers-could-read-some-microsoft-webmail-messages/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D4288%2C2848%2C0%2C0%26quality%3D85%26format%3Djpg%26resize%3D1600%2C1063%26image_uri%3Dhttps%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-04%2F48a3b840-5e04-11e9-badf-e3219016d0e9%26client%3Da1acac3e1b3290917d92%26signature%3D5fd2f51dc994e3bace40d903b295366bcde57f3e&amp;client=a1acac3e1b3290917d92&amp;signature=01cbfdf69710f2675b4382cfe77329aed33304a0\" />看来日前爆出的微软网页邮件服务泄漏事件，事实上灾情比早先认为的还更加严重。微软已经向科技网媒 Motherboard 证实，骇客在该起事件中除了能获取之前提到的邮件地址和主旨，其实还能查看到部分的信件内容。但据发言人表示，大约只有 6% 受影响用户的信件内容有遭泄漏的风险，同时也尚不清楚骇客是否有在公司阻断访问途径前阅读了信件内容。微软在声明中向 The Verge 表示，目前他们已对这些受影响的用户提供了额外的协助与支持。\n\n此外，提供 Motherboard 消息的人士声称，骇客的入侵行为应...", 
+  "title": "微软网页邮件服务入侵灾情升级，某些用户的信件内容或已泄漏"
+ }
+]
