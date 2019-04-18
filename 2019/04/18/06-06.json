@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Thu, 18 Apr 2019 02:00:00 -0400", 
+  "link": "https://cn.engadget.com/2019/04/18/googles-fast-loading-aagoogle-amp-shows-original-domainsmp-tech-wont-hide-original-web-links/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D4022%2C2553%2C0%2C0%26quality%3D85%26format%3Djpg%26resize%3D1600%2C1016%26image_uri%3Dhttps%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-04%2Fbd0c6b30-6126-11e9-b9ae-754d9811b429%26client%3Da1acac3e1b3290917d92%26signature%3D2f943870d0c7f2307c61db88b437b0e10c7889ce&amp;client=a1acac3e1b3290917d92&amp;signature=1076abe4d4f5bb7b0e010fa95e0c39ae5f8bc84f\" />虽然谷歌的 AMP 网页加速载入技术的确带来了一些便利，但身为网站拥有者，可不总是乐见自己的网域名称被隐藏起来。好消息是，该状况或许再过不久就能得到改善。谷歌目前正在推出运行 AMP 同时也能显示原始域名的功能。该功能通过凭证签署的交换，让网站除了能信任 AMP 处理过的页面和 cookies 等文件，还可以将来其来源判断为原本网站。如此就能在 AMP 顺利作用的前提下，达成显示原始域名的目的。\n\n但要注意的是，要达成该功能，网站的发布者需要同时发布一般和交换用的签署版本才行。虽然由于新版本 A...", 
+  "title": "谷歌的 AMP 网页快速载入技术将能不再隐藏原始网址"
+ }
+]
