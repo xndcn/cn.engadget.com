@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Fri, 19 Apr 2019 08:00:00 -0400", 
+  "link": "https://cn.engadget.com/2019/04/19/google-block-embedded-browser-log-ins-phishing/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D5340%2C3325%2C0%2C234%26quality%3D85%26format%3Djpg%26resize%3D1600%2C996%26image_uri%3Dhttps%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-04%2F7e73a950-626c-11e9-bffb-12e936288b33%26client%3Da1acac3e1b3290917d92%26signature%3D25d5e0d7d03d840e6c150070cf544ee1eba51d00&amp;client=a1acac3e1b3290917d92&amp;signature=a6bcffef942ec4cbb3ef418091b2081ed11a9c0e\" />当你使用其它现有帐号（例如 Gmail）来登入某项服务时，嵌入式浏览器常常扮演了实用的角色。然而，对于网络钓鱼攻击者来说，该过程也是个破绽较多的入侵管道。由于谷歌并无法透过 app 中内嵌的浏览器，来判断该次登入是合法登入或钓鱼行为。该公司决定自 6 月份起，将禁用所有的嵌入式浏览器登入。\n\n攻击者只要使用 Chromium Embedded Framework 等途径，就能在用户藉嵌入式浏览器登入时，实时拦截其与谷歌这类服务供应者之间传送的登入资料，甚至是多重身份认证的详细资讯。最近数个月来，...", 
+  "title": "谷歌将禁用嵌入式浏览器登入以打击网络钓鱼行为"
+ }
+]
