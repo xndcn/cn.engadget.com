@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Tue, 23 Apr 2019 00:00:00 -0400", 
+  "link": "https://cn.engadget.com/2019/04/23/gameboy-gbstudio-ROM-game-builder/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-04%2Ff8753d10-6576-11e9-baff-240eecd28ecf&amp;client=a1acac3e1b3290917d92&amp;signature=677062f244d3e42a1a09805fec5a70fbddc8fda4\" />趁着 Game Boy 三十周年的雅兴，大家有没有在床下的深处挖出这台古早手提游戏机怀念一番呢？虽说老时候的游戏至今还是有其滋味，但人还是想要新鲜感，GB Studio 就是一个能让你简单自创 Game Boy 游戏的工具，在这里要感谢一下开发者 Chris Maltby 吧。\n\n受惠于 Electron 应用程序的关系，GB Studio 不需要有编程知识，只要设计一些 PNG 图档、透过 GBT Player 创作的音乐，就可以组成一个在 Game Boy 环境中运作的 2D 小游戏，甚至可...", 
+  "title": "GB Studio 让你自制 Game Boy 游戏"
+ }
+]
