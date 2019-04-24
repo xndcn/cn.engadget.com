@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Wed, 24 Apr 2019 09:00:00 -0400", 
+  "link": "https://cn.engadget.com/2019/04/24/0-5-futurepose/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-04%2F5071db00-6670-11e9-afff-61d8119a7ea1&amp;client=a1acac3e1b3290917d92&amp;signature=8849a2dc2d9be4fdd1ebcffb42b24301ffebc3cc\" />东京工业大学的研究团队稍早发布了一套仅用一般 RGB 视频，就能预测画面中人物未来动向的「FuturePose」系统。过去有过类似的预测系统相关的研究，但使用的是本身就自带深度信息的 Kinect，而东工大这边则是完全靠着画面本身像素的流向，先通过机器学习与 AI 来定位关节，再由定位出来的关节和摆动方向，去推断 3D 环境中的位置，整个过程简直神奇。\n\n靠着 AI 的推断，这套 FuturePose 系统可以大约猜出人类 0.5 秒后的位置，颇有一点小说或漫画里那种「你的行动已经被我看穿啦」的...", 
+  "title": "东京工业大学开发可以预测 0.5 秒后的动作的「FuturePose」AI 系统"
+ }
+]
