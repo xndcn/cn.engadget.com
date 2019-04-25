@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Thu, 25 Apr 2019 07:00:00 -0400", 
+  "link": "https://cn.engadget.com/2019/04/25/microsoft-password-expiration-security/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-04%2F32c5b000-6728-11e9-bfbf-a714a023c8ca&amp;client=a1acac3e1b3290917d92&amp;signature=898c4cc8f315dab070d733b8e48ce8028df446de\" />早些时候，微软在一篇以 Windows 10 v1903、Windows Server v1903 安全基准草案为主题的博客中提到，大家所熟悉的密码过期政策其实是「一种非常低效的过时保护手段」。在他们看来，如果某个密码从未被盗的话，那其实就不该有所谓的过期一说。而当密码已经有被盗的可能时，用户多半都会第一时间进行修改，并不会等到真正过期的日子才有所移动。（但... 用户其实并不一定知道自己的密码什么时候会被盗啊）\n\n此外微软还认为，强制性的密码更新只会导致用户更多将密码保存下来，然后干脆不会对它...", 
+  "title": "微软：密码过期政策其实并没什么用"
+ }
+]
