@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Thu, 25 Apr 2019 23:30:00 -0400", 
+  "link": "https://cn.engadget.com/2019/04/25/microsoft-windows-10s-update-blocked-usb-sdcards/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D4986%2C3630%2C0%2C0%26quality%3D85%26format%3Djpg%26resize%3D1600%2C1165%26image_uri%3Dhttps%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2018-11%2F69519a80-e9dd-11e8-bfb3-52a6cd5e69e9%26client%3Da1acac3e1b3290917d92%26signature%3Df31eecea6552565825db32549332357562bfafbb&amp;client=a1acac3e1b3290917d92&amp;signature=6eee215c0ccac90d332d065d48df15dfa9f81275\" />微软对于快将推出的 Windows 10 五月更新，要给各使用者一些温馨提示啊。官方表示他们会禁止在使用 USB 储存或 SD 卡的 PC 安装是次更新，原因是「不适当的磁碟分区」会对外部和内部硬盘带来影响。换句话说，只要把 USB 记忆棒、USB 连接的外接硬盘、SD 等的外部储存装置移除，就可以如常安装了。\n\n据 ZDNet 所报导，只有正运行分别在 2018 年 4 月和 10 月释出的 Windows 10 v1803 和 v1809 版本才会受影响。如果没有升级到这两个系统版本的 PC...", 
+  "title": "Windows 10 的五月更新要先移除外部储存装置才能安装"
+ }
+]
