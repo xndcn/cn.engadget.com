@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Mon, 29 Apr 2019 08:00:00 -0400", 
+  "link": "https://cn.engadget.com/2019/04/29/chrome-exploit-uses-a-fake-address-bar-for-phishing-attacks/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D5399%2C3600%2C0%2C0%26quality%3D85%26format%3Djpg%26resize%3D1600%2C1067%26image_uri%3Dhttps%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-04%2Fb9500430-6670-11e9-b5ee-764cbd73cc59%26client%3Da1acac3e1b3290917d92%26signature%3Dfb9fe1db891658f39c4d89f882d2da1aaa590edf&amp;client=a1acac3e1b3290917d92&amp;signature=268a27639124b02a6984dd30c802e9dde889abd8\" />有时网络攻击者需要费心寻找技术上隐含的漏洞，才得以发起攻击，但有时却不用那么麻烦。日前一位开发人员 James Fisher 发现，在移动版 Chrome 上其实只需要一张屏幕截图，并辅以一些精巧的代码，就能轻松实现钓鱼攻击。正常来说，当你开始向下浏览网页时，网址就会暂时缩起。但经 James Fisher 特殊设计的网页，此时就会显示出假的网址栏。即便网页向上滑动，它也能避免让真正的网址栏现身。如此用户便无从察觉自己正身处钓鱼的风险之中。\n\n虽然 Fisher 这套手法主要是针对移动版 Chr...", 
+  "title": "移动版 Chrome 被发现可以通过假网址栏来进行钓鱼攻击"
+ }
+]
