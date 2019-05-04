@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Sat, 04 May 2019 04:22:00 -0400", 
+  "link": "https://cn.engadget.com/2019/05/04/firefox-extension-add-on-cert/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fengadget_uk_662%2F327a6cd4bd274775be8626492d36fecc&amp;client=a1acac3e1b3290917d92&amp;signature=aa454c7805880f570804521063cfca2dd3bc068a\" />相信我们不少的读者都有使用 Firefox 为主要的浏览器，今天有没有发现所有附加元件都未能使用呢？先别太紧张，因为你不是唯一。Firefox 在 Twitter 上确认，并在问题页面中解释指他们因为中继证书过期，所以导致附加元件都需要暂时停用。\n\n同样的问题其实也有在三年前发生过，但这次的情况更为严重，所以修复也要较长的时间。网路上已经有不少暂时的「解决方法」，不过都需要一定的编程知识。如果没把握的话，就只好多等下，直至 Mozilla 把问题解决吧。", 
+  "title": "Firefox 因为证书过期，所有附加元件暂时停用"
+ }
+]
