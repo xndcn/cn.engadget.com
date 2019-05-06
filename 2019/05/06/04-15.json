@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Mon, 06 May 2019 00:07:00 -0400", 
+  "link": "https://cn.engadget.com/2019/05/06/ios-12-3-emv-mass-transit/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D5848%2C3898%2C0%2C0%26quality%3D85%26format%3Djpg%26resize%3D1600%2C1067%26image_uri%3Dhttps%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-05%2F46bb8f20-6f4e-11e9-aafa-b0d9acb1a4e5%26client%3Da1acac3e1b3290917d92%26signature%3Dd8facf68df0860f1db138527227a2e21cea8b34d&amp;client=a1acac3e1b3290917d92&amp;signature=2df293f189d0e3c261d3e6d3dfb7270909ac2aa7\" />稍早一个专注于非接触式支付技术的澳洲网站 Tap Down Under 表示，他们在 iOS 12.3 的代码中，发现 Apple Pay 的快速交通卡（Express Transit）功能似乎将新增对 EMV 晶片卡（如美国运通、Mastercard 和 Visa 等信用卡）的支援。如此往后不论是在纽约或其它能使用该类型卡片支付搭乘费用的地区，就多了一个方便的选项啰。当然在使用前除了加入卡片，也记得要将其设定为预设交通卡喔。\n\niOS 12.3 目前已推出了四个测试版本，而正式版大概有机会于几...", 
+  "title": "iOS 12.3 代码显示系统将支援更多形式的大众运输付费方式"
+ }
+]
