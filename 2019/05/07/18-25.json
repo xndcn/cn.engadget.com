@@ -1,0 +1,14 @@
+[
+ {
+  "date": "Tue, 07 May 2019 14:20:00 -0400", 
+  "link": "https://cn.engadget.com/2019/05/07/next-gen-google-assistant-is-crazy-fast/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fengadget_uk_662%2Fd718a19a818da86cae25d2320d4001cf&amp;client=a1acac3e1b3290917d92&amp;signature=fd83044776653b25714bea3a04cd43e98285fbea\" />Google 的 Assistant 极为强大，但到现在为止因为语言辨识模组大小（多达 100GB）的限制，每个指令都要先传到云，处理过后，再将文字传回本地，造成一段不短的延迟。在稍早的 Google I/O 上，Google 宣布了由于深度学习技术上的突破，他们成功地将语音辨识模组缩小到了 500MB 大，已经能合理地安装在智能手机上，在本地执行了。如此一来，最明显的变化，就是未来「住」在手机上的 Google Assistant 可以提供近乎瞬间的反应，不再有延迟，也让语音输入更加快速自然。...", 
+  "title": "Google 将 Assistant 移到了本地端，下指令不用再等网络延迟了"
+ }, 
+ {
+  "date": "Tue, 07 May 2019 14:17:00 -0400", 
+  "link": "https://cn.engadget.com/2019/05/07/google-assistant-driving-mode-android-google-io/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-05%2F45c2db80-70f4-11e9-8fbf-6821245ad2a9&amp;client=a1acac3e1b3290917d92&amp;signature=51eb0af750155634ab5660c4b3b6a2826ec67210\" />未来在开车时，Google Assistant 也有望成为你的好助手。Google 今天为其新增了一个全新的驾驶模式，让用户可以通过语音指令，更方便地在手不离开方向盘的前提下跟设备进行各种互动。只要你对着手机说出「Hey Google, let&#039;s drive」之后，Assistant 就会调出驾驶模式的面板。上面除了会显示导航、通话等快速按钮外，也会有基于日历的目的地路线推荐、常用联系人捷径或是音乐、播客等娱乐内容等等。\n\n据介绍，这些新功能其实都是依靠 Assistant 现有的特性来实现，...", 
+  "title": "Android 手机将新增有 Assistant 加持的驾驶模式"
+ }
+]
