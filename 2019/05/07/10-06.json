@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Tue, 07 May 2019 06:00:00 -0400", 
+  "link": "https://cn.engadget.com/2019/05/07/firefox-update-broken-add-ons/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fengadget_uk_662%2Fc016db2db330fd9528351c988977ad54&amp;client=a1acac3e1b3290917d92&amp;signature=0cea232d9f463b0a0568004523d31f086ca2a683\" />周末时发生的 Firefox 因为证书过期，导致所有附加元件都失效的惨案，经过 Firefox 的抢救后，对大部份的人来说，稍早已经陆续恢复正常。Mozilla 也再次提醒，不要尝试坊间流传的各种解决方式，因为有可能会与官方的正式解决方案有所冲突。\n\n不过大部份的人解决了，剩下来的问题就是那小部份的人了。目前决定方案仅适用于 PC 与 Android 的 66 版、以及 ESR 的 60 版，如果因为任何理由还在使用更早期的版本的用户－－例如有些人使用新版本不支援的附加元件、或是较为老旧的操作系...", 
+  "title": "Firefox 再推附加元件问题的修正方案，但老版本依然未能复原"
+ }
+]
