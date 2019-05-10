@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Fri, 10 May 2019 07:00:00 -0400", 
+  "link": "https://cn.engadget.com/2019/05/10/googles-android-app-shrinking-tool-rolls-out-to-all-developers/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D3600%2C2423%2C0%2C0%26quality%3D85%26format%3Djpg%26resize%3D1600%2C1077%26image_uri%3Dhttps%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-05%2F4897ffc0-724d-11e9-a5fb-3e8592bb5386%26client%3Da1acac3e1b3290917d92%26signature%3D2c3968c8ea0965208d85361591b8b89551693f9f&amp;client=a1acac3e1b3290917d92&amp;signature=28cb09f4acba14bdbf089f7f1f61c9b0671ef8c9\" />为了减少安装 app 需占用的存储空间，谷歌于去年发表了 Android App Bundle，希望能藉由新的发布格式来舒缓手机的负担。而现在，Android App Bundle 终于度过了测试阶段，并已于稍早正式开放给所有开发人员使用。这也意味着，未来所有的 app 对于手机存储空间和记忆体的需求，或都有机会大幅下降。\n\n目前的 Android App Bundle 除了能让开发者使用之前一并登场的「动态功能模组」，这回还新增了「自订功能提供方式」，进一步拓展了功能提供途径的弹性。如果希望依...", 
+  "title": "谷歌的 app「瘦身」工具已正式向所有开发者推出"
+ }
+]
