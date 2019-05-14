@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Tue, 14 May 2019 00:00:00 -0400", 
+  "link": "https://cn.engadget.com/2019/05/14/whatsapp-call-exploit-allowed-spyware/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fengadget_uk_662%2Fab72fd8d4e52f06bc98f65fbcdf233b5&amp;client=a1acac3e1b3290917d92&amp;signature=6fa3bb2071e28a027d187baa9c487e4a16336f77\" />以经端至端加密连接闻名的 WhatsApp，结果还是被当作间谍活动的途径。WhatsApp 和伊色列开发商 NSO Group 确认他们在 Android 和 iOS 版本 WhatsApp 的通话功能发现漏洞，而且成功置放 NSO 的 Pegasus 间谍软体。这工具即使使用者没有应答电话，也可以对目标进行攻击，而且不会留下通话记录。Pegasus 还可以开启相机和麦克风功能，以及存取位置和讯息内容。\n\n据分析指这工具曾被使用到监控中东地区的人权运动参与者，其中一次失败的记录是在 5 月 12...", 
+  "title": "WhatsApp 确认通话功能存在间谍软件漏洞"
+ }
+]
