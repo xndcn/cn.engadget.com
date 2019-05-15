@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Tue, 14 May 2019 22:05:00 -0400", 
+  "link": "https://cn.engadget.com/2019/05/14/windows-7-xp-rds-vulnerability/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D1855%2C1236%2C242%2C0%26quality%3D85%26format%3Djpg%26resize%3D1600%2C1066%26image_uri%3Dhttps%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-05%2Fb9973750-767f-11e9-bf6f-a4e53a88cb2e%26client%3Da1acac3e1b3290917d92%26signature%3Da132d481e52ef9d4aa3faafeb00776a2a9f26871&amp;client=a1acac3e1b3290917d92&amp;signature=a77038b63d6e537aea47edc5bbc13faab668f02d\" />为防再出现另一波 WannaCry 恶意程序的大规模肆虐，微软释出针对远端桌面连线（亦即 Terminal Services）的补丁，内容是修复了可让恶意软体略过使用者输入亦能扩散至其他电脑的漏洞。值得注意的是这更新涵盖 Windows 7、Windows Server 2008 R2、2003 和 XP。\n\n微软强调这补丁的目前是防患于未然，并非发现到新一轮的 WannaCry 爆发，只是他们认为骇客「很有机会」会利用这漏洞。部分拥有 Network Level Authentication...", 
+  "title": "旧版 Windows 系统获得对应 WannaCry 式攻击的补丁"
+ }
+]
