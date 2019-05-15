@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Wed, 15 May 2019 09:30:00 -0400", 
+  "link": "https://cn.engadget.com/2019/05/15/intel-mds-exploit/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fengadget_uk_662%2F006f34488979f2e9e3080ebbb8a3f2ff&amp;client=a1acac3e1b3290917d92&amp;signature=58232c8265427617643564ed6e46941239d28334\" />自从去年一月的 Spectre、Meltdown 和随后被发现的 Foreshadow 之后，安全专家们继续在研究 Intel CPU 可能的潜在弱点，并且又发现了四种不一样的技巧，可以利用 Intel 的推测性执行（Speculative Execution）功能进行攻击。\n\n这四种技巧合称「微架构数据采样（Microarchitectural Data Sampling, MDS）」，分别为 Zombieload、RIDL、Fallout、和 Store to Leak Forwarding...", 
+  "title": "使用 Intel CPU 的读者，要勤加更新来保护自己啊！"
+ }
+]
