@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Thu, 16 May 2019 07:00:00 -0400", 
+  "link": "https://cn.engadget.com/2019/05/16/google-translatotron-direct-speech-translation/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-05%2Fc91d0d50-77ae-11e9-bffc-c9c4571f6bfd&amp;client=a1acac3e1b3290917d92&amp;signature=83310ce30c9041a0eeeb964184cc5440e9846114\" />Google 在翻译这件事上的造诣，现在又变得更加厉害了一些。他们新推出的 Translatotron 工具，是首款能以用户本身语音语调来翻译不同语言的产品。而且让人稍有些意外的是，Google 这次还舍弃了相对错误率更高的语音到文本再到语音顺序翻译方案，Translatotron 是在用户所讲东西的基础上直接翻译出语音内容。Google 希望能通过 Translatotron 的技术开发，带来未来直接翻译模型的发展。\n\n按照官方说法，Translatotron 是利用序列到序列的网络模型来进行...", 
+  "title": "Google Translatotron 能用你的声音进行翻译"
+ }
+]
