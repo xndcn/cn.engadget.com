@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Thu, 16 May 2019 09:00:00 -0400", 
+  "link": "https://cn.engadget.com/2019/05/16/arm-mali-d77-vr-display-chip/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D1600%2C1066%2C0%2C2%26quality%3D85%26format%3Djpg%26resize%3D1600%2C1066%26image_uri%3Dhttps%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-05%2Fae643ff0-772d-11e9-8fdd-ef5ad75407a0%26client%3Da1acac3e1b3290917d92%26signature%3Dafc62adf441edaa50519292c7a691cecfd4595c6&amp;client=a1acac3e1b3290917d92&amp;signature=a7673d8248b7163867f32f09d24e84d7416c8bc0\" />看到一体式 VR 设备的发展开始变得成熟，ARM 就希望通过芯片设计来提升使用体验。全新释出的 Mali-D77 芯片设计是针对改善虚拟视效和性能而来，就效果而言，它能在使用者调整 VR 头盔的同时自动重新投射场景，减低因此出现的晕眩，而且也会改善虚拟物件的失真和色差问题。同时在这芯片设计之下，ARM 预计有着 12% 的省电率和减少 40% 的频宽使用。\n\n这芯片设计能支持最高 3K /120fps 的显示，虽然这并非很高的数字，但 ARM 希望借此带出更轻、更小、配戴更舒适的设备。然而我们并...", 
+  "title": "ARM 的显示芯片设计要为一体式 VR 机带来更好的表现"
+ }
+]
