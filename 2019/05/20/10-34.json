@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Mon, 20 May 2019 06:30:00 -0400", 
+  "link": "https://cn.engadget.com/2019/05/20/amd-chips-immune-to-mds-vulnerabilities/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-05%2Ffb6361f0-7ae3-11e9-9f5a-05b909b75332&amp;client=a1acac3e1b3290917d92&amp;signature=d89c7eefa5b9ef1db97f74afeb572d01f494aca0\" />上周安全专家新公布的 MDS 漏洞（微架构数据采样，包含 Zombieload、RIDL、Fallout、和 Store to Leak Forwarding 四种技巧），已经严重到英特尔芯片的使用者都最好第一时间去进行修补更新。但问题是，在更新同时安全性虽然上去了，但性能方面又被牺牲，尤其在多线程的模式下影响更甚。而对于这系列新问题，AMD 阵营倒是似乎不必太担心。目前厂方已经在官网上宣称，自家的产品因为有硬件保护检查的加持，所以会对相关漏洞免疫。\n\n根据 Linux 专家网站 Phoroni...", 
+  "title": "AMD 称自家芯片对新发现的 MDS 漏洞免疫"
+ }
+]
