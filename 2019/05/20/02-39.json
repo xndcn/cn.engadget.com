@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Sun, 19 May 2019 22:30:00 -0400", 
+  "link": "https://cn.engadget.com/2019/05/19/linksys-routers-leak-device-connection-histories/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fengadget_uk_662%2F1fb05120b33408207eaa788489eadf35&amp;client=a1acac3e1b3290917d92&amp;signature=bf92ae2aec85f4214e58dfe1ada34213220362d1\" />担当着把互联网带到你手上这一重要角色的路由器，自然会处理到所有连接装置的资料记录。安全研究员 Troy Mursch 就发现到 Linksys 有 33 个型号的路由器，包括 Max-Stream 和 Velop 型号都有外泄装置连接历史记录的可能，当中包括 MAC 地址、装置名称和 OS 版本。更叫人担心的是连路由器的预设密码有没有被修改都可以知道，在扫描过 21,401 至 25,617 台有漏洞的已连线路由器中，他指有 4,000 台路由器仍然在使用预设密码。\n\n骇客只需要到路由器位址并简...", 
+  "title": "超过 21,000 台 Linksys 路由器外泄连接历史记录"
+ }
+]
