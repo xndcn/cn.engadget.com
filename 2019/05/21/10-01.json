@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Tue, 21 May 2019 06:00:00 -0400", 
+  "link": "https://cn.engadget.com/2019/05/21/google-ai-lung-cancer-screening/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-05%2F3b7743d0-7b9b-11e9-b9ff-47cb09419f3e&amp;client=a1acac3e1b3290917d92&amp;signature=bb9431801821e34b02f98dc837702ea26e310e78\" />在至今为止所有癌症中，肺癌是最为致命的一种。它每年要夺走超过 170 万人的生命，这个数字甚至超过了乳腺癌、前列腺癌加肠癌的总和。为了改善这种现状，Google 如今决定靠自己拿手的 AI 来找到办法，他们希望凭借这方面的技术让对肺癌的预判变得更为容易、准确。\n\n一般来说，放射科的医生在筛检肺癌时，都得要在 CT 扫描的结果中查看大量的影像内容。而在 AI 模型的帮助下，Google 可以做出对肺癌恶性肿瘤的总体预测，并且还能识别出通常较难发现的微小恶性组织或是肺部结节。另外在判断时 AI 还会...", 
+  "title": "Google 训练 AI 来预测肺癌"
+ }
+]
