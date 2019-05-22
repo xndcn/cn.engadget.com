@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Wed, 22 May 2019 09:00:00 -0400", 
+  "link": "https://cn.engadget.com/2019/05/22/firefox-update-browser-fast-speed-privacy/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-05%2Fe2e66750-7c71-11e9-b7da-ccb437d450c2&amp;client=a1acac3e1b3290917d92&amp;signature=44e76b780c3d6df826d98b3ad94f188dd8c84795\" />经历过去年的 Quantum 升级后，Firefox 的速度已经较之前有了不小的提升。但 Mozilla 显然是不希望止步于此，于是在最新上线的 FF 67 版本中，开发团队针对载入速度又进行了幅度不小的加强。按照官方说法，新版浏览器的页面加载速度要比旧版快出「40% 到 80%」。在开启过程中，浏览器会停掉闲置的分页、降低较少使用脚本的处理优先级并且跳过一些不必要的步骤。\n\n除此之外，FF 67 在隐私功能上也有改进。之前介绍过的数字指纹保护和反挖矿特性都会出现，同时在隐私浏览过程中用户也会有...", 
+  "title": "Firefox 67 会进一步提升载入速度"
+ }
+]
