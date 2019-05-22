@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Wed, 22 May 2019 01:30:00 -0400", 
+  "link": "https://cn.engadget.com/2019/05/22/google-stored-some-business-passwords-as-plain-text/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fengadget_uk_662%2F26c3d88847c02fd76002bde01dfe0400&amp;client=a1acac3e1b3290917d92&amp;signature=21273f1e0bc5859b264dee84fc2ce21dc3505729\" />不光只有 Facebook 一家大型科技公司错误把用户的密码以纯文字储存的，Google 向 G Suite 使用者发出警告，表示他们在密码复原的实际操作上出现「错误」，使得部分密码未有被打乱就储存在他们的内部系统。这问题更是自 2005 年开始出现，直至他们用了新的方式储存密码。同时，Google 也主动表示有部分密码曾在 2019 年 1 月时，短暂以纯文字方式储存起来，但他们强调系统都有被加密，同时「没有证据」显示有人误用这些资料。然而这都对使用 G Suite 的企业带来被骇的风险，相关...", 
+  "title": "Google 意外把部分企业密码以纯文字储存"
+ }
+]
