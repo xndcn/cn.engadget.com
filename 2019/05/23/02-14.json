@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Wed, 22 May 2019 22:06:00 -0400", 
+  "link": "https://cn.engadget.com/2019/05/22/apple-privacy-protecting-web-ads/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fengadget_uk_662%2Fc3f567d891d2b2f0b5b27a48a7065bfe&amp;client=a1acac3e1b3290917d92&amp;signature=53c8f877a14e8c68b52e8239b484da1fcf3d5961\" />一直强调自己尊重用户隐私的苹果，似乎把他们的努力推展到意想不到的地方&amp;mdash;&amp;mdash;网页广告。Apple WebKit 的工程师 John Wilander 就在介绍一个新的系统，名为「Privacy Preserving Ad Click Attribution」（隐私保护广告点击归因），用途是能在帮助行销人员不需要追踪个别用户，也可以得知广告的成效。在这系统的设计中，托管主机会储存广义的广告点击数据，而广告主则可以获得人们与网站的互动数据（即点击数），不过因为过程会有 24 小时...", 
+  "title": "苹果希望让网页广告更尊重隐私"
+ }
+]
