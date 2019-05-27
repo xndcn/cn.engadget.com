@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Mon, 27 May 2019 03:35:00 -0400", 
+  "link": "https://cn.engadget.com/2019/05/27/nvidia-quadro-rtx-gpu-mobile/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-05%2F8d784b10-7f6b-11e9-bb7d-af6be23517ac&amp;client=a1acac3e1b3290917d92&amp;signature=6dc81f79096616e7e43e87eb12eecef816e7effb\" />NVIDIA 终于把他们旗下专业级绘图卡 Quadro 系列的 RTX GPU 带到笔电之中，首款支持的是 Quadro RTX 5000，它与桌面版的同样有着 3,072 颗 CUDA 核心、48 RT 核心、384 颗 Tensor 核心和 16GB GDDR6 RAM 来对应专业绘图工作所需的极高需求。\n\n当然笔电版的运算力会相当降低至 9.4 TFLOPS，但也高于前代 Pascal 架构的 P5200。好吧，以新世代 Turing 架构的运算力来比较旧世代，的确是没什机意思，尤其 RT...", 
+  "title": "NVIDIA 把专业级的 Quadro RTX GPU 带到笔电上"
+ }
+]
