@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Tue, 28 May 2019 21:00:00 -0400", 
+  "link": "https://cn.engadget.com/2019/05/28/samsung-power-delivery-controller-chips/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-05%2F049b17a0-815f-11e9-afd4-8eaf745fcd43&amp;client=a1acac3e1b3290917d92&amp;signature=0cb2686ce532c8948c3db2ce5f3f848ed610aabb\" />早些时候三星公布了两款用于电源适配器的全新 IC 芯片 SE8A 和 MM101，两者均支持 USB-PD 3.0 规格，搭配合适的设备可以实现最高 100W 功率的快速充电。按照官方说法，SE8A 是业界首款整合了安全微芯片的 PD 控制器。它可以为适配器提供额外的保护，避免使用到一些不合规的产品。与此同时 MM101 则支持通过 AES 加密标准进行产品认证，并且具备湿度检测等确保充电环境安全的特性。\n\n值得一提的是，这两款芯片都自带 Flash，也就是说其固件可以更新以满足最新的安全需要。...", 
+  "title": "三星带来两款为最高 100W USB-PD 快充准备的 IC 芯片"
+ }
+]
