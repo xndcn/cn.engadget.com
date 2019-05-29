@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Wed, 29 May 2019 07:40:00 -0400", 
+  "link": "https://cn.engadget.com/2019/05/29/qualcomm-smart-viewer-reference-headset/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-05%2F6df288e0-81f6-11e9-b727-2e9ac04ddcaa&amp;client=a1acac3e1b3290917d92&amp;signature=866e6cdfcba0ba3ed4b7d517f32c1306ab5b279a\" />高通去年曾专门为 AR、VR 设备推出了一款骁龙 XR1 芯片，但迄今为止我们还没有看到真正搭载它的产品问世（HoloLens 2 还传过要用这款处理器呢）。为了改变这种情况，他们在今年的 Augmented World Expo 加推了一套 Smart Viewer 参考设计，希望帮助厂家更快更方便地打造自己的头戴设备。\n\nSmart Viewer 需要通过 USB-C 与手机或是电脑相连，由后者来提供主要的运算力。设备本身能实现 6DoF 效果，支持房间大小的运动追踪。而类似轻拍、戳动、缩放...", 
+  "title": "高通为自己的 AR、VR 芯片出了款头戴设备参考设计"
+ }
+]
