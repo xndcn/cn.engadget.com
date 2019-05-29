@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Tue, 28 May 2019 22:00:00 -0400", 
+  "link": "https://cn.engadget.com/2019/05/28/sony-built-an-iot-chip-with-a-60-mile-range/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-05%2Ffdc1c330-8158-11e9-87ff-48e62a7afffc&amp;client=a1acac3e1b3290917d92&amp;signature=e323b67f8036a277444ea9aa78c7184db75b2075\" />去年末时 Sony 和 NEC 以及 Orix 一同推进的 ELTRES LPWA（低功耗广域，low-power wide area）物联网络计划，现在在硬件方面又有了新的开发进展。早些时候索尼公布了一款全新的 CXM1501GR IoT 芯片，它能以模组形式装入单车、路灯、汽车等物联网产品，令其能够在大约 100 公里的范围内利用 LPWA 网络进行数据传输。这项技术在干扰颇多的城市环境中也不会受到太大影响，而且即便是高速移动的物体也一样适用。\n\n一般来说，IoT 设备多会利用网络连线直接把...", 
+  "title": "索尼做了款数据传输范围大概有 100 公里的 IoT 芯片"
+ }
+]
