@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Fri, 31 May 2019 08:01:00 -0400", 
+  "link": "https://cn.engadget.com/2019/05/31/gigabyte-aorus-nvme-pcie4-ssd/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fengadget_uk_662%2F5960b7870df8f9350a418bbde850e5b3&amp;client=a1acac3e1b3290917d92&amp;signature=4a4eab515a9226e23c61fc7d0217fb035220ea53\" />AMD 以 Zen 2 为基础的 Ryzen 处理器其中一个卖点，就是内建了新一代的 PCIe 4.0 控制器，但想要发挥控制器的效益，还是要有对应的装置才行啊！技嘉这次就在 Computex 上带来了「AORUS NVMe Gen4 SSD」，采用了 Phison（群联）的 PS5016-E16 控制器，与 Toshiba 的 3D TLC，让读写速度分别达到 5,000MB/s 与 4,400MB/s 之谱。和 Samsung 970 EVO 相比的话，在读取上快了约 56%，而写入更是有近...", 
+  "title": "技嘉展示新一代 PCIe 4.0 SSD 的潜力"
+ }
+]
