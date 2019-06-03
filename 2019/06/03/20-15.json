@@ -1,0 +1,14 @@
+[
+ {
+  "date": "Mon, 03 Jun 2019 16:10:00 -0400", 
+  "link": "https://cn.engadget.com/2019/06/03/project-catalyst-macos/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fengadget_uk_662%2F79eee5e29f24b41122ae20d2f4cd3564&amp;client=a1acac3e1b3290917d92&amp;signature=9b19afaa250f605918b555f5256c1ca4eef0dcfa\" />一如预料的，苹果在 WWDC 上正式公开了方便开发者将 iOS App 转移到 OSX 上的「Project Cataylst」。其前身为去年的 Marzipan，并且将相容于 Xcode 开发者工具。这意味着开发 iOS App 的团队也能轻松地将介面转换成 macOS 的样子，同时为行动与桌机开发 App。\n\n第一批尝试这套新工具的就包括了 Twitter，这也意味着在结束官方 App 一年多后，Twitter 又将重返 Mac 平台。Twitter 表示利用 Project Catalys...", 
+  "title": "Project Catalyst 将帮助 iOS 开发者将 App 带到 macOS 上"
+ }, 
+ {
+  "date": "Mon, 03 Jun 2019 16:08:00 -0400", 
+  "link": "https://cn.engadget.com/2019/06/03/minecraft-earth-gameplay-apple/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-06%2F3b1c3e90-863b-11e9-b337-b2b3c7cd63e8&amp;client=a1acac3e1b3290917d92&amp;signature=507cf33425ef632bd6410f7e661e4b8b483d7cf9\" />在微软最初公布《Minecraft Earth》的时候，他们并没有让人看到真正的游戏画面是什么样子的。如今来到 WWDC，这款作品的实际运行效果才第一次正式揭晓。Mojang 的员工用 iPhone 和 iPad 在苹果的舞台上对一座虚拟城堡进行了改造，之后他们走进了放大到等同真实尺吋的版本，并且还在里面挖起了矿。\n\n根据现场 demo 的情况来看，《Minecraft Earth》游戏中的两人协作颇为流畅。而且在 iOS 平台上还会有一项特殊的玩法，这个版本的游戏还能把现实事物后面的 AR 元...", 
+  "title": "微软把《Minecraft Earth》的 AR 游戏画面首秀留给了 WWDC"
+ }
+]
