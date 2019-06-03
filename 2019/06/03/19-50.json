@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Mon, 03 Jun 2019 15:43:00 -0400", 
+  "link": "https://cn.engadget.com/2019/06/03/apple-homekit-secure-video-routers/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-06%2Fbd10f840-8637-11e9-bfef-07733b3ebc65&amp;client=a1acac3e1b3290917d92&amp;signature=b0c9237fb19fcab13fabe8fa7147a4213f203f2b\" />如今一直在强调隐私安全的苹果，此番也在 HomeKit 中进行了相应的加强。他们今天在 WWDC 上公布的 HomeKit Secure Video 和 HomeKit for Routers，看名字就知道是为了保全相机和路由器而来。其中前者已经拉拢到罗技和 Arlo 来推出相应的产品，它们会在将录影传上网前先进行分析，之后文件会被加密存储在 iCloud 之中。按照苹果的说法，他们是看不到用户传到服务器里的内容的，而且 HomeKit Secure Video 每 10 天就是一个录制轮回，也...", 
+  "title": "苹果新版 HomeKit 会提升路由器和安保相机的安全性"
+ }
+]
