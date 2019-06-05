@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Tue, 04 Jun 2019 23:30:00 -0400", 
+  "link": "https://cn.engadget.com/2019/06/04/apple-sign-in-with-apple/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fengadget_uk_662%2Fd5378c5198ce6e55648733afab5e49ff&amp;client=a1acac3e1b3290917d92&amp;signature=e08e3edf57ba2a991ebe5bb1ae26999112a8625a\" />在 WWDC 上，苹果首次利用自己在隐私保护上的强项，推出「Sign-in with Apple」来正面与 Google 和 Facebook 对抗。虽然在使用者方面有一定吸引力，但开发者端呢？原来这会是个规定。苹果修改了他们的 App Store 政策，要求开发者如果有在 app 里加入其他第三方登入选项的话（即 Google 和 Facebook），就必须要把「Sign-in with Apple」都一并加入。\n\n据苹果的说法，他们会在夏季开始进行 beta 阶段测试，当「Sign-in w...", 
+  "title": "苹果要求开发者要包括「Sign-in with Apple」"
+ }
+]
