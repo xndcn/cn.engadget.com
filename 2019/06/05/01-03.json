@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Tue, 04 Jun 2019 21:00:00 -0400", 
+  "link": "https://cn.engadget.com/2019/06/04/apple-tile-tracking-device-ios13-beta/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-06%2F4d2dde10-86f2-11e9-8c37-da103ea30020&amp;client=a1acac3e1b3290917d92&amp;signature=315b3a198c4a858fef6b5441d954f58f6479db05\" />此前在苹果流言中出现了多次的物品追踪器，最终并没有在此次 WWDC 的 keynote 环节现身。尽管如此，还是有眼尖的人在 iOS 13 的 beta 版本中发现了蛛丝马迹。据 9to5Mac 报道，有人在相关代码中找到了类别名为「Tag1,1.」的资源包。而这类资源包一般是用于 AirPods、HomePod 等设备接近配对的情况，这无疑增加了苹果在筹备 Tile 类物品追踪器的可能性。\n\n根据我们之前了解到的情况，苹果在开发的是一款可以附着在物体上进行定位追踪的实体标签。把它放在 iPho...", 
+  "title": "iOS 13 beta 代码中出现了跟物品追踪器有关的信息"
+ }
+]
