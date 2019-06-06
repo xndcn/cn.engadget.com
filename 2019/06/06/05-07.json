@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Thu, 06 Jun 2019 01:00:00 -0400", 
+  "link": "https://cn.engadget.com/2019/06/06/excel-real-tme-stock-data-nasdaq/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D1600%2C1067%2C0%2C0%26quality%3D85%26format%3Djpg%26resize%3D1600%2C1067%26image_uri%3Dhttps%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-06%2Fabd78cc0-87a3-11e9-b7df-06c2bdb878f5%26client%3Da1acac3e1b3290917d92%26signature%3Dcba0d9431e0a2588ab7265ce55d5498d5766f034&amp;client=a1acac3e1b3290917d92&amp;signature=93c45f6d4f8acf27650570a61ea14dd32bf9597e\" />Excel 是个很强大、多元的试算表工具，但是在统计预算之外，有没有想过拿来做实时股票的报价工具呢？微软就跟 Nasdaq 和市场数据商 Refinitiv 合作，让 Office 365 的 Excel 可以汇入实时报价。使用者只需要输入股票代号，再选择是股票的类别，Excel 就会自动汇入价格、最后交易时间、52 天高/低位等数据，而且也可以当作方程序的一部分。\n\nExcel 还有支持其他金融指数，像是 Bitcoin、债券、外汇和公司资料，而且也可以拉一些相对固定的数据，包括基金、股市指数...", 
+  "title": "微软让 Excel 变成实时股票分析工具"
+ }
+]
