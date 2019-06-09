@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Sun, 09 Jun 2019 07:00:00 -0400", 
+  "link": "https://cn.engadget.com/2019/06/09/ios-13-will-show-locations-where-apps-have-tracked-you/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-06%2F69707a20-8a70-11e9-bde3-0e43e7e95451&amp;client=a1acac3e1b3290917d92&amp;signature=3fc8588bf48870d47ba539cff8af1e421f27afdf\" />隐私是苹果近来强调的重点，这点在最新的 iOS 13 中自然也有体现。日前 9to5Mac 那边的 Beta 版测试者发现，在新版 iOS（和 iPadOS）内偶尔会弹出询问你是否要保持某款 app 定位分享设定的详细提示。这个提示中会包括 app 追踪过你的具体位置，以及其搜集这些追踪数据的原因描述等等。如果在看过之后，你认为有必要对设定进行修改的话，根据提示也可以直接进行限制操作。\n\n目前在苹果的其它平台上，并没有出现类似的新特性。但这多半是因为部分平台不支持全时定位追踪（比如说 macOS...", 
+  "title": "iOS 13 将会显示应用对你的定位追踪记录"
+ }
+]
