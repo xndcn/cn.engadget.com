@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Wed, 12 Jun 2019 23:59:00 -0400", 
+  "link": "https://cn.engadget.com/2019/06/12/android-security-key-verifies-ios-sign-ins/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D1600%2C1067%2C0%2C0%26quality%3D85%26format%3Djpg%26resize%3D1600%2C1067%26image_uri%3Dhttps%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-06%2Fa90067f0-8d35-11e9-b1fd-5224f0787ba3%26client%3Da1acac3e1b3290917d92%26signature%3D37453b7fcbb08a094b7e06c6114f126f00176db4&amp;client=a1acac3e1b3290917d92&amp;signature=2f10c7c090337fa96d77c46cd44806cca7d6546d\" />Google 为了提高帐户安全而做了很多的功夫，二步骤验证的选项中更有支持多种认证方式。今天 Google 更为了 iOS 装置的使用者加添一个更方便的新方式，就是用 Android 手机来充当认证装置了。只要在 iPhone 和 iPad 上有安装 Google Smart Lock 应用，那在登入 Google 服务时，就会与在旁边已登记的 Android 装置以蓝牙沟通，使用者就只需要按一下 Android 手机的音量键就可以完成认证。\n\n如此一来，iOS 装置的使用者在为他们的 Goog...", 
+  "title": "Android 手机成为了 iOS 装置登入 Google 的认证装置"
+ }
+]
