@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Fri, 14 Jun 2019 01:30:00 -0400", 
+  "link": "https://cn.engadget.com/2019/06/14/windows-10-linux-subsystem/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fresize%3D2000%2C2000%2Cshrink%26image_uri%3Dhttps%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-06%2Fe493f5a0-8d9b-11e9-b779-5c97faf39ad4%26client%3Da1acac3e1b3290917d92%26signature%3Deda7ed09eaa707924f3de59120f5fdb11910a4e1&amp;client=a1acac3e1b3290917d92&amp;signature=111118a702aa3d874bb280ef6297a251e95c8677\" />一如上月在 Build 大会上承诺的所说，微软正式让 Insider beta 计划的成员测试 Windows Subsystem for Linux 2。最新释出的 Build 18917 (20H1) 会有更快的 I/O 速度，比较之前展示的模拟器版本更是截然不同。\n\n微软透过 Command Line blog 里详细说明这个 WSL 2，但实际的使用体验如何，就需要开发者们的测试了。有兴趣的朋友已经可以尝鲜了，微软也特意在 Windows Store 设立一个页面来摆放 Linux 软件...", 
+  "title": "内建 Linux 内核的 Windows 10 正式开放测试"
+ }
+]
