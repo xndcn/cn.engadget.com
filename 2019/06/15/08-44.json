@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Sat, 15 Jun 2019 03:00:00 -0400", 
+  "link": "https://cn.engadget.com/2019/06/15/chrome-beta-dark-mode/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fresize%3D2000%2C2000%2Cshrink%26image_uri%3Dhttps%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-06%2F433be710-8e83-11e9-b6b9-685f4a51ea17%26client%3Da1acac3e1b3290917d92%26signature%3De3a1f44e720f7917ca21ab8c35c581565283e53b&amp;client=a1acac3e1b3290917d92&amp;signature=65aa892901281903a89396c9b2c532228a89579a\" />在最新的 Chrome 76 Beta 版，Google 为其增添了更多与深色模式相关的支持。具体来说，只要该网站有设定好「Prefers-color-scheme」的切换用 CSS 的话，Chrome 就能根据用户偏好或 Chrome 自身所在的模式，去选择正确的 CSS 来套用。这想必能提供更一致的使用体验，让你可以半夜关着灯上网时不会突然被闪到（或者说，突然碰到一个没有准备深色模式的网站，反而更容易被闪到？）。\n\n除此之外，Chrome 76 Beta 最大的变动就是终于将 Flash 改...", 
+  "title": "Chrome 76 Beta 版将内建对深色模式网站的支持"
+ }
+]
