@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Mon, 17 Jun 2019 08:30:00 -0400", 
+  "link": "https://cn.engadget.com/2019/06/17/nvidia-arm-cuda-support/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-06%2Ffcff95b0-90f0-11e9-ab7a-0a8407332243&amp;client=a1acac3e1b3290917d92&amp;signature=ae9f07eff195b5de8bfbc8fa0cb1f1e55b3c3f56\" />NVIDIA 稍早在德国法兰克福举办当中的 International Supercomputing Conference（ISC）上宣布了将让 CUDA 与 Arm 架构相容，在年底前将包括 NVIDIA CUDA-X AI、HPC 函式库、GPU 加速 AI 框架、及编译器等全套的软体堆叠开发工具，带到 ARM 的生态系中。NVIDIA 希望藉由 CUDA 的平行运算力与 ARM 的节能 CPU 架构相配合，可以将高效能运算（HPC）领域提升至百万兆（exascale）级别。目前并已有 At...", 
+  "title": "NVIDIA 将深化与 ARM 的合作，为 ARM 架构带来 CUDA 加速"
+ }
+]
