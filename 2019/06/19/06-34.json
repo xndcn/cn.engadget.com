@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Wed, 19 Jun 2019 02:30:00 -0400", 
+  "link": "https://cn.engadget.com/2019/06/19/firefox-zero-day/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D1600%2C902%2C0%2C0%26quality%3D85%26format%3Djpg%26resize%3D1600%2C902%26image_uri%3Dhttps%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-06%2Feac196a0-9208-11e9-afff-cd8f1d2c594b%26client%3Da1acac3e1b3290917d92%26signature%3Dee01c61538d3bc95b21ea9762592e79f706f3e6d&amp;client=a1acac3e1b3290917d92&amp;signature=34dde0f972879ea9b965ed5e1e2d998272474463\" />如果你是 Firefox 的用户的话，Mozilla 建议你立即更新至 Firefox 67.0.3 或 ESR 60.7.1 版本。稍早 Coinbase Security 与 Google Project Zero 的 Samuel Gro&amp;szlig; 回报了这个漏洞，发现由于 Array.pop 方法的问题，当操作 Javascript 物件时，可能产生让恶意人士操弄的错误。目前已知有利用这个漏洞进行攻击的案例，因此尽速更新是刻不容缓的事。美国网路安全暨基础建设安全署（CISA）也已发出...", 
+  "title": "Firefox 被发现有重大漏洞，Mozilla 建议立即更新"
+ }
+]
