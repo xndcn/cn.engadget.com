@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Wed, 19 Jun 2019 04:00:00 -0400", 
+  "link": "https://cn.engadget.com/2019/06/19/pci-express-6-specification/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fengadget_uk_662%2F91db12f96f64c630c3e17cc94b7a3a3c&amp;client=a1acac3e1b3290917d92&amp;signature=d43100ae6ffc987f6fc9473029feef1179cc5eba\" />就在第一批 PCIe 4.0 设备才刚刚现身、PCIe 5.0 定案不足一个月的现在，制定规范的 PCI Special Interest Group 就已经公开 PCIe 6.0 的标准了。PCIe 6.0 利用脉波振幅调变（Pulse-amplitude modulation）的技术，让硬件保持向下相容的同时，16 个通道将能提供高达 256GB/s 的传输速度，为 PCIe 5.0 的两倍、PCIe 4.0 的四倍。PCI-SIG 希望这能为未来的 AI 与存储应用预留足够的带宽空间。...", 
+  "title": "PCI Express 6.0 规范为 AI 和存储预留大量的带宽空间"
+ }
+]
