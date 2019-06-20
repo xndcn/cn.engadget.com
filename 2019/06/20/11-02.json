@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Thu, 20 Jun 2019 07:00:00 -0400", 
+  "link": "https://cn.engadget.com/2019/06/20/smart-speaker-ai-listens-for-cardiac-arrest/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fengadget_uk_662%2F2a49f81ad6e4bd88c3f00a6ddb46b7f1&amp;client=a1acac3e1b3290917d92&amp;signature=24fcd50050f9bdcfa9c654566c81600e51a8ecf8\" />一个人在家时突然心脏病发而求救无门的情况，想必是不少心血管疾病患者的恶梦。借助着机器学习与 AI 的帮助，未来你的智慧喇叭可能成为你的救星，在关键时刻替你求救。\n\n美国华盛顿大学的研究学者打造了一个示范性的 AI，利用 911 报案电话中录下的音讯样本，让 AI 学习心脏病发时特有的喘息声。这个 AI 会先向室内广播，请求附近的人协助做 CPR，如果没有人回应的话，它就会自动播打 911 求助。录音的样本有经过挑选，尽量涵盖从智能喇叭到手机的各种不同的收音设备，来模拟各种有可能搭载这 AI 的装...", 
+  "title": "你的智能喇叭未来有可能在你心脏病发时替你求救"
+ }
+]
