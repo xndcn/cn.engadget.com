@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Thu, 20 Jun 2019 04:05:00 -0400", 
+  "link": "https://cn.engadget.com/2019/06/20/intels-performance-maximizer-tool-overclocks-cpus-with-one-clic/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-06%2Fc35c35e0-9314-11e9-8883-991e1117bd8a&amp;client=a1acac3e1b3290917d92&amp;signature=022b90a559ca3908257f3fe26e2780501642e75a\" />英特尔稍早释出了官方的「一键超频」工具，名为 Intel Performance Maximizer。IPM 的功能说来很简单，在安装后它会逐步的尝试各种时脉与电压，直到电脑出错为止，之后它就会储存最后一个稳定的数值，作为超频的基准。这其实和一般手动超频的试验没有什么两样，只是英特尔把整个过程自动化了而己。\n\n据 PC Perspective 的实测，英特尔的工具所能达到的超频程度（不意外地）依然略逊于手动超频，而且整个软件是彻底地贯彻了「一键」的原则，基本上没有任何可以微调或设定之处。整体来说...", 
+  "title": "英特尔推出官方一键超频工具「Intel Performance Maximizer」"
+ }
+]
