@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Wed, 26 Jun 2019 08:00:00 -0400", 
+  "link": "https://cn.engadget.com/2019/06/26/microsoft-onedrive-personal-vault-security-2fa-storage-increase/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D3500%2C2294%2C0%2C0%26quality%3D85%26format%3Djpg%26resize%3D1600%2C1049%26image_uri%3Dhttps%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2018-11%2F07910710-f36d-11e8-b77f-f4968a09c9a7%26client%3Da1acac3e1b3290917d92%26signature%3D27312d2acc60904ddc09e4b2ae850070e7900198&amp;client=a1acac3e1b3290917d92&amp;signature=ba5ae44be7dff42ba9bd8a6dbb8fddb333d8fe5a\" />不少人应该多少都有过临时须要用手机拍下重要文件或证明的经验，但你有没有想过这些文件就这样放在手机上，之后还可能会自动传到了云服务，是否安全呢？考虑到了一般人使用习惯的这个大漏洞，微软在 OneDrive 上启用了一个新功能，叫「OneDrive Personal Vault（OneDrive 个人金库）」，在你的储存空间中画出一块区域，要再经过一次额外的密码、指纹、脸部辨识、2FA、或 App 认证，才能存取。\n\n除了适合备份身份证明文件、保险、契约等文件之外，OneDrive 的手机 App...", 
+  "title": "微软为你打造 OneDrive 当中的「金库」"
+ }
+]
