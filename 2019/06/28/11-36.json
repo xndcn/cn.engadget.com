@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Fri, 28 Jun 2019 07:30:00 -0400", 
+  "link": "https://cn.engadget.com/2019/06/28/browser-tracking-prevention-edge-chrome/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-06%2F3b6fc650-9982-11e9-bdd7-95e4e1526294&amp;client=a1acac3e1b3290917d92&amp;signature=7e0213ac420166404787b77a062f3db0df48b1db\" />最近浏览器开发商都不约而同加强了自家产品的防追踪功能，前有 Mozilla，现在微软基于 Chromium 的 Edge 也迎来了类似更新。Windows 平台上的 Insider 测试用户，已经可以在最新的 Canary 版中启用该特性，你只要输入 edge://flags#edge-tracking-prevention 之后重开浏览器，就能为自己增加一层额外的防护了。", 
+  "title": "微软为 Chromium 版 Edge 浏览器加强防追踪功能"
+ }
+]
