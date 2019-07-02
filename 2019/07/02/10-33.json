@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Tue, 02 Jul 2019 06:30:00 -0400", 
+  "link": "https://cn.engadget.com/2019/07/02/google-open-sources-robots-txt-tool/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D3771%2C2515%2C0%2C0%26quality%3D85%26format%3Djpg%26resize%3D1600%2C1067%26image_uri%3Dhttps%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-07%2F3aaa8470-9c49-11e9-bcbe-a8cc9d768c19%26client%3Da1acac3e1b3290917d92%26signature%3Da0e84dfa05a7cf64019238543681f80d775e9221&amp;client=a1acac3e1b3290917d92&amp;signature=fe5541a78cc1e08f5568ecea1219f21454b226c4\" />网站用来告诉前来搜刮内容的爬虫机器人什么地方能去，什么不能去的「Robot Exclusion Protocol」（REP）协定虽然早在 1994 年就由荷兰软件工程师 Martijn Koster 提出，并由大部份的网站与机器人所遵守，但其实 25 年来它都不是一个真正的「标准」，因此在各家的解析器（Parser）在解译时可能会有所偏差，而且对于许多特殊的状况都没有个明确的规范。\n\n举例来说，一般爬虫机器人都是去网站的根目录寻找 robot.txt 文件，来了解网站对于爬虫机器人活动范围与频度...", 
+  "title": "Google 推动将网絡爬虫机器人规范标准化"
+ }
+]
