@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Sun, 07 Jul 2019 02:15:00 -0400", 
+  "link": "https://cn.engadget.com/2019/07/07/7-eleven-japan-app-security-loss/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D1600%2C939%2C0%2C0%26quality%3D85%26format%3Djpg%26resize%3D1600%2C940%26image_uri%3Dhttps%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-07%2F1df05f50-9fda-11e9-96eb-3d456fba7e25%26client%3Da1acac3e1b3290917d92%26signature%3D4cbb123fe74b6a637dd728e60a8ca152cf2c2aea&amp;client=a1acac3e1b3290917d92&amp;signature=9d5576581037a5e684d77c945f425285333faf42\" />日本 7-Eleven 的电子钱包软件「7pay」仅仅上线两天，就不得不因为一个夸张的安全失误而下架了。在官方声明中，该公司表示不法人士一共破解了约 900 位受害者的帐户，并且在 7 月 1 日上线至 7 月 3 日紧急下线之间，总计透过这些帐户一共消费了 5,500 万日元（约 350 万 RMB）。\n\n到底是什么厉害的漏洞被骇客利用了呢？据 ZDNet 的报导，原来问题出在忘记密码时的取回操作上。虽然取回密码时系统会要求要你输入申办时的电邮信箱、生日和电话号码，但很诡异的是重设密码的连结寄...", 
+  "title": "日本 7-Eleven 的电子钱包 App 发生离谱安全漏洞，顾客合计损失 5,500 万日元"
+ }
+]
