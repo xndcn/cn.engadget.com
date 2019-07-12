@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Thu, 11 Jul 2019 22:30:00 -0400", 
+  "link": "https://cn.engadget.com/2019/07/11/apple-walkie-talkie-feature-disabled-vulnerability/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D1632%2C1018%2C0%2C0%26quality%3D85%26format%3Djpg%26resize%3D1600%2C998%26image_uri%3Dhttps%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-07%2Fd37d1ab0-a3aa-11e9-afd7-8537a467131a%26client%3Da1acac3e1b3290917d92%26signature%3D0cdbaa94e48475669f8c2b79779abc297920e848&amp;client=a1acac3e1b3290917d92&amp;signature=00208cb94946b376c58d4c43e14317f1ade5ef04\" />在 watchOS 5 里新增的对讲机功能，让使用者可以简单地透过 Apple Watch 来与其他 Watch 使用者传送语音讯息。可是苹果表示这功能在特定环境下会出现漏洞，虽然目前仍未有人发现并利用它，但也即使暂停了相关对讲机功能，直至完全修复为止。\n\n据苹果给 TechCrunch 的回覆里解释，这漏洞会让其他人能透过 iPhone 来收听到对讲机之间的对话，而且无需任何一方同意。类似的问题也曾在苹果的 FaceTime 出现，有少年曾发现 FaceTime 可在来电仍未接听前就听到对方的...", 
+  "title": "\bApple Watch 对讲机功能出现漏洞，功能即时暂停使用"
+ }
+]
