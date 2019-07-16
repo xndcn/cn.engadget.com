@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Mon, 15 Jul 2019 21:00:00 -0400", 
+  "link": "https://cn.engadget.com/2019/07/15/intel-neuromorphic-pohoiki-beach-loihi-chips/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-07%2F279af3a0-a71c-11e9-afff-399c7e6bb83e&amp;client=a1acac3e1b3290917d92&amp;signature=dce49029fe03cb90d2b1793b1e423b86c8671bc9\" />在彻底放弃了 5G 业务以后，英特尔便有了更多精力，同时也更有必要，去到更多其它的领域谋求发展。而他们已经开发了颇有一段时间的 Loihi「神经形态」深度学习芯片，现在迎来了新的成果。刚刚英特尔发布了代号为 Pohoiki Beach 的全新系统方案，它由最多 64 颗 Loihi 芯片组成，拥有 800 万个「神经元」。在被运用到自动驾驶、电子机器皮肤、义肢等产品上的时候，它处理 AI 算法的速度和效率，分别是常规 CPU 的 1,000 倍和 10,000 倍。\n\n在英特尔的这套新方案中，L...", 
+  "title": "英特尔带来为自驾车、机器人、义肢而设的低功耗 AI 芯片"
+ }
+]
