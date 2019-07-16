@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Mon, 15 Jul 2019 22:30:00 -0400", 
+  "link": "https://cn.engadget.com/2019/07/15/psa-microsoft-blocks-windows-10-update-surface-book-2/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-07%2F5be013a0-a71e-11e9-b77b-58475c671de0&amp;client=a1acac3e1b3290917d92&amp;signature=83b2da54e2100158a88e2a1b056f23da820bbb01\" />出于兼容性的原因，早些时候微软宣布，将会停止让 Surface Book 2 进行版本号为 1903 的 Windows 10 五月更新。据官方介绍，在安装了这一更新后部分用到 NVIDIA 显卡的软件将会没法正常工作。所以在微软找到解法之前，他们将不会向 Surface Book 2 使用者提供对应更新档的下载。\n\n实际上，这并非 1903 版本第一次出现问题。之前微软已经证实，在外接 USB 存储设备或 SD 卡时，该版更新可能会存在安装不完整的情况。当然啰，相对来说要解决这个 bug 的难...", 
+  "title": "微软停掉了 Surface Book 2 上的 Windows 10 五月更新"
+ }
+]
