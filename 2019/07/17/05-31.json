@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Wed, 17 Jul 2019 01:30:00 -0400", 
+  "link": "https://cn.engadget.com/2019/07/17/microsoft-edge-internet-explorer-mode-test/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D4000%2C2667%2C0%2C2%26quality%3D85%26format%3Djpg%26resize%3D1600%2C1067%26image_uri%3Dhttps%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-07%2F42b88490-a811-11e9-9fcb-64f944a6e056%26client%3Da1acac3e1b3290917d92%26signature%3Dd582f54f80193a16c97817d35a9993b569a11cf5&amp;client=a1acac3e1b3290917d92&amp;signature=a8a35c3afa49bb2b81a681a9c305a07fda4b65f6\" />在新世代 Microsoft Edge 里添加 Internet Explorer 模式的原因，可说是为了因为数量庞大的企业客户，他们因为各种内部问题而坚守在 IE 浏览器上。今天这些用户终于可以通过基于 Chromium 的 Edge 浏览器 Dev bulid 测试这 IE 模式了。启动了这功能后，在浏览还在使用 IE 规格设计的网页就能正常使用；更妙的是 IT 部门还可以设定成在浏览该网页时自动启动 IE 模式。\n\n这开发版本 Edge 还有企业常用的群组政策支持、更严格的安全考量、「企业...", 
+  "title": "微软开始测试 Edge 的 Internet Explorer 模式"
+ }
+]
