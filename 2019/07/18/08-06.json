@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Thu, 18 Jul 2019 04:00:00 -0400", 
+  "link": "https://cn.engadget.com/2019/07/18/bluetooth-vulnerability-location-tracking-boston-university/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-07%2F986f2720-a92b-11e9-bb7f-8ecc4ba4e65b&amp;client=a1acac3e1b3290917d92&amp;signature=ffbf14531a4adbfd2e6a0248fe201fed7af86443\" />来自波士顿大学的研究者们日前发现，在以 Fitbit 为首的许多常见蓝牙设备上，存在可能被第三方利用以获取位置等其它敏感信息的漏洞。这些数据有可能会被心怀不轨者拿来滥用，考虑到如今蓝牙产品的普及率之高，专家认为人们需要在这方面提高警觉。\n\n具体而言，这个漏洞是出在蓝牙设备跟配对产品的连线机制上。一般来说两个配对的设备间会有主副关系，其中附属设备会向主设备发送带有特定地址（类似 IP 地址）的信号及相关的连线数据。而这个特定的地址在大部分设备上都是定期重新随机设置的，正常情况下应该是可以保护到用户...", 
+  "title": "研究者发现可能泄漏你位置信息的蓝牙漏洞"
+ }
+]
