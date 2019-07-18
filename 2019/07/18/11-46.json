@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Thu, 18 Jul 2019 07:40:00 -0400", 
+  "link": "https://cn.engadget.com/2019/07/18/ai-rubiks-cube-machine-learning-neural-network/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D1998%2C1488%2C0%2C0%26quality%3D85%26format%3Djpg%26resize%3D1600%2C1192%26image_uri%3Dhttps%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-07%2F5aab6540-a8c0-11e9-bffe-ce4fcecf1dc6%26client%3Da1acac3e1b3290917d92%26signature%3D149f4621aa2f4e08e3a73a03ee3d11c7f544ad9d&amp;client=a1acac3e1b3290917d92&amp;signature=6a11cdefe41c23410fd55eb06f0410c1410a7dd3\" />魔术方块是有已知的演算法可以计算出最佳步数，也有人做出了仅需 0.38 秒就能自动将打乱的魔术方块复原的机器人，但这次不一样 &amp;mdash;&amp;mdash; 加州大学尔湾分校的研究学者们开发了一套完全自主学习的「DeepCubeA」人工智慧系统，在仅仅提示最终状态的前提下，由 AI 自行研究出了解法。\n\n像许多这类的系统一样，科学家们自己也不知道 DeepCubeA 是如何搞懂怎么做的，只是利用了「强化学习」的机制，放任机器自己研究该如何转动。最终的成果是 DeepCubeA 只要 1.2 秒的时...", 
+  "title": "人工智慧系统自己学会了如何解魔术方块"
+ }
+]
