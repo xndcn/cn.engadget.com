@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Fri, 19 Jul 2019 04:00:00 -0400", 
+  "link": "https://cn.engadget.com/2019/07/19/chrome-76-to-stop-private-browsing-checks/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-07%2F1a047e80-a9f3-11e9-b627-6da75f48d90c&amp;client=a1acac3e1b3290917d92&amp;signature=58d34d26533fad0547077ffdce67aac2926e8723\" />现如今越来越多网站为了用户数开始检测私密浏览模式，Google 出于隐私浏览的精神，对新版 Chrome 的隐身模式进行了改造。在预计于 7 月 30 日上线的 Chrome 76 中，他们会堵上被网站用以识别隐身模式的 FileSystem 框架漏洞。而且未来若是再有针对隐身模式的探测手段，Google 也会在浏览器里做对应的防范。\n\n在 Google 看来，虽然有些用户开启隐身只是为了绕过付费墙，但也有更多人是出于更重要的原因才选择保持匿名。因此 Google 希望各家出版商不要敌视 Chr...", 
+  "title": "新版 Chrome 让网站无法检测到用户是否在使用隐身模式"
+ }
+]
