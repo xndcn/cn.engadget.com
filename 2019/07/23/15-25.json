@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Tue, 23 Jul 2019 11:15:00 -0400", 
+  "link": "https://cn.engadget.com/2019/07/23/apple-updating-old-iphone-ipad-gps-issue/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-07%2F5dd2e6d0-ad5c-11e9-acff-b155c9602e62&amp;client=a1acac3e1b3290917d92&amp;signature=f8a9b21d9f41886bc4c727d3a1b47608acccc6d2\" />苹果最近为旗下移动产品准备的软件更新，原来并不只有新鲜的 iOS 12.4 而已。他们同时也给一些旧款设备带来了新版的固件，不过这不是为了增加新的功能，而是修复一些 GPS 使用上的问题。这里指的旧款设备，包含老到 iPhone 4s、初代 iPad mini 这样的经典机种。苹果希望通过升级，来消除 GPS 计数机制对旧款 iDevice 的影响。\n\n具体来说，GPS 在正常运作时需要用到日期和时间信息，其追踪日期的方式就是对星期计数并以 10 位来存下相关数值。不过每经过约 20 年的时间，...", 
+  "title": "苹果为 iPhone、iPad 推出修复 GPS 问题的更新"
+ }
+]
