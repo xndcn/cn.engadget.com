@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Tue, 30 Jul 2019 22:30:00 -0400", 
+  "link": "https://cn.engadget.com/2019/07/30/google-project-zero-ios-interactionless-vulnerabilities-apple/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-07%2F32f0af40-b2e5-11e9-b57b-906ba118bceb&amp;client=a1acac3e1b3290917d92&amp;signature=5a07bb7dbcc936e1dc023758972b84f647bccb1b\" />在本月上线的 iOS 12.4 更新中，苹果修复了六个非常严重的安全漏洞。不过时至今日我们才知道，发现这些漏洞并提醒苹果的幕后功臣，原来是 Google Project Zero 抓 bug 队的成员 Natalie Silvanovich 和 Samuel Gro&amp;szlig;。在即将于下周在赌城举行的黑帽安全大会上，Silvanovich 将会分享相关细节，并且在现场进行攻击的演示。\n\n这次 Google 团队发现的是一种「无互动」漏洞，骇客可以在远端的 iOS 设备上执行攻击（只要通过 i...", 
+  "title": "iOS 12.4 里修复的几个严重漏洞是由 Google 团队找到的"
+ }
+]
