@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Wed, 31 Jul 2019 08:01:00 -0400", 
+  "link": "https://cn.engadget.com/2019/07/31/chrome-76-thwarts-private-browsing-mode/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D2835%2C1890%2C0%2C0%26quality%3D85%26format%3Djpg%26resize%3D1600%2C1067%26image_uri%3Dhttps%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-03%2F66d29fa0-4515-11e9-a37b-b5ab304092fc%26client%3Da1acac3e1b3290917d92%26signature%3D51a4be023ae8d2cc3e1495c2899edde506e31c5d&amp;client=a1acac3e1b3290917d92&amp;signature=996da03c80c1c96fa0323c97f3fe0bf8ec57b9d6\" />一如先前预告的，Chrome 76 在稍早准时上线了。和过往改版每次都是增加一点小功能不同，这次 Chrome 76 修正了一个文档系统的臭虫，让你造访的网站无法分辨你是否使用无痕模式前往。这引发了 Google 与媒体界之间的一些争议，因为有不少订阅型的美国媒体网站，会利用无痕模式的侦测，来避免免费阅读的文章数被滥用（在无痕模式上每次造访都会被视为第一次）。\n\n经过我们的实测，确实在升级到 Chrome 76 之后，几个原本会因为你是使用无痕模式造访而阻挡你的网站，现在都变得浑然不觉，可以正常...", 
+  "title": "能避免被发现你在使用「无痕模式」的 Chrome 76 正式上线"
+ }
+]
