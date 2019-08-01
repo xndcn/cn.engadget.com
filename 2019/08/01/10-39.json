@@ -1,0 +1,14 @@
+[
+ {
+  "date": "Thu, 01 Aug 2019 05:32:00 -0400", 
+  "link": "https://cn.engadget.com/2019/08/01/7pay-end-for-good/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fmedia.zenfs.com%2Fzh-tw%2Fengadget_hk_378%2Ff52f78342025521024291aa846fb7ced&amp;client=a1acac3e1b3290917d92&amp;signature=b166cc6391a7dbcedcc53fe611ae880c03bc5619\" />上月初在日本推出的 7pay 移动支付服务，在推出两天后就因为系统被发现有严重漏洞而需要把 app 下架。今天，日本 7&amp;amp;i 控股、7-Eleven 日本和 7pay 举行记者会，正式宣布相关服务会在 9 月底完全停运，他们解释表示堵住漏洞费时费力，且消费者对于该服务的信任难以恢复。10 月 1 日起，7pay 会为帐户内尚有余额的用户，进行退款。同时官方也释出了最新数字，表示因事件而受影响的人数为 808 人、涉及 3,871 万余日元。\n\n7pay 的代表在记者会上解释相关漏洞的起因...", 
+  "title": "日本「7pay」移动支付服务宣布 9 月底完全停止营运"
+ }, 
+ {
+  "date": "Thu, 01 Aug 2019 04:30:00 -0400", 
+  "link": "https://cn.engadget.com/2019/08/01/netflix-physical-activity-android-test/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D7952%2C5304%2C0%2C0%26quality%3D85%26format%3Djpg%26resize%3D1600%2C1067%26image_uri%3Dhttps%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-07%2F262d02c0-b3b4-11e9-93ef-90280d28cab9%26client%3Da1acac3e1b3290917d92%26signature%3Debb1f8feefaea78621e0ca4336c89297fa3a2ebe&amp;client=a1acac3e1b3290917d92&amp;signature=2d903278506acfb29386ad939a21bfcdf05219a8\" />现在大众对于手机应用会收集什么数据都很敏感，尤其是一些按理不涉及 app 用途的数据。Android 版本的 Netflix 应用就被发现有在收集设备的所在位置活动数据，这样也足够奇怪了吧，而官方就正式解释原因了。\n\n据 Netflix 发言人向 The Next Web 的解说，他们是在测试如何改善用户在移动时的串流品质，但强调只有少数目的用户在测试范围内，而且不会扩展。Netflix 大概是想要通过 Android Q 系统的特性，来分析使用者在看视频时是在行走、骑车或是在汽车里。\n\n这样解...", 
+  "title": "Netflix 解释他们追踪用户活动数据的原因"
+ }
+]
