@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Mon, 05 Aug 2019 07:30:00 -0400", 
+  "link": "https://cn.engadget.com/2019/08/05/boeing-737-max-fix-for-newer-flaw/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-08%2F0d4d6f00-b761-11e9-8f7d-58a1b7302eca&amp;client=a1acac3e1b3290917d92&amp;signature=457d38582f27d356dcc2d46d33ce908abde08b19\" />自三月初就停飞至今的波音 737 Max 系列飞机，似乎终于可以看到隧道终端的亮光了。原本波音预计「夏天」就能让 737 Max 复飞，但就在公布此一时程后没几个小时，就被发现又有一个新的「问题」，让复飞时程又蒙上了阴影。\n\n据消息来源称，这个新的「问题」主要是 737 Max 明明就搭载有两台飞控电脑，但设计上（包括所有前代的机种皆同）却是让两台电脑在每次飞行后轮替使用，实际上每次飞行只使用其中的一台。如此一来，如果使用中的电脑因为任何原因资料出现差错的话，飞控系统将会依错误的资料做出反应，而...", 
+  "title": "波音将以同时读取两台电脑资料的方式，来解决 737 最新的问题"
+ }
+]
