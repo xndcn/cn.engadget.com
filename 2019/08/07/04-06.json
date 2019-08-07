@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Wed, 07 Aug 2019 00:00:00 -0400", 
+  "link": "https://cn.engadget.com/2019/08/07/ios-13-facebook-messenger-whatsapp-voip-changes/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D4278%2C2678%2C0%2C0%26quality%3D85%26format%3Djpg%26resize%3D1600%2C1002%26image_uri%3Dhttps%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-08%2F31d89f90-b877-11e9-bbdc-376096cd78a3%26client%3Da1acac3e1b3290917d92%26signature%3D3e5caa4759d5fd21c30c6c02a8f06d3fd867a719&amp;client=a1acac3e1b3290917d92&amp;signature=d92ce67e7df8e9aa358a0d7addde9350ab80de93\" />似乎即将在推出的 iOS 13 会让 Facebook 相当头痛，因为在新系统之中不会再允许 VoIP 在背景持续运行，所以使用该技术提供通话功能的 WhatsApp 和 Messenger 都需要再想办法了。据 The Information 的报导，使用 VoIP 的通讯软体会持续在系统背景运行，目的原意为加快连接通话的速度，然而这也会引起收集用户数据的嫌疑。\n\n自然，Facebook 并非唯一使用 VoIP 到通讯工具的开发者，所以 Apple 也把限期推至 2020 年 4 月才强制执行...", 
+  "title": "iOS 13 将会逼使 Facebook 重新设计通话功能"
+ }
+]
