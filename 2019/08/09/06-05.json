@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Fri, 09 Aug 2019 02:00:00 -0400", 
+  "link": "https://cn.engadget.com/2019/08/09/deepmind-ai-tracks-serengeti-wildlife/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdimse%2F5845cadfecd996e0372f%2Fedfc66c24cc9747f5634d8fe65ad4e85d9fdda01%2FY3JvcD0xNjAwJTJDMTA2NyUyQzAlMkMwJnF1YWxpdHk9ODUmZm9ybWF0PWpwZyZyZXNpemU9MTYwMCUyQzEwNjcmaW1hZ2VfdXJpPWh0dHBzJTNBJTJGJTJGcy55aW1nLmNvbSUyRm9zJTJGY3JlYXRyLXVwbG9hZGVkLWltYWdlcyUyRjIwMTktMDglMkZiM2NmNDIwMC1iYTA4LTExZTktOWZlZi1jYTE0ZmY2YmZhNGMmY2xpZW50PWExYWNhYzNlMWIzMjkwOTE3ZDkyJnNpZ25hdHVyZT1hYTExMjI3YWI0ZGU2NDZmNjI1ZWVmMDUxYzFkZmIwMzM4M2IwYTE0&amp;client=a1acac3e1b3290917d92&amp;signature=1f4090fdecf7bdcd37bac8751df702d9f620745b\" />Deepmind 宣布了与非洲的保育专家与生态学家合作，将机器学习引进到动物的辨识上。过去的动物辨识靠的是志愿者的人力辨识，由照片送出到结果传回，中间可能可以隔上一年之久。对于许多具备即时性的需求来说，实是在太过缓慢。如今有了 Deepmind 加入后，靠着过去九年在塞伦盖蒂草原上数百万张的动物照片作为基础，开发了一套机器学习模型，可以将辨识花费的时间砍到仅需三个月，且准确度与人力辨识相当。这工作远比想像中的困难，因为动物不会乖乖的站在那边摆 pose 给你拍照，而是很多时候只有失焦、动态模糊的...", 
+  "title": "Deepmind 协助在塞伦盖蒂草原上辨识动物"
+ }
+]
