@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Mon, 12 Aug 2019 10:31:00 -0400", 
+  "link": "https://cn.engadget.com/2019/08/12/dslr-camera-ransomware-vulnerability/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-08%2Fbea771e0-bd0d-11e9-9c7e-a292adb2fc9b&amp;client=a1acac3e1b3290917d92&amp;signature=d6b8cd1574724254297d4f8aa9e704bd29aa2068\" />在一般人的认知中，因为相机的联网功能相对来说没那么丰富，所以其并没有那么容易成为骇客们攻击的目标。但实际的情况并非如此，日前 Check Point Software 的研究者们发现，近来开始有骇客瞄准了单反和无反相机。他们会利用 Wi-Fi 向相机植入恶意软件，然后以给照片加密的形式对用户进行勒索。\n\n具体来说，这一攻击是以图片传输协议（Picture Transfer Protocol）无验证同时又支持有线及无线的特性来作为实现基础。而 CPS 发现这一问题的过程也让人有点哭笑不得，他们恰恰...", 
+  "title": "相机也有可能受到勒索软件的威胁"
+ }
+]
