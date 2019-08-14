@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Wed, 14 Aug 2019 04:30:00 -0400", 
+  "link": "https://cn.engadget.com/2019/08/14/adobe-lightroom-editing-gpu-acceleration/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdimse%2F5845cadfecd996e0372f%2Fe54f75c5685c2199d0d68a578953a54bfefa8ceb%2FcmVzaXplPTIwMDAlMkMyMDAwJTJDc2hyaW5rJmltYWdlX3VyaT1odHRwcyUzQSUyRiUyRnMueWltZy5jb20lMkZvcyUyRmNyZWF0ci11cGxvYWRlZC1pbWFnZXMlMkYyMDE5LTA4JTJGYzY0Y2RlYzAtYmRhOS0xMWU5LWI3ZmEtZTZhODQ0YmI3ZDMzJmNsaWVudD1hMWFjYWMzZTFiMzI5MDkxN2Q5MiZzaWduYXR1cmU9NTA0ODE2Zjc5ZWQ0OTAzNWY2YzcwYzJhZDQwNGZiYjZmNGM3M2U1Yg%3D%3D&amp;client=a1acac3e1b3290917d92&amp;signature=43bca72b29cedbc6cf5fefec91a241d1f65aee70\" />Adobe 为 Premiere Pro、Photoshop 等产品引入 GPU 加速的功能后，今天终于也把这恩惠带到 Lightroom Classic 了。在最新版本的 Lightroom Classic 中，会把 GPU 加速的能力由过去的画面呈现，扩展至影像处理的部分，该后制时也能利用 GPU 提速处理。\n\n同时，Adobe 也表示在 Lightroom Classic 在 HDR 和全景相片的合并工作中更具效率，因为使用者终于可以批次挑选相片后，直接选择堆叠合并。", 
+  "title": "Adobe Lightroom Classic 终于能通过 GPU 加速图像处理"
+ }
+]
