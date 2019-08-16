@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Thu, 15 Aug 2019 23:00:00 -0400", 
+  "link": "https://cn.engadget.com/2019/08/15/microsoft-surface-throttling-400mhz/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdimse%2F5845cadfecd996e0372f%2F54e1f58158fce1247d292dbfa51ecd32b6f41342%2FcmVzaXplPTIwMDAlMkMyMDAwJTJDc2hyaW5rJmltYWdlX3VyaT1odHRwcyUzQSUyRiUyRnMueWltZy5jb20lMkZvcyUyRmNyZWF0ci11cGxvYWRlZC1pbWFnZXMlMkYyMDE5LTA4JTJGNWU5NmY3NDAtYmY3ZC0xMWU5LTk3ZmYtNDQyNjg5MmRiOTg4JmNsaWVudD1hMWFjYWMzZTFiMzI5MDkxN2Q5MiZzaWduYXR1cmU9MDUzZTg4MzhmMTlmODJmMGRiODVkMTM5MDE0YWFhYWUyOWZiYzI4MA%3D%3D&amp;client=a1acac3e1b3290917d92&amp;signature=71fe257455ee060d67a496732830265331f9f285\" />有没有在使用微软 Surface Pro 6 和 Surface Book 2 的朋友，发现机器最新的运作速度奇慢呢？据 TechRepublic 的发现，在更新了 8 月 1 日释出的 Windows 系统更新后，部分 Surface 产品的时脉就被锁至只有 400MHz，以 Surface Pro 6 的预设时脉为 1.9GHz 为例，性能可说是被限制至只有四份之一。\n\n据指这问题是源自一个名为 BD PROCHOT 的系统内部警告出错，让系统误以为装置有过热危险而要降低 CPU 性能。有部...", 
+  "title": "部分微软 Surface 的装置性能被意外减弱"
+ }
+]
