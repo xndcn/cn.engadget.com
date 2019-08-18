@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Sat, 17 Aug 2019 21:00:00 -0400", 
+  "link": "https://cn.engadget.com/2019/08/17/stanford-sticker-sensor-for-body/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdimse%2F5845cadfecd996e0372f%2F81682a079971d172177c0fb3b3f3ef6aab5faa9f%2FY3JvcD0xNjAwJTJDMTA2NyUyQzAlMkMwJnF1YWxpdHk9ODUmZm9ybWF0PWpwZyZyZXNpemU9MTYwMCUyQzEwNjcmaW1hZ2VfdXJpPWh0dHBzJTNBJTJGJTJGcy55aW1nLmNvbSUyRm9zJTJGY3JlYXRyLXVwbG9hZGVkLWltYWdlcyUyRjIwMTktMDglMkY0M2ViM2IwMC1jMDM1LTExZTktYmRkZS1kN2Q2M2RmN2VlMDQmY2xpZW50PWExYWNhYzNlMWIzMjkwOTE3ZDkyJnNpZ25hdHVyZT01YzZjNmY4NGYyOTcyYmM0NTNmN2ZlYmQ2NjZkMDk4ZTZjMzM2MWVj&amp;client=a1acac3e1b3290917d92&amp;signature=e8e13c950e38d4261cc04752ad22bbdbf9756b49\" />可穿戴在身上的各种感应器，因为需要供电和传输资料的缘故，通常要不就是要拉一根电线、要不就是要有沉重的电池和天线，难免会影响配戴者的动作与发挥。史丹佛大学的研究专家们发明了一个新的系统来解决这个困扰，透过无线 RFID 的方式，将「感应」和「传输」的部件分离开来。\n\n贴在身上的「BodyNet」感应器透过无线供电取得电力，送出的讯号也仅仅是到 RFID 的距离，所以可以做成一张贴纸那么薄，贴在身上和蹦带没两样。而真正的电源、接收器、和长距离（蓝牙）传输的天线，则是可以做在衣服上，或是其他附近的接收...", 
+  "title": "科学家开发可以轻松配戴的无线体征感应贴纸"
+ }
+]
