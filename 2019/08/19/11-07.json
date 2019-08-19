@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Mon, 19 Aug 2019 07:00:00 -0400", 
+  "link": "https://cn.engadget.com/2019/08/19/mit-minerva-video-buffering/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-08%2Ff217da20-c25c-11e9-9dd5-484961b5697f&amp;client=a1acac3e1b3290917d92&amp;signature=5dc4dc9a2284da2aebb5e23f65ce907a19b8836a\" />在用 Wi-Fi 看串流视频的时候，最烦的事情就是碰上多人一起挤占网络，动不动就要转圈圈缓冲会大大影响观赏的体验。为了改善这种情况，一批 MIT 的研究者们开发出了一套名为 Minerva 的新系统。它能在播放视频前先分析判断出，该内容若是在低速网络中播放会受到多大的影响。举例来说，在电视上看高清的运动比赛和小朋友在手机上看的卡通片相比，前者对网速的依赖性无疑更大。在这种情况下，Minerva 就会给赛事转播更高的优先级，其能分配到的带宽相对来说也会更大。\n\n和 Wi-Fi 使用中常见的以接入数...", 
+  "title": "MIT 研究者设法改善了拥挤 Wi-Fi 环境下串流视频的播放表现"
+ }
+]
