@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Mon, 26 Aug 2019 23:33:00 -0400", 
+  "link": "https://cn.engadget.com/2019/08/26/apple-ios-update-fixes-jailbreak-bug/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-08%2Fe1dbe240-c87a-11e9-baff-63909b33c6ef&amp;client=a1acac3e1b3290917d92&amp;signature=f6d00ee808da508d802ee97542c2b4ee6d0e5272\" />早前报导过有骇客成功利用 iOS 12.4 的漏洞为 iPhone 越狱，苹果今天就释出了 iOS 12.4.1 更新，重新堵塞漏洞。据指这被用于越狱的漏洞，早在前一版的 iOS 12.3 就被堵塞，然而又再于 iOS 12.4 出现。 在苹果释出 iOS 12.4.1 安全性更新的描述中，表示他们修正了 iPhone、iPad 系统核心里的漏洞，阻止了恶意软体利用系统特权来行使任意程序。同时 Apple 更特别点出了 Pwn20wnd 的协助。", 
+  "title": "苹果堵塞了让 iPhone 能越狱的漏洞"
+ }
+]
