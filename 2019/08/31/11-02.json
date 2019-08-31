@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Sat, 31 Aug 2019 07:00:00 -0400", 
+  "link": "https://cn.engadget.com/2019/08/31/google-exploit-websites-iphone/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-08%2Fac4b3d90-cb38-11e9-97ff-7ae863bb0c59&amp;client=a1acac3e1b3290917d92&amp;signature=f2dd22776abfb087b4cf9e6f7e25f88812107c9e\" />Google 的 Project Zero 团队日前刊文称，自己之前找到了一批会被骇客用来通过网页实现 zero-day 攻击窃取 iPhone 用户资料的漏洞。基于这批漏洞的攻击甚至不需要使用者在自己的设备上进行输入，他们只要点开了有问题的网页，手上的机器便会面临被侵入的风险。而在顺利攻破设备后，骇客便可通过植入恶意软件的方式盗取诸如照片、iMessage 消息、GPS 即时定位等敏感数据。\n\n根据 Motherboard 的报道，这种攻击方式还能以使用者的 keychain 和相关密码为目标...", 
+  "title": "Google 帮 iPhone 找到了一批已被利用多年的网页窃取资料漏洞"
+ }
+]
