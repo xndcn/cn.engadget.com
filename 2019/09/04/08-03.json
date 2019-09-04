@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Wed, 04 Sep 2019 04:00:00 -0400", 
+  "link": "https://cn.engadget.com/2019/09/04/samsung-exynos-980-5g-soc/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-09%2Ff5b25ad0-cee5-11e9-8b5c-eec9e529a4f2&amp;client=a1acac3e1b3290917d92&amp;signature=72b15c39faada119745d5a0db8482dea88d1d835\" />继五月末的联发科之后，三星今天也正式公开了自己旗下首款整合了 5G modem 的处理器 &amp;mdash; Exynos 980。这款 SoC 是基于 8nm FinFET 制程，CPU 方面配备了两颗 Cortex-A77 核心（2.2GHz）和六颗 Cortex-A55 核心（1.8GHz），GPU 则采用了 Mali-G76（MP5），同时还配有性能是过去 2.7 倍的全新 NPU。\n\n另外在新 ISP 的加持下，Exynos 980 支持最多五个单独的感光器，搭载它的产品最高能用到 108...", 
+  "title": "Exynos 980 是三星首款 5G SoC"
+ }
+]
