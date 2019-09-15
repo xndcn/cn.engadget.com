@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Sun, 15 Sep 2019 05:00:00 -0400", 
+  "link": "https://cn.engadget.com/2019/09/15/simjacker-attack/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D1600%252C1067%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1067%26image_uri%3Dhttps%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-09%2Fd53bad10-d70f-11e9-bbf8-28bf1850bd17%26client%3Da1acac3e1b3290917d92%26signature%3D3c9f0e87106152ad74754f858a570f50fea2410f&amp;client=a1acac3e1b3290917d92&amp;signature=b2bb0b14ac4141e53856b9e840f1edacd89172f7\" />大部分已知的手机漏洞都是在软件系统里，但 AdaptiveMobile Security 的研究员却发现了一个存在于 SIM 卡的漏洞，并认为已经被监控公司用来追踪人们所在位置至少两年。这被名为 Simjacker 的漏洞是利用了旧式 S@T 技术的特性，只要向目标人物的电话号码发出包括 S@T 指令的 SMS，接收的手机就会以 SMS 回传位置信息、IMEI。\n\nS@T 是藏在 SIM 卡工具箱里，原本是用于播放音乐、启动网页等一般功能，能针对 iPhone、部分品牌的 Android 手机和...", 
+  "title": "骇客利用 SIM 卡漏洞来追踪人们位置至少 2 年"
+ }
+]
