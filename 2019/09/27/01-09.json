@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Thu, 26 Sep 2019 21:05:00 -0400", 
+  "link": "https://cn.engadget.com/2019/09/26/nvidia-rtx-broadcast-greenscreen-twitch/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fresize%3D2000%252C2000%252Cshrink%26image_uri%3Dhttps%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-09%2F30766020-e03a-11e9-9ffe-c1a0bd5d7b70%26client%3Da1acac3e1b3290917d92%26signature%3D021c6ebcb3afc02f204a0cd5ccb77507209e1e02&amp;client=a1acac3e1b3290917d92&amp;signature=9bc946869f3a144a62b1707991b3339abc6a2089\" />NVIDIA 稍早公开了一套由 RTX 显卡上的 Tensor Core 推动，名为「RTX Broadcast Engine」的工具组。当中最有趣的一套工具 RTX Greenscreen，就是能自动分辨出人的位置和范围，并且将所有以外的部份「去背」，达到与绿幕类似的效果。这让直播主可以不用多花绿幕的钱和架设绿幕的麻烦，就能简单达到绿幕的效果。\n\nRTX AR SDK 工具则是可以仅由 webcam 看到的画面，就构建出你的脸部在 3D 世界中的模型，并且追踪眼睛、嘴巴等的动作。有了这个资讯之...", 
+  "title": "NVIDIA 用 AI 为直播主打造各种小工具"
+ }
+]
