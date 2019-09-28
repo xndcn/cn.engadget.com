@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Sat, 28 Sep 2019 05:10:00 -0400", 
+  "link": "https://cn.engadget.com/2019/09/28/apple-iphone-exploit-jailbreak/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D980%252C613%252C0%252C11%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1001%26image_uri%3Dhttps%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-09%2F68fc5710-e14d-11e9-afd4-99e768f58fec%26client%3Da1acac3e1b3290917d92%26signature%3D0bfad6bac9d901d93c48bac38163ac90c664de45&amp;client=a1acac3e1b3290917d92&amp;signature=9cbaec7994a4da80badee2d76aff0a4597a4731b\" />iPhone 的「越狱」，或说是解除苹果对软件核心的写入锁定，在早年是相当盛行的事，因为许多 Apple 原厂未提供的功能（像是 App Store 出来前要安装第三方应用），都要越狱之后才能拥有。不过随着 iOS 功能逐年增进，虽然说一代一代的 iOS 都还是有越狱的方法推出，但对大部份消费者来说，越狱已经不再是会去考量的因素了。\n\n但 Twitter 用户 Axi0mX 发现的这个被取名为「checkm8」的漏洞，依然有着极高的重要性。相对于在 iOS 之中寻找可以利用的漏洞，Axi0mX...", 
+  "title": "iPhone 的 bootrom 漏洞让永久越狱成为可能"
+ }
+]
