@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Mon, 30 Sep 2019 03:18:00 -0400", 
+  "link": "https://cn.engadget.com/2019/09/30/wibattack-sim-card-vulnerability/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D6016%252C4010%252C0%252C5%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1067%26image_uri%3Dhttps%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-09%2Fffec1c20-e222-11e9-af1b-78cb8343d0bf%26client%3Da1acac3e1b3290917d92%26signature%3Da093950e0234442adce081c3321bb6b52074a64d&amp;client=a1acac3e1b3290917d92&amp;signature=206c7f13b342b28a5dd96abdb3a80e83fb95e282\" />早前报导了一个针对 SIM 卡漏洞而生的 Simjacker 骇客攻击，想着已经够骇人了吧。现在居然还再挖出一个名为 WIBattack 漏洞，是利用 WIB（Wireless Internet Browser）应用来透过 SIM 卡控制手机进行某些活动。就如 Simjacker 一样，WIBattack 也是会利用包括特定内容 SMS 来触发攻击，在成功控制手机后，就可以利用目标手机来发送短讯、拨打电话、导向至指定网页、显示文字和获得位置资讯。\n\n发现这攻击漏洞的 Ginno Security...", 
+  "title": "再发现一个 SIM 卡漏洞可以控制手机和获取位置资讯"
+ }
+]
