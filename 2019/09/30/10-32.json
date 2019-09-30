@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Mon, 30 Sep 2019 06:30:00 -0400", 
+  "link": "https://cn.engadget.com/2019/09/30/robot-dog-natural-movement-algorithm/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-09%2F147606d0-e357-11e9-b1f8-2cbaae6fd317&amp;client=a1acac3e1b3290917d92&amp;signature=3eebd30a788f13a7ee86fd7a15f7c726f7d09414\" />目前很多机器狗虽然能够很有效地移动，但论动作的自然程度还是有很大的进步空间。维吉尼亚理工的研究者们相信自己可以在这方面做出改善，他们新开发了一套结合算法及感应器的方案，能让机器狗的步态与真实的动物更为接近。\n\n具体来说，这套系统会模拟脊椎动物利用脊椎内神经元控制平衡的方式，依靠编码感应器（来读取关节的相对位置）和惯性测量单元（测算机体相对地面的朝向）来提升机器的拟真度。与此同时，科学家也引入了相机和 LiDAR 以帮助机器狗避障。不过团队只是在一台现有的 Ghost Robotics 设备上加装...", 
+  "title": "科学家利用算法和感应器提高机器狗拟真度"
+ }
+]
