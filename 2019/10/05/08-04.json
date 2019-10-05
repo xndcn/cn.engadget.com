@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Sat, 05 Oct 2019 04:00:00 -0400", 
+  "link": "https://cn.engadget.com/2019/10/05/chrome-security-block-http-content/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D1600%252C1000%252C0%252C49%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1000%26image_uri%3Dhttp%3A%2F%2Fmedia.zenfs.com%2Fen-US%2Fhomerun%2Fengadget_479%2F756118f4b2bb8459aabac05706c62215%26client%3Da1acac3e1b3290917d92%26signature%3D5ea5f9f8257ce2310bc2b7af6e3f882a79e794d8&amp;client=a1acac3e1b3290917d92&amp;signature=7c86545183fc6c275289b91c13a02f54574fff56\" />为了用户隐私和安全，Google 的 Chrome 安全团队在博客发文表示，经加密的 https:// 网页将只会载入同样经加密的 https:// 子资源。他们表示虽然 Chrome 使用者目前已经有超过 90% 浏览时间是在 HTTPS 网页，但发现仍有不少子资源是从不安全的 HTTP 网页载入，这包括图片、视频、音频和有高风险的「混合内容」。\n\n据解释，自 12 月推出的 Chrome 79 开始，浏览器会预设封锁来自 HTTP 网域的混合内容，但会有让使用者手动解封指定网页的混合内容的设...", 
+  "title": "Chrome 浏览器将会禁止经加密网页载入 HTTP 内容"
+ }
+]
