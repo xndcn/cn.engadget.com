@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Sat, 05 Oct 2019 01:00:00 -0400", 
+  "link": "https://cn.engadget.com/2019/10/05/google-zero-day-android-pixel-samsung-huawei/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D1400%252C933%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1066%26image_uri%3Dhttp%3A%2F%2Fmedia.zenfs.com%2Fen-US%2Fhomerun%2Fengadget_479%2F073327cfb26745da755b4f1efb815a32%26client%3Da1acac3e1b3290917d92%26signature%3D04560306ae2a98e02152a18e88fe05b84f48c758&amp;client=a1acac3e1b3290917d92&amp;signature=466ecfdb295a3edabb8faff864604cca8a8f3a60\" />Google 的研究团队发现到 Android 系统里有个仍未修复的漏洞，会影响到初代 Pixel、Pixel 2、华为 P20、三星 Galaxy S7、S8、S9 和其他装置。而且他们还在发现到漏洞后仅 7 天就公开内容，因为他们认为是属于已经被利用作恶的「零日漏洞」。讽刺的是，这个存在于 Android 8.x 和以后版本的漏洞，居然早就 2017 年 12 月和以前的系统修复了，但不知为何没有继承下去。\n\n发现漏洞的 Google Project Zero 团队和其危险分析团队相信，这漏...", 
+  "title": "Google 发现严重 Android 漏洞，Pixel、三星、华为、小米均中招"
+ }
+]
