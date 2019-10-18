@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Fri, 18 Oct 2019 02:30:00 -0400", 
+  "link": "https://cn.engadget.com/2019/10/18/chrome-77-android-site-isolation/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-10%2F3b15d7c0-f16c-11e9-bc3d-d4540bcceb98&amp;client=a1acac3e1b3290917d92&amp;signature=c2b3e1988f70fcda3a58921d6dbc336296ecb394\" />去年 Google 为桌面版的 Chrome 67 浏览器加入了 Site Isolation 的功能，防止骇客会从别的网页盗取到其他网站的数据，包括密码。如此的功能也在今天正式引入到 Android 版本里，只要更新到 Chrome 77 就可以拥有这保护了。\n\n大多使用者和开发者都不一定会察觉到这在背景运行的 Site Isolation 功能，但这也会实际耗用到装置的资源，所以来到 Android 装置上，就只会集中在输入密码的网页才运行，像是银行、购物网站，以减少对装置的负担。Googl...", 
+  "title": "Android 版 Chrome 浏览器获得防御 Spectre 攻击的更新"
+ }
+]
