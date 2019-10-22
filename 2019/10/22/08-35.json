@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Tue, 22 Oct 2019 04:30:00 -0400", 
+  "link": "https://cn.engadget.com/2019/10/22/microsoft-secured-core-pc/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-10%2F456de080-f484-11e9-9f6f-b96be0021b89&amp;client=a1acac3e1b3290917d92&amp;signature=648f782629a5080774e1fb087ff87c68e66f5dec\" />在你追我赶的 PC 安全系统和骇客对奕关系之中，前者可能会带来些新突破。为了针对通过固件发动的骇客攻击，微软这操作系统开发商想到了直接与负责固件的硬件开发商合作，从源头着手保护 PC 的安全。\n\n微软所带来的新倡议，是与 PC 生产商直接合作推出 Secured-core PC，希望是从 PC 启动的一刻就开始进行保护。在设想的新系统下，处理器的固件会如常启动，但就会限制对于固件的信任度，并交由微软的 bootloader 去处理相关指令。最终这架构就能确保处理器在每次启动时，都有个安全、可靠的...", 
+  "title": "微软有新方式来防止骇客从固件入侵"
+ }
+]
