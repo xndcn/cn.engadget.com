@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Thu, 24 Oct 2019 04:00:00 -0400", 
+  "link": "https://cn.engadget.com/2019/10/24/when-does-google-run-pixel-4-smooth-display-90-hz-vs-60-hz/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-10%2F3238b520-f629-11e9-9bfa-9290615f2392&amp;client=a1acac3e1b3290917d92&amp;signature=51da0d9bca4bbf2b6f34051eb6e1aa910b2e5cf9\" />在 Pixel 4 系列推出后不久就有人发现，其最大卖点之一 90Hz 的 Smooth Display 屏幕，其实并不会在所有时候都保持高刷新率的状态。如果要达到这样的效果，就必须去到开发者选项里将「强制开启 90Hz 刷新率」打开。但这样一来，不光是操作比较麻烦（一般人可能都不知道开发者选项是什么），设备本就不强的续航力也必然会受到进一步的打击。\n\n实际上，Google 之所以会对 90Hz 加以封印，理由也正是「为了在高刷新率没有那么必要的场景下保存电力」。具体来说，没有开启强制选项的 P...", 
+  "title": "Google 对 Pixel 4 会降低屏幕刷新率的场景进行说明"
+ }
+]
