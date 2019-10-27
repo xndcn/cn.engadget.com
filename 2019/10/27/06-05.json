@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Sun, 27 Oct 2019 02:00:00 -0400", 
+  "link": "https://cn.engadget.com/2019/10/27/google-researchers-train-ai-smells/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-10%2F3857edb0-f866-11e9-b371-90df68c88084&amp;client=a1acac3e1b3290917d92&amp;signature=57e5aa9244dd1924f6689d527bb3b4b8cfb14dac\" />AI 在分析图片内容已经差不多像人一样厉害，但气味呢？这也是研究员一直希望能让 AI 做到的事情。Google Brain Team 最近就发布了论文，分享他们的工作进度。\n\n研究员在香水商的协助下，设立了一个有近 5,000 种气味分子的数据库，分成了「奶油」、「热带风」、和「草」味等多个形容词。团队利用了约三分之二的数据组来训练图像神经网络 AI（GNN），并用余下的气味来测试 AI 的成品，结果都能成功通过，团队解释指这是他们开发了一个能基于分子结构来辨识标志性气味的演算法。\n\n然而，Wi...", 
+  "title": "Google 研究员希望教导 AI 分辨气味"
+ }
+]
