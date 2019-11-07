@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Thu, 07 Nov 2019 03:15:00 -0500", 
+  "link": "https://cn.engadget.com/2019/11/07/google-nest-hub-max-ultrasound-sensing-now-available/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-11%2F6149cac0-0132-11ea-b5ef-ed46cd9968b1&amp;client=a1acac3e1b3290917d92&amp;signature=33657106c0438d98b10ce5af9df2342afdf27acb\" />Google 在稍早的硬件发表会上推出了利用超音波来感知周遭环境的功能，安装在 Nest 家族的系列产品上。这个功能和 Soli 有着一点异曲同工之妙，只是它发出的不是更精细的雷达波段电磁波，而是直接用装置的喇叭发出人耳（甚至狗耳）听不见的超高频音波，再利用装置上的麦克风接收回这高频的声音，并且由声音的变形，来推断四周的环境，甚至是人的距离和位置。\n\n它没办法像 Soli Motion Sense 那么精确（是说，在 Pixel 4 上 Motion Sense 也没被用来做什么精确的事就是了）...", 
+  "title": "Google Nest Hub 已启用了「超音波」功能"
+ }
+]
