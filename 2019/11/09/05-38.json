@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Sat, 09 Nov 2019 00:30:00 -0500", 
+  "link": "https://cn.engadget.com/2019/11/09/apple-will-fix-macos-email-exposure-flaw/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-11%2F80caf290-0298-11ea-bfff-86595dddbcd9&amp;client=a1acac3e1b3290917d92&amp;signature=cf89e1910ca8a5c4cec15119ecdca50d13642636\" />虽然说苹果经常大肆鼓吹 macOS 的安全性，但偶尔发生一点隐私上的漏洞还是难免的。一位名为 Bob Gendler 的安全专家，发现了 macOS 的 Siri 会以「学习」为名，将信件的文字内容存在一个名为 snippets.db 的文档里。由于这是独立在 Mail app 之外，因此并不会受到邮件加密的保护，有心人士就可以从 snippets.db 当中直接获取你的邮件内容了。这个漏洞至少存在于四个版本的 macOS，由 Sierra 到 Catalina。\n\n不过真有人想要利用这个漏洞的...", 
+  "title": "苹果将修正一个会泄漏加密邮件内容的漏洞"
+ }
+]
