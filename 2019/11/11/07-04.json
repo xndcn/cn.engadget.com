@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Mon, 11 Nov 2019 02:00:00 -0500", 
+  "link": "https://cn.engadget.com/2019/11/11/microsoft-ai-diagnoses-cervical-cancer-faster/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-11%2Fe471a8d0-0445-11ea-be77-0c6758b987af&amp;client=a1acac3e1b3290917d92&amp;signature=b2023108e4512d5fbf1515dbe51891a6aa6f7c6f\" />有越来越多科学家希望将 AI 技术融入病症的预检之内，微软和 SRL Diagnostics 之间的合作便是最新的例子。他们最近开发了一项能协助诊断子宫颈癌的 AI 工具，希望以此来减少印度等子宫颈癌高发地区从业医生的预检工作量，从而达到提升整体诊断效率的目的。根据官方介绍，这套 AI 方案会以「成千上万」的宫颈涂片注解图为学习内容。经过训练后它可以自动筛选出存在患癌可能的病例（AI 会寻找各种前期症状），以此为基础，医生再来做进一步的诊断。\n\n目前单 SRL Diagnostics 一家机构，...", 
+  "title": "微软用 AI 协助诊断子宫颈癌"
+ }
+]
