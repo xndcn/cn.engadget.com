@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Wed, 13 Nov 2019 02:00:00 -0500", 
+  "link": "https://cn.engadget.com/2019/11/13/intel-nervana-chips-for-ai-in-cloud/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-11%2F6f643ac0-059f-11ea-bdfa-74e439935425&amp;client=a1acac3e1b3290917d92&amp;signature=ab68bd009e59253d3fdd17f108dcfd7c70746fbf\" />Intel 布局 AI 运算市场已经有了不短的时间，而今日更是在年初发表的边缘端 AI 运算芯片之外，再增添两颗专门为云端设计的 Nervana AI 芯片。Nervana Neural Network Processor（神经元网路处理器）系列共分成两款，分别是以训练为主的 NNP-T1000（下图）与以推理为主的 NNP-I1000（上图）。这两颗芯片都是专为云端环境特制的 ASIC 芯片，可以「几乎线性地」并接多个芯片，加速 AI 模型的开发。", 
+  "title": "Intel 推出首款为云端打造的 AI 芯片"
+ }
+]
