@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Wed, 13 Nov 2019 22:00:00 -0500", 
+  "link": "https://cn.engadget.com/2019/11/13/intel-fixes-cpu-security-flaw-for-real/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-11%2F4c18b430-064c-11ea-afff-cc5ecc36c7bc&amp;client=a1acac3e1b3290917d92&amp;signature=8e31bc66ddbe2736a6e23f90b28cea86e05f4499\" />Intel 在五月时带来的处理器更新，最终似乎还是没能完全关上处理器所有的漏洞，因此 Intel 今天再度发布了一次补丁，补上之前的漏洞。这些新措施应当能「显著地减少被攻击的可能性」，但还是未能完全的解决问题，Intel 也答应会在之后继续推出补丁来修正。\n\n然而据纽时报导，这种作法却让安全专家们很不感冒，认为 Intel 只是在头痛医头、脚痛医脚，不愿意一次性的解决背后问题的根源。在漏洞还没有被公开前，大众相对来说是安全的，Intel 也有足够的时间完成修补，但现在漏洞已经众所周知的状况下，潜...", 
+  "title": "Intel 为五月推出的安全补丁打上补丁"
+ }
+]
