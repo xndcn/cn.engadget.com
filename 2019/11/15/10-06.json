@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Fri, 15 Nov 2019 05:00:00 -0500", 
+  "link": "https://cn.engadget.com/2019/11/15/google-search-pronunciations/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-11%2Fffd9a420-0746-11ea-b7cf-f16f075e3ac1&amp;client=a1acac3e1b3290917d92&amp;signature=9b503d7c42507257321a0e169e77b2c3c15c95c3\" />语音辨识的机器学习，之前都着眼在由机器来学习人类的发音，但显然目前语音辨识模型已经发展到机器可以反过来纠正人类的发音了。Google 即将在手机版的美式英语搜寻中，加入一个「发音练习」的功能，只要先用「How to pronouce XXX」搜寻字串找到想要练习的字，Google 就会先提供一个发音范例（这功能之前已经有），并且在下方新增了一个「练习」的按键。按下按键后你就可以透过手机的麦克风录下你的发音，然后 Google 就会依音节进行分析，并且对不正确的部份提出纠正与建议。初期这个功能将率...", 
+  "title": "Google 将在搜寻中提供发音纠正的功能"
+ }
+]
