@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Tue, 19 Nov 2019 07:00:00 -0500", 
+  "link": "https://cn.engadget.com/2019/11/19/self-driving-cars-personalities/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fresize%3D2000%252C2000%252Cshrink%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2019-11%252F6ecf8a60-0798-11ea-bf7d-f0640ad715aa%26client%3Da1acac3e1b3290917d92%26signature%3D235c1285dd22ebe05f359dd6c8b8bd1b3ddbf45b&amp;client=a1acac3e1b3290917d92&amp;signature=7b362abbae385a9428547ae144ca092aafc2495e\" />目前的自驾车 AI 在开发时，大多会预设所有在路上的其他车辆都是「守法而理性」的，并且以此作为 AI 学习与判断的基础。然而，任何一个在繁忙的马路上开过一天车的人都知道事实与此相距有多远，因此 MIT 的电脑科学与人工智能实验室正在开发一套引入社会心理学的系统，来协助 AI 进行判断。这当然是极为困难，因此科学家将问题分成两部份 &amp;mdash;&amp;mdash; 先依行为判断某辆车是「自私」还是「无私」的，然后再依照这个分类去推断对方将如何反应。\n\n这套系统目前开发的是第一个阶段的部份，试图通过视频...", 
+  "title": "MIT 研究专家教导自驾车如何应付自私的驾驶人"
+ }
+]
