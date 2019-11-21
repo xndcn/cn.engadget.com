@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Thu, 21 Nov 2019 06:00:00 -0500", 
+  "link": "https://cn.engadget.com/2019/11/21/apple-16-inch-macbook-pro-lid-angle-sensor/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-11%2Fa5e915d0-0c29-11ea-b3fd-e6e14d8322aa&amp;client=a1acac3e1b3290917d92&amp;signature=7db1505b9d68e30b5d1eea49c37d4aec0717aef0\" />在完成了 16 吋 MacBook Pro 的彻底拆解后，没想到 iFixit 又有新的收获。他们在这款新笔记本的内部发现了一颗神秘的「开盖角度感应器」，苹果似乎是以它来替代传统的霍尔效应磁场感应器，用以探测顶盖的开合。它是否有什么别的用途，暂时还没法确认（值得一提的是转轴部分里依旧设有磁铁）。不过在苹果官方的支持文档中，有要求维修人员在顺利完成屏幕的修理后必须对该组件进行重新校准。\n\n根据 iFixit 的推测，这颗感应器可能会被用来记录用户的开盖频率和角度，以便售后在维修时可以更好地诊断出问...", 
+  "title": "16 吋 MacBook Pro 里藏着一颗神秘的「开盖角度感应器」"
+ }
+]
