@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Thu, 21 Nov 2019 09:23:00 -0500", 
+  "link": "https://cn.engadget.com/2019/11/21/apple-has-a-plan-to-ensure-ios-13s-buggy-launch-doesnt-happen/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-11%2F9179a7f0-0c69-11ea-bfd5-a62b98899c91&amp;client=a1acac3e1b3290917d92&amp;signature=53431ce28694c071a7b92cf402989871e7cc7d48\" />iOS 13 上线初期 bug 之多，已经到了严重影响使用体验的地步。苹果显然也深知这一点，而且根据彭博社从内部人士处获得的消息，他们也已经打算在未来的系统开发、调试方向上做出改变。据说在 iOS 14 的「每日版本」（daily builds）测试版中，会默认关闭那些未彻底完成或是还有 bug 的新特性。不过测试者可以通过名为 Flags 的新工具进行选择性开启，理论上说，这样的做法会有助于开发团队在推出正式版以前更快速、准确地找到潜在问题。\n\n另外消息来源也指出，同样的策略之后也会被运用到...", 
+  "title": "彭博社：苹果不想让 iOS 13 带着满满 bug 上线的情况在未来系统中重演"
+ }
+]
