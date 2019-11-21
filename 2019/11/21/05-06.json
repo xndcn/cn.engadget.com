@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Thu, 21 Nov 2019 00:00:00 -0500", 
+  "link": "https://cn.engadget.com/2019/11/21/microsoft-gmail-integration-outlook/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-11%2Fee85d620-0c10-11ea-8daf-1f34b756327c&amp;client=a1acac3e1b3290917d92&amp;signature=abdb2cf1cbb7b70e6809162de8c6fdacdd82dba5\" />大概有不少朋友都有用过 Gmailify，把其他电邮服务都接入 Gmail 收件箱中查看，如此的服务似乎微软也想来参考参考。The Verge 引述 Twitter 用户 Florian B 的发现，后来微软也直接向我们确认了，指网页版 Outlook 可以接入 Google 的邮件和日历服务，让使用者可以在微软的工具里管理 Google 的内容，甚至就连 Google Drive 的文件也可以浏览到，然而就未知道日历是如何实现整合。\n\n目前来看，一个 Outlook 帐户就只可以连接一个 Gm...", 
+  "title": "微软正测试在网页版 Outlook 整合 Gmail 服务"
+ }
+]
