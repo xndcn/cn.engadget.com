@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Tue, 26 Nov 2019 01:45:00 -0500", 
+  "link": "https://cn.engadget.com/2019/11/26/mediatek-dimensity-1000-5g-soc/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-11%2F455ed830-1016-11ea-8fce-d658f07f993c&amp;client=a1acac3e1b3290917d92&amp;signature=faa75adc9d2c614da834c886ba77a043309d9abf\" />联发科（MediaTek）今天在深圳的开发大会上，发表了首颗的 5G SOC 芯片「天玑 1000」，英文名「Dimensity」。联发科选在这时候发布，可以说是硬抢在了 Qualcomm 12 月初的 5G 技术高峰会之前，先赚得眼球再说。这颗芯片采用了四颗 2.6GHz Cortex-A77 核心与四颗 2.0GHz Cortex-A55 核心的组合，再加上 Mali-G77 GPU（MP9），并支援 2CC CA 双载波聚合，在 Sub-6GHz 频段可提供 4.7Gbps 下行和 2.5...", 
+  "title": "联发科技发布首款 5G SoC「天玑 1000」"
+ }
+]
