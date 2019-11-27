@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Tue, 26 Nov 2019 20:00:00 -0500", 
+  "link": "https://cn.engadget.com/2019/11/26/amd-64-threadripper-3990x-2020/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-11%2F4a2c7190-1031-11ea-bff7-da36a860c530&amp;client=a1acac3e1b3290917d92&amp;signature=bca09cb2efd18309438b7d9bca918a4ffdcc8f25\" />虽然只有简短的一行字，AMD 基本上确定了具备 64 核心、128 线程的 Ryzen Threadripper 3990X 将在 2020 登场。自从 32 核的 3970X 在月初时发表以来，AMD 将再向上一阶，推出 64 核版本的传闻基本上就没有断过，而这次总算是等来了官方的回应。不过除了它会有一共 288MB 的缓存与 280W 的 TDP 之外，并没有太多的详细资讯，像是它的内存通道数或是 PCIe 4.0 的通道数等，但为了和 EPYC 做出区隔，大概趋近 3970X/3960X...", 
+  "title": "AMD 的 64 核 Threadripper 3990X 将在 2020 年登场"
+ }
+]
