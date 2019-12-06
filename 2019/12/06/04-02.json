@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Thu, 05 Dec 2019 23:00:00 -0500", 
+  "link": "https://cn.engadget.com/2019/12/05/apple-explains-iphone-11-pro-location-activity/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-12%2F75e192d0-1788-11ea-bd6d-8c627f5d6001&amp;client=a1acac3e1b3290917d92&amp;signature=0792237f5d566f65e1c7183725cbcc8e9c38dc05\" />事源最近安全研究员 Brian Krebs 发现 iPhone 11 系列手机，时常都在查看使用者的位置，即使把设定里的位置服务关也有同样活动，不禁叫人生疑。终于苹果向 TechCrunch 发稿表示，解释指这是法规所要求的，因为手机内的超频宽功能（UWB）「被国际法规定」不能在某些地区使用，所以为保安全，就需要时常确保使用者身处地区能用到超频宽。\n\n苹果有强调这 UWB 检查的功能「完全在装置上」处理，他们不会获取到数据，并承诺日后会在 iOS 更新中加入这功能的开关。这次的事件其实完全可以回...", 
+  "title": "苹果来解释一下为什么 iPhone 11 系列经常在查看你的位置"
+ }
+]
