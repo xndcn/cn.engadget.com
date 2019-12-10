@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Tue, 10 Dec 2019 02:00:00 -0500", 
+  "link": "https://cn.engadget.com/2019/12/10/google-arcore-depth/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-12%2F7edbe740-1b17-11ea-8bfd-e71a11ad5e66&amp;client=a1acac3e1b3290917d92&amp;signature=d6fede9bd67d2f02784551fe009350e5d4962e16\" />Google 过去两年来持续在为 ARCore 增添新功能，像是在 I/O 上推出的 Environmental HDR，就能靠着机器学习来判断环境光源的角度，并以此为依据为 3D 物件打上正确的光影效果。而现在，Google 推出再推出了一个 Depth（深度）API，靠着理解场景中所有物件的相对深度与前后关系，带来更拟真的场景。\n\nGoogle 在今年稍早在搜寻中带来了部份动物的 3D 建模，用支援的手机搜寻动物的名称（例如「猫」）的话，就会出现该动物的 3D 模型选项，让你可以将其丢进眼前...", 
+  "title": "Google 的新「深度」功能让 AR 体验更逼真"
+ }
+]
