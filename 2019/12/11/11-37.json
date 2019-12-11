@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Wed, 11 Dec 2019 06:30:00 -0500", 
+  "link": "https://cn.engadget.com/2019/12/11/wd-sa500-nas-ssd-tw/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-12%2Fdc614a50-1c01-11ea-bfdf-cf54a877a510&amp;client=a1acac3e1b3290917d92&amp;signature=b8bc473b05a2818b2f364eac482e0b181d4112a7\" />WD 稍早在国外发表的 WD Red SA500 系列 NAS 用 SSD 与 WD Blue SN550 系列 NVMe SSD。传统印象中，WD Red 系列的存在是为了解决机械硬盘在 NAS 系统环境的高温、高读写频率、以及错误修正的需求而特化的产品，这些特性要如何反应在 SSD 上呢？\n\n原来 WD 是注意到了现代的中小企业及高阶家用 NAS 当中，开始加入了 10GbE 网路连线以及快取用的 SSD 的选项，因此便考量推出一款专门以 NAS 需求为主的 SSD。虽然和一般消费产品类似，...", 
+  "title": "WD 为支援 SSD 缓存的 NAS 带来红标的 SA500 系列"
+ }
+]
