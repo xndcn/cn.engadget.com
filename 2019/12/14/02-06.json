@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Fri, 13 Dec 2019 21:00:00 -0500", 
+  "link": "https://cn.engadget.com/2019/12/13/apple-communication-limits-fix-ios-13-3/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-12%2F969b55f0-1db5-11ea-beff-ff351415b454&amp;client=a1acac3e1b3290917d92&amp;signature=b917532f6dee72fbb6b115524ead869136a78378\" />苹果在新出炉的 iOS 13.3 中加强了家长控制特性，但新功能的推出不意外又引来了新的 bug。这次新版本中有一项用来监管孩子与非联系人交流的「通讯限制」工具，但在实际上线后 CNBC 发现，其实只要靠一条短信便可绕过它的封锁。具体来说，在运行新版的设备没有预设联系人信息都存入 iCloud 的前提下，只要有来自手机通讯录以外对象的短信进来，系统便会弹出是否要将对方存入手机通讯录的选项。这个时候孩子只要选择添加，之后就可以无障碍通话、传讯或是 FaceTime 了。\n\n而在苹果原本的设计中，当...", 
+  "title": "苹果：会尽快修复新版 iOS 中家长控制能被轻易绕过的漏洞"
+ }
+]
