@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Mon, 16 Dec 2019 01:30:00 -0500", 
+  "link": "https://cn.engadget.com/2019/12/16/google-pauses-chrome-android-update-over-data-loss/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-12%2F67a1b580-1fc9-11ea-b97f-38cb6a1e7408&amp;client=a1acac3e1b3290917d92&amp;signature=319e93981cb0a1b7d454ada11e742ee38af3b956\" />Google Chrome 浏览器的更新一般都很少有问题，大家都是放任其自动更新就好。只是这次在 Android 平台上的 Chrome 79 就要被喊停了，因为官方收到回报，指新版本会「清除」使用 WebView 架构的第三方应用数据。在查证后，相关数据其实仍然存在，但是浏览器就没有办法存取到。像是 Twitter Lite 这些重度依赖 WebView 的 app 就会受到明显影响。\n\nAndroid Police 更发现相关的问题惹怒很多用户，甚至要到 Play Store 拉低其评分。但...", 
+  "title": "Google 喊停 Android 版本 Chrome 浏览器更新"
+ }
+]
