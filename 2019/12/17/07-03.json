@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Tue, 17 Dec 2019 02:00:00 -0500", 
+  "link": "https://cn.engadget.com/2019/12/17/intel-ai-acquires-habana-labs/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-12%2Fd26a5fa0-2084-11ea-894b-0e78f5d96912&amp;client=a1acac3e1b3290917d92&amp;signature=3da35b68e0cac9ead09828ede2d6c42c36d09546\" />\n早些时候英特尔正式宣布，将会斥资约 20 亿美元收购来自以色列的 AI 公司 Habana Labs，以「大力加速」开发自己在数据中心领域所需要用到的人工智能技术。在被英特尔收入麾下以前，Habana Labs 的专长是打造可编程的深度学习加速器。以他们旗下的 Gaudi AI 训练处理器为例，其能实现的系统吞吐量最高可达到同样数量 GPU 所提供吞吐量的四倍之多。对于需要用到英特尔数据中心 AI 技术的移动或网页 app 来说，未来若是有 Habana Labs 的加持，诸如影像、语音辨识等...", 
+  "title": "英特尔花 20 亿美元收购了以色列 AI 公司 Habana Labs"
+ }
+]
