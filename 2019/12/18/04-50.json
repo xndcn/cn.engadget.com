@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Tue, 17 Dec 2019 23:45:00 -0500", 
+  "link": "https://cn.engadget.com/2019/12/17/nvidia-drive-didi/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?resize=2000%2C2000%2Cshrink&amp;image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2019-08%2F9dc60210-b75a-11e9-bfd9-7b2e1e20b5e5&amp;client=a1acac3e1b3290917d92&amp;signature=dd7619b2f207575635fce69966a08c8b7b85bb97\" />\nNVIDIA 与滴滴出行宣布了将进行合作，后者将使用前者的 GPU 与自驾 AI 技术，开发 Level 4 的自驾车。滴滴刚在八月的时候将其自驾部门升级成独立公司，并开始积极与各方展开合作，而 NVIDIA 的 Drive 平台则是被相中做为滴滴开发自驾车的基础。Drive 整合了硬件、软件、云技术与 AI，可以从收集车上搭载的各种感测器的数据开始，到判断环境并且自行设定航线，提供完整的自动驾驶系统。滴滴同时也将利用 NVIDIA 的云端虚拟 GPU 打造 AI 系统，建构自已的深度神经网路...", 
+  "title": "滴滴出行宣布与 NVIDIA 合作，采用其 DRIVE 技术开发自驾车"
+ }
+]
