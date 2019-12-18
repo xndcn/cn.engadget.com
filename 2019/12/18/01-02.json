@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Tue, 17 Dec 2019 20:00:00 -0500", 
+  "link": "https://cn.engadget.com/2019/12/17/whatsapp-exploit-group-chat/", 
+  "description": "<img src=\"https://o.aolcdn.com/images/dims?quality=85&amp;image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fresize%3D2000%252C2000%252Cshrink%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2019-12%252Faa43c520-1ff8-11ea-9ba7-0b4ea31214be%26client%3Da1acac3e1b3290917d92%26signature%3Debd0ea1d9730ba578638ee14ef4c46922fc818f0&amp;client=amp-blogside-v2&amp;signature=54446a2932ff1238519a8a4cb18b7ca240658ba2\" />\n作为热门的 IM 软件，WhatsApp 被发现存在漏洞其实并不能算是太大的意外之事。比如说今天安全研究机构 Check Point Research 就发文表示，自己之前曾在 WhatsApp 的软件中找到过一个缺陷，它的存在能够让用户仅凭单单一条消息，就让其所在群组中所有成员的 WhatsApp 应用完全瘫痪。具体来说，想要实施攻击的人只需通过 WhatsApp 网页版和浏览器除错工具编辑特定消息的参数，之后就能「让所有聊天群组成员陷入无法停止的闪退循环」。\n\n若要逃脱这一困境，用户能做的...", 
+  "title": "旧版 WhatsApp 内存在用一条消息就能让群组成员无法正常用 app 的漏洞"
+ }
+]
