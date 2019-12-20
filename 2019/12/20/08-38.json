@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Fri, 20 Dec 2019 08:30:00 +0000", 
+  "link": "https://cn.engadget.com/cn-2019-12-20-facebook-data-exposed-online.html", 
+  "description": "日前 Comparitech 的安全员 Bob Diachenko 发布报告称，自己在某个出现在网络上的数据库中发现了超过 2.67 亿个 Facebook 用户的 ID、姓名和电话号码信息。据说该数据库无需密码或认证即可进入，其暴露在网上的时间已有两周之久，而且期间亦有人将其中的数据做成下载内容放到了骇客论坛上。在发现数据库后，Diachenko 向管理其服务器 IP 地址的服务供应商报告了情况。同时他也推测数据库中的信息很有可能是被非法抓取，亦或是有人在滥用 Facebook 的", 
+  "title": "据传有 2.67 亿 Facebook 用户的个人信息被泄漏到了网上"
+ }
+]
