@@ -1,0 +1,32 @@
+[
+ {
+  "date": "Mon, 23 Dec 2019 05:00:00 +0000", 
+  "link": "https://cn.engadget.com/cn-2019-12-23-powershield-kickstarter-launched.html", 
+  "description": "编辑们每天都要背着一堆装备四出跑动，为的就是给大家带来不同的新闻、活动直播。要知道这世道也变得愈来愈危险，稍一不慎就会出意外，这在允许民众持有枪械的美国就更是严重，所以一些消费级的防弹产品也应运而生。一款结合机能性和时尚属性的背包 Powershield，今天就在 Kickstarter 上就开始众筹，其最大卖点就是具备 Type III-A", 
+  "title": "结合机能性和时尚的 Powershield 背包，居然还能挡子弹"
+ }, 
+ {
+  "date": "Mon, 23 Dec 2019 03:30:00 +0000", 
+  "link": "https://cn.engadget.com/cn-2019-12-22-walmart-amazon-servers-5g-data.html", 
+  "description": "未来 5G 基建的其中一个障碍，是要设置多个新的基站和天线。在美国拥有大量门市的沃尔玛似乎就要好好善用自己的特性，把这些地点都进化成网据传输的中继点呢。  华尔街日报的报道表示，沃尔玛 CEO Doug McMillon 是打算让他们旗下门市都成为「边缘运算」的一部分，放置服务器和 5G 天线等基建。如此一来，5G 的接收和数据处理就可以在就近的站点进行，让使用者可以更快、更轻松地接收到经处理信息，有利包括云端游戏等的用途。  如此的计划显然是沃尔玛要冲击亚马逊目前每年带来 250", 
+  "title": "沃尔玛甚至会把 5G 天线、服务器放在门市里"
+ }, 
+ {
+  "date": "Mon, 23 Dec 2019 02:00:00 +0000", 
+  "link": "https://cn.engadget.com/cn-2019-12-22-starliner-landed.html", 
+  "description": "两天前升空的波音 Starliner 太空舱，在最后入轨的阶段因为不明原因内建的计时器错乱，使它点火的时机不正确，在工程师让它恢复正常前，已经烧掉了太多的燃料，让它无法依原定计划前往国际空间站。当下波音团队与 NASA 所做的紧急处置，是将它先转到一个会在两天后通过美国新墨西哥州白沙测试场的轨道，如此一来虽然无法进行对接测试（并且送补给品给太空站里的太空人），但至少可以测试返航系统是否正常。  如今在两天之后，Starliner", 
+  "title": "波音 Starliner 顺利提前返航，着陆美国新墨西哥州"
+ }, 
+ {
+  "date": "Sun, 22 Dec 2019 10:00:00 +0000", 
+  "link": "https://cn.engadget.com/cn-2019-12-22-chrome-beta-helps-you-find-offline-friendly-files-in-web-apps.html", 
+  "description": "Google 稍早释出了 Chrome 80 的 beta 版本，让网站开发者先行测试。最主要的新功能是一个新的内容索引架构（Content Indexing Framework），让 Web App 可以列出所有由网络下载到本地端的内容。详细的做法 Google 还在实验当中，包括如何在浏览器中呈现，以及在何处呈现（目前是暂定放在「下载」里），但对于网络连线不稳定，或是想要多利用不限速／不限量网络连线的人来说，这个功能应该可以更方便的看到已经在本机内的内容。内容索引架构一直到", 
+  "title": "下一版的 Chrome 让查看离线文档变得更容易"
+ }, 
+ {
+  "date": "Sun, 22 Dec 2019 06:00:00 +0000", 
+  "link": "https://cn.engadget.com/cn-2019-12-22-tesla-model-3-code-100kwh-battery-ludicrous-mode.html", 
+  "description": "Tesla 的平价车种 Model 3 或许也有机会获得较贵的兄弟们才有的机能了。一位名为 Green 的仁兄在 Model 3 的软件代码当中，发现了 100kWh 电池与 Ludicrous Mode 选项的资料，虽然说这并不一定保证特斯拉就会提供这些功能，但特斯拉向来将代码维护得很精简，没有的功能就不会放进去。如果说这些选项已经活过一两轮代码大清理的话，那成真的机会就比较大了。  在最平价的车款中装入 100kWh 电池表面上似乎会威胁到 Model S 的位置，但一方面是", 
+  "title": "特斯拉的代码预告了 100kWh 电池与极速模式或将来到 Model 3 上"
+ }
+]
