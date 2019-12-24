@@ -1,0 +1,98 @@
+[
+ {
+  "date": "Mon, 23 Dec 2019 08:00:00 +0000", 
+  "link": "https://cn.engadget.com/cn-2019-12-23-online-bulletin-board-inventor-randy-suess-dies-at-74.html", 
+  "description": "据纽约时报报道，为当今网络世界打下了重要基础的 BBS 创造者之一 Randy Suess，于 12 月 10 日在芝加哥的一家医院中去世，享年 74 岁。在 1978 年时，Suess 和另一位电脑爱好者 Ward Christensen 共同开发了一套计算机电子布告栏系统（CBBS，Computer Bulletin Board", 
+  "title": "网络 BBS 创造者 Randy Suess 辞世"
+ }, 
+ {
+  "date": "Mon, 23 Dec 2019 05:00:00 +0000", 
+  "link": "https://cn.engadget.com/cn-2019-12-23-powershield-kickstarter-launched.html", 
+  "description": "编辑们每天都要背着一堆装备四出跑动，为的就是给大家带来不同的新闻、活动直播。要知道这世道也变得愈来愈危险，稍一不慎就会出意外，这在允许民众持有枪械的美国就更是严重，所以一些消费级的防弹产品也应运而生。一款结合机能性和时尚属性的背包 Powershield，今天就在 Kickstarter 上就开始众筹，其最大卖点就是具备 Type III-A", 
+  "title": "结合机能性和时尚的 Powershield 背包，居然还能挡子弹"
+ }, 
+ {
+  "date": "Mon, 23 Dec 2019 03:30:00 +0000", 
+  "link": "https://cn.engadget.com/cn-2019-12-22-walmart-amazon-servers-5g-data.html", 
+  "description": "未来 5G 基建的其中一个障碍，是要设置多个新的基站和天线。在美国拥有大量门市的沃尔玛似乎就要好好善用自己的特性，把这些地点都进化成网据传输的中继点呢。  华尔街日报的报道表示，沃尔玛 CEO Doug McMillon 是打算让他们旗下门市都成为「边缘运算」的一部分，放置服务器和 5G 天线等基建。如此一来，5G 的接收和数据处理就可以在就近的站点进行，让使用者可以更快、更轻松地接收到经处理信息，有利包括云端游戏等的用途。  如此的计划显然是沃尔玛要冲击亚马逊目前每年带来 250", 
+  "title": "沃尔玛甚至会把 5G 天线、服务器放在门市里做边缘运算"
+ }, 
+ {
+  "date": "Mon, 23 Dec 2019 02:00:00 +0000", 
+  "link": "https://cn.engadget.com/cn-2019-12-22-starliner-landed.html", 
+  "description": "两天前升空的波音 Starliner 太空舱，在最后入轨的阶段因为不明原因内建的计时器错乱，使它点火的时机不正确，在工程师让它恢复正常前，已经烧掉了太多的燃料，让它无法依原定计划前往国际空间站。当下波音团队与 NASA 所做的紧急处置，是将它先转到一个会在两天后通过美国新墨西哥州白沙测试场的轨道，如此一来虽然无法进行对接测试（并且送补给品给太空站里的太空人），但至少可以测试返航系统是否正常。  如今在两天之后，Starliner", 
+  "title": "波音 Starliner 顺利提前返航，着陆美国新墨西哥州"
+ }, 
+ {
+  "date": "Sun, 22 Dec 2019 10:00:00 +0000", 
+  "link": "https://cn.engadget.com/cn-2019-12-22-chrome-beta-helps-you-find-offline-friendly-files-in-web-apps.html", 
+  "description": "Google 稍早释出了 Chrome 80 的 beta 版本，让网站开发者先行测试。最主要的新功能是一个新的内容索引架构（Content Indexing Framework），让 Web App 可以列出所有由网络下载到本地端的内容。详细的做法 Google 还在实验当中，包括如何在浏览器中呈现，以及在何处呈现（目前是暂定放在「下载」里），但对于网络连线不稳定，或是想要多利用不限速／不限量网络连线的人来说，这个功能应该可以更方便的看到已经在本机内的内容。内容索引架构一直到", 
+  "title": "下一版的 Chrome 让查看离线文档变得更容易"
+ }, 
+ {
+  "date": "Sun, 22 Dec 2019 06:00:00 +0000", 
+  "link": "https://cn.engadget.com/cn-2019-12-22-tesla-model-3-code-100kwh-battery-ludicrous-mode.html", 
+  "description": "Tesla 的平价车种 Model 3 或许也有机会获得较贵的兄弟们才有的机能了。一位名为 Green 的仁兄在 Model 3 的软件代码当中，发现了 100kWh 电池与 Ludicrous Mode 选项的资料，虽然说这并不一定保证特斯拉就会提供这些功能，但特斯拉向来将代码维护得很精简，没有的功能就不会放进去。如果说这些选项已经活过一两轮代码大清理的话，那成真的机会就比较大了。  在最平价的车款中装入 100kWh 电池表面上似乎会威胁到 Model S 的位置，但一方面是", 
+  "title": "特斯拉的代码预告了 100kWh 电池与极速模式或将来到 Model 3 上"
+ }, 
+ {
+  "date": "Sat, 21 Dec 2019 08:45:00 +0000", 
+  "link": "https://cn.engadget.com/cn-2019-12-21-france-fines-google-167-million.html", 
+  "description": "在经历了四年的调查后，法国的公平交易单位针对 Google「含糊且不可预知」的广告规责，开罚 1.5 亿欧元。事件的缘由是法国广告公司 Gibmedia 指控 Google 无预警中止了自己的广告帐号，法国官方调查后认为这样的行径是 Google 利用自己在市场上的力量，恣意修改广告规则。Google 已经表示将会进行上诉。  Google 一方的说法则是 Gibmedia 之所以被中止帐号，是因为他们为付款机制不明确的行骗网站打广告。Google", 
+  "title": "法国以「恣意修改广告规则」开罚 Google 1.5 亿欧元"
+ }, 
+ {
+  "date": "Sat, 21 Dec 2019 05:00:00 +0000", 
+  "link": "https://cn.engadget.com/cn-2019-12-21-motorola-razr-foldable-delay.html", 
+  "description": "摩托罗拉新推出的「时尚型」折叠手机 RAZR 原定在 12 月 26 日开放预购，但想入手尝鲜的人，恐怕还要再等等了。在一份声明当中，Moto 表示因为「需求超出供给预测」，因此需要调整 RAZR 的预购与上市时程，以确保不会发生缺货的情形。目前摩托罗拉还在评估合适的数量和上市时间，但不预期会显著偏离原定的时程。  摩托罗拉竟然会错估 RAZR 的需求量，还真是有点不可思议。或许是因为它 US$1,500 的高价、相对中端的硬件（骁龙 710）和乏善可陈的相机及电力，让 Moto", 
+  "title": "摩托罗拉因需求超出预期而延后折叠式 RAZR 的上市"
+ }, 
+ {
+  "date": "Sat, 21 Dec 2019 02:00:00 +0000", 
+  "link": "https://cn.engadget.com/cn-2019-12-20-apple-reportedly-working-satellite-data-project.html", 
+  "description": "虽然说整个计划八字都还没一撇，但苹果似乎希望有朝一日，所有的苹果设备都能连线到自家的卫星网络上。据 Bloomberg 的 Mark Gurman 所言，苹果为此组织了一个「秘密团队」，成员包括航太、卫星、和天线设计等领域的十余名软硬件工程师和专案负责人。其中两名领导甚至是一间卫星遥测公司 Skybox Imaging 的前高管，在该公司被 Google 在 2014 年以 5 亿美元买下后，曾短暂在 Google 任职。", 
+  "title": "苹果据传正在打造直接与自家设备连线的卫星技术"
+ }, 
+ {
+  "date": "Fri, 20 Dec 2019 15:15:00 +0000", 
+  "link": "https://cn.engadget.com/cn-2019-12-20-boeing-starliner-nasa-uncrewed-test-flight.html", 
+  "description": "在今天稍早的时候，载着波音 Starliner 太空舱的 Atlas V 火箭于美国佛州升空，进行首次的太空无人测试。本来一直到太空舱分离为止都一切顺利，但由于太空舱内的计时设备发生了偏差（目前原因不明），太空舱的自动驾驶系统「以为」自己在错误的位置，因此不仅花费了大量的燃料来维持一个错误的轨道，同时也错过了正确的点火时间点。这使得 Starliner 虽然进入了稳定的轨道，但已经没有足够的燃料抵达国际太空站了。  目前的是计划先让 Starliner 转移到一个可以在 48", 
+  "title": "波音 Starliner 太空舱无人测试出错，将无法抵达太空站"
+ }, 
+ {
+  "date": "Fri, 20 Dec 2019 07:00:00 +0000", 
+  "link": "https://cn.engadget.com/cn-2019-12-20-astellandkern-sa700-hands-on.html", 
+  "description": "移动播放器的韩牌代表 Astell&amp;amp;Kern，近年的新品都变得面目全非，过于华丽的线条设计，实在会叫人怀念当初的砖块。这样的声音似乎有传到给 AK 的耳中，推出了全新命名系统的 SA700 播放器，完完全全就是致敬经典的 AK120，这也刚好是小编私人拥有的第一款高端", 
+  "title": "Astell&Kern SA700 让老用户回忆七年前的韩砖热潮（更新：国行售价）"
+ }, 
+ {
+  "date": "Fri, 20 Dec 2019 05:30:00 +0000", 
+  "link": "https://cn.engadget.com/cn-2019-12-19-satechi-apple-watch-usb-c-dock.html", 
+  "description": "Apple Watch 的用户大概都跟小编一样会烦恼过那充电线的收纳问题，把那随附的 1 米长线放在桌上感觉就是不太好看。Satechi 就推出了一款极简的 USB-C 充电底座，本体就只是一个较 Watch 表身稍大的正方形，可以当作转接器般插在 MacBook 和 iPad Pro 的侧面，同时也可以直接插在 USB-C 输出的外置充电器。当然盒装内还是有延长线的，让使用者可以按自己需要选用，反正就是省去了那长长的线了。  可惜的是这配件并不便宜，海外定价要 45", 
+  "title": "这个轻量化的 Apple Watch 充电器让你可以更潇洒地放置"
+ }, 
+ {
+  "date": "Fri, 20 Dec 2019 04:00:00 +0000", 
+  "link": "https://cn.engadget.com/cn-2019-12-19-facebook-os-hardware-plans.html", 
+  "description": "Facebook 从大家熟悉的社交平台，慢慢进化成一个涉足多个领域的科技巨擘，这看到他们有推出 VR、智能家居产品也可知一二。The Information 更是报道 Facebook 正为旗下硬件产品开发自家的操作系统，减少对第三方的依赖。这消息后来也获得 Facebook 证实，他们表示所开发的「人机界面」是为了 AR 眼镜而开发，但也强调不会排除任何可能性，包括与其他公司合作开发 AR 设备用的 OS。  此外，The Information", 
+  "title": "Facebook 正为 AR 设备开发自家 OS"
+ }, 
+ {
+  "date": "Fri, 20 Dec 2019 02:34:00 +0000", 
+  "link": "https://cn.engadget.com/cn-2019-12-19-google-buys-typhoon-studios.html", 
+  "description": "Google 成立了自家的游戏工作室不久，今天就宣布收购曾经开发《蝙蝠侠：阿卡姆之城》和《孤岛惊魂 4》的 Typhoon Studio，要来壮大其团队和游戏服务。后者快将推出的新作《Journey to the Savage Planet》会如期在跨平台推出，而团队就会并入位于加拿大蒙特利尔的 Stadia Games and Entertainment Studio。  Stadia", 
+  "title": "Google 收购 Typhoon Studio 来壮大其 Stadia 游戏开发工作室"
+ }, 
+ {
+  "date": "Fri, 20 Dec 2019 01:00:00 +0000", 
+  "link": "https://cn.engadget.com/cn-2019-12-19-bmw-now-has-500-000-evs-on-the-road.html", 
+  "description": "虽说在投身电动车市场初期，宝马花了三年的时间才积累了 10 万辆的销售成绩，但随着近几年电车行业发展突飞猛进，他们旗下产品的销量也是一路水涨船高。就在不久前，宝马官方发推宣布自己售出的带电车型总数已经突破了 50 万辆。这个数字不仅仅是宝马电动车业务发展过程中的一大里程碑，对整个行业其实也是意义重大。  相比之下，一直深耕平价市场的日产今年卖出的 Leaf 电动车数量超过了 40 万辆。而特斯拉单单在 Q3 一季，就售出了 9.7", 
+  "title": "已有 50 万辆带电的宝马跑在路上"
+ }, 
+ {
+  "date": "Thu, 19 Dec 2019 13:00:00 +0000", 
+  "link": "https://cn.engadget.com/cn-2019-12-19-nasa-mars-2020-first-drive.html", 
+  "description": "随着 NASA 的 Mars 2020 探测车的升空日期愈来愈接近，JPL 的科学家与工程师们正式最后的系统检查与确认，包括最重要的「驾驶」系统。在稍早的测试中，Mars 2020 成功地完成了前进、后退、转向、通过崎岖地面等测试，并且首度示范了各种自动导航设备的运作。虽然说 Mars 2020 的底盘是以正在火星上忙碌着的好奇号为基础，但是针对了好奇号在火星上实际碰到的问题（例如「轮胎」容易破损）进行了补强，并且拥有更强大的立体相机与专门的地形绘制与导航电脑，让 Mars 2020", 
+  "title": "NASA 的 Mars 2020 火星探测车通过驾驶测试"
+ }
+]
