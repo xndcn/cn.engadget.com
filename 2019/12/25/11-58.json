@@ -1,0 +1,26 @@
+[
+ {
+  "date": "Wed, 25 Dec 2019 08:00:00 +0000", 
+  "link": "https://cn.engadget.com/cn-2019-12-25-dji-rover-like-drone-stabilized-camera.html", 
+  "description": "大疆的无人机和手持云台技术，深受消费级和专业级用户的欢迎，有微博用户就发现了一份专利文件，透露这家公司更似乎要涉足到地上跑的稳定技术呢。  在文件描述和示意图中可见，大疆会像无人机一样把自家的相机预载到一台拥有满满支架和缓冲设计的车状底盘上，据指还可以依据地形而调整高度，用以确保拍摄的影像品质。类似的产品大概也像大疆年中发的 STEM 产品机甲大师，同样也是能对应不同地形行驶，展示着相关技术，感觉也像是试试水温吧。", 
+  "title": "大疆专利文件透露了一款能适应不同地形的自走相机"
+ }, 
+ {
+  "date": "Wed, 25 Dec 2019 03:04:00 +0000", 
+  "link": "https://cn.engadget.com/cn-2019-12-24-apple-will-start-enforcing-its-mac-app-security-policy-in-februa.html", 
+  "description": "目前 Mac 电脑上要安装第三方应用程序，除了在那弱弱的 App Store 寻找外，还可以选择下载网络上的其他 .dmg 程序，但后者在初次运行时就会触发系统的警告来提醒使用者。然而这措施会在明年 2 月开始加辣，直接就出现错误警告。所以苹果今天也最后提醒开发者要赶快把应用送交审批，以免影响产品的推出。  其实在 macOS Mojave 10.14.5 开始，苹果就要求第三方应用程序需要先有审批才能安装到系统，说是为了更容易地保障 Mac 环境的安全。Catalina", 
+  "title": "Mac 安全政策更新，进一步限制非 App Store 应用"
+ }, 
+ {
+  "date": "Wed, 25 Dec 2019 01:00:00 +0000", 
+  "link": "https://cn.engadget.com/cn-2019-12-24-samsungs-next-foldable-phone-could-have-a-glass-display.html", 
+  "description": "继早些时候网络上出现了三星折叠屏幕工程机的谍照后，关于他们在这类前卫产品开发上的进展，日前又传出了些新的消息。爆料人冰宇宙最近在微博上声称，三星已经成为了韩国玻璃供应商 DoInsys 的大股东。在后者的技术加持下，传说中的「Galaxy Fold 2」将会「采用超薄玻璃盖板取代塑料盖板」，「消除折痕」打造「更平整」的折叠屏幕表面。  实际上，在本月初时 LetsGoDigital 也曾报道称，三星其实已经在欧洲申请了「Samsung Ultra Thin", 
+  "title": "三星 Galaxy Fold 的后继机可能会采用超薄玻璃盖板"
+ }, 
+ {
+  "date": "Tue, 24 Dec 2019 07:30:00 +0000", 
+  "link": "https://cn.engadget.com/cn-2019-12-24-tesla-camp-mode-holiday-update.html", 
+  "description": "几天前 Elon Musk 发推预告过的特斯拉节日更新，今天已如约开始向各个车款推送。其中最有意思的新特性，是所谓的露营模式。在开启之后车辆会维持车内空气流通，并且控制温度和内部灯光，以满足露营时的使用需要。另外在使用过程中，用户自然也可以播放音乐，或是以车子本身的电池来为其它设备提供电力（其实发布 Cybertruck 时已经预告过一些用法了呢）。  至于 Musk", 
+  "title": "特斯拉的节日更新带来露营模式和非常有限的自驾功能改进"
+ }
+]
