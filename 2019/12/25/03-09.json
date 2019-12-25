@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Wed, 25 Dec 2019 03:04:00 +0000", 
+  "link": "https://cn.engadget.com/cn-2019-12-24-apple-will-start-enforcing-its-mac-app-security-policy-in-februa.html", 
+  "description": "目前 Mac 电脑上要安装第三方应用程序，除了在那弱弱的 App Store 寻找外，还可以选择下载网路上的其他 .dmg 程序，但后者在初次运行时就会触发系统的警告来提醒使用者。然而这措施会在明年 2 月开始加辣，直接就出现错误警告。所以 Apple 今天也最后提醒开发者要赶快把应用送交审批，以免影响产品的推出。  其实在 macOS Mojave 10.14.5 开始，Apple 就要求第三方应用程序需要先有审批才能安装到系统，说是为了更容易地保障 Mac 环境的安全。Catalina", 
+  "title": "Mac 安全政策更新，进一步限制非 App Store 应用"
+ }
+]
