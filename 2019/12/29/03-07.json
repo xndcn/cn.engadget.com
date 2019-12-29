@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Sun, 29 Dec 2019 03:00:00 +0000", 
+  "link": "https://cn.engadget.com/cn-2019-12-28-fbi-decoy-data-idle-program.html", 
+  "description": "信用卡资料因为骇客攻击而外泄的新闻不绝于耳，这对于企业和消费者来说是相当烦恼。为减低资料外泄的风险，FBI 就想到利虚假的资料作为「诱饵」，借此锁定罪犯。Ars Technica 获悉 FBI 研发了一套名为 Illicit Data Loss Exploitation（IDLE）的程序，让企业存放「诱饵」来混淆试图窃取重要信息的入侵者，并瓮中捉鳖。  虽然 FBI 并没有透露 IDLE 运作的细节，但 Ars Technica", 
+  "title": "\bFBI 提出以「虚假」数据助企业打击骇客"
+ }
+]
