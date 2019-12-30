@@ -1,0 +1,74 @@
+[
+ {
+  "date": "Sun, 29 Dec 2019 03:00:00 +0000", 
+  "link": "https://cn.engadget.com/cn-2019-12-28-fbi-decoy-data-idle-program.html", 
+  "description": "信用卡资料因为骇客攻击而外泄的新闻不绝于耳，这对于企业和消费者来说是相当烦恼。为减低资料外泄的风险，FBI 就想到利虚假的资料作为「诱饵」，借此锁定罪犯。Ars Technica 获悉 FBI 研发了一套名为 Illicit Data Loss Exploitation（IDLE）的程序，让企业存放「诱饵」来混淆试图窃取重要信息的入侵者，并瓮中捉鳖。  虽然 FBI 并没有透露 IDLE 运作的细节，但 Ars Technica", 
+  "title": "\bFBI 提出以「虚假」数据助企业打击骇客"
+ }, 
+ {
+  "date": "Sat, 28 Dec 2019 12:00:00 +0000", 
+  "link": "https://cn.engadget.com/cn-2019-12-28-faa-drones-tracking-system.html", 
+  "description": "无人机的急速发展，也逼使政府机关要针对这新兴科技来设立新的监管制度，美国 FAA 最新的想法更是要追踪到所有在美国境内的无人机。据 FAA 网页的计划书中描述，无人机将需要广播其位置和辨识信息，同时也要把同样的信息通过互联网传送到 FAA 的定位系统。  如果无人机只会在操作员的 122 米内飞行，就可以省略广播，但同样需要把信息传给 FAA 的系统。FAA 表示，使用者可以提供无人机的产品序号或随意指派的号码，后者就是为了保护个人隐私。但没有例外的，就是所有 249", 
+  "title": "FAA 希望能追踪所有在美国境内的无人机"
+ }, 
+ {
+  "date": "Sat, 28 Dec 2019 09:00:00 +0000", 
+  "link": "https://cn.engadget.com/cn-2019-12-28-tesla-deliver-chinese-model-3-dec-30.html", 
+  "description": "在特斯拉在上海的厂房生产的首批电动车已经准备好正式交付给消费者，这也意味着特斯拉可以为亚洲地区，尤其是中国的市场加速生产电动车。预计会在 12 月 30 日交付的首 15 辆 Model 3，其买家原来都是特斯拉的员工；其他买家就预计在农历新年之后的 1 月 25 日开始交付。  特斯拉在今年一月宣布在上海设厂、10 月开始投产，那么快就有完成品在产线下来，速度实在飞快。他们预计上海 Gigafactory 3 的年产量可达 25 万辆，会集中生产 Model 3 和 Model Y", 
+  "title": "首批「中国制造」的特斯拉 Model 3 将于月底交付"
+ }, 
+ {
+  "date": "Sat, 28 Dec 2019 03:10:00 +0000", 
+  "link": "https://cn.engadget.com/cn-2019-12-27-apple-arcade-assemble-with-care-pc.html", 
+  "description": "由《纪念碑谷》开发团队操刀 Developer UsTwo、其中一款在 Apple Arcade 上最受我们主站同事喜爱的独家游戏《Assemble With Care》，要移植到其他的平台了！ 团队宣布这游戏正筹备推出 Windows 版，并预计于 2020 年第一季在 Steam", 
+  "title": "《Assemble With Care》将于明年由 Apple Arcade 移植到 Windows 上"
+ }, 
+ {
+  "date": "Fri, 27 Dec 2019 11:00:00 +0000", 
+  "link": "https://cn.engadget.com/cn-2019-12-27-betelgeuse-unprecedented-dimming.html", 
+  "description": "位于猎户星座左上角，代表着猎人右肩的参宿四（Betelguese）是天空中最亮的星星之一，通常在第十名左右徘徊。然而，作为一颗即将来到生命尾声的红超巨星，它的亮度非常地不稳定，最早在 1836 年时就由天文学家约翰．赫歇尔描述过它的亮度变化。而在那之后，曾经于 1933 年和 1942 年分别录得了 0.2 星等的最高亮度，以及 1927 年录得了 1.2 星等的最低亮度。  然而，从十月以来参宿四突然亮度大减，目前已经减至 1.5", 
+  "title": "参宿四亮度大减，来到百年来的最低亮度"
+ }, 
+ {
+  "date": "Fri, 27 Dec 2019 09:30:00 +0000", 
+  "link": "https://cn.engadget.com/cn-2019-12-27-vw-ev-charging-robot.html", 
+  "description": "随着电动车开始逐渐普及，公共场所的充电成为了一个新的课题。过去电动车稀少的时候，只要设置一两个充电停车位，就可以招揽驾驶电动车的顾客，但现在电动车愈来愈多的时候，原本少少的几个车位就变得不够用了。然而，说要将整个停车场改建成车位都有充电机能，除了尚未有这么高的需求外，有时取决于布线也不见得实际，因此大众就有了这个「充电机器人」的想法。", 
+  "title": "大众的充电机器人可以在停车场里自动找到你的车子"
+ }, 
+ {
+  "date": "Fri, 27 Dec 2019 08:00:00 +0000", 
+  "link": "https://cn.engadget.com/cn-2019-12-27-lg-soundbar-ai-ces2020.html", 
+  "description": "不少品牌都会在 CES 上有发布新作，LG 也不例外，今天就预告了一系列 2020 年款的 soundbar 新品，而且更会以「AI 房间校正」为主要卖点。LG 在新闻稿中就表示会利用 AI 来分析和辨认房间特性，借此校准音色。相信这也会大大提升支持的杜比全景声和 DTS:X 音效的效果。  新 soundbar 会以 SN 为首，备有 4K Pass-Through 和配对后置喇叭组 SPK8 的能力，可以组成 7.1.4 组合。同时系列设计都能好好配合 LG 的 55 和 65", 
+  "title": "LG 的 2020 年款 Soundbar 将会有 AI 调音"
+ }, 
+ {
+  "date": "Fri, 27 Dec 2019 02:05:00 +0000", 
+  "link": "https://cn.engadget.com/cn-2019-12-26-youtube-creators-address-copyright-claims.html", 
+  "description": "YouTube 的著作权系统对创作者来说，一向都是个颇头痛的问题。由于是靠著名为「Content ID」的自动化系统自行比对，有时候在移除视频或是使视频去收益化方面，会显得过于激进。再者，由于 YouTube 不愿意当著作权争议中的仲裁者，因此被 Content ID 系统影响的创作者时常没有简单的方法可以上诉，而是大多数时候都以宣称拥有著作权的一方（通常是大企业）为准。  YouTube 这次在 Studio Dashboard", 
+  "title": "YouTube 让内容创作者更容易应付著作权问题"
+ }, 
+ {
+  "date": "Thu, 26 Dec 2019 05:43:00 +0000", 
+  "link": "https://cn.engadget.com/cn-2019-12-26-samsung-s-galaxy-tab-s6-with-5g-is-coming-soon.html", 
+  "description": "随着手机开始陆续进入 5G 时代，平板市场跟进其实也是早晚的事。最近 SamMobile 就在 Samsung 的韩国网站上发现了 5G 版 Galaxy Tab S6 的存在证据。其型号为 SM-T866，可能在未来几个月内推出，之前在韩国有关部门的认证资料中已经出现了这款产品的名字。在官方页面上，三星为这个版本使用的配图跟普通版 Galaxy Tab S6 没有分别。估计除了 5G", 
+  "title": "三星 Galaxy Tab S6 的 5G 版本可能很快就会推出"
+ }, 
+ {
+  "date": "Thu, 26 Dec 2019 01:00:00 +0000", 
+  "link": "https://cn.engadget.com/cn-2019-12-25-sony-image-sensor-supply-and-demand.html", 
+  "description": "虽说智能手机市场出货量的整体增势早已不如前些年凶猛，但因为各大厂商都纷纷开始堆叠相机数量的关系，感光器行业倒是变得异常地火热。而在这之中，营收占比超过整个市场 50% 的索尼半导体，更是连续为整个集团的业绩提供了巨大助力。  不过在收入蒸蒸日上的同时，他们的产能还是跟不上客户们的需求。彭博社日前从索尼那里获悉，其芯片工厂已经不得不连续第二年在年尾的假期「7 天 24 小时」赶工。而且为了提升产能，他们已经计划于 2021", 
+  "title": "即便工厂加班加点，索尼的手机摄像头感光器还是供不应求"
+ }, 
+ {
+  "date": "Wed, 25 Dec 2019 11:00:00 +0000", 
+  "link": "https://cn.engadget.com/cn-2019-12-25-fallout-76-hackers-wiped-out-players-inventories.html", 
+  "description": "PC 版《辐射 76》的玩家最近最好先别连上公共服务器了。在 Reddit 论坛上传出有骇客可以直接从玩家身上「偷取」装备，包括穿身上的和放背包里的都能拿走。而且因为只要在渲染范围内（约 200 米）的玩家都能「远端」偷取，很多时候被偷的人根本看不到小偷是谁，也无从查证。更糟糕的是，Bethesda 似乎无法协助回复被盗的物品，所以东西消失了就是没了。  Bethesda 目前已经紧急准备补丁，从 Reddit", 
+  "title": "骇客将《辐射 76》公共服务器玩家身上的装备全部偷光光"
+ }, 
+ {
+  "date": "Wed, 25 Dec 2019 05:30:00 +0000", 
+  "link": "https://cn.engadget.com/cn-2019-12-25-dead-cells-legacy-update-steam.html", 
+  "description": "结合 Roguelike 和类银河战士恶魔城游戏元素，游戏难度超高的动作游戏《死亡细胞》，其开发团队宣布 Steam 平台的释出 The Legacy Update，将可让玩家可以挑战过去的游戏版本，从 Early Access 到最新版本都可以挑战。  在更新摘要中，开发团队提到游戏在不断更新之中，把很多玩家喜欢的元素改变了，所以现在就把游戏的旧版本带回来，让爱上最原始《死亡细胞》的玩家可以玩得更过瘾。详细的教程有在更新摘要中提供，有买 Steam", 
+  "title": "《死亡细胞》释出更新，让玩家可以挑战过去的游戏版本"
+ }
+]
