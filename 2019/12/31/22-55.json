@@ -1,0 +1,26 @@
+[
+ {
+  "date": "Tue, 31 Dec 2019 09:00:00 +0000", 
+  "link": "https://cn.engadget.com/cn-2019-12-31-samsung-zero-bezel-tv-rumor.html", 
+  "description": "CES 向来都是三星展示电视新品的重要阵地，那这一次他们又会拿出什么样的新东西呢？根据 The Elec 获得的消息，韩国巨头有可能会在本次展会上公布一款「零边框」电视。在设计上其显示面板和机身外框会变得「更紧密」，甚至有线人声称它看起来「真的没有边框」。而且三星预期的计划，似乎是从二月开始便会大规模量产这批新机。  实际上在今年十月的时候，就有人发现三星已经将「零边框」（Zero Bezel）注册为自己的商标。不过在新发布的预告短片中，官方倒似乎并没有要明确凸显类似概念的意思。一周后的", 
+  "title": "三星可能在 CES 上带来「零边框」电视"
+ }, 
+ {
+  "date": "Tue, 31 Dec 2019 03:54:00 +0000", 
+  "link": "https://cn.engadget.com/cn-2019-12-30-octopus-iphone-nfc-top-up.html", 
+  "description": "早前香港八达通宣布今年通过 Apple Pay 加入 iPhone 和 Apple Watch 上，可是计划需延迟到 2020 年。而在 2019 完结前之际，八通达推出应用程序的更新，提升 iOS 版八达通 app 的功能。iPhone 用户现在只需要将八通达 app 更新至 5.6.0 的版本，可通过八达通 app 于手机顶部拍卡，便可享用其最新功能，包括即时增值、查询余额、翻阅交易纪录及领取交通补贴。这方面总算是追上 Android 版八达通 app 的 功能了。", 
+  "title": "iPhone 用户终于可在八达通 app 内即时增值及查阅交易纪录"
+ }, 
+ {
+  "date": "Mon, 30 Dec 2019 08:00:00 +0000", 
+  "link": "https://cn.engadget.com/cn-2019-12-30-intel-10th-gen-desktop-chip-leak.html", 
+  "description": "英特尔第十代桌上型 Core 处理器的推出日子越来越近了，为照顾各位 DIYer 的钱包和保持与 AMD 的竞争，似乎新一代 CPU 将会更划算。据 Informatica Cero 和 VideoCardz 最新泄露的资料，Comet Lake-S 处理器的产品线里，包括 i3 至 i9 都将支持超线程技术。换言之，大家不一定要买贵价的高端处理器才能享受这提速技术。  自然旗舰级产品将会有其特性，据指基频为 3.7GHz 的 Core i9-10900K 与其 non-K", 
+  "title": "英特尔第十代桌机处理器规格曝光"
+ }, 
+ {
+  "date": "Sun, 29 Dec 2019 03:00:00 +0000", 
+  "link": "https://cn.engadget.com/cn-2019-12-28-fbi-decoy-data-idle-program.html", 
+  "description": "信用卡资料因为骇客攻击而外泄的新闻不绝于耳，这对于企业和消费者来说是相当烦恼。为减低资料外泄的风险，FBI 就想到利虚假的资料作为「诱饵」，借此锁定罪犯。Ars Technica 获悉 FBI 研发了一套名为 Illicit Data Loss Exploitation（IDLE）的程序，让企业存放「诱饵」来混淆试图窃取重要信息的入侵者，并瓮中捉鳖。  虽然 FBI 并没有透露 IDLE 运作的细节，但 Ars Technica", 
+  "title": "\bFBI 提出以「虚假」数据助企业打击骇客"
+ }
+]
