@@ -1,0 +1,56 @@
+[
+ {
+  "date": "Thu, 02 Jan 2020 04:00:00 +0000", 
+  "link": "https://cn.engadget.com/cn-2020-01-01-samsungs-qled-8k-tv-will-be-one-of-the-first-certified-by-the-8.html", 
+  "description": "CES 2020 快将开始，各家品牌自然需要好好装备自家品牌。三星今天就宣布了已经与 8K 协会合作订下了 8K 电视的规格标准，自然也不忘透露自家的 8K QLED 电视将会是首批获认证的产品之一啰。8K 电视将最低要有 7,680 x 4,320，这高于 UHD 两倍的分辨率，同时也需要有 600 尼特的亮度和支持 HDMI2.1 及", 
+  "title": "8K 协会宣布 8K 电视规格标准，三星成首家获认证厂家"
+ }, 
+ {
+  "date": "Thu, 02 Jan 2020 02:00:00 +0000", 
+  "link": "https://cn.engadget.com/chinese-2020-01-01-googles-ai-can-detect-breast-cancer-more-accurately-than-expert.html", 
+  "description": "被 Google 所买下的英国人工智能公司 DeepMind，从 2017 年以来就致力于研究如何使用 AI 来进行乳癌的判定，而最近更是达到了一个巨大的突破 &amp;mdash;&amp;mdash;", 
+  "title": "Google 的 AI 可以比人类专家更准确地判定乳癌"
+ }, 
+ {
+  "date": "Wed, 01 Jan 2020 11:00:00 +0000", 
+  "link": "https://cn.engadget.com/cn-2020-01-01-music-streaming-market-share-us-spotify-apple-music.html", 
+  "description": "串流音乐服务重塑了音乐业界，踏入 2020 年，也是时候看看过去十年的数据。美国唱片业联盟就释出了一项 2010 年至 2019 年上半年的追踪数字，显示业界已经有 80% 收入是由付费串流服务提供，付费订阅人数更是由 150 万人增加至 6,110 人以上。  这数字也是显示了科技业界的演化，因为较 2010 年时仅有 35% 美国人有智能手机，到今天已经达 81%；Spotify、Apple Music、Tidal、Pandora、YouTube Music、Amazon Prime", 
+  "title": "美国音乐业收入有 80% 是来自串流音乐服务"
+ }, 
+ {
+  "date": "Tue, 31 Dec 2019 09:00:00 +0000", 
+  "link": "https://cn.engadget.com/cn-2019-12-31-samsung-zero-bezel-tv-rumor.html", 
+  "description": "CES 向来都是三星展示电视新品的重要阵地，那这一次他们又会拿出什么样的新东西呢？根据 The Elec 获得的消息，韩国巨头有可能会在本次展会上公布一款「零边框」电视。在设计上其显示面板和机身外框会变得「更紧密」，甚至有线人声称它看起来「真的没有边框」。而且三星预期的计划，似乎是从二月开始便会大规模量产这批新机。  实际上在今年十月的时候，就有人发现三星已经将「零边框」（Zero Bezel）注册为自己的商标。不过在新发布的预告短片中，官方倒似乎并没有要明确凸显类似概念的意思。一周后的", 
+  "title": "三星可能在 CES 上带来「零边框」电视"
+ }, 
+ {
+  "date": "Tue, 31 Dec 2019 03:54:00 +0000", 
+  "link": "https://cn.engadget.com/cn-2019-12-30-octopus-iphone-nfc-top-up.html", 
+  "description": "早前香港八达通宣布今年通过 Apple Pay 加入 iPhone 和 Apple Watch 上，可是计划需延迟到 2020 年。而在 2019 完结前之际，八通达推出应用程序的更新，提升 iOS 版八达通 app 的功能。iPhone 用户现在只需要将八通达 app 更新至 5.6.0 的版本，可通过八达通 app 于手机顶部拍卡，便可享用其最新功能，包括即时增值、查询余额、翻阅交易纪录及领取交通补贴。这方面总算是追上 Android 版八达通 app 的 功能了。", 
+  "title": "iPhone 用户终于可在八达通 app 内即时增值及查阅交易纪录"
+ }, 
+ {
+  "date": "Mon, 30 Dec 2019 08:00:00 +0000", 
+  "link": "https://cn.engadget.com/cn-2019-12-30-intel-10th-gen-desktop-chip-leak.html", 
+  "description": "英特尔第十代桌上型 Core 处理器的推出日子越来越近了，为照顾各位 DIYer 的钱包和保持与 AMD 的竞争，似乎新一代 CPU 将会更划算。据 Informatica Cero 和 VideoCardz 最新泄露的资料，Comet Lake-S 处理器的产品线里，包括 i3 至 i9 都将支持超线程技术。换言之，大家不一定要买贵价的高端处理器才能享受这提速技术。  自然旗舰级产品将会有其特性，据指基频为 3.7GHz 的 Core i9-10900K 与其 non-K", 
+  "title": "英特尔第十代桌机处理器规格曝光"
+ }, 
+ {
+  "date": "Sun, 29 Dec 2019 03:00:00 +0000", 
+  "link": "https://cn.engadget.com/cn-2019-12-28-fbi-decoy-data-idle-program.html", 
+  "description": "信用卡资料因为骇客攻击而外泄的新闻不绝于耳，这对于企业和消费者来说是相当烦恼。为减低资料外泄的风险，FBI 就想到利虚假的资料作为「诱饵」，借此锁定罪犯。Ars Technica 获悉 FBI 研发了一套名为 Illicit Data Loss Exploitation（IDLE）的程序，让企业存放「诱饵」来混淆试图窃取重要信息的入侵者，并瓮中捉鳖。  虽然 FBI 并没有透露 IDLE 运作的细节，但 Ars Technica", 
+  "title": "FBI 提出以「虚假」数据助企业打击骇客"
+ }, 
+ {
+  "date": "Sat, 28 Dec 2019 12:00:00 +0000", 
+  "link": "https://cn.engadget.com/cn-2019-12-28-faa-drones-tracking-system.html", 
+  "description": "无人机的急速发展，也逼使政府机关要针对这新兴科技来设立新的监管制度，美国 FAA 最新的想法更是要追踪到所有在美国境内的无人机。据 FAA 网页的计划书中描述，无人机将需要广播其位置和辨识信息，同时也要把同样的信息通过互联网传送到 FAA 的定位系统。  如果无人机只会在操作员的 122 米内飞行，就可以省略广播，但同样需要把信息传给 FAA 的系统。FAA 表示，使用者可以提供无人机的产品序号或随意指派的号码，后者就是为了保护个人隐私。但没有例外的，就是所有 249", 
+  "title": "FAA 希望能追踪所有在美国境内的无人机"
+ }, 
+ {
+  "date": "Sat, 28 Dec 2019 09:00:00 +0000", 
+  "link": "https://cn.engadget.com/cn-2019-12-28-tesla-deliver-chinese-model-3-dec-30.html", 
+  "description": "在特斯拉在上海的厂房生产的首批电动车已经准备好正式交付给消费者，这也意味着特斯拉可以为亚洲地区，尤其是中国的市场加速生产电动车。预计会在 12 月 30 日交付的首 15 辆 Model 3，其买家原来都是特斯拉的员工；其他买家就预计在农历新年之后的 1 月 25 日开始交付。  特斯拉在今年一月宣布在上海设厂、10 月开始投产，那么快就有完成品在产线下来，速度实在飞快。他们预计上海 Gigafactory 3 的年产量可达 25 万辆，会集中生产 Model 3 和 Model Y", 
+  "title": "首批「中国制造」的特斯拉 Model 3 将于月底交付"
+ }
+]
