@@ -1,0 +1,26 @@
+[
+ {
+  "date": "Mon, 06 Jan 2020 09:20:00 +0000", 
+  "link": "https://cn.engadget.com/cn-2020-01-06-intel-10th-gen-h-series-5-ghz.html", 
+  "description": "虽然还不是正式的发布，但英特尔已经先行在 CES 上预告了新一代的笔记本用 Core i H 系列处理器将突破 5Ghz 的频率。以处理器的进步来说，在目前顶规的 Core i9-9980HK 的 5GHz 频率之后再上向突破，是相当合情合理的事，但却有两点值得一提之处。首先，这系列的处理器同样是以笔记本为目标，在散热等方面的挑战会比桌机用的处理器更为严竣；而再者就是英特尔将这个产品归于 Core i7 系列之中，也就是说理当还有更快的 i9 产品在准备之中。", 
+  "title": "英特尔声称第十代的 H 系列笔记本处理器将超越 5Ghz"
+ }, 
+ {
+  "date": "Mon, 06 Jan 2020 09:00:00 +0000", 
+  "link": "https://cn.engadget.com/cn-2020-01-06-intel-ghost-canyon-nuc-desktop-gpu.html", 
+  "description": "英特尔的「NUC」（Next Unit of Computing）系列迷你 PC 虽然说扩展性不是顶好，同时在规格和价格也都有着诸多限制，但近年来 Intel 都拿这个系列的产品来展示自家芯片产品的性能、省电及散热力。这次在 CES 上端出的最新产品「Ghost Canyon」也不例外，和之前搭配 AMD Vega M 的 Hades Canyon 相比，Ghost Canyon 可以自选全尺寸的显卡来安装，但相对来说机身的大小就又大了一圈，实在是已经不太符合我们对 NUC", 
+  "title": "英特尔最新的「Ghost Canyon」NUC 可以放下全尺寸的显卡"
+ }, 
+ {
+  "date": "Mon, 06 Jan 2020 08:34:00 +0000", 
+  "link": "https://cn.engadget.com/cn-2020-01-06-samsung-galaxy-s10-lite-note-10-lite-hands-on.html", 
+  "description": "赶在 CES 前抢先发布的 Galaxy S10 Lite 和 Note 10 Lite，现在如约出现在了赌城的三星展台上。两者拥有相近的外观和尺吋，规格上的差异也算不上很大。不过在实际动手玩过真机之后，主站同事也发现了一些之前不清楚的细节。首先在处理器的配置上，虽然 S10 Lite 和 Note 10 Lite 分别采用了骁龙 855 和 Exynos 9810，但流畅度都是非常出色，现场体验流畅度都很不错。而在显示方面，两片 6.7 寸的 FHD+ Infinity-O", 
+  "title": "三星 Galaxy S10 Lite、Note 10 Lite 动手玩"
+ }, 
+ {
+  "date": "Mon, 06 Jan 2020 08:00:00 +0000", 
+  "link": "https://cn.engadget.com/cn-2020-01-06-acer-spin-3-spin-5-intel-10th-generation.html", 
+  "description": "Acer 的 Spin 系列平板笔记本向来是该公司在这方面的主力产品，不是特别的轻薄，但也不会特别的笨重。2020 版的 Spin 大致上还是保持着这样的方向，而且在外观上还变得更朴素了一些，据 Acer 的说法是因为他们发现购入这个系列的客户以商用居多，同时这也是他们选择了保留 Yoga 式的翻转设计的主要原因 &amp;mdash;&amp;mdash;", 
+  "title": "宏碁的 Spin 系列平板笔记本获得第十代英特尔处理器更新"
+ }
+]
