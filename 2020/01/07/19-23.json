@@ -1,0 +1,14 @@
+[
+ {
+  "date": "Tue, 07 Jan 2020 16:45:00 +0000", 
+  "link": "https://cn.engadget.com/cn-2020-01-07-mtk-dimensity-800-5g-soc.html", 
+  "description": "继 11 月底发布了首款 5G SoC 芯片「天玑 1000」后，联发科又利用了 CES 的机会，发布了 7nm 的中高端天玑 800 系列 5G SoC 芯片。它是四颗 2.0GHz Cortex-A76 性能核心与四颗 2.0GHz Cortex-A55 核心的组合，搭配「天玑 1000 等级」的 GPU，并且拥有与天玑 1000 相同的 APU 3.0 AI 单元、支持 64MP 相机的 ISP 与 SA / NSA 双模的 5G 网络，但屏幕支持上则略差一线，只到 Full HD+", 
+  "title": "联发科发布中高端手机用的天玑 800 系列 5G 芯片"
+ }, 
+ {
+  "date": "Tue, 07 Jan 2020 16:30:00 +0000", 
+  "link": "https://cn.engadget.com/cn-2020-01-07-sandisk-portable-8tb-ssd-prototype.html", 
+  "description": "目前市面上的 U 盘 2TB 差不多就到顶了，4TB 的虽然存在，但极为稀少。然而即便如此，Sandisk 已经将视线放到了 8TB 等级的产品上，在 CES 推出了一款号称是「世界容量最大的口袋大小 SSD」，有着 20Gbps 的转输速率。这台看起来比现有的 Extreme Portable External 系列 SSD 大上一圈，可见要缩小体积有着实际上的困难了。由于这台只是原型机，最终产品何时上市，呈现什么样貌目前都尚未知，但事实上是一般人对于随身携带资料的需求差不多 2TB", 
+  "title": "SanDisk 发表「携带式」的 8TB SSD 原型机"
+ }
+]
