@@ -1,0 +1,74 @@
+[
+ {
+  "date": "Tue, 07 Jan 2020 00:35:00 +0000", 
+  "link": "https://cn.engadget.com/cn-2020-01-06-amd-64-core-threadripper-3990x-available-february-7.html", 
+  "description": "AMD 从去年底就在预告 64 核 Ryzen Threadripper 将于 2020 年登场，想不到是 2020 年的这么早就上市了。3990X 定于 2 月 7 日推出，定价是与型号相同的 US$3,990，显然这是以工作站为主要对象的产品，而不是一般消费者了。  AMD 宣称 3990X 是「世界最快的处理器」，并且指向最爱用的 Cinebench r20 数据做为证据。不过事实上，Cinebench 是极度平行化的一个测试环境，能够最大限度地发挥 64", 
+  "title": "AMD 的 64 核心 Threadripper 将在 2 月 7 日上市"
+ }, 
+ {
+  "date": "Mon, 06 Jan 2020 23:30:00 +0000", 
+  "link": "https://cn.engadget.com/cn-2020-01-06-amd-ryzen-4000-laptop-chips.html", 
+  "description": "AMD 近年靠着 Ryzen 处理器在高阶桌机和工作站市场对 Intel 形成了极大的威胁，但是在 Intel 传统的紧紧控制的中高階笔记本市场，则依然是没有太大的斩获。AMD 希望今次发表的 Ryzen 7 4000 系列芯片能靠着 Zen 2 核心与 7nm 制程的组合，终于攻进 Intel 的传统堡垒之中。  Ryzen 4000 系列的旗舰芯片是 Ryzen 7 4800U，拥有 8 核 16 线程的配置，超越了 Intel Core i7-19710U 的 6 核心。4800U", 
+  "title": "AMD 的 Ryzen 4000 处理器为轻薄本带来八核心选项"
+ }, 
+ {
+  "date": "Mon, 06 Jan 2020 23:00:00 +0000", 
+  "link": "https://cn.engadget.com/cn-2020-01-06-dell-g5-15-se-amd-ryzen.html", 
+  "description": "戴尔的 G5 游戏笔记本代表的是主力的中阶机型，因此近几年来已经经过几次的改版。今年 CES 上戴尔又带来了最新的「特别」版本，而且「特别」就写在名字里，取名为「G5 15 Special Edition」。它将采用 AMD 一个新的名为「Renoir-H」的处理器，应该是 7nm Zen 2 的笔记本版本，再搭上 Radeon RX5600 显示芯片。虽然说不是顶级的游戏笔记本配置，但它的目标只是要和同级的 Intel / Nvidia 笔记本竞争就好了。", 
+  "title": "戴尔推出 AMD Ryzen 版本的 G5 游戏笔记本"
+ }, 
+ {
+  "date": "Mon, 06 Jan 2020 22:55:00 +0000", 
+  "link": "https://cn.engadget.com/cn-2020-01-06-dell-concept-ori-duet-foldable-dual-screen-pc-hands-on-2020.html", 
+  "description": "虽然 联想抢先了一步，但显然他们并不是唯一一个在今年 CES 上带来折叠笔记本产品的厂家。戴尔这边也同样发表了一台名为「Concept Ori」的折叠式笔记本，还再加上两面都是屏幕的「Concept", 
+  "title": "戴尔打造了一对双屏幕与折叠屏幕概念笔记本"
+ }, 
+ {
+  "date": "Mon, 06 Jan 2020 22:15:00 +0000", 
+  "link": "https://cn.engadget.com/cn-2020-01-06-dell-concept-ufo-portable-gaming-pc.html", 
+  "description": "随着电脑芯片组的缩小与耗电量的下降，厂商似乎又有余裕设计一些不一样的外型来了。在今年 CES 上，戴尔就带来了一台名为「Concept UFO」的奇特概念机，配备有一个在中央的 8 吋触控屏幕及两侧可以拆卸的手柄，甚至本体也能插在底座上，将画面投射到电视上，根本就是 PC 化的 Switch", 
+  "title": "戴尔的「Concept UFO」是一款明显借鉴 Switch 的手持游戏 PC"
+ }, 
+ {
+  "date": "Mon, 06 Jan 2020 20:03:00 +0000", 
+  "link": "https://cn.engadget.com/cn-2020-01-06-lenovo-thinkpad-x1-fold-hands-on.html", 
+  "description": "折叠屏幕设备是未来这几年会持续的潮流，不少厂商都希望赶紧抓着先机。在 CES 2020 的会场上，联想就展示了他们以 ThinkPad 品牌推出的首款折叠屏幕笔记本 X1", 
+  "title": "联想 ThinkPad X1 Fold 折叠屏幕笔电动手折"
+ }, 
+ {
+  "date": "Mon, 06 Jan 2020 19:37:00 +0000", 
+  "link": "https://cn.engadget.com/cn-2020-01-06-lenovo-yoga-5g-laptop-mmwave-windows-snapdragon.html", 
+  "description": "去年在 Computex 2019 上宣布 Project Limitless 会是全球第一款 5G PC 的时候，联想确实跑在了众多厂商的前面。但到了今年的 CES，随着 HP、Dell 相继公布了自己的 5G 产品，联想准备的 Yoga 5G 反倒变得没那么显眼了。因为竞争对手除了支持最新的网络技术外，在造型上也都不乏亮点。而联想这台样子和之前的原型机并没什么太大的不同，只是在做工上感觉变得更为扎实了。  不过尽管如此，Yoga 5G 和 HP、Dell", 
+  "title": "联想 Yoga 5G 配备了九天线和骁龙处理器"
+ }, 
+ {
+  "date": "Mon, 06 Jan 2020 19:35:00 +0000", 
+  "link": "https://cn.engadget.com/cn-2020-01-06-lenovo-ducati-5-windows-10-laptop.html", 
+  "description": "自 2018 年 4 月达成合作以后，联想和摩托车厂杜卡迪现在终于端出了一些普通消费者也能买到的成果。在此次 CES 上，双方公布了一款名为 Ducati 5 的限量 Windows 10 笔记本。它的造型中自然是融入了机车的元素，除了源自 Panigale 车型的配色以外，底部通风口也能看到 Ducati Monster 框架的影子。另外在配套的内袋上，也能看到和杜卡迪摩托车坐垫一样的缝线纹路。  根据官方的介绍，Ducati 5 只会生产总共 12,000 台。规格方面它会配备 14", 
+  "title": "联想联手杜卡迪推出赛车主题的 Windows 10 笔电"
+ }, 
+ {
+  "date": "Mon, 06 Jan 2020 14:48:00 +0000", 
+  "link": "https://cn.engadget.com/cn-2020-01-06-samsung-galaxy-chromebook-hands-on-oh-so-pretty.html", 
+  "description": "随着 Chrome OS 的逐渐成熟（苹果可能不这么认为），这一阵营中也渐渐开始出现了更多风格上不再那么「校园」的硬件产品。而在本届 CES 上，三星就端出了一款被 Google 产品管理资深主管 Kan Liu 称作「至今为止最佳 Chromebook」的新机 &amp;mdash; Galaxy Chromebook。它拥有亮眼的红色机身和俐落的线条，拿在手中也有相当出色的手感。而且设备还采用了一款 13.3 吋的 4K AMOLED 屏幕，在 Chromebook", 
+  "title": "三星出了款使用 4K AMOLED 屏幕的漂亮 Chromebook"
+ }, 
+ {
+  "date": "Mon, 06 Jan 2020 14:05:00 +0000", 
+  "link": "https://cn.engadget.com/cn-2020-01-06-asus-chromebook-flip-c436.html", 
+  "description": "今年 CES 的笔记本更新大多围绕着英特尔第十代处理器打转，就算是 Chromebook 也不例外。华硕新版的 Yoga 翻转式 Chromebook Flip C436 不仅换上了第十代 Core i 处理器，而且最高还可以选用 Core i7 的版本，搭配 16GB 内存、WiFi 6 等机能，以及与前代 C434", 
+  "title": "下一款华硕 Chromebook Flip 将采用英特尔第十代处理器"
+ }, 
+ {
+  "date": "Mon, 06 Jan 2020 13:18:00 +0000", 
+  "link": "https://cn.engadget.com/cn-2020-01-06-jbl-dolby-atmos-soundbar-detachable-speakers.html", 
+  "description": "眼看愈来愈多的厂商都有 Dolby Atmos 声效的 soundbar 产品，JBL 也要跟进一下，在 CES 2020 推出 JBL Bar 9.1 soundbar。在配合 10 吋低音炮的两件套的基本配置下，soundbar 本体的两端还可以如上图一样分体，提供更具弹性的喇叭排列。分离的喇叭单元会有 10 小时的播放时间，充电就只需要插回 soundbar 就好。  作为音响组合，在 Dolby Atmos 之外，还会支持 Chromecast、AirPlay 2", 
+  "title": "JBL 的首款 Dolby Atmos soundbar 还会玩分体变形"
+ }, 
+ {
+  "date": "Mon, 06 Jan 2020 12:37:00 +0000", 
+  "link": "https://cn.engadget.com/cn-2020-01-06-ikeas-smart-blinds-now-work-with-apple-homekit.html", 
+  "description": "早前 IKEA 推出的智能窗帘 FYRTUR，只能靠 Google 助理或摇控操作，而现在它终于也支持 HomeKit 了。当用家将网关 TRADFRI 的固件升级到最新版本后，就能获得 HomeKit 支持，在此基础上便能通过苹果的 Home app 或 Siri 来开关窗帘了。不仅如此，窗帘的操作也可被整合到苹果的场景功能里面，诸如拉上窗帘同时开灯的操作现在一步就可以完成了。  IKEA 的智慧窗帘最低也要 129 美元（约人民币 900 元），再加上 35 美元（约人民币 240", 
+  "title": "宜家智能窗帘终于能够支持 HomeKit 了"
+ }
+]
