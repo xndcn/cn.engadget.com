@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Mon, 20 Jan 2020 01:00:00 +0000", 
+  "link": "https://cn.engadget.com/cn-2020-01-19-microsoft-to-fix-internet-explorer-security-flaw.html", 
+  "description": "不久前在 Firefox 中出现的安全漏洞，现在也引起了微软的重视。他们日前向 TechCrunch 证实，自己未来会为 IE 修复同样的问题，以防它被用来进行「限定目标攻击」。通过该漏洞，骇客能利用 IE9、IE10 和 IE11 脚本引擎所需要的内存，来达成获得和用户相同权限掌控电脑的目的。其潜在的安全风险非常大，甚至说美国国土安全部都已经专门就此发出了警报，建议人们采取临时限制 jscript.dll 使用等预防措施。  不过和 Mozilla", 
+  "title": "微软将为 IE 修复之前在 Firefox 出现的安全漏洞"
+ }
+]
