@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Sat, 25 Jan 2020 10:00:00 +0000", 
+  "link": "https://cn.engadget.com/cn-2020-01-25-boston-dynamics-robotic-dog-spot-sdk.html", 
+  "description": "Boston Dynamics 的机器人能够做出栩栩如生的动作，除了是机械结构之外，背后还需要有大量的程序码来支持。现在属于 Softbank 旗下的机器人公司，最新宣布把适用于机器犬 Spot 的 SDK 放到 GitHub，让有志之士可以为 Spot 开发更多不同的绝活，像是可以通过 VR 控制、自动镭射扫描。  然而目前也仍然只有成功参与早期应用计划的开发者，才可以租借一头 Spot 来测试程序码，不过开发者们也可以预先做好准备就是了。其中一个例子就是 HoloBuilders 通过", 
+  "title": "Boston Dynamics 释出其机器犬的开发者套件"
+ }
+]
