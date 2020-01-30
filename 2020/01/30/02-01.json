@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Thu, 30 Jan 2020 02:00:00 +0000", 
+  "link": "https://cn.engadget.com/cn-2020-01-29-midi-2-0-bidirectional-profiles-property-exchange.html", 
+  "description": "作为音乐界首屈一指的通讯协定，MIDI 自 1983 年发布 1.0 版以来，竟然已经超过 35 年没有更新了。多间音乐设备的制造厂商在 1 月 18 日投票通过了新的 MIDI 2.0 规范，将 MIDI 协定带到了现代。它最主要的更动，是允许装置间的双向通讯、装置内建设定档、以及透过 JSON 传输产品的名称和各种 metadata。  MIDI 2.0 这次是个通讯协定，并没有像 1.0 的时候一样有个指定的接头，但初步应该还是会以 USB", 
+  "title": "MIDI 2.0 是逾 35 年来该音乐介面首次更新"
+ }
+]
