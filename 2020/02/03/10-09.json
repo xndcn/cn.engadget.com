@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Mon, 03 Feb 2020 10:00:00 +0000", 
+  "link": "https://cn.engadget.com/cn-2020-02-03-adapter-turns-wheelchair-into-xbox-controller.html", 
+  "description": "Xbox Adaptive Controller（Xbox 适应控制器，XAC）是一个让你可以自己外接各种按键或输入设备，来操作 Xbox 的一个系统，原本微软开发的时候的想法，就是让肢障人士可以依据自己的需求与喜好，接上各种不同的输入设备来游戏。一个名为 AbleGamers 的慈善团体就利用了这个特性，开发了一套可以将电动轮椅的摇杆所送出的信号，转换成 XAC 输入电路的系统。它主要使用的是 Adafruit Feather M4 系统来进行转换，扣掉 XAC 本身的话，大约是", 
+  "title": "「Freedom Wing」转换器让电动轮椅的摇杆可以用来控制 Xbox"
+ }
+]
