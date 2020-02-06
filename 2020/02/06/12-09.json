@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Thu, 06 Feb 2020 12:00:00 +0000", 
+  "link": "https://cn.engadget.com/cn-2020-02-06-ios-13-4-carkey.html", 
+  "description": "早些时候 9to5Mac 在最新的 beta 版 iOS 13.4 中发现了一个新的 CarKey API，其作用是依靠 NFC 将 iPhone 和配套的 Apple Watch「改造」成车钥匙。根据相应的文档描述，你在使用这项功能时甚至都用不着 Face ID 认证。用户只需将打开 NFC 的设备贴近车辆的读取位置，就算手机或手表没电，它也一样可以正常运作。  当然，在最初通过苹果的钱包 app 进行设定的时候，你也需要用到车厂的对应软件来确保手机跟车辆完成配对。之后只要车子通过", 
+  "title": "iOS 13.4 能让 iPhone 和 Apple Watch 变成 NFC 车匙"
+ }
+]
