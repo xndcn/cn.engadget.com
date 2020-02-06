@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Thu, 06 Feb 2020 04:00:00 +0000", 
+  "link": "https://cn.engadget.com/cn-2020-02-05-whatsapp-desktop-remote-access-security-flaw.html", 
+  "description": "如果你有在使用桌面版 WhatsApp 应用的话，那就请尽快更新吧。PerimeterX 的研究员透露，Facebook 近来释出的更新中修正了同时存在于 Mac 和 Windows 平台的漏洞，防止了让骇客通过在信息中插入 JavaScript 来遥距存取文件。这漏洞是存在于他们所使用的 Chromium 网页引擎（版本 69 或更早），是一个颇为知名的旧世代网页技术漏洞。  据指 Facebook 会采用这 Electron 架构，是因为比较容易满足他们跨平台通讯的需要。然而，就如", 
+  "title": "桌面版 WhatsApp 应用的漏洞让骇客能远程存取文件"
+ }
+]
