@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Mon, 10 Feb 2020 05:15:00 +0000", 
+  "link": "https://cn.engadget.com/cn-2020-02-09-android-bluefrag-security-flaw.html", 
+  "description": "如果你还在使用较老旧的 Android 手机，那就可能要考虑一下换新了。因为安全研究中心 ERNW 最新发布的报告中，描述他们发现了一个名为 BlueFrag 的漏洞，能让骇客静悄悄地把恶意程序通过蓝牙传送到附近的 Android 8 Oreo 和 Android 9 Pie 设备。骇客只要获得设备的蓝牙 MAC 位址，就可以实现这攻击，而且受害者更不会发现。  报告中主要针对较新版本 Android 而研究，并确认了 Android 10 不受影响，但就仍未分析 Android 8", 
+  "title": "Android 系统有让骇客通过蓝牙发送恶意程序的漏洞"
+ }
+]
