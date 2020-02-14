@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Fri, 14 Feb 2020 04:30:00 +0000", 
+  "link": "https://cn.engadget.com/cn-2020-02-13-swift-playgrounds-mac.html", 
+  "description": "苹果设计的编程学习游戏 Swift Playgrounds 本来是 iPad 独占，不过现在也移植到 Mac 平台了。顾名思义，是通过游玩不同难度的解谜游戏来学习 Swift 编程语言，大人小朋友也能轻易上手。  更妙的是，这 Swift Playgrounds 是通过苹果的移植架构 Catalyst 来进行，把原本的 iOS 软件转换成 macOS 能跑的样子，所以使用方式也会由触控变成鼠标拖曳啰。不意外的，是学习进度能通过 iCloud 同步，让使用者在 iPad 和 Mac", 
+  "title": "苹果把编程学习游戏 Swift Playgrounds 带到 Mac"
+ }
+]
