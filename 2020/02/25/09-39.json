@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Tue, 25 Feb 2020 09:30:00 +0000", 
+  "link": "https://cn.engadget.com/cn-2020-02-25-planet-computers-cosmo-multi-boot.html", 
+  "description": "Planet Computers 在 2018 年发表的 Cosmo Communicator 时曾承诺会为其加载双系统的特性，如今官方终于兑现当初的诺言。这家初创公司日前推出针对 Cosmo Communicator 的双系统功能，让使用者在其装置上用时运行 Android（常规或已 root）、Debian Linux 和 TWRP 操作系统，而无须互相取代。使用者需要分割设备内建的储存空间，以及通过引导选单来拣选对应的操作系统，完成指定步骤后便可以在装置上运作 Linux", 
+  "title": "Planet Computers 的翻盖式手机终于支持双系统了"
+ }
+]
