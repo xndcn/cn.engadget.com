@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Thu, 05 Mar 2020 13:30:00 +0000", 
+  "link": "https://cn.engadget.com/cn-2020-03-05-waymo-driver-fifth-generation-sensors.html", 
+  "description": "Waymo 稍早公开了第五代的「Driver」套件，一个结合软件和硬件的全套方案，让一般车辆可以「变身」成自驾车。这套系统以车顶的 360 度 Lidar，与可以分辨 500 米外的行人及停止标志的长程光学相机为核心，再加上车侧的四组 Lidar 和多个视角的相机，还有侦测所有附近物体相对速度的雷达系统，让系统能更好的理解四周的环境。当然，软件上的学习也是不能少的，Waymo 到目前为止已经累积了 3,200 万公里的一般道路测试，及高达 160", 
+  "title": "Waymo 的第五代「Driver」套件让 AI 视角更没盲点"
+ }
+]
