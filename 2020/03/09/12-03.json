@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Mon, 09 Mar 2020 12:00:00 +0000", 
+  "link": "https://cn.engadget.com/cn-2020-03-09-amd-cpu-take-a-way-data-leak-security-flaw.html", 
+  "description": "今天不是只有 Intel 的晶片被发现有安全性问题，死对头 AMD 也不能幸免。格拉兹科技大学的研究专家们发现了一对「旁路攻击」的漏洞，并将其命名为「Take A Way」。这个漏洞利用了 Level 1 缓存的预测机制来设法取得内存内容，由 2011 年的 Athlon 64 X2 至今的 Threadripper 芯片皆受影响。 当中 Collide+Probe 攻击让恶意人士不用知道内存位置就能查看其存取；而 Load+Reload 则是个较为隐秘，使用共享内存的方法。", 
+  "title": "AMD 过去九年推出的处理器都有漏露资料的风险"
+ }
+]
