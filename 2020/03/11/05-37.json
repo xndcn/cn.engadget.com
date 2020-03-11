@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Wed, 11 Mar 2020 05:30:00 +0000", 
+  "link": "https://cn.engadget.com/cn-2020-03-11-ios-14-homescreen-apps-list-view.html", 
+  "description": "一直以来都是以网格化来显示 app 的 iOS 主界面，到了 iOS 14 里可能会迎来一些新的变化。9to5Mac 在流出的程序码里发现新版系统将会提供以列表形式排列应用的选项，而且还能让用户根据最近常用、有未读通知、Siri 推荐等不同的条件来分类显示 app。其中 Siri 的推荐会依照时间、地点等因素来决定，比如去健身房时就会出现音乐，上车时就出现地图等等。  iOS 的这一改变听起来和 watchOS 里的 List View 有些相似，不过手表上目前并不能按照条件筛选", 
+  "title": "iOS 14 似乎能以列表形式排列 app"
+ }
+]
