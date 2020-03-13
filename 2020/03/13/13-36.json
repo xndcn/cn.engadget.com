@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Fri, 13 Mar 2020 13:26:00 +0000", 
+  "link": "https://cn.engadget.com/cn-2020-03-13-google-explains-how-pixel-4-soli-radar-works.html", 
+  "description": "Soli 动作感应系统是 Pixel 4 系列的一大卖点，理论上它可以快速地识别用户手势然后执行相应的操作。不过这套方案背后的工作原理可能未必如许多人所想像，而在日前发布的一篇博客中 Google 专门对此进行了一番解释。首先，Soli 的短距离雷达主要是被用来做两件事，其一是探测到人的存在从而让面部辨识组件迅速做好扫描人脸的准备，其二则是认清滑动之类的隔空手势。这第二项是体现 Soli 功能性的核心，而为了让相关组件小到可以被塞进手机，Google", 
+  "title": "Google 解释 Pixel 4 手势雷达背后的技术"
+ }
+]
