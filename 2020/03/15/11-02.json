@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Sun, 15 Mar 2020 11:00:00 +0000", 
+  "link": "https://cn.engadget.com/cn-2020-03-15-windows-10-linux-kernel-available-soon.html", 
+  "description": "不用再等多久，Linux 内核就将成为 Windows 10 的标准配备啰！微软确认了 Windows Subsystem for Linux 2（WSL2）将随着 Windows 10 version 2004 一同到来，不过一开始的时候还是要手动下载安装，还要再等「数个月」的时间才会提供自动更新的能力。不过一旦开启自动更新后，它会直接透过 Windows Update 来进行更新，对于 Windows 用户来说应该是相当省事的选择。  WSL2 在应用时基本上可以视为一个轻量化的", 
+  "title": "Windows 10 的 Linux 内核将随着 version 2004 开放给一般大众"
+ }
+]
