@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Mon, 16 Mar 2020 02:00:00 +0000", 
+  "link": "https://cn.engadget.com/cn-2020-03-15-google-stadia-4k-web-requirements.html", 
+  "description": "Google 近期内开启了透过浏览器以 4K 解析度游玩 Stadia 的选项，但究竟要什么样条件的电脑才能使用呢？出乎意外的，其实对于硬件本身要求并不高，主要是要能解码 Google 偏好的 VP9 格式、一台 4K 分辨率的显示器、以及足够选择「最佳画质」的帶宽。官方对于「最佳帶宽」的定义是在 35Mbps，但 9to5Google 似乎成功地以较低的帶宽推动。  在这三者当中，反而最麻烦的是「VP9 解码」的要求。Mac 的电脑因为未内建 VP9 解码器（苹果偏好 AV1", 
+  "title": "Google 列出透过浏览器以 4K 分辨率游玩 Stadia 的条件"
+ }
+]
