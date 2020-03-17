@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Tue, 17 Mar 2020 14:28:00 +0000", 
+  "link": "https://cn.engadget.com/cn-2020-03-17-samsung-new-storage-chip-flagship-smartphone-faster.html", 
+  "description": "三星今日早些时候宣布，其基于 eUFS 3.1 标准的 512GB 存储芯片已经正式开始了大规模量产。和之前的 eUFS 3.0 相比，新品的连续读取速度虽然还是 2,100MB/s，但其连续写入和随机读取速度分别是原来的 3 倍（1,200MB/s）和 1.6 倍（100,000 IOPS），同时随机写入速率亦有小幅提升。按照三星的说法，这意味着 8K 视频将能被快速、流畅地保存入手机，若是以数据传输量来算只要 90 秒钟就能传完 100GB。  除了 512GB 的 eUFS 3.1", 
+  "title": "三星开始大规模量产 512GB eUFS 3.1 芯片"
+ }
+]
