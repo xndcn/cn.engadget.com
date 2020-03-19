@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Thu, 19 Mar 2020 06:30:00 +0000", 
+  "link": "https://cn.engadget.com/cn-2020-03-19-google-android-11-developer-preview-2.html", 
+  "description": "早些时候 Google 向开发者们开放了适用于 Pixel 手机的第二个 Android 11 开发者预览版。它在功能方面最大的变化是向来电过滤 app 开放了更多的 API，在新版中第三方软件除了能借助 Google 的框架甄别来电外，还允许用户上报拒绝来电的理由。而且在获得权限的前提下，app 也可以确定来电是否存在于使用者的通讯录之中。  除此之外，这个新的 Android 11", 
+  "title": "新的 Android 11 开发者预览版改进了反骚扰电话功能"
+ }
+]
