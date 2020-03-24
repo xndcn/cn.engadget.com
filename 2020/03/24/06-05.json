@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Tue, 24 Mar 2020 06:00:00 +0000", 
+  "link": "https://cn.engadget.com/cn-2020-03-24-microsoft-windows-vulnerability-adobe-type-manager.html", 
+  "description": "稍早微软警告所有的 Windows 用户，在其字体管理系统中有一个漏洞，可能允许恶意人士控制目标电脑。这个漏洞源自于 Windows Adobe Type Manager Library 之中，用来管理 Adobe 的 PostScript 字体。虽然名字里有「Adobe」，但实际上这部份的源码早在 Windows XP 时代 Adobe 就已经交给了微软，所以从 Windows Vista 开始就都是微软在维护了。", 
+  "title": "微软警告 Windows 的字体系统有两个漏洞，已经有被攻击的案例"
+ }
+]
