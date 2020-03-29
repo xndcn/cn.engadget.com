@@ -1,0 +1,14 @@
+[
+ {
+  "date": "Wed, 25 Mar 2020 09:00:00 +0000", 
+  "link": "https://cn.engadget.com/cn-2020-03-25-safari-blocks-all-third-party-cookies-by-default.html", 
+  "description": "苹果除了推出新的 iOS / iPadOS 之外，他们其实也有为大家的隐私多添一份保障。最新上线的 iOS、iPadOS 和 macOS 版本 Safari，会预设封锁第三方 cookies。据 WebKit 工程师的 John Wilander 所指，目前就只有 Tor Browser 是较知名的浏览器有如此设计，另外还有较小众的 Brave 是这样。", 
+  "title": "Safari 预设封锁所有第三方 cookies"
+ }, 
+ {
+  "date": "Wed, 25 Mar 2020 07:30:00 +0000", 
+  "link": "https://cn.engadget.com/cn-2020-03-25-microsoft-pauses-windows-updates.html", 
+  "description": "Google 在抗疫期间将开发资源更多集中到确保软件稳定性上的做法，现在引来了更多企业的效仿。早些时候微软也正式宣布，未来将会暂时停止所支持 Windows 及服务器产品的非安全类次要更新。他们的计划是将精力集中到提升软件的安全性上，不过这一变化要从五月开始才会生效，也就是说四月这一轮的更新内容还会照原本的安排推送。  具体来说，一般在每月第三或四周发布，主要是用来修复小毛病、进行非安全类改进的 C 类和 D 类更新在一个月后都会被暂停。与此同时主攻安全性的 B", 
+  "title": "微软也将暂停非安全类的 Windows 次要更新"
+ }
+]
