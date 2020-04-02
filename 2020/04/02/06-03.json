@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Thu, 02 Apr 2020 06:00:00 +0000", 
+  "link": "https://cn.engadget.com/cn-2020-04-02-slack-video-calls-microsoft-teams-zoom-voip.html", 
+  "description": "随着在家办公的人越来越多，之前已经有消息说 Slack 正在研究如何与 Microsoft Teams 进行互通。时至今日官方终于加入了这方面的功能，现在用户只需在 Slack 里设定好 Teams app，然后就能直接以 /teams-call 指令开启通话了。除此之外，你也可以在加入某场会议前看到已参与其中的同事，并且还能直接从 Slack 的 Outlook 或 Google 日历提醒中跳转加入会话。  不过需要注意的是，最终的 Teams 通话还是会需要打开 Teams", 
+  "title": "Slack 加入与 Microsoft Teams 视频通话的选项"
+ }
+]
