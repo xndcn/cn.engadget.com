@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Sun, 05 Apr 2020 02:00:00 +0000", 
+  "link": "https://cn.engadget.com/cn-2020-04-04-google-rolls-back-chrome-samesite.html", 
+  "description": "Google 宣布了将暂时「重启」Chrome 80默认阻挡的跨站 cookie 存取功能，以避免与疫情相关的关键服务的网站受影响。为了减少广告服务透过 cookie 跨站追踪用户的行迹，并强化安全性，Google 从去年中开始就已经宣导 cookie 当中「SameSite」语法的使用，并且由 2 月发布的 Chrome 80 开始，默认禁止没有特别开放外站存取的 cookie 被外站读取。  不过，虽然说 Google", 
+  "title": "Google「重启」被 Chrome 80 阻挡的跨站 cookie 存取功能"
+ }
+]
