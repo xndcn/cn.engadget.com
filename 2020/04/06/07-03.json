@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Mon, 06 Apr 2020 07:00:00 +0000", 
+  "link": "https://cn.engadget.com/cn-2020-04-06-safari-camera-hijack-flaw.html", 
+  "description": "安全专家 Ryan Pickren 今天公开了一个已被苹果解决掉的 Safari 漏洞。通过它骇客只需让用户点开内含恶意脚本的特定链接，接着就能骗过 Safari，获取到和已授权页面（比如说 Skype）一样的相机及麦克风权限了。在此之后，骇客就可以在暗中记录被攻击对象的视频和音频数据。考虑到近期因新冠疫情人们对视频工具的依赖性越来越高，该漏洞在去年十二月被揭露后就能第一时间被补上，也算是消除了不少潜在的风险。  按照 Pickren 告诉 Wired", 
+  "title": "苹果补上了 Safari 中能被骇客用来劫持 iPhone、Mac 相机的漏洞"
+ }
+]
