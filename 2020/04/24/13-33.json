@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Fri, 24 Apr 2020 13:24:00 +0000", 
+  "link": "https://cn.engadget.com/cn-2020-04-24-apple-mail-vulnerability-no-evidence-used-against-customers.html", 
+  "description": "对于昨天被安全研究中心爆出的 iOS 原生邮件应用漏洞，苹果显然是想好了要低调处理。在发给分析师 Rene Ritchie 的一份声明中，苹果表示 ZecOps 发现的漏洞本身「并不足以绕过 iPhone 和 iPad 的安全保护机制」 ，并称「目前没有证据能证明漏洞曾被利用来攻击用户」。同时他们还强调该漏洞「不会对使用者构成直接威胁」，而且承诺「很快会通过软件更新来解决潜在的问题」。  根据 ZecOps 之前的说法，iOS 原生邮件 app", 
+  "title": "苹果：iOS 原生邮件 app 的漏洞不会对用户构成「直接风险」"
+ }
+]
