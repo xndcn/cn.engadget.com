@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Sat, 25 Apr 2020 02:00:00 +0000", 
+  "link": "https://cn.engadget.com/cn-2020-04-24-unusual-buggy-character-string-apple-devices-crash.html", 
+  "description": "苹果的 iPhone、\biPad、Mac 和 Apple Watch 等设备上，被发现一个新的与 Unicode 相关的 bug，当通过通知传送特定字串到设备上时，会导致系统崩溃。当然，为了安全起见我们无从得知字串的内容，但据 MacRumors 的报道，其至少包括意大利国旗的 emoji 和信德语（Sindhi）的部份字元。当系统试图显示含有这个字串的通知时，便可能当成系统重启，甚至是无法再次开机。  这并不是第一次苹果的产品出现一碰到特殊字元就挂掉的情况，在 2018", 
+  "title": "一组特定字串被发现会使苹果设备崩溃"
+ }
+]
