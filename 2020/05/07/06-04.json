@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Thu, 07 May 2020 06:00:00 +0000", 
+  "link": "https://cn.engadget.com/cn-2020-05-07-google-authenticator-update-transfer-accounts-omg.html", 
+  "description": "自从 2017 年以来已经有差不多三年没更新的 Google Authenticator 两步骤验证工具，终于迎来了早该加入的帐户间转移功能。过去如果每次更换新设备时，每一个存放在 Authenticator 上的服务都要重新解除链接重新在新设备上链接，麻烦得要死。现在至少你只要在旧设备上进入转移模式，就会出现一个 QR Code 码，由新设备扫描一下就可以完成转移了。  除了转移帐户之外，在外观上 Authenticator 也稍微「拉皮」了一下，除了进入 Material Design", 
+  "title": "Android 版 Google Authenticator 终于可以在设备i间转移帐户了"
+ }
+]
