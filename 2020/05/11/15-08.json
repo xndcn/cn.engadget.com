@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Mon, 11 May 2020 15:01:00 +0000", 
+  "link": "https://cn.engadget.com/cn-2020-05-11-thunderbolt-flaw-access-data-theft.html", 
+  "description": "安全专家 Bj&amp;ouml;rn Ruytenberg 日前在研究后发现，骇客只需利用一套被称作「Thunderspy」的技术，就可以轻松地在配有 Thunderbolt 连接口的 PC 或 Linux 电脑上窃取用户的加密数据。按照他的说法，在骇客能够亲手接触到设备的前提下，其实只需要螺丝刀、「简易的便携硬件」以及区区五分钟时间就能得手了。  Thunderbolt 是依靠直接让外部设备接入 PC", 
+  "title": "「只要五分钟」骇客就能通过 Thunderbolt 漏洞窃取你的数据"
+ }
+]
