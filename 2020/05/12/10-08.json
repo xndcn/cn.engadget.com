@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Tue, 12 May 2020 10:00:00 +0000", 
+  "link": "https://cn.engadget.com/cn-2020-05-12-microsoft-intel-stamina-malware-classification.html", 
+  "description": "为了以更高的效率找出恶意软件，微软和英特尔最近合作展开了一项名为 STAMINA 的计划（Static Malware-as-Image Network Analysis）。简单来说，该计划会将可疑软件的二进制文件转化成灰阶图像，然后将其交由深度学习系统学习，从而达到总结出规律用于日后识别、分类潜在恶意软件的目的。  按照 ZDNet 的说法，STAMINA 目前所使用的是微软从 Windows Defender", 
+  "title": "为预防更多风险，微软和英特尔训练 AI 识别被可视化的恶意软件"
+ }
+]
