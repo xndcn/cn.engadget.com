@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Fri, 15 May 2020 12:00:00 +0000", 
+  "link": "https://cn.engadget.com/cn-2020-05-15-google-chrome-block-resource-heavy-ads.html", 
+  "description": "Google 日前发现在 Chrome 显示的广告之中，有极小部分（0.3%）占据了极高比例的广告流量（27%）和 CPU 资源（28%）。它们的存在，会对设备的电量、带宽造成不小的影响，于是为了解决这一问题，Google 宣布将从八月末开始引入相关的限制举措。具体来说，Google 认为在广告跟用户产生互动之前，只要符合数据用量超过 4MB、30 秒内有 15 秒占用了 CPU 资源、使用 CPU 总时长超过 60 秒这三种情况中的一种，就会被定性为耗费系统资源。确定之后 Chrome", 
+  "title": "Chrome 将从八月末起限制占用资源过多的广告"
+ }
+]
