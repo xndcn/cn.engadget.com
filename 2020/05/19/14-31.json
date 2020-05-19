@@ -1,0 +1,20 @@
+[
+ {
+  "date": "Tue, 19 May 2020 07:00:00 +0000", 
+  "link": "https://cn.engadget.com/cn-2020-05-19-epic-games-store-self-service-refunds.html", 
+  "description": "Epic Games 相当积极地充实其网店的功能，下一版更新甚至是带来了很多玩家都希望能有的自助退款机制。14 天内下载的游戏，不管原因，只要游玩时间不超过两小时即可以自助退款，不需要等待客服处理。当然这功能还有一些例外情况，包括玩家被封锁或怀疑违规个案。更妙的是，Epic Games 也表示这机制会同时适用于游戏在购买后不久就被降价的情况，他们会自然退回差价给玩家。  另外，有的玩家会希望离线游玩，但过去却会因为 Epic Games Launcher", 
+  "title": "Epic Games Store 推出自助退款机制"
+ }, 
+ {
+  "date": "Mon, 18 May 2020 07:29:00 +0000", 
+  "link": "https://cn.engadget.com/cn-2020-05-18-mediatek-dimensity-820-5g-soc.html", 
+  "description": "紧接着十天前的天玑 1000+，联发科今天又举行了一场线上发布会，主角是定位中高端市场的 5G SoC 新品天玑 820。这款芯片是基于台积电的 7nm 制程打造，其 CPU 部分采用了 4 颗 2.6GHz Cortex-A76 大核心加 4 颗 2.0GHz A55 小核心的架构，而 GPU 则会搭载 Mali-G57 MC5。以性能表现来说，其对飙的竞争对手应该是高通的骁龙 765G。  天玑 820 还使用了跟天玑 1000+ 一样的 APU 3.0 架构，MTK 也为其准备了", 
+  "title": "联发科技再推中高端定位的 5G 新品天玑 820"
+ }, 
+ {
+  "date": "Sun, 17 May 2020 10:00:00 +0000", 
+  "link": "https://cn.engadget.com/cn-2020-05-17-apple-iphone-throttling-settlement-preliminary-approval.html", 
+  "description": "苹果在 2017 年底发生的 iPhone 降速事件，起因于苹果因为为了避免电池老化造成手机突然关机，而在未公开的情况下，导入了限制处理器速度的新电力管理措施，使得不少消费者抱怨苹果是故意调慢手机，迫使消费者购买新机。在经过一段时间的缠讼后，苹果提出以 5 亿美元的代价进行补偿，而美国联邦法院法官 Edward Davila 稍早给与了初步的核可同意苹果的计划，称其为「公平、合理、且足妥」。", 
+  "title": "iPhone 降速事件的 5 亿美元补偿计划获得初步核可"
+ }
+]
