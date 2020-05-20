@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Wed, 20 May 2020 01:00:00 +0000", 
+  "link": "https://cn.engadget.com/cn-2020-05-19-windows-linux-gui-apps.html", 
+  "description": "微软持续在拉拢着 Linux 用户，继 2016 推出 Linux 指令列工具和去年开始测试完整的 Linux 内核之后，微软今日宣布了将在 Windows 10 上带来 Linux GUI app 的支援，让你可以直接在 Windows 的视窗中跑 Linux 的软件。不过，这功能主要还是针对开发者而来，让他们可以同时在一个画面中执行 Linux IDE 和 Windows。  与此同时，微软也将对 Windows Subsystem for Linux（WSL）带来 GPU", 
+  "title": "微软将在 Windows 10 上带来 Linux GUI app"
+ }
+]
