@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Wed, 20 May 2020 05:30:00 +0000", 
+  "link": "https://cn.engadget.com/cn-2020-05-20-sd-8-spec-for-sd-express-cards.html", 
+  "description": "自从 SD Association（SDA）在 2018 年发布 SD 7.0 规范以来，已经过了两年的时间，自然又到了更新新规格的时候了。这次在外观、接点等卡片实体方面并没有做改变，但 SD 8.0 规范将连接方式由 PCIe 3.0 x1 升级到了 PCIe 4.0 x2，这也使得它的传输速度由前代的 986MB/s 提升了四倍，来到 3,940MB/s 之谱。  和原版的 SD Express", 
+  "title": "次世代的 SD Express 卡将有前代四倍的传输速度"
+ }
+]
