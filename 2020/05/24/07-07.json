@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Sun, 24 May 2020 07:00:00 +0000", 
+  "link": "https://cn.engadget.com/cn-2020-05-24-mac-os-messages-catalyst-overhaul-leak.html", 
+  "description": "虽说 Apple 的讯息 app 已经有在 Mac 和 iOS 两端推出，而且内容都可以透过 iCloud 同步，然而功能上就始终还是 iOS 版本的比较丰富。为了平衡两边，9to5Mac 在被泄的 iOS 14 代码之中，发现了 macOS 将会有新的讯息应用，而且不意外地会是透过 Catalyst 来实现这跨平台的更新。  Apple 早前已经利用 Catalyst 架构，把 iOS 上的多个原生应用移植到 macOS 上，包括", 
+  "title": "Mac 端的讯息 app 似乎要正式跟上 iOS 端的发展"
+ }
+]
