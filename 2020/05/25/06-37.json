@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Mon, 25 May 2020 06:30:00 +0000", 
+  "link": "https://cn.engadget.com/cn-2020-05-25-unc0ver-jailbreak-for-virtually-any-iphone.html", 
+  "description": "苹果近年致力丰富 iOS 系统的功能，为的是减少用户因为不被满足而跑去乱弄系统，也就是所谓的越狱。可惜的是骇客的脚步仍然不会停下来的，据 TechCrunch 的报导，Unc0ver 团队更发布了能够为 iOS 11 或更后期的系统越狱，包括刚刚推出的 iOS 13.5。  领头的开发者 Pwn20wnd 向 Wired 透露，他们的破解方式是「在现有的（安全）规则上加添例外」，强调用户的数据仍然会被保护，同时保留了苹果防止 app 取存未授权信息的沙盒功能，而且 Apple Pay 和", 
+  "title": "最新的 iOS 越狱工具能破解所有 iPhone"
+ }
+]
