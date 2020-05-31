@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Sun, 31 May 2020 11:00:00 +0000", 
+  "link": "https://cn.engadget.com/cn-2020-05-31-sign-in-with-apple-account-takeover-flaw.html", 
+  "description": "对于主打隐私安全性的 Sign in with Apple 功能来说，出现能让人侵入帐户的漏洞可不是件小事。而安全专家 Bhavuk Jain 日前就因为在第三方 app 中发现了这方面的问题，从苹果那里领到了 10 万美元的抓虫奖金。具体来说，骇客可以在那些自身不具备安全措施的第三方应用里，将任意电邮 ID 连接伪造令牌（token），从而骗过苹果的公钥验证。在经过了这样的操作之后，骇客就能够「完全接管」帐户。即便用户没有向其它服务分享电邮信息，也没有办法防御这类攻击。  Jain", 
+  "title": "Sign in with Apple 曾存在能让骇客伪造令牌接管账户的漏洞"
+ }
+]
