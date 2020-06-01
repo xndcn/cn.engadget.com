@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Mon, 01 Jun 2020 03:30:00 +0000", 
+  "link": "https://cn.engadget.com/cn-2020-05-31-image-bricks-android-phones-as-wallpaper.html", 
+  "description": "手机系统会被包含不明字串的讯息而崩溃并不新鲜，但因为把一张风景相片设成桌布而出问题就是首见了吧。i 冰宇宙在 Twitter 上警告大家不要把一张看似平平无奇的风景相片设成桌布，否则系统就会变得奇慢。幸而系统并非完全变砖，只要进入安全模式删除相片，还是透过 Bootloader 重设系统就可。  后来 9to5Google 的 Dylan Roussel 就发现，这系统崩溃问题似乎是与色域有关。他指这相片是以 RGB 色域显示，非 Android 偏好的 sRGB，加上 Android", 
+  "title": "Android 系统居然会因为一张风景相片桌布而崩溃"
+ }
+]
