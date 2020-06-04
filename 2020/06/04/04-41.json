@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Thu, 04 Jun 2020 04:32:00 +0000", 
+  "link": "https://cn.engadget.com/cn-2020-06-04-microsoft-edge-windows-update.html", 
+  "description": "微软以开源的 Chromium 版 Edge 取代了自家 EdgeHTML 引擎的版本，虽然使用体验是一如承诺地很爽快，但功能上却有不少缺漏，所以在推出之后他们也逐步补完。其中一个就是 Edge 浏览器的升级方式是需要手动下载，相对有自动更新的 Chrome 会较麻烦。微软方面在刚推出之后，其实也有透露会把升级程序整合到 Windows Update 之中，而这整合也终于正式推出了。  The Verge 报导指，微软在 Edge 的产品支持页面之中写道，在 Windows 10", 
+  "title": "\b微软开始透过 Windows Update 来更新 Chromium 版 Edge"
+ }
+]
