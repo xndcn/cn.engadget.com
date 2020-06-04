@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Thu, 04 Jun 2020 01:00:00 +0000", 
+  "link": "https://cn.engadget.com/cn-2020-06-03-france-releases-voluntary-contact-tracing-app.html", 
+  "description": "紧接着义大利之后，法国也在今天释出了该国的官方接触追踪 App，取名「StopCovid」。和采用苹果 / Google 技术的义大利不同，法国选择使用一个名为 ROBERT 的方案，脱胎自泛欧洲隐私保护接触追踪计划（Pan-European Privacy-Preserving Proximity Tracing Project）。这个系统为每个使用者分配一个永久的「假 ID」，然后再将多个「临时 ID」与该假 ID 进行连结。当你进入其他手机的蓝牙范围时，两只手机会交换临时", 
+  "title": "法国释出自愿参与的接触追踪 app"
+ }
+]
