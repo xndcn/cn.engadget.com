@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Wed, 29 Jul 2020 11:00:44 +0000", 
+  "link": "https://cn.engadget.com/foldingathome-rosettaathome-arm64-support-110044062.html", 
+  "description": "以利用電腦處理器的閒置時間，來協助進行蛋白質折疊模擬的 Folding@home，以及同樣研究蛋白質結構，但以蛋白質對接和設計為主的 Rosetta@home 兩個分散式計算計畫，現在新增了對 ARM64 架構的支援，也就是說數以十億計，採用 Qualcomm、Samsung、MTK 等廠商出品的 ARM 晶片的裝置，都能加入研究的行列了。", 
+  "title": "Folding@home 分散式计算计划现在支持 ARM 设备了"
+ }
+]
