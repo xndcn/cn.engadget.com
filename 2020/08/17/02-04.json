@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Mon, 17 Aug 2020 02:00:02 +0000", 
+  "link": "https://cn.engadget.com/chrome-battery-saving-requests-from-websites-020002556.html", 
+  "description": "Google 正在实验增添支援额外的 meta 标签，让网页可以指示 Chrome 如何运行低耗能的页面。简单来说，如果使用者设定希望 Chrome 以省电为优先，或甚至 Chrome 发现电力不足时，只要 Chrome 在网页上发现有设定好的省电 meta 标签，Chrome 就会自动进入对应的省电模式，降低更新频率、或是减慢程式脚本运行等。", 
+  "title": "Chrome 未来将可以接受网站指示来节省电力"
+ }
+]
