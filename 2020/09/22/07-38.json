@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Tue, 22 Sep 2020 07:30:34 +0000", 
+  "link": "https://cn.engadget.com/adobe-sensei-ai-sky-replacement-preview-073034648.html", 
+  "description": "Adobe Sensei 的新工具名為「Sky Replacement」（天空替換），是在 Photoshop 編輯當中的一個獨立的工具。啟動後就可以由一系列系統預設的天空樣板中進行選擇，也可以上傳自己的天空樣板。一旦套用後，Photoshop 的 AI 會首先分析你的原始照片，分離出前景與背景（天空）來，然後僅將新的天空套用到背景上。", 
+  "title": "Adobe 预览 AI 推动的「天空替换工具」"
+ }
+]
