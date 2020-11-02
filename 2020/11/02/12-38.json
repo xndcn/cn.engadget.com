@@ -1,0 +1,62 @@
+[
+ {
+  "date": "Mon, 02 Nov 2020 12:30:06 +0000", 
+  "link": "https://cn.engadget.com/raspberry-pi-400-diy-maker-computer-123006324.html", 
+  "description": "售价 70 美元的 Raspberry Pi 400 登场，卖点是把微型电脑跟键盘直接做到了一起。", 
+  "title": "Raspberry Pi 400 是一款装在键盘里的微型电脑"
+ }, 
+ {
+  "date": "Mon, 02 Nov 2020 10:00:34 +0000", 
+  "link": "https://cn.engadget.com/google-pixel-5-teardown-wireless-charging-083029789.html", 
+  "description": "想知道 Pixel 5 虽然用上金属机身，但为什么仍然能有无线充电机能？PBKReviews 就拆开这款手机来跟大家一看究竟。", 
+  "title": "拆机报告揭开 Pixel 5 的金属机身仍能无线充电的秘密"
+ }, 
+ {
+  "date": "Mon, 02 Nov 2020 07:12:46 +0000", 
+  "link": "https://cn.engadget.com/oneplus-8t-cyberpunk-2077-edition-071246548.html", 
+  "description": "《赛博朋克 2077》游戏的跳票并不影响联名产品的发布，之前一加已经剧通过的《赛博朋克 2077》版 8T 今天正式在重庆亮相，售价 3,999 元。", 
+  "title": "《赛博朋克 2077》版一加 8T 来袭！"
+ }, 
+ {
+  "date": "Mon, 02 Nov 2020 06:00:10 +0000", 
+  "link": "https://cn.engadget.com/huawei-shanghai-chip-plant-us-trade-ban-060010487.html", 
+  "description": "为克服美国禁令带来的长期影响，华为可能跟上海集成电路研发中心合作开设全新的芯片厂，后者将负责该厂的运营，未来几年内的产品预期会先用于华为的电信基础设施产品。", 
+  "title": "为应对美国禁令，传华为将在上海投资芯片厂"
+ }, 
+ {
+  "date": "Mon, 02 Nov 2020 04:30:52 +0000", 
+  "link": "https://cn.engadget.com/samsung-exynos-1080-chip-teaser-043046667.html", 
+  "description": "三星很罕见地在微博宣布要在 11 月 12 日于上海发布新的中端手机处理器，而且更邀请各媒体前往参与活动。", 
+  "title": "三星预告推出中端手机处理器 Exynos 1080"
+ }, 
+ {
+  "date": "Mon, 02 Nov 2020 03:30:26 +0000", 
+  "link": "https://cn.engadget.com/facebook-dark-mode-public-testing-033020938.html", 
+  "description": "Facebook 透过逆向工程师 Jane Manchun Wong 宣布，他们以公测之名正式向所有移动版应用端开放夜晚模式，让使用者可以在晚上滑脸书时比较不刺眼了。", 
+  "title": "Facebook 夜间模式正式开放给所有移动版用户"
+ }, 
+ {
+  "date": "Mon, 02 Nov 2020 03:18:02 +0000", 
+  "link": "https://cn.engadget.com/engadget-update-031802437.html", 
+  "description": "等了那么久，终于，传说中的那台 PlayStation 5 实机也来到我们的手上了！Engadget Update 会在今天下午 2:30，在 Facebook、YouTube、Yahoo TV 同步直播这台次世代主机的开箱过程！", 
+  "title": "Engadget Update EP78：直播开箱 PlayStation 5！"
+ }, 
+ {
+  "date": "Mon, 02 Nov 2020 02:18:18 +0000", 
+  "link": "https://cn.engadget.com/intel-iris-xe-max-laptops-available-021818699.html", 
+  "description": "第一批采用英特尔专为轻薄本而设的 Iris Xe Max 独显的笔记本，今天正式登场了。首批产品包括了之前发表的 Acer Swift 3X、Asus VivoBook Flip TP470、和 Dell Inspiron 15 7000 二合一笔电等。", 
+  "title": "英特尔 Iris Xe Max 独显产品正式来到笔记本上"
+ }, 
+ {
+  "date": "Sun, 01 Nov 2020 10:00:30 +0000", 
+  "link": "https://cn.engadget.com/ai-covid-19-cough-detection-from-recordings-100025767.html", 
+  "description": "随着北半球冬季的来临，及欧美确诊数的上升，想必会有更多人稍微咳两下就开始担心自己是不是已经中了 COVID-19，或是成为「无症状感染者」。对此，MIT 的科学家开发了一套 AI 机器学习系统，可以用来判断咳嗽是否为 COVID-19 所造成。", 
+  "title": "AI 可以靠着咳嗽声来判断你是否得了新冠"
+ }, 
+ {
+  "date": "Sun, 01 Nov 2020 06:01:00 +0000", 
+  "link": "https://cn.engadget.com/waymo-indepth-details-selfdriving-activities-phoenix-060058343.html", 
+  "description": "自从在凤凰城开始测试以来，Waymo 的车辆一共已行驶了 981 万公里之远，并且当中有 10.5 万公里是没有人类驾驶在监看的「真．全自驾」状态。此外，Waymo 的车辆自 2019 年到 2020 年前九个月为止，共发生了 18 次的意外，再加上 29 次人类驾驶必需介入以避免碰撞的情况。", 
+  "title": "Waymo 分享凤凰城自驾车测试活动的细节"
+ }
+]
