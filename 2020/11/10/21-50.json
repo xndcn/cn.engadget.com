@@ -1,0 +1,62 @@
+[
+ {
+  "date": "Tue, 10 Nov 2020 19:43:47 +0000", 
+  "link": "https://cn.engadget.com/macos-big-sur-optimize-m1-chip-194347407.html", 
+  "description": "苹果在六月的 WWDC 上发表了 macOS Big Sur，虽然说也有着一些自己的改进，但更重要的还是为以  ARM 架构为基础的 M1 处理器进行预先准备，因此今天的发表会也有不小的篇幅给了 Big Sur。最重要的，当然还是  app 的相容性问题，毕竟这会直接影响了用户转用 ARM 版 Mac 的意愿。", 
+  "title": "苹果针对 M1 进行优化的 macOS Big Sur 将在 11 月 12 日登场"
+ }, 
+ {
+  "date": "Tue, 10 Nov 2020 19:32:40 +0000", 
+  "link": "https://cn.engadget.com/apple-13-inch-macbook-pro-m1-chip-193240018.html", 
+  "description": "除了新款 MacBook Air 以外，苹果也将新出的自研电脑芯片 M1 用到了 13 吋的 MacBook Pro 上。", 
+  "title": "使用 M1 芯片的 13 吋 MacBook Pro 也来了"
+ }, 
+ {
+  "date": "Tue, 10 Nov 2020 19:07:41 +0000", 
+  "link": "https://cn.engadget.com/apple-arm-mac-mini-190741605.html", 
+  "description": "在今夜「One More Thing」活动之上，苹果除了正式为他们自研芯片的命名为 M1 之外，同时也发表一系列搭载这 Apple Silicon 的产品，不意外地 Mac Mini 是有在列上的。", 
+  "title": "搭载 M1 处理器的 Mac Mini 正式登场"
+ }, 
+ {
+  "date": "Tue, 10 Nov 2020 18:44:13 +0000", 
+  "link": "https://cn.engadget.com/arm-macbook-air-13-184413388.html", 
+  "description": "苹果在今年 WWDC 时预告过将推出的苹果自制 Arm 架构 SoC 的 Mac 产品，首波在今天的「One More Thing」发表会上登场了，其中一员便是 MacBook Air 13。", 
+  "title": "首款搭载 ARM 架构处理器的 13.3 吋 MacBook Air 来了！"
+ }, 
+ {
+  "date": "Tue, 10 Nov 2020 18:20:33 +0000", 
+  "link": "https://cn.engadget.com/apple-silicon-m1-mac-182033685.html", 
+  "description": "苹果公布 M1 电脑处理器，它基于 5nm 制程，内含 160 亿晶体管，使用 4+4 核心架构，同时配有「全球最快核显」。", 
+  "title": "M1 是苹果首款 Mac 电脑处理器"
+ }, 
+ {
+  "date": "Tue, 10 Nov 2020 13:36:38 +0000", 
+  "link": "https://cn.engadget.com/honor-huawei-sale-rumor-133638228.html", 
+  "description": "传了很久的华为剥离荣耀交易今天又有了新的动态，路透社获悉华为可能会以 1,000 亿人民币的价格将荣耀出售，但关于交易对象目前坊间众说纷纭。", 
+  "title": "华为可能会以 1,000 亿人民币的价格将荣耀出售"
+ }, 
+ {
+  "date": "Tue, 10 Nov 2020 12:46:25 +0000", 
+  "link": "https://cn.engadget.com/xor-luxury-smartphones-vertu-hutch-hutchinson-124625644.html", 
+  "description": "前 Vertu 员工创立全新奢侈手机品牌 Xor，首款产品 Titanium 将在 2021 年初到来，售价 3,000 英镑。", 
+  "title": "前 Vertu 员工创立全新奢侈手机品牌 Xor"
+ }, 
+ {
+  "date": "Tue, 10 Nov 2020 10:45:06 +0000", 
+  "link": "https://cn.engadget.com/four-seasons-total-landscaping-virtual-reality-vrchat-100006727.html", 
+  "description": "特朗普团队把四季景观改造公司当成四季酒店的乌龙是过去几天许多人的热议话题，而现在有 VRChat 的用户在虚拟世界里重现了这片场地，还原度还真是相当之高。", 
+  "title": "有人在 VR 世界里重现了特朗普团队的「四季」发布会场地"
+ }, 
+ {
+  "date": "Tue, 10 Nov 2020 09:46:34 +0000", 
+  "link": "https://cn.engadget.com/xbox-series-x-s-launch-094634237.html", 
+  "description": "微软今天推出旗舰级 Xbox Series X 以及轻巧、纯数位的 Xbox Series S，带领 Xbox 玩家进入光线追踪时代。", 
+  "title": "Xbox Series X 及 Series S 正式上市"
+ }, 
+ {
+  "date": "Tue, 10 Nov 2020 06:45:15 +0000", 
+  "link": "https://cn.engadget.com/pixel-5-pixel-4a-5g-review-083050233.html", 
+  "description": "Google 同时发布了 Pixel 5 与 Pixel 4a 5G，不仅采用了相同的中高端骁龙 765G 处理器，还将 a 系列和主系列间原本清楚的分野弄得极为混乱。在此次的对比评测当中，我们除了要来两者间有什么不同外，也要来探讨一下，究竟 Google 这次在定位上的大变动，所谓何来？", 
+  "title": "Google Pixel 5 与 Pixel 4a 5G 对比评测：肩负新使命的新一代机种"
+ }
+]
