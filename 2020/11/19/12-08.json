@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Thu, 19 Nov 2020 12:00:24 +0000", 
+  "link": "https://cn.engadget.com/firefox-83-https-only-mode-120024316.html", 
+  "description": "Mozilla 在 Firefox 83 中加入了一个新的 HTTPS 限定模式，开启后浏览器会自动优先载入 HTTPS 版本的网页，而在遇到非 HTTPS 网页时 FF 在你确定浏览前会弹出安全警告。", 
+  "title": "Firefox 83 会自动优先载入 HTTPS 版本的网页"
+ }
+]
