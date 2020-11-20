@@ -1,0 +1,32 @@
+[
+ {
+  "date": "Thu, 19 Nov 2020 12:00:24 +0000", 
+  "link": "https://cn.engadget.com/firefox-83-https-only-mode-120024316.html", 
+  "description": "Mozilla 在 Firefox 83 中加入了一个新的 HTTPS 限定模式，开启后浏览器会自动优先载入 HTTPS 版本的网页，而在遇到非 HTTPS 网页时 FF 在你确定浏览前会弹出安全警告。", 
+  "title": "Firefox 83 会自动优先载入 HTTPS 版本的网页"
+ }, 
+ {
+  "date": "Wed, 18 Nov 2020 12:56:28 +0000", 
+  "link": "https://cn.engadget.com/apple-small-business-program-15-percent-125628345.html", 
+  "description": "苹果宣布从 2021 年 1 月 1 日开始，针对小型开发商的 App Store 分成率将会降至 15%，而他们对小型开发商的判定标准是全年营业额低于 100 万美元。", 
+  "title": "苹果对小型开发商的 App Store 分成率将会降至 15%"
+ }, 
+ {
+  "date": "Wed, 18 Nov 2020 05:30:10 +0000", 
+  "link": "https://cn.engadget.com/google-chrome-87-roll-out-performance-boost-043010501.html", 
+  "description": "推出时以速度自居的 Google Chrome 浏览器，到现在就被垢病为太吃电脑资源。Google 为了洗脱这污名，要在 Chrome 87 开始带来显著的性能和速度的提升。", 
+  "title": "Google 指 Chrome 87 的性能增幅是多年来最高的"
+ }, 
+ {
+  "date": "Tue, 17 Nov 2020 08:30:24 +0000", 
+  "link": "https://cn.engadget.com/pixel-4a-barely-blue-053024540.html", 
+  "description": "定价非常吸引的 Google Pixel 4a，虽然只有 4G 连线，但其表现都获得不少好评，可是目前在架上的就只有沉闷的黑色，说好的多彩机身呢？Google 终于拿出一个新的颜色选项，就是配图有看到的「Barely Blue」。", 
+  "title": "Google Pixel 4a 的新颜色限量上架！"
+ }, 
+ {
+  "date": "Thu, 19 Nov 2020 10:30:22 +0000", 
+  "link": "https://cn.engadget.com/faa-approves-boeing-737-max-return-to-service-103022103.html", 
+  "description": "已经被禁飞一年半的波音 737 Max，离重返天空又迈进了一大步。美国联邦航空署（FAA）发出了通知，允许航空公司将波音 737 Max 在特定条件下复飞，包括安装波音的新软件、更新操作手册和流程、修改水平升降舵配平的布线、进行感应器测试及进行一次的试飞。", 
+  "title": "美国 FAA 核准波音 737 Max 重返天空"
+ }
+]
