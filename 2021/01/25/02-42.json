@@ -1,0 +1,302 @@
+[
+ {
+  "date": "Mon, 25 Jan 2021 02:35:01 +0000", 
+  "link": "https://cn.engadget.com/netflix-improves-android-audio-023501743.html", 
+  "description": "好的观影体验是包含声画两方面，在 Netflix 早年全力推动 HDR 影片之后，同时也有照顾音质的部分。这串流平台确认他们已经升级 Android 用户端，至支援 xHE-AAC 编码（Extended HE-AAC with MPEG-D DRC），旨在更稳定的声音输出效果。", 
+  "title": "Netflix 在 Android 手机的声音输出会变得更稳定"
+ }, 
+ {
+  "date": "Mon, 25 Jan 2021 01:00:08 +0000", 
+  "link": "https://cn.engadget.com/spacex-satellite-launch-record-rideshare-program-010008723.html", 
+  "description": "在因天候因素延迟一天后，SpaceX 在今日顺利发射了名为「Transporter-1」的卫星共乘火箭，将破纪录的 143 枚卫星发射升空，前往太阳同步轨道（低地极轨）。", 
+  "title": "SpaceX 的首个「共乘」任务一口气发射破纪录的 143 枚卫星"
+ }, 
+ {
+  "date": "Sun, 24 Jan 2021 10:15:23 +0000", 
+  "link": "https://cn.engadget.com/tesla-sues-engineer-for-warp-drive-software-theft-101502957.html", 
+  "description": "据 Electrek 报导，该公司对该公司的新进员工 Alex Khatilov 以窃取公司的内部系统 Warp Drive 为由提告，这位老兄在 2020 年 12 月底加入特斯拉，进入还不满三天就犯下了罪行。", 
+  "title": "特斯拉指控工程师窃取关键软件程序"
+ }, 
+ {
+  "date": "Sun, 24 Jan 2021 06:10:55 +0000", 
+  "link": "https://cn.engadget.com/boeing-sustainable-fuel-061031597.html", 
+  "description": "波音早发表了将在 2030 年前让旗下所有的飞机都能使用 100% 永续燃料运转，并表示这是在未来数十年间，「降低航空业碳排量最为安全且有效的做法」。这也将有助于航空业整体在 2050 年将碳排量降低一半的目标。", 
+  "title": "波音计划在 2030 年将所有的飞机转用可持续燃料"
+ }, 
+ {
+  "date": "Sun, 24 Jan 2021 02:00:23 +0000", 
+  "link": "https://cn.engadget.com/you-tube-finally-delivers-hdr-on-the-xbox-one-020017874.html", 
+  "description": "Google 終於將 HDR 的 YouTube 影片帶到了新一代的 Xbox Series X/S 及上一代的 Xbox One X/S 上。不過，支援的解析度還是會隨著機種而有所不同，在 Series X 上可以達到 4K/60fps，而 One S 上就只有 1440p/60fps 了。", 
+  "title": "YouTube 终于将 HDR 视频带到 Xbox One 上"
+ }, 
+ {
+  "date": "Sat, 23 Jan 2021 10:00:53 +0000", 
+  "link": "https://cn.engadget.com/cyberpunk-2077-1-1-100045630.html", 
+  "description": "CD Projekt Red 上周预告十天内会带来 Patch 1.1 和 Patch 1.2 两个大补丁中的第一个，而如今 Patch 1.1 果然如约在 PC、游戏主机和 Stadia 等平台上线了。", 
+  "title": "第一个《赛博朋克 2077》的大补丁终于到来"
+ }, 
+ {
+  "date": "Sat, 23 Jan 2021 06:00:49 +0000", 
+  "link": "https://cn.engadget.com/microsoft-raises-xbox-live-gold-prices-060027085.html", 
+  "description": "微软稍早全面调涨了 Xbox Live 金会员（Xbox Live Gold）的会员订阅费用，1 个月和 3 个月分别由原本的 US$10 和 US$25 涨到了 US$11 及 US$30，而 6 个月更是由 US$40 大增到 US$60。", 
+  "title": "微软抬高 Xbox Live 金会员的订阅费用（更新：己取消涨价）"
+ }, 
+ {
+  "date": "Sat, 23 Jan 2021 02:00:44 +0000", 
+  "link": "https://cn.engadget.com/apple-high-end-macbook-air-thinner-lighter-magsafe-charging-020037157.html", 
+  "description": "据 Mark Gurman 称，新一代的 MacBook Air 会更轻、更薄，采用下一代的 M1 处理器，并且和新款 MacBook Pro 采用相同的 MagSafe 充电系统。", 
+  "title": "苹果的新一代 MacBook Air 可能将更薄、更轻巧"
+ }, 
+ {
+  "date": "Fri, 22 Jan 2021 09:31:01 +0000", 
+  "link": "https://cn.engadget.com/loon-shutdown-093050860.html", 
+  "description": "oogle 在 2013 年发布的 Project Loon（后来独立成自己的公司 Loon），虽然经过了七年的发展，终于于去年中在肯尼亚上线，但最终还是因为成本问题而不得不终结。", 
+  "title": "Alphabet 将终止「网络气球」计划 Loon"
+ }, 
+ {
+  "date": "Fri, 22 Jan 2021 08:00:22 +0000", 
+  "link": "https://cn.engadget.com/youtube-hashtag-landing-pages-080011666.html", 
+  "description": "标签主题 # 是近年网络新兴而且实用的搜索关键字功能，让创作者可以把相关的视频、相片、文字内容都与特定主题连系，让其他人可以更简单地找到类似相近的其他文容来看。YouTube 自去年引入 # 标签，让创作者把其视频手动加入主题之后，今天正式推出标签主题页的功能，把所有载入特定 # 的视频都出现在一个页面上，像是 #评测、#科技。", 
+  "title": "YouTube 标签主题页正式开放给所有使用者"
+ }, 
+ {
+  "date": "Fri, 22 Jan 2021 06:30:30 +0000", 
+  "link": "https://cn.engadget.com/intel-q4-earnings-pc-revenues-notebooks-063022187.html", 
+  "description": "随着疫情影响，不少人都被关在家中或是转为在家工作，这也使得笔记本的需求量大增，连带带动英特尔第四季的亮眼财报。", 
+  "title": "由于低价笔记本大卖，英特尔上季 PC 部门营收成长 33%"
+ }, 
+ {
+  "date": "Fri, 22 Jan 2021 05:00:44 +0000", 
+  "link": "https://cn.engadget.com/uncharted-movie-delayed-again-again-050044253.html", 
+  "description": "《神秘海域》电影自 2008 年计划电影化之后，就一直因为不同原因延期、跳票。就在我们看到「蜘蛛人」Tom Holland 的定妆照之后，以为一切都顺利的时候，索尼影业就表示因应新冠疫情，需要把上映档期由 2021 年 7 月 16 日延至 2022 年 2 月 11 日。", 
+  "title": "《神秘海域》电影要再延期至 2022 年 2 月上映"
+ }, 
+ {
+  "date": "Fri, 22 Jan 2021 03:28:46 +0000", 
+  "link": "https://cn.engadget.com/honor-v40-032846375.html", 
+  "description": "荣耀脱离华为后的第一款手机荣耀 V40 正式发布，它搭载了联发科天玑 1000+ 处理器，同时有 6.72 吋 120Hz 屏幕、50MP 后置主摄和最高支持 66W 充电的 4,000mAh 电池，售价为 3,599 元起。", 
+  "title": "荣耀 V40 是品牌脱离华为后的新起点"
+ }, 
+ {
+  "date": "Fri, 22 Jan 2021 02:30:16 +0000", 
+  "link": "https://cn.engadget.com/apple-vr-standalone-headset-fabric-fan-prescription-lenses-bloomberg-023014199.html", 
+  "description": "据 Bloomberg 的报道，苹果正在同时推进一台 AR 与一台 VR 设备。AR 设备是类似于眼镜的设计，但还要几年后才会上市；相对来说头戴的 VR 设备最快可能 2022 年就能面世了。", 
+  "title": "苹果的 VR 头戴设备或许能装载有度数的镜片"
+ }, 
+ {
+  "date": "Fri, 22 Jan 2021 01:00:00 +0000", 
+  "link": "https://cn.engadget.com/samsung-manufacture-world-first-90hz-oled-laptop-displays-010000645.html", 
+  "description": "三星显示发表了将投产「世界初」的笔记本用 90Hz OLED 面板，预计 3 月起由 14 吋的大小开始出货。", 
+  "title": "三星显示打造笔记本用的 90Hz OLED 面板"
+ }, 
+ {
+  "date": "Thu, 21 Jan 2021 12:33:26 +0000", 
+  "link": "https://cn.engadget.com/vivo-x60-pro-plus-123326888.html", 
+  "description": "Vivo X60 Pro+ 登场，售价 4,998 元起，继承「云阶」设计，搭载骁龙 888 芯片，不过最主打的卖点还是由蔡司 T* 镀膜加持的后置主摄，以及用上了微云台的超广角相机。", 
+  "title": "蔡司强力加持的 Vivo X60 Pro+ 也用上微云台了"
+ }, 
+ {
+  "date": "Thu, 21 Jan 2021 10:00:50 +0000", 
+  "link": "https://cn.engadget.com/google-calendar-offline-090050979.html", 
+  "description": "在 2018 年改版时被 Google 拿掉的日历桌面网站离线功能，现在又恢复向 Workspace 帐户开放了。", 
+  "title": "Google 日历桌面网站的离线功能恢复向 Workspace 用户开放了"
+ }, 
+ {
+  "date": "Thu, 21 Jan 2021 08:30:52 +0000", 
+  "link": "https://cn.engadget.com/biden-administration-white-house-easter-egg-083052172.html", 
+  "description": "拜登已經正式成為美國第 46 任總統，他甫上任就簽署了多項行政命令，包括重回《巴黎氣候協定》。關於科技的部分原來也有新發現，有 Twitter 用戶發現新的白宮官網居然加入了近年大熱的深色模式，便利大家在不同情況閱讀。後來 Protocol 更報導指，這個網頁裡藏著了彩蛋呢。", 
+  "title": "新的白宫官网藏着招聘广告的彩蛋"
+ }, 
+ {
+  "date": "Thu, 21 Jan 2021 07:00:24 +0000", 
+  "link": "https://cn.engadget.com/facebook-explains-ai-alt-text-for-photo-descriptions-070024007.html", 
+  "description": "Facebook 为便利视障者使用，在 2017 年开始就利用 AI 来提供文字描述图片内容，来到 2021 年就要加强一下了。Facebook 表示他们应用的新版本 AAT 自动替代文字功能，会比以往带来更多的描述标签。", 
+  "title": "Facebook 为视障者强化了 AI 描述相片的能力"
+ }, 
+ {
+  "date": "Thu, 21 Jan 2021 05:30:10 +0000", 
+  "link": "https://cn.engadget.com/porsche-taycan-entry-level-fourth-model-performance-battery-plus-053010103.html", 
+  "description": "保时捷 在新兴的电动车市场上也是希望以价格取胜，在去年推出定价 10 万美元级的 Taycan 4S 之后，据 Autoblog 的报导，这家超跑车厂居然准备了一款再便宜一点的 Taycan，名字没有任何后缀了。", 
+  "title": "保时捷 Taycan 是系列最便宜的后驱电动跑车"
+ }, 
+ {
+  "date": "Thu, 21 Jan 2021 04:00:05 +0000", 
+  "link": "https://cn.engadget.com/eu-fines-valve-for-geo-blocking-games-040005804.html", 
+  "description": "经过七年的调查，欧盟对 Valve、万代南梦宫、卡普空、Focus Home、Koch Media 及 Zenimax 等六间公司，因「地缘阻隔」合计开罚 780 万欧元。", 
+  "title": "欧盟因「地缘阻隔」开罚 Valve 及数间游戏出版商共计 780 万欧元"
+ }, 
+ {
+  "date": "Thu, 21 Jan 2021 02:30:58 +0000", 
+  "link": "https://cn.engadget.com/opera-buys-gamemaker-studio-2-developer-yoyo-games-023058748.html", 
+  "description": "Opera 收购了 GameMaker 背后的 YoYo Games，未来会将 Opera GX 游戏浏览器团队跟 GameMaker 团队整合为全新的 Opera Gaming 部门。", 
+  "title": "Opera 收购了 GameMaker 背后的 YoYo Games"
+ }, 
+ {
+  "date": "Thu, 21 Jan 2021 01:00:10 +0000", 
+  "link": "https://cn.engadget.com/nvidia-shield-xbox-series-x-s-ps5-dualsense-controllers-010010182.html", 
+  "description": "NVIDIA Shield TV 迎来新固件，加入对 PS5 和 Xbox Series X/S 手柄的支持。", 
+  "title": "NVIDIA Shield TV 现已支持 PS5 和 Xbox Series X/S 手柄"
+ }, 
+ {
+  "date": "Wed, 20 Jan 2021 14:42:34 +0000", 
+  "link": "https://cn.engadget.com/anthony-levandowski-uber-pardon-144234573.html", 
+  "description": "去年八月时因窃取商业机密被法官判处 18 个月刑期的前 Google 高管、Waymo 及 Uber 工程师 Anthony Levandowski，在美国前总统特朗普的任期最后一天获得了特赦。", 
+  "title": "特朗普特赦了被判窃取商业机密的前 Waymo 工程师 Levandowski"
+ }, 
+ {
+  "date": "Wed, 20 Jan 2021 11:50:45 +0000", 
+  "link": "https://cn.engadget.com/lg-ceo-kwon-bong-seok-mobile-division-exit-losses-115045619.html", 
+  "description": "虽然不久前才刚刚在 CES 上公开了卷轴手机的计划，但 LG 的手机部门，似乎终于要走到命运的十字路口上了，The Korea Herald 报道称他们似乎正在考虑「出售、退出或缩减」手机业务的可能性。", 
+  "title": "LG 似乎正在考虑「出售、退出或缩减」手机业务的可能性（更新：LG 回应）"
+ }, 
+ {
+  "date": "Wed, 20 Jan 2021 10:00:37 +0000", 
+  "link": "https://cn.engadget.com/sensel-force-sensing-tech-lenovo-laptop-100037987.html", 
+  "description": "Sensel 宣布自己的触感反馈触控板方案其实已被刚刚发布不久的 ThinkPad X1 Titanium Yoga 采用，它能探测 X 和 Y 轴上的方向操作，还能感应 Z 轴上的压力，而且模组整体很薄，是 X1 Titanium Yoga 能实现 11.5mm 厚度的原因之一。", 
+  "title": "Sensel 的触感反馈触控板原来已被运用到 ThinkPad X1 Titanium Yoga 上"
+ }, 
+ {
+  "date": "Wed, 20 Jan 2021 08:30:50 +0000", 
+  "link": "https://cn.engadget.com/ifixit-apple-airpods-max-teardown-xray-083050761.html", 
+  "description": "在经过了差不多一个月的持续更新后，iFixit 对 AirPods Max 的完整拆解报告终于正式完成，最终这款产品得到了 6 分的可修度成绩，是 AirPods 系列的产品首次在 iFixit 实现零的突破。", 
+  "title": "iFixit 给 AirPods Max 的可修度打了及格分"
+ }, 
+ {
+  "date": "Wed, 20 Jan 2021 07:54:41 +0000", 
+  "link": "https://cn.engadget.com/mediatek-dimensity-1200-1100-5g-soc-075441344.html", 
+  "description": "联发科公布最新旗舰 5G SoC 天玑 1200，它基于台积电 6nm 制程，采用 1+3+4 CPU 核心架构，包含一颗 3.0GHz 的 Cortex-A78 大核心，同场活动中还发布了定位低一点的天玑 1100。", 
+  "title": "天玑 1200 是联发科最新的旗舰 5G SoC"
+ }, 
+ {
+  "date": "Wed, 20 Jan 2021 05:30:35 +0000", 
+  "link": "https://cn.engadget.com/netflix-q4-2020-053018354.html", 
+  "description": "Netflix 发出最新一份的 2020 年第四季财报，显示他们全球订阅用户数已经达到了早前设下的 2 亿目标，总共为 2 亿 366 万用户。与此同时，Netflix 还引述 Google 年度搜索结果，显示十大电视剧之中有 9 套都是 Netflix 的原创影片，证明 Netflix 原创内容已经能成为社会话题。", 
+  "title": "Netflix 全球订阅用户数超过了 2 亿"
+ }, 
+ {
+  "date": "Wed, 20 Jan 2021 04:13:25 +0000", 
+  "link": "https://cn.engadget.com/samsung-sata-ssd-870-evo-041325781.html", 
+  "description": "三星公布 870 Evo SSD，其持续性能号称比上代的 860 Evo 强出约 30%，连续读写速度分别达 560MB/s 和 530MB/s。", 
+  "title": "三星 870 Evo 将进一步提升入门 SSD 的性能"
+ }, 
+ {
+  "date": "Wed, 20 Jan 2021 02:30:07 +0000", 
+  "link": "https://cn.engadget.com/cruise-gm-microsoft-self-driving-car-partnership-023007622.html", 
+  "description": "微软联手通用和 Cruise 推动自驾车发展，微软主要会提供云端技术，并将向 Cruise 投资 20 亿美元。", 
+  "title": "微软联手通用和 Cruise 推动自驾车发展"
+ }, 
+ {
+  "date": "Wed, 20 Jan 2021 01:00:49 +0000", 
+  "link": "https://cn.engadget.com/synthetic-cornea-helps-a-legally-blind-man-regain-his-sight-010049676.html", 
+  "description": "一家名为 CorNeat 的以色列公司做出了无需供体组织就能融入眼壁的 KPro 人造角膜，在用它进行手术后，一位 10 多年前因事故失明的 78 岁老人重新获得了视力。", 
+  "title": "以色列人造角膜帮助失明老人重见光明"
+ }, 
+ {
+  "date": "Tue, 19 Jan 2021 14:34:33 +0000", 
+  "link": "https://cn.engadget.com/qualcomm-snapdragon-870-143433075.html", 
+  "description": "高通公布骁龙 870 处理器，其主要改进在于将主频由骁龙 865 Plus 的 3.1GHz 提升到了 3.2GHz，这样就在 5nm 的骁龙 888 顶级芯片之外，再给市场提供了一个 7nm 的高端选项。", 
+  "title": "骁龙 870 登场，其实就是高通去年旗舰芯片的加强版"
+ }, 
+ {
+  "date": "Tue, 19 Jan 2021 12:00:14 +0000", 
+  "link": "https://cn.engadget.com/methane-emissions-oil-gas-international-energy-agency-120014125.html", 
+  "description": "据国际能源署（International Energy Agency，IEA）的报告，去年的疫情因为使石化／能源产业减产，也间接地略微减少了全球甲烷的排放量，大约是石化／能源产业总排放量的 10% 左右。", 
+  "title": "随着石化产业减产，2020 年全球甲烷排放量略有下降"
+ }, 
+ {
+  "date": "Tue, 19 Jan 2021 10:00:51 +0000", 
+  "link": "https://cn.engadget.com/universe-background-gravitational-waves-093027742.html", 
+  "description": "一个名为 NANOGrav 的团队花了 13 年的时间，现在相信已经有足够的证据证实这些小波浪的存在。和其他的重力波观测是利用 LIGO 这样的专门仪器不同，NANOGrav 是直接观测我们银河系当中的 45 颗脉冲星，短则 3 年，长则 13 年的时间。", 
+  "title": "天文学家发现了疑似「背景重力波」的现象"
+ }, 
+ {
+  "date": "Tue, 19 Jan 2021 08:00:48 +0000", 
+  "link": "https://cn.engadget.com/apple-podcast-subscription-service-report-070048047.html", 
+  "description": "播客市场在欧美非常火热，Spotify 更是已经大力投资下去，亚马逊也有相关行动。据 The Information 的报导，近年非常积极开拓订阅制产品收入的苹果，原来都有意进军这个市场呢。", 
+  "title": "苹果似乎连播客也要做订阅制"
+ }, 
+ {
+  "date": "Tue, 19 Jan 2021 05:39:15 +0000", 
+  "link": "https://cn.engadget.com/vivo-x60-pro-plus-to-sport-micro-gimbal-ultrawide-camera-053915897.html", 
+  "description": "Vivo X60 Pro+ 预告图显示手机将配备后置四摄组合，其中主摄端采用三星 GN1 感光器和蔡司 T* 镀膜镜头，超广角端则有微云台加持，拍摄能力也达到「主摄」级别。", 
+  "title": "Vivo X60 Pro+ 将搭载一颗微云台超广角相机"
+ }, 
+ {
+  "date": "Tue, 19 Jan 2021 03:21:39 +0000", 
+  "link": "https://cn.engadget.com/labo-ring-fit-mario-kart-homebrew-kit-032139393.html", 
+  "description": "Nintendo 在 Switch 平台上推出了好几个有趣独特的游戏 IP，有发挥创意的《Labo》、健身游戏《健身环大冒险》和经典的《马力欧赛车 8 豪华版》。这些看似没有直接关系的游戏，原来可以结合一起成为最终极的瘦身游戏！DIYer Mike Choi 就自己动动手，弄出名为《Labo Fit Adventure Kart》，让大家能在家里也可以享受更有趣好玩的运动游戏。", 
+  "title": "最终极的瘦身游戏就是结合了 Labo、健身环和《马车》！"
+ }, 
+ {
+  "date": "Tue, 19 Jan 2021 01:01:01 +0000", 
+  "link": "https://cn.engadget.com/microsoft-edge-apple-m1-beta-010053461.html", 
+  "description": "如果你是 Edge 的爱用者的话，这里有好消息告诉你：据 Windows Central 报道，微软推出了原生支持苹果 M1 处理器的 Edge 浏览器的 beta 版本，让你不用通过 Rosetta 2 转译，就能使用 Edge，享受更快的速度和避免可能的错误。", 
+  "title": "微软推出为 M1 Mac 优化的 Edge 浏览器的 beta 版本"
+ }, 
+ {
+  "date": "Mon, 18 Jan 2021 12:25:10 +0000", 
+  "link": "https://cn.engadget.com/samsung-galaxy-s21-galaxy-buds-pro-china-122510253.html", 
+  "description": "三星正式公布国行 Galaxy S21 定价，S21、S21+ 和 S21 Ultra 三者分别为 4,999、7,199 和 9,699 元起，Galaxy Buds Pro 要价 1,299 元。", 
+  "title": "国行三星 Galaxy S21 售价公布"
+ }, 
+ {
+  "date": "Mon, 18 Jan 2021 12:00:25 +0000", 
+  "link": "https://cn.engadget.com/facebook-google-jedi-blue-ad-deal-120000154.html", 
+  "description": "据纽约时报取得的反托拉斯诉讼文件，Google 曾在 2018 年时给予 Facebook 「交易优惠」，以广告投标优先权换取 Facebook 保证广告投放量及对 Google 的 Open Bidding 投标模式的支持。", 
+  "title": "Facebook 和 Google 据传共谋减低在广告上的竞争"
+ }, 
+ {
+  "date": "Mon, 18 Jan 2021 10:30:21 +0000", 
+  "link": "https://cn.engadget.com/virgin-orbit-sends-satellites-to-space-103021183.html", 
+  "description": "在首度发射失败的半年后，Virgin Orbit 稍早再次进行了尝试，终于成功将 10 枚 NASA 及多间大学的立方卫星与微型卫星送入轨道。", 
+  "title": "Virgin Orbit 首度成功发射卫星进入轨道"
+ }, 
+ {
+  "date": "Mon, 18 Jan 2021 09:00:42 +0000", 
+  "link": "https://cn.engadget.com/trump-admin-halting-intel-shipments-to-huawei-070030519.html", 
+  "description": "路透社从知情人士处获悉，特朗普政府将撤销英特尔等企业对华为的供货许可，并且会拒绝其它数十家公司的供货申请。", 
+  "title": "路透社：特朗普将撤销英特尔等企业对华为的供货许可"
+ }, 
+ {
+  "date": "Mon, 18 Jan 2021 08:09:49 +0000", 
+  "link": "https://cn.engadget.com/jianguo-merged-into-bytedance-smart-education-hardware-business-080949979.html", 
+  "description": "坚果手机背后新石实验室业务调整的传闻终于得到官方证实，未来新石将与字节跳动旗下的台灯团队合并，共同组成「专注教育硬件」的全新团队，坚果手机用户服务将不受影响，未来官方也会「持续探索 Smartisan OS 的创新机会」。", 
+  "title": "坚果手机团队被正式并入字节跳动旗下教育硬件业务"
+ }, 
+ {
+  "date": "Mon, 18 Jan 2021 07:00:24 +0000", 
+  "link": "https://cn.engadget.com/samsung-heir-lee-jae-yong-returns-to-prison-070024581.html", 
+  "description": "三星卷入的韩国前总统「亲信门」贿赂案二审重审结果出炉，门主李在镕被判两年六个月有期徒刑。", 
+  "title": "「亲信门」贿赂案二审重审结果：三星门主李在镕获刑两年半"
+ }, 
+ {
+  "date": "Mon, 18 Jan 2021 05:00:37 +0000", 
+  "link": "https://cn.engadget.com/belkin-recall-portable-charger-stand-050036424.html", 
+  "description": "贝尔金旗下的其中一款产品「附立架携带式无线充电器特别版 WIZ003」涉嫌在使用时会有过热起火的风险，虽然目前未有接获人员受伤或财产损失的报告，但该品牌仍然进行全球召回以及提供全额退款。", 
+  "title": "贝尔金召回有起火风险的附立架携带式无线充电器特别版 WIZ003"
+ }, 
+ {
+  "date": "Mon, 18 Jan 2021 03:11:35 +0000", 
+  "link": "https://cn.engadget.com/photos-of-earth-from-space-canon-satellite-5d-mark-iii-031135699.html", 
+  "description": "佳能没有在 CES 2021 上发什么新品，但原来他们也有准备一些有趣的东西，就是让大家可以透过 CE-SAT-1 微卫星拍摄地球美景。", 
+  "title": "佳能让你也可以从卫星拍摄照片"
+ }, 
+ {
+  "date": "Mon, 18 Jan 2021 01:01:12 +0000", 
+  "link": "https://cn.engadget.com/watch-nasa-sls-artemis-i-hot-fire-rocket-test-010059624.html", 
+  "description": "NASA 已经一延再延的 SLS 巨型火箭，在周末时进行了一次极为重要的引擎点火测试，首度将下级火箭带到了固定式发射架上。原本测试时长应该要正式任务相同，长达 8 分钟之久，但在仅仅 67 秒就因为 4 个引擎的其中一具发生「重大零件失效」而被迫中止。", 
+  "title": "NASA 的 SLS 试点火因未知原因提早结束"
+ }, 
+ {
+  "date": "Sun, 17 Jan 2021 11:00:01 +0000", 
+  "link": "https://cn.engadget.com/amazon-alexa-custom-assistant-for-cars-060001285.html", 
+  "description": "亚马逊推出 Alexa Custom Assistant 计划，希望让 Alexa 和车厂自家的助理「共存」。", 
+  "title": "亚马逊想让 Alexa 和车厂自家的助理「共存」"
+ }, 
+ {
+  "date": "Sun, 17 Jan 2021 06:00:15 +0000", 
+  "link": "https://cn.engadget.com/asus-rog-strix-rtx-3080-o10g-gundam-edition-gpu-060015587.html", 
+  "description": "继之前的高达版 RTX 3090 后，华硕 ROG 再推一款的 ROG Strix RTX 3080 O10G Gundam 显卡，单卡要价 33,900 台币，另有三种全配组合可选。", 
+  "title": "华硕 ROG 的高达版 RTX 3080 在台上市"
+ }
+]
