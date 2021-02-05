@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Fri, 05 Feb 2021 05:05:46 +0000", 
+  "link": "https://cn.engadget.com/chrome-88-zero-day-exploit-050546236.html", 
+  "description": "在一篇博客文章中，Google 提到了一个 Chrome 内建的 WebAssembly 和 JavaScript 引擎 V8 当中的漏洞，可以让不肖份子在受害者的电脑上执行程式码，并且表示他们已经注意到这个漏洞已经有被利用来攻击的案例，因此建议立即更新。", 
+  "title": "Chrome 88 紧急更新补上一个已经被不肖份子利用的漏洞"
+ }
+]
