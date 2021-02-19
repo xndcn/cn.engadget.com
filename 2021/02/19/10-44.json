@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Fri, 19 Feb 2021 10:30:51 +0000", 
+  "link": "https://cn.engadget.com/nvidia-limits-rtx-3060-for-crypto-mining-103051321.html", 
+  "description": "NVIDIA 似乎想到了一帖良方：让 RTX 3060 失去对「矿工」们的吸引力。该公司宣布了将把 RTX 3060 的 Ethereum hash rate（挖矿效率）值透过驱动程式的方式，降低一半。只要驱动程式侦测到 Ethereum 的挖矿演算法，就会自动「降频」运转，限制其效率。", 
+  "title": "NVIDIA 在推出挖矿专用的「处理器」的同时，也将限制 RTX3060 的挖矿能力"
+ }
+]
