@@ -1,0 +1,302 @@
+[
+ {
+  "date": "Fri, 19 Mar 2021 11:00:48 +0000", 
+  "link": "https://cn.engadget.com/google-brings-live-caption-to-chrome-browser-110048423.html", 
+  "description": "Google 今天實裝了一個新功能，讓 Chrome 瀏覽器都能開啟 Live Caption（即時字幕）的功能，將音訊自動進行語音辨識，並以文字顯示在下方的一個小視窗裡。當然，和 Android 版的 Live Caption 一樣，目前僅適用於英語就是了。", 
+  "title": "Chrome 现在能为所有播放的英语语音加上字幕"
+ }, 
+ {
+  "date": "Thu, 18 Mar 2021 13:52:04 +0000", 
+  "link": "https://cn.engadget.com/bmw-shows-off-its-production-i-4-electric-sedan-for-the-first-time-135204793.html", 
+  "description": "宝马展示量产版 i4 电动轿车，造型延续 4 系列风格，拥有最高 530 匹马力，WLTP 里程 590 公里。", 
+  "title": "宝马展示量产版 i4 电动轿车"
+ }, 
+ {
+  "date": "Thu, 18 Mar 2021 10:00:44 +0000", 
+  "link": "https://cn.engadget.com/panasonics-s-1-gains-6-k-capability-with-new-firmware-update-100044024.html", 
+  "description": "松下为 S1、S1H、BGH1 推出新固件，更新后 S1 将支持最高 6K 内录，S1H 支持 Blackmagic RAW，BGH1 则能通过 PC 进行 IP 流传输。", 
+  "title": "松下为 S1 更新 6K 录影功能"
+ }, 
+ {
+  "date": "Mon, 22 Mar 2021 13:01:46 +0000", 
+  "link": "https://cn.engadget.com/fitbit-inspire-2-tile-tracking-130028749-130146348.html", 
+  "description": "在耳机之外，另一个也会时常忘了放在哪里的电子用品大概就是手环了。Fitbit 宣布他们与 Tile 合作，为 Inspire 2 免费加入蓝牙连线定位的能力，让大家可以透过 Tile app 来找回手环到底是在哪里。", 
+  "title": "Fitbit Inspire 2 将会加入 Tile 定位能力"
+ }, 
+ {
+  "date": "Mon, 22 Mar 2021 12:10:14 +0000", 
+  "link": "https://cn.engadget.com/apple-pulls-imac-models-m-1-refresh-121014304.html", 
+  "description": "苹果从官网下架 512GB 和 1TB SSD 版的 21.5 吋 iMac，似乎继续在为产品更新做准备。", 
+  "title": "苹果下架更多 iMac 型号，疑似为产品更新做准备"
+ }, 
+ {
+  "date": "Mon, 22 Mar 2021 11:00:15 +0000", 
+  "link": "https://cn.engadget.com/nasa-spacex-avoid-starlink-collisions-110015003.html", 
+  "description": "为了控制卫星碰撞的风险，NASA 和 SpaceX 签属了一份共同协议书，厘清两者间的责任关系与避免碰撞的具体做法。", 
+  "title": "NASA 与 SpaceX 同意共享数据来避免卫星碰撞"
+ }, 
+ {
+  "date": "Mon, 22 Mar 2021 09:00:14 +0000", 
+  "link": "https://cn.engadget.com/xbox-series-x-dolby-vision-hdr-testing-090014269.html", 
+  "description": "微软证实自己已开始在 Xbox Series X 和 S 上测试杜比视界 HDR 游戏，但该功能目前仅向部分玩家开放，而且只支持几款作品。", 
+  "title": "微软开始在 Xbox Series X 和 S 上测试杜比视界 HDR 游戏"
+ }, 
+ {
+  "date": "Mon, 22 Mar 2021 07:00:43 +0000", 
+  "link": "https://cn.engadget.com/apple-brazil-fine-over-iphone-12-charger-070043221.html", 
+  "description": "据 MacRumors 报道，巴西的圣保罗州对于苹果不在 iPhone 12 的盒装内放入充电器一事颇有微词。据当地的消费者保护机构 Procon-SP 的说法，苹果此举已经违反了该国的消费者保护法，并以此罚款苹果 1,055 万雷亚尔。", 
+  "title": "苹果因盒装内未附充电器而被巴西罚款 200 万美元"
+ }, 
+ {
+  "date": "Mon, 22 Mar 2021 05:30:16 +0000", 
+  "link": "https://cn.engadget.com/apple-to-pay-pmc-over-drm-patent-050016488.html", 
+  "description": "Personalized Media Communications（PMC）在 2015 年时，宣称苹果旗下的 App Store、Apple Music 和 iTunes 侵害了他们的 7 个关于数位版权管理（DRM）上的 FaiyPlay 专利技术。原先苹果以宣称内容未获美国专利商标局承认为由要求撤诉，不过据彭博社的报导，德州法院现在不仅受理控告，还判罚了 Apple 3.085 亿美元。", 
+  "title": "苹果被判违反了 DRM 技术专利，罚 3 亿美元"
+ }, 
+ {
+  "date": "Mon, 22 Mar 2021 04:23:42 +0000", 
+  "link": "https://cn.engadget.com/oneplus-9-series-to-use-oppo-coloros-11-042342067.html", 
+  "description": "一加官方正式确认，新旗舰 OnePlus 9 系列的国行版本，会将预载的系统由氢 OS 换回品牌诞生初期曾用过的 Oppo ColorOS，而海外版的 OxygenOS 预计不受影响。", 
+  "title": "国行版一加 9 系列确认将用回 Oppo 的 ColorOS 系统"
+ }, 
+ {
+  "date": "Mon, 22 Mar 2021 04:00:19 +0000", 
+  "link": "https://cn.engadget.com/dyson-purifier-formaldehyde-hot-cool-040019535.html", 
+  "description": "戴森 Purifier Formaldehyde 系列空气净化器带来更强的甲醛监测及分解能力，把原有的有机化合物（VOC）感应器分出一个甲醛感应器，以独立监测从油漆、家俬、地毯、地板等等持续挥发出来的甲醛，能避免和其他挥发性有机化合物混淆。", 
+  "title": "戴森 Purifier Formaldehyde 空气净化器登场，更准确监测及分解甲醛"
+ }, 
+ {
+  "date": "Mon, 22 Mar 2021 03:17:36 +0000", 
+  "link": "https://cn.engadget.com/xiaomi-mi-11-ultra-mi-notebook-pro-event-031736572.html", 
+  "description": "小米宣布将于 3 月 29 日举办新品发布会，届时小米 11 系列的更强机种和小米笔记本 Pro 预计都会亮相。", 
+  "title": "小米 11 系列更强机种或将于 3 月 29 日的发布会登场"
+ }, 
+ {
+  "date": "Mon, 22 Mar 2021 02:00:06 +0000", 
+  "link": "https://cn.engadget.com/windows-10-march-2021-printer-patch-020006744.html", 
+  "description": "据 ZDNet 和 Bleeping Computer 的报导，3 月 9 日的礼拜二固定补丁推出后，Windows 10 的用户开始回报各种的打印相关问题，包括缺少色块、内容不对齐、印出空白页面，甚至是蓝屏当机画面等。", 
+  "title": "微软再次紧急更新 Windows 10 来修补打印机 bug"
+ }, 
+ {
+  "date": "Sun, 21 Mar 2021 11:00:39 +0000", 
+  "link": "https://cn.engadget.com/cyberpunk-2077-patch-details-police-cars-keybinds-020039011.html", 
+  "description": "CD Projekt Red 发布《赛博朋克 2077》1.2 版本更新前瞻，虽然还没有具体的上线日期，但至少先让玩家了解一下改变的方向。", 
+  "title": "CD Projekt Red 发布《赛博朋克 2077》1.2 版本更新前瞻"
+ }, 
+ {
+  "date": "Sun, 21 Mar 2021 06:00:01 +0000", 
+  "link": "https://cn.engadget.com/acer-50-million-ransomware-attack-020001869.html", 
+  "description": "骇客组织 REvil 正向宏碁勒索 5,000 万美元，似乎是通过微软 Exchange 的漏洞从宏碁系统中窃取了数据。", 
+  "title": "有骇客正向宏碁勒索 5,000 万美元"
+ }, 
+ {
+  "date": "Sun, 21 Mar 2021 02:00:23 +0000", 
+  "link": "https://cn.engadget.com/china-military-bans-tesla-cars-020023893.html", 
+  "description": "有传闻称国内将禁止特斯拉车辆驶入、停放在军事等敏感区域，理由是车身上的相机可能会导致机密外泄，对此特斯拉没有过多评论，但 Elon Musk 在昨天的中国发展高层论坛上表示若车辆被用于间谍活动特斯拉会「寸步难行」。", 
+  "title": "传国内将禁止特斯拉车辆驶入、停放在军事等敏感区域"
+ }, 
+ {
+  "date": "Sat, 20 Mar 2021 11:00:18 +0000", 
+  "link": "https://cn.engadget.com/barnes-noble-10-inch-nook-tablet-lenovo-april-release-130-010018785.html", 
+  "description": "时隔大约三年之后，Barnes & Noble 终于又带来了一款新的 Nook 平板，这次的产品是跟联想共同打造，它采用了 10.1 吋 HD IPS 屏幕，预载 Android 系统，售价 130 美元，四月初开买。", 
+  "title": "Barnes & Noble 公布和联想一同打造的 10 吋 Nook 平板"
+ }, 
+ {
+  "date": "Sat, 20 Mar 2021 06:00:52 +0000", 
+  "link": "https://cn.engadget.com/lenovo-gaming-chair-built-in-katana-demon-slayer-060052050.html", 
+  "description": "《鬼灭之刃》在日本持续大火，联想也特意设计、制作了一款带有装饰性日轮刀和「水柱」富冈义勇代表花纹的「全呼吸」电竞椅，可惜它仅有五把，而且只在日本抽奖。", 
+  "title": "想掌握水之呼吸吗？那就坐上联想这把带日轮刀的电竞椅！"
+ }, 
+ {
+  "date": "Sat, 20 Mar 2021 02:00:17 +0000", 
+  "link": "https://cn.engadget.com/oneplus-watch-revealed-020017949.html", 
+  "description": "一加手表也跟一加 9 一样抢先公开外观了，它将采用圆形表盘，侧面有两颗按键，系统是定制 RTOS。", 
+  "title": "一加手表也跟一加 9 一样抢先公开外观了"
+ }, 
+ {
+  "date": "Fri, 19 Mar 2021 09:30:49 +0000", 
+  "link": "https://cn.engadget.com/alienware-m-15-m-17-cherry-mx-mechanical-keyboard-093049615.html", 
+  "description": "不少进阶电竞玩家都会偏好机械键盘的击打感，市场上也有各式各样的选择，然而这都限于独立一把的键盘，笔电上却不常见。外星人就联同机械键盘轴厂商 Cherry MX，花了三年半的时间研发了一款适用于轻巧式电竞笔电上的机械键盘，而且更宣布第四代 M15 和 M17（R4）笔电将会搭载。", 
+  "title": "Cherry MX 超薄式机械键盘会在轻巧型外星人电竞笔电上登场"
+ }, 
+ {
+  "date": "Fri, 19 Mar 2021 08:00:10 +0000", 
+  "link": "https://cn.engadget.com/new-nook-lenovo-080010345.html", 
+  "description": "显然 B&amp;N 并没有放弃 Nook 产品线的计划，向 Engadget 确认了他们即将再次推出新品，而且此番将会与联想合作生产。", 
+  "title": "Barnes & Noble's 将久违地推出新款 Nook 平板"
+ }, 
+ {
+  "date": "Fri, 19 Mar 2021 06:30:33 +0000", 
+  "link": "https://cn.engadget.com/facebook-hardware-security-keys-ios-android-063033749.html", 
+  "description": "网络上的社交平台帐户可说是不少朋友在网络世界的另一个分身，里头都存放了各种各样的个人资料，甚至是见 po 如见人。为了更有效保护这个网络上的自己，Facebook 继桌面版之后，终于为 iOS 和 Android 平台的 app 版本加入安全性秘钥登录的支持，提供更强安全度。", 
+  "title": "手机版 Facebook 支持安全性秘钥登录，提供更强安全度"
+ }, 
+ {
+  "date": "Fri, 19 Mar 2021 03:50:04 +0000", 
+  "link": "https://cn.engadget.com/sony-rts-evo-tournament-acquisition-035004811.html", 
+  "description": "索尼宣布他们与一家新成立的电竞公司 RTS 共同收购了 Evolution Championship Series（进化冠军系列赛），业内其中一个历史最老、持续最久的世界电竞巡回赛。", 
+  "title": "索尼收购 Evo 电竞联盟"
+ }, 
+ {
+  "date": "Fri, 19 Mar 2021 01:00:18 +0000", 
+  "link": "https://cn.engadget.com/nasa-sls-green-run-test-complete-010018501.html", 
+  "description": "NASA 延宕多年的 SLS 火箭，终于在稍早完成了一个重要的里程碑，完成了全长 8 分钟的点火测试，让它离升空又更近了一步。", 
+  "title": "NASA 的 SLS 火箭终于完成 8 分钟的点火测试"
+ }, 
+ {
+  "date": "Thu, 18 Mar 2021 12:49:51 +0000", 
+  "link": "https://cn.engadget.com/ps5-vr-controllers-124951844.html", 
+  "description": "在确认 PlayStation VR 后继款将登陆 PS5 平台后不久，索尼于今晚率先公开了次世代 VR 控制器的产品细节。", 
+  "title": "这就是索尼为 PS5 准备的次世代 VR 控制器"
+ }, 
+ {
+  "date": "Thu, 18 Mar 2021 11:30:10 +0000", 
+  "link": "https://cn.engadget.com/google-android-12-developer-preview-picture-in-picture-113010256.html", 
+  "description": "Google 释出第二个 Android 12 开发者预览，新增内容包括有更安全的锁定萤幕，使用者可以设定每次都要输入认证才可以操作通知的内容，像是删除和标记为已阅读等动作。另外，画中画的使用也会变得更便利。", 
+  "title": "第二个 Android 12 开发者预览释出，带来更好的画中画使用"
+ }, 
+ {
+  "date": "Thu, 18 Mar 2021 08:30:59 +0000", 
+  "link": "https://cn.engadget.com/ea-play-xbox-game-pass-release-date-083059645.html", 
+  "description": "EA Play 登陆 PC 版 Xbox Game Pass，带来超过 60 款游戏。", 
+  "title": "EA Play 登陆 PC 版 Xbox Game Pass"
+ }, 
+ {
+  "date": "Thu, 18 Mar 2021 07:42:10 +0000", 
+  "link": "https://cn.engadget.com/samsung-galaxy-a52-5g-hands-on-074210178.html", 
+  "description": "昨晚才作全球发布的三星 Galaxy A52 5G，今天已经旋风式抵达香港与大家见面。小编也不啰嗦，直接跟大家分享香港的上市资讯：这边会只会引进 8GB RAM + 256GB 储存空间的版本，黑、白、蓝、紫四色齐备，定价 HK$3,998，3 月 24 日正式上架（对应的国行售价为人民币 3,399 元）。那以下的篇幅就会是针对这款新世代中端手机 Galaxy A52 5G 的一些使用体验，因为相信这个价格的手机会吸引不少朋友的兴趣了。", 
+  "title": "三星 Galaxy A52 5G 香港动手玩：小巧、流畅、不贵的次世代中端手机"
+ }, 
+ {
+  "date": "Thu, 18 Mar 2021 07:00:16 +0000", 
+  "link": "https://cn.engadget.com/intel-pc-ads-justin-long-apple-mac-070016186.html", 
+  "description": "苹果在发表 ARM 架构 M1 处理器平台时，找回他们经典的「Get a Mac」广告角色再酸 PC 阵营的「不足」。被抛弃的英特尔就用回同一套路，找来当年代表 Mac 阵营的 Justin Long 来拍摄新系列广告，要说出英特尔笔电的各个好处。", 
+  "title": "英特尔用苹果广告招数来反酸 MacBook"
+ }, 
+ {
+  "date": "Thu, 18 Mar 2021 05:30:38 +0000", 
+  "link": "https://cn.engadget.com/sony-play-at-home-free-games-horizon-zero-dawn-ps-4-ps-5-psvr-053038059.html", 
+  "description": "继《神秘海域》、《风之旅人》、《瑞奇与叮当》后索尼的 Play at Home 计划继续大放送，其将在未来数周内为玩家免费带来《地平线：零之曙光》等十款游戏。", 
+  "title": "为支持抗疫，索尼再送出《地平线：零之曙光》等十款游戏"
+ }, 
+ {
+  "date": "Thu, 18 Mar 2021 04:06:12 +0000", 
+  "link": "https://cn.engadget.com/ipad-pro-thunderbolt-040612089.html", 
+  "description": "彭博社的 Mark Gurman 从线人处获悉，苹果可能最快在下月便会推出新款的 iPad Pro，它据说将搭载性能跟 M1 接近的芯片，并配备 Mini LED 面板和 Thunderbolt，此外 iPad 和 iPad mini 似乎也要更新了。", 
+  "title": "彭博社：新款 iPad Pro 将配备 Mini LED 面板和 Thunderbolt"
+ }, 
+ {
+  "date": "Thu, 18 Mar 2021 02:30:32 +0000", 
+  "link": "https://cn.engadget.com/nasne-ns-100-playstation-dvr-japan-023032975.html", 
+  "description": "为 PlayStation 而设的电视接收、DVR 终端 Nesne 在日本复活，并将支持 PS5，其内建有 2TB HDD，支持最高 6TB 外接存储，售价 29,800 日元。", 
+  "title": "为 PlayStation 而设的电视接收、DVR 终端 Nasne 在日本复活，并将支持 PS5"
+ }, 
+ {
+  "date": "Thu, 18 Mar 2021 01:00:07 +0000", 
+  "link": "https://cn.engadget.com/french-companies-fail-in-bid-to-limit-apples-i-os-14-tracking-protections-010007072.html", 
+  "description": "法国竞争管理局认为苹果在 iOS 14 隐私新规上并未滥用其主导地位，驳回了当地线上广告业游说组织提出的封禁申请。", 
+  "title": "法国监管方认为苹果在 iOS 14 隐私新规上并未滥用其主导地位"
+ }, 
+ {
+  "date": "Wed, 17 Mar 2021 14:07:10 +0000", 
+  "link": "https://cn.engadget.com/samsung-galaxy-a52-a72-a52-5g-launch-140710948.html", 
+  "description": "三星在 2021 年的第二场 Unpacked 活动，主题为「Awesome」，聪明的大家都已经能猜到了瑞倪了吧。是的，这家手机巨头就是要来推出 2021 年款的 Galaxy A 系列中端新品，而且还是一口气三款的 Galaxy A52、Galaxy A72 和 Galaxy A52 5G。那到底这三款手机有什么相似和相异呢？我们来看以下的介绍吧。", 
+  "title": "三星 Galaxy A52、A72、A52 5G 登场，次世代中端一门三机"
+ }, 
+ {
+  "date": "Wed, 17 Mar 2021 13:30:44 +0000", 
+  "link": "https://cn.engadget.com/spacex-sn-10-flight-test-video-133044846.html", 
+  "description": "现在在 SN11 已经准备要升空的此时，SpaceX 剪接了一部官方的「补充视频」，带来了在直播时所没有带到的镜头，包括下落时的机身视角（可以看到翼面的小幅度摆动），以及一台在着陆平台旁的摄影机，可以看到 SN10 放下着陆脚。", 
+  "title": "SpaceX 贴出 SN10 的官方回顾视频"
+ }, 
+ {
+  "date": "Wed, 17 Mar 2021 12:30:29 +0000", 
+  "link": "https://cn.engadget.com/gopro-quik-123029097.html", 
+  "description": "在 2019 年时，GoPro 还在致力把他们旗下两个手机应用 GoPro 和 Quik 整合为一，简化使用者的体验。这工作终于完成了，各位使用者现在就只需要在 Quik 应用之中进行 GoPro 的操控、后制和分享。甚至连没有 GoPro 相机的朋友，都可以下载 Quik 来当作一个媒体管理、后制和备份的工具呢。\n不像市面上其他相片管理工具般加入 AI 人工智慧来自动挑选相片和片段，GoPro 保持传统的让使用者自行汇入媒体，同时手动精取喜爱的内容，因为 GoPro 相信这才是真正使用者喜爱的时刻，不是由机器能够选择的。在汇入内容之后，Quik 里名为 Mural 的展示空间里就会显示相片和影片，并会排序为不同事件和精选影片，GoPro 表示相片和影片愈多，就会变得更好看的。\n后制工具的部分，Quik 能做到剪辑长度、调整对比度、曝光度和饱和度，同时也会有 13 组不同的免授权的范本来组成影片。最后当然是可以作为 GoPro 相机的遥控器了。\n在媒体管理的功能之外，其实 Quik 对于 GoPro 来说还是一个重要的新产品，因为他们还计划了今年稍后再推出新的订阅服务，让使用者以每月 2 美元 /每年 10 美元的价格，把 Quik 变成无限量、原尺寸上载备份的云端空间。当然，如果你已经是每年 50 美元的 GoPro 服务订阅用户，就已经可以直接享用了。", 
+  "title": "GoPro Quik 专属应用大变身，一站式后制、储存、遥控"
+ }, 
+ {
+  "date": "Wed, 17 Mar 2021 11:45:48 +0000", 
+  "link": "https://cn.engadget.com/activision-blizzard-layoffs-live-esports-restructuring-114548823.html", 
+  "description": "受疫情影响，动视暴雪宣布电竞部门裁员 50 人，与此同时其也将缩减《Candy Crush》开发方 King 团队的人员，两边加在一起这波裁员的总数大概为 190 人。", 
+  "title": "动视暴雪电竞部门裁员 50 人"
+ }, 
+ {
+  "date": "Wed, 17 Mar 2021 11:00:16 +0000", 
+  "link": "https://cn.engadget.com/google-play-store-fee-reduction-july-1-080016961.html", 
+  "description": "据 9to5Google 报道，从 7 月 1 日起，Google 将把 Play Store 上的佣金抽成进行调整，改为年收入的前 100 万美元仅抽 15%，超过后才会变回原本的 30%。Google 称此举能让平台上 99% 开发者的佣金支出减半，让他们能「在成长的关键时刻有更多资金运用，协助他们雇用更多工程师、追加行销经费、增加服务器容量等。」", 
+  "title": "Google 将把绝大部份 Play Store 的开发者抽成减半"
+ }, 
+ {
+  "date": "Wed, 17 Mar 2021 10:50:44 +0000", 
+  "link": "https://cn.engadget.com/samsung-may-skip-a-galaxy-note-model-due-to-a-severe-chip-shortage-105044799.html", 
+  "description": "据 Bloomberg 报导，在年度股东会议上三星的共同 CEO 高东真表示由于「全球 IT 产业的芯片供需严重失衡」，要如计划在 2021 年下半推出 Note 机种「可能有困难」。", 
+  "title": "三星表示今年将可能跳过 Galaxy Note，不会推出新机种"
+ }, 
+ {
+  "date": "Wed, 17 Mar 2021 09:30:23 +0000", 
+  "link": "https://cn.engadget.com/jade-raymond-sony-playstation-haven-stadia-093023012.html", 
+  "description": "上个月 Google 宣布解散他们旗下第一方游戏工作室 Stadia，其总监 Jade Raymond 今天向外确认新的路向，就是获得了 PlayStation 的支持自组独立工作室 Haven，而且已经在为 PlayStation 主机平台制作新游戏。", 
+  "title": "前 Google Stadia 总监获 PlayStation 支持开发新游戏"
+ }, 
+ {
+  "date": "Wed, 17 Mar 2021 08:00:13 +0000", 
+  "link": "https://cn.engadget.com/animal-crossing-new-horizons-spring-2021-update-080013668.html", 
+  "description": "《集合啦！动物森友会》将于 3 月 18 日迎来一周年更新，包含愚人节、复活节等季节性活动，以及改进后的「我的设计」和限时的「观光导览制作站」功能。", 
+  "title": "《集合啦！动物森友会》将于 3 月 18 日迎来一周年更新"
+ }, 
+ {
+  "date": "Wed, 17 Mar 2021 06:30:57 +0000", 
+  "link": "https://cn.engadget.com/dell-xps-aurora-desktop-intel-11-th-gen-063057395.html", 
+  "description": "在英特尔公布了第 11 代 Core i 桌机处理器后不久，戴尔便对旗下的外星人 Aurora R12 和 XPS 桌机进行了相应的更新。", 
+  "title": "戴尔为外星人和 XPS 桌机换上英特尔第 11 代处理器"
+ }, 
+ {
+  "date": "Wed, 17 Mar 2021 05:00:47 +0000", 
+  "link": "https://cn.engadget.com/ex-sham-shui-po-service-reservoir-in-360-050047811-050047999.html", 
+  "description": "水务署为主教山配水库（官方名称为前深水埗配水库）制作了一个 360 度虚拟导赏网页，让大众可以安坐家中就能欣赏这个用上红砖、花岗岩等材料，以仿罗马式建造的香港古迹。与此同时，网页上还整理了配水库的历史资料，包括建筑特色和使用历史呢。", 
+  "title": "360 度虚拟导赏团：游览香港罕有仿罗马式建筑古迹「主教山配水库」"
+ }, 
+ {
+  "date": "Wed, 17 Mar 2021 04:19:20 +0000", 
+  "link": "https://cn.engadget.com/huawei-5g-patent-licensing-041920140.html", 
+  "description": "华为宣布将对 5G 专利收取使用费，显然在美国禁令打压下，原本交换专利授权的模式就需要做出改变了。", 
+  "title": "华为将向手机厂商收取 5G 专利使用费"
+ }, 
+ {
+  "date": "Wed, 17 Mar 2021 02:45:22 +0000", 
+  "link": "https://cn.engadget.com/intel-11-th-gen-desktop-cpus-rocket-lake-s-024522458.html", 
+  "description": "英特尔在一月初时已经预告过了代号 Rocket Lake S 的第 11 代 Core i 桌机处理器，今天则是该系列的正式发布，并且公开了所有的 SKU。此次的发布主要先集中在高端的处理器上，提供由 Core i5 到 i9 共 19 颗新芯片，而 i3 以下则是暂时先以更新第十代处理器（Comet Lake），稍微增加时脉的方式进行。", 
+  "title": "英特尔的 11 代 Core i 处理器力求吸引玩家的目光"
+ }, 
+ {
+  "date": "Wed, 17 Mar 2021 01:00:37 +0000", 
+  "link": "https://cn.engadget.com/apples-watch-and-air-pods-are-dominating-the-wearable-market-010037563.html", 
+  "description": "IDC 公布去年 Q4 可穿戴市场出货量报告，他们估计苹果占到了 36.2% 的市场份额，Apple Watch 和 AirPods 系列隔年增长达 27%。", 
+  "title": "IDC：苹果在购物季统治了可穿戴市场"
+ }, 
+ {
+  "date": "Tue, 16 Mar 2021 14:43:36 +0000", 
+  "link": "https://cn.engadget.com/google-nest-hub-2nd-gen-sleep-tracking-motion-sensing-144336188.html", 
+  "description": "时隔三年后，Google 终于推出了新一代的 Nest Hub，其主打的是依靠 Soli 雷达探测运动，从而记录用户睡眠状态的功能，目前已在美国预售，价格是 100 美元。", 
+  "title": "Google 新一代的 Nest Hub 能靠雷达来记录你的睡眠状态"
+ }, 
+ {
+  "date": "Tue, 16 Mar 2021 13:00:36 +0000", 
+  "link": "https://cn.engadget.com/vivo-iqoo-neo5-snapdragon-870-130036705.html", 
+  "description": "iQOO Neo5 正式发布，它搭载了骁龙 870 芯片，同时配备有 120Hz AMOLED 屏幕，并支持 66W 有线充电，售价 2,699 元起。", 
+  "title": "iQOO Neo5 是一款力求均衡的骁龙 870 新机"
+ }, 
+ {
+  "date": "Tue, 16 Mar 2021 12:00:39 +0000", 
+  "link": "https://cn.engadget.com/logitechs-first-in-ear-gaming-headphones-cost-50-120039186.html", 
+  "description": "G333 严格来说不是个全新的产品（也不是新的型号），之前曾以 Oculus Quest 2 专用的 G333 VR 的身份亮相，G333 则是较为通用的型号，主要是增加了线控和麦克风，提供播放、暂停及音量控制的功能。", 
+  "title": "罗技推出首款入耳式游戏耳机 G333"
+ }, 
+ {
+  "date": "Tue, 16 Mar 2021 10:30:15 +0000", 
+  "link": "https://cn.engadget.com/amazon-warehouse-worker-fc-games-expansion-103015329.html", 
+  "description": "几年前，华盛顿邮报曾报导过亚马逊的一个仓库试图将工作「游戏化」，引入一些社交游戏的元素。这个实验似乎取得了一定的成功，据 The Information 的报导，亚马逊将「大幅度」扩大这个名为 FC Games 的计划到全美 20 个州的仓库，不意外地在员工间引发正反两极的反应。", 
+  "title": "亚马逊将捡货仓库的「小游戏」扩大到 20 个州的设施"
+ }
+]
