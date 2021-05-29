@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Sat, 29 May 2021 02:00:13 +0000", 
+  "link": "https://cn.engadget.com/apple-m-1-vulnerability-covert-channel-malware-020013581.html", 
+  "description": "据开发者 Hector Martin 的发现，苹果的 M1 芯片有一个不重新设计就无法修补的安全性漏洞。不过这个漏洞主要是让两个恶意的 app 间可以不被发现地隐密沟通，但相较之下如果你的装置上已经有恶意软件的话，显然恶意软件是怎麽进来的问题还要严重得多了。", 
+  "title": "苹果的 M1 芯片有个无法补上的安全性漏洞， 但也很难造成伤害就是了"
+ }
+]
