@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Sun, 20 Jun 2021 10:05:01 +0000", 
+  "link": "https://cn.engadget.com/iphone-wifi-network-name-bug-100501760.html", 
+  "description": "如果你是 iPhone 的用户，且发现一个名叫「%p%s%s%s%s%n」的 Wi-Fi 热点的话，可千万不要点击加入了。据 BleepingComputer 引述一位安全研究专家 Carl Schou 的发现，iOS 装置在连接这个 SSID 的 Wi-Fi 网络时，不仅会无法连线，还会导致 Wi-Fi 机能「错乱」，要重置网络设定才能恢復。", 
+  "title": "iPhone 被发现连接特定名称的热点时，可以让 Wi-Fi 停摆"
+ }
+]
