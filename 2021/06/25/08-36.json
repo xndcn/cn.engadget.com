@@ -1,0 +1,14 @@
+[
+ {
+  "date": "Fri, 25 Jun 2021 08:30:01 +0000", 
+  "link": "https://cn.engadget.com/instagram-tests-desktop-posting-083001950.html", 
+  "description": "Instagram 正在测试通过桌面浏览器发帖的功能，体验跟 app 分别不大。", 
+  "title": "Instagram 正测试桌面浏览器发帖功能"
+ }, 
+ {
+  "date": "Fri, 25 Jun 2021 08:20:12 +0000", 
+  "link": "https://cn.engadget.com/intel-bridge-windows-11-android-apps-082012029.html", 
+  "description": "在记者会结束后不久，英特尔就为我们补上了 Bridge 技术的说明。它是个执行阶段后编译器（runtime post-complier），让原本为各种不同硬体平台所撰写的程式，能原生在 X86 平台上运行。", 
+  "title": "英特尔的 Bridge 技术是 Windows 11 能原生执行 Android app 的幕后功臣"
+ }
+]
