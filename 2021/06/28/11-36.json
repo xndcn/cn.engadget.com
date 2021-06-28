@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Mon, 28 Jun 2021 11:30:49 +0000", 
+  "link": "https://cn.engadget.com/microsoft-signed-netfilter-malware-driver-083049376.html", 
+  "description": "作业系统开发者为了保证软件的安全性，一般会提供代码签名作证明，最近微软发生的事情就可能无意间损害了用家对这个方法的印象。 BleepingComputer 指微软确认他们认证了第三方驱动程序 Netfliter，其后网路安全研究员 Karsten Hahn 在数日前发现，Netfilter 藏有在游戏社群内流传的恶意软件 rootkit，并连接到位于中国的恶意软体控制服务器，但在这个情况下依然受到了 Windows 硬件兼容性计划的认可。", 
+  "title": "微软对一个含有恶意软体的驱动程序发出了代码签名"
+ }
+]
