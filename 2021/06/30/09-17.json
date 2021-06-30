@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Wed, 30 Jun 2021 09:10:17 +0000", 
+  "link": "https://cn.engadget.com/western-digital-my-book-live-factory-reset-two-vulnerabilities-091017728.html", 
+  "description": "WD 的 My Book Live 及 My Book Live Duo 两款个人云端储存装置（NAS） 的用户，早前发现自己装置上的资料竟然一夕之间被抹除了。官方将其怪罪于先前一个代号 CVE-2021-35941 的漏洞，但由 Ars Technica 和安全司 Censys 的 CTO Derek Abdine 所共同进行的调查揭露，其实资料被抹除是因为一个名为「system_factory_restore」的档案中，有着没有被发现的另一个漏洞。", 
+  "title": "骇客利用漏洞在远端抹除了 WD NAS 上的数据"
+ }
+]
