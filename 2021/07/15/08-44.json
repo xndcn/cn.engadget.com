@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Thu, 15 Jul 2021 08:30:57 +0000", 
+  "link": "https://cn.engadget.com/windows-365-cloud-virtual-pc-083057014.html", 
+  "description": "微软稍早时在 Microsoft Inspire 发表了一个新的云端虚拟桌面服务「Windows 365」。它基本上就是个设置极为简单的云端虚拟机器，让用户可以由 PC、Mac、iPad、Linux 或 Android 装置等任何地方，连线到云端的 Windows 10（之后会是 Windows 11）桌面。和微软现有的 Azure Virtual Desktop 相比，Windows 365 服务主要的差异是它的采订阅制而非计时制，且 Windows 365 提供了更简易的管理工具，让没有太多 IT 经验的中小企业也能轻易使用。", 
+  "title": "微软推出「Windows 365」，一个订阅制的云 Windows 10 PC 服务"
+ }
+]
